@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-10-25T20:17:00Z",
+ "aggiornato": "2026-10-26T11:32:56Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-10-26T11:32:56Z",
+   "nuovi": 5
+  },
   {
    "quando": "2026-10-25T20:17:00Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-18T20:16:43Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-18T19:10:52Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -150,14 +150,14 @@
    "nome": "VI Commissione Finanze",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
    "ok": true,
-   "trovati": 547
+   "trovati": 549
   },
   {
    "id": "comm8",
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1598
+   "trovati": 1601
   },
   {
    "id": "comm10",
@@ -168,6 +168,101 @@
   }
  ],
  "voci": [
+  {
+   "id": "c-59ae3ed4621226",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Utilitalia - emendamenti",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale del Commissario unico per la realizzazione degli interventi necessari all'adeguamento alla normativa vigente per le discariche abusive presenti sul territorio nazionale, Gen. D. Giuseppe Vadalà, di rappresentanti di Confcooperative, di rappresentanti di Erion, in videoconferenza, di rappresentanti di Utilitalia, nell'ambito dell'esame, in sede referente, del disegno di legge C. 3133, di conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia ",
+   "seduta": "Seduta del 21/10/2026",
+   "data": "2026-10-26",
+   "ora": "12:06",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.103339.26-10-2026-12-06-36.347.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-26T11:32:56Z"
+  },
+  {
+   "id": "c-9ae9359d6e34f8",
+   "fonte": "commissione",
+   "organo": "VI Finanze",
+   "commissioni": [
+    "VI"
+   ],
+   "materia": "Economico",
+   "titolo": "Contributo scritto IVASS Istituto per la vigilanza sulle assicurazioni",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 443 - Schema di decreto legislativo recante recepimento della direttiva (UE) 2025/2 del Parlamento europeo e del Consiglio, del 27 novembre 2024, che modifica la direttiva 2009/138/CE, per quanto concerne la proporzionalità, la qualità della vigilanza, l'informativa, le misure relative alle garanzie a lungo termine, gli strumenti macroprudenziali, i rischi di sostenibilità e la vigilanza transfrontaliera e di gruppo, e le direttive 2002/87/CE e 2013/34/UE (443)",
+   "seduta": "",
+   "data": "2026-10-26",
+   "ora": "11:34",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM06/AttodelGoverno/leg19.com06.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.101465.26-10-2026-11-34-24.936.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
+   "atto": "A.G. 443",
+   "visto": "2026-10-26T11:32:56Z"
+  },
+  {
+   "id": "c-9f52fb114d9b23",
+   "fonte": "commissione",
+   "organo": "VI Finanze",
+   "commissioni": [
+    "VI"
+   ],
+   "materia": "Economico",
+   "titolo": "Contributo scritto ANIA Associazione nazionale fra le imprese assicuratrici (AG. 443)",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 443 - Schema di decreto legislativo recante recepimento della direttiva (UE) 2025/2 del Parlamento europeo e del Consiglio, del 27 novembre 2024, che modifica la direttiva 2009/138/CE, per quanto concerne la proporzionalità, la qualità della vigilanza, l'informativa, le misure relative alle garanzie a lungo termine, gli strumenti macroprudenziali, i rischi di sostenibilità e la vigilanza transfrontaliera e di gruppo, e le direttive 2002/87/CE e 2013/34/UE (443)",
+   "seduta": "",
+   "data": "2026-10-26",
+   "ora": "11:33",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM06/AttodelGoverno/leg19.com06.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.101465.26-10-2026-11-33-06.348.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
+   "atto": "A.G. 443",
+   "visto": "2026-10-26T11:32:56Z"
+  },
+  {
+   "id": "c-bd12506b3bb49c",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Confartigianato_CNA",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3133 - \"Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche\" (3133)",
+   "seduta": "",
+   "data": "2026-10-26",
+   "ora": "10:17",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Progettodilegge/leg19.com08.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.102255.26-10-2026-10-17-46.416.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-26T11:32:56Z"
+  },
+  {
+   "id": "c-3a19b69085d6bf",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Associazione Rete Italiana LCA",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti di SPRING - Sustainable Processes and Resources for Innovation and National Growth, in videoconferenza, di rappresentanti dell'Associazione nazionale piccoli comuni d'Italia (ANPCI), in videoconferenza, di rappresentanti dell'Associazione Rete Italiana LCA, in videoconferenza, di rappresentanti di RemTech Expo, di rappresentanti dell'Alleanza italiana per lo sviluppo sostenibile (AsviS), in videoconferenza, di rappresentanti della Rete professioni tecniche (RPT), in videoconferenza, di rappresentanti del Consorzio nazionale per la raccolta, il riciclo e il",
+   "seduta": "Seduta del 20/10/2026",
+   "data": "2026-10-26",
+   "ora": "09:05",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.103321.26-10-2026-09-05-37.388.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-26T11:32:56Z"
+  },
   {
    "id": "c-2efc9c92104552",
    "fonte": "commissione",
