@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-10-26T11:32:56Z",
+ "aggiornato": "2026-10-26T18:42:34Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-10-26T18:42:34Z",
+   "nuovi": 12
+  },
   {
    "quando": "2026-10-26T11:32:56Z",
    "nuovi": 5
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-19T11:25:38Z",
    "nuovi": 3
-  },
-  {
-   "quando": "2026-10-18T20:16:43Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -157,7 +157,7 @@
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1601
+   "trovati": 1606
   },
   {
    "id": "comm10",
@@ -168,6 +168,198 @@
   }
  ],
  "voci": [
+  {
+   "id": "c-4291e6e725e805",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "CONAI",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti di SPRING - Sustainable Processes and Resources for Innovation and National Growth, in videoconferenza, di rappresentanti dell'Associazione nazionale piccoli comuni d'Italia (ANPCI), in videoconferenza, di rappresentanti dell'Associazione Rete Italiana LCA, in videoconferenza, di rappresentanti di RemTech Expo, di rappresentanti dell'Alleanza italiana per lo sviluppo sostenibile (AsviS), in videoconferenza, di rappresentanti della Rete professioni tecniche (RPT), in videoconferenza, di rappresentanti del Consorzio nazionale per la raccolta, il riciclo e il",
+   "seduta": "Seduta del 20/10/2026",
+   "data": "2026-10-26",
+   "ora": "19:00",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.103321.26-10-2026-19-00-30.134.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-26T18:42:34Z"
+  },
+  {
+   "id": "c-d9dc6eb1f5a572",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "CORIPET",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti di SPRING - Sustainable Processes and Resources for Innovation and National Growth, in videoconferenza, di rappresentanti dell'Associazione nazionale piccoli comuni d'Italia (ANPCI), in videoconferenza, di rappresentanti dell'Associazione Rete Italiana LCA, in videoconferenza, di rappresentanti di RemTech Expo, di rappresentanti dell'Alleanza italiana per lo sviluppo sostenibile (AsviS), in videoconferenza, di rappresentanti della Rete professioni tecniche (RPT), in videoconferenza, di rappresentanti del Consorzio nazionale per la raccolta, il riciclo e il",
+   "seduta": "Seduta del 20/10/2026",
+   "data": "2026-10-26",
+   "ora": "18:56",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.103321.26-10-2026-18-56-01.948.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-26T18:42:34Z"
+  },
+  {
+   "id": "c-412da05d9ec187",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "CONOE",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3133 - \"Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche\" (3133)",
+   "seduta": "",
+   "data": "2026-10-26",
+   "ora": "17:27",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Progettodilegge/leg19.com08.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.102255.26-10-2026-17-27-50.702.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-26T18:42:34Z"
+  },
+  {
+   "id": "c-9decb2c51debd1",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Alleanza per il Fotovoltaico",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3133 - \"Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche\" (3133)",
+   "seduta": "",
+   "data": "2026-10-26",
+   "ora": "14:59",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Progettodilegge/leg19.com08.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.102255.26-10-2026-14-59-34.906.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-26T18:42:34Z"
+  },
+  {
+   "id": "c-6f1e3320ad16c2",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Asl Napoli 2 Nord",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3133 - \"Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche\" (3133)",
+   "seduta": "",
+   "data": "2026-10-26",
+   "ora": "13:45",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Progettodilegge/leg19.com08.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.102255.26-10-2026-13-45-05.117.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-26T18:42:34Z"
+  },
+  {
+   "id": "c-edb5ddc4470e04",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "ASSORIMAP",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3133 - \"Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche\" (3133)",
+   "seduta": "",
+   "data": "2026-10-26",
+   "ora": "13:45",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Progettodilegge/leg19.com08.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.102255.26-10-2026-13-45-05.202.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-26T18:42:34Z"
+  },
+  {
+   "id": "d-OCD18-23742",
+   "fonte": "dossier",
+   "organo": "Studi - Istituzioni",
+   "materia": "",
+   "titolo": "Misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale \"EURO 5\"",
+   "tipo": "Elementi per la valutazione degli aspetti di legittimità costituzionale",
+   "data": "2026-10-26",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23742/misure-urgenti-circolazione-veicoli-ad-alimentazione-diesel-appartenenti-alla-categoria-ambientale-euro-5.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-26T18:42:34Z"
+  },
+  {
+   "id": "d-OCD18-23743",
+   "fonte": "dossier",
+   "organo": "Studi - Istituzioni",
+   "materia": "",
+   "titolo": "Modifica al decreto legislativo 3 aprile 2006, n. 152, in materia di consorzi di gestione e tutela del territorio e delle acque irrigue",
+   "tipo": "Elementi per la valutazione degli aspetti di legittimità costituzionale",
+   "data": "2026-10-26",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23743/modifica-al-decreto-legislativo-3-aprile-2006-n-152-materia-consorzi-gestione-e-tutela-del-territorio-e-acque-irrigue.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-26T18:42:34Z"
+  },
+  {
+   "id": "d-OCD18-23768",
+   "fonte": "dossier",
+   "organo": "Studi - Istituzioni",
+   "materia": "",
+   "titolo": "Modifiche al Codice dell'ambiente in materia di detenzione e commercializzazione delle borse di plastica",
+   "tipo": "Elementi per la valutazione degli aspetti di legittimità costituzionale",
+   "data": "2026-10-26",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23768/modifiche-al-codice-ambiente-materia-detenzione-e-commercializzazione-borse-plastica.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-26T18:42:34Z"
+  },
+  {
+   "id": "d-OCD18-23741",
+   "fonte": "dossier",
+   "organo": "Studi - Istituzioni",
+   "materia": "",
+   "titolo": "Disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
+   "tipo": "Elementi per la valutazione degli aspetti di legittimità costituzionale",
+   "data": "2026-10-26",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23741/disposizioni-urgenti-materia-prezzi-petroliferi-connessi-al-protrarsi-della-nuova-crisi-mercati-internazionali-e-infrastrutture-e.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-26T18:42:34Z"
+  },
+  {
+   "id": "d-OCD18-23730",
+   "fonte": "dossier",
+   "organo": "Studi - Istituzioni",
+   "materia": "",
+   "titolo": "Schema di decreto legislativo recante disposizioni per l'adeguamento della normativa nazionale al regolamento (UE) 2024/2847 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, relativo a requisiti orizzontali di cibersicurezza per i prodotti con elementi digitali e che modifica i regolamenti (UE) n. 168/2013 e (UE) 2019/1020 e la direttiva (UE) 2020/1828 (regolamento sulla ciberresilienza)",
+   "tipo": "Schede di lettura",
+   "data": "2026-10-26",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23730/schema-decreto-legislativo-recante-disposizioni-l-adeguamento-della-normativa-nazionale-al-regolamento-ue-2024-2847-del-parlamento.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-10-26T18:42:34Z"
+  },
+  {
+   "id": "d-OCD18-23787",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare l’ecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724",
+   "tipo": "",
+   "data": "2026-10-26",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23787/schema-decreto-legislativo-recante-adeguamento-della-normativa-nazionale-alle-disposizioni-del-regolamento-ue-2024-1735-del.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-26T18:42:34Z"
+  },
   {
    "id": "c-59ae3ed4621226",
    "fonte": "commissione",
@@ -650,7 +842,7 @@
    "titolo": "Disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
    "tipo": "Elementi di valutazione sulla qualità del testo e su specificità, omogeneità e limiti di contenuto del decreto-legge",
    "data": "2026-10-21",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23767/disposizioni-urgenti-materia-prezzi-petroliferi-connessi-al-protrarsi-della-nuova-crisi-mercati-internazionali-e-infrastrutture-e.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23767/disposizioni-urgenti-materia-prezzi-petroliferi-connessi-al-protrarsi-della-nuova-crisi-mercati-internazionali-e-infrastrutture-e-1.html",
    "atto": "",
    "senato": false,
    "visto": "2026-10-21T18:33:45Z"
@@ -931,7 +1123,7 @@
    "titolo": "Disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
    "tipo": "Schede di lettura",
    "data": "2026-10-19",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23757/disposizioni-urgenti-materia-prezzi-petroliferi-connessi-al-protrarsi-della-nuova-crisi-mercati-internazionali-e-infrastrutture-e-1.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23757/disposizioni-urgenti-materia-prezzi-petroliferi-connessi-al-protrarsi-della-nuova-crisi-mercati-internazionali-e-infrastrutture-e-2.html",
    "atto": "",
    "senato": true,
    "visto": "2026-10-19T18:32:44Z"
@@ -1659,7 +1851,7 @@
    "titolo": "Disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
    "tipo": "Schede di lettura",
    "data": "2026-10-14",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23740/disposizioni-urgenti-materia-prezzi-petroliferi-connessi-al-protrarsi-della-nuova-crisi-mercati-internazionali-e-infrastrutture-e-2.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23740/disposizioni-urgenti-materia-prezzi-petroliferi-connessi-al-protrarsi-della-nuova-crisi-mercati-internazionali-e-infrastrutture-e-3.html",
    "atto": "",
    "senato": false,
    "visto": "2026-10-14T18:31:36Z"

@@ -1,14 +1,253 @@
 {
   "date": "2026-10-26",
   "giorno": "lunedì",
-  "updatedAt": "2026-10-26T11:32:52Z",
+  "updatedAt": "2026-10-26T18:41:52Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "con_schede",
   "numero_gu": "249",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-10-26&numeroGazzetta=249",
-  "schede": [],
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/10/26/249/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 26 ottobre 2026 presenta due leggi di rilievo: l'istituzione di una Giornata nazionale per il riciclo della carta, che rafforza l'impegno per l'economia circolare, e la conversione di un decreto-legge che introduce modifiche significative alle garanzie finanziarie per le imprese in stato di insolvenza, con particolare impatto sulla gestione degli impianti di trattamento rifiuti. Sono inoltre presenti diversi atti amministrativi di interesse economico e ambientale.",
+  "schede": [
+    {
+      "codice_atto": "26G00211",
+      "titolo": "Istituzione della Giornata nazionale del riciclo della carta",
+      "riferimento": "LEGGE 15 ottobre 2026, n. 195",
+      "categoria": "Energia e Ambiente",
+      "iter": "In vigore dal 10 novembre 2026",
+      "contesto": "La legge istituisce una giornata nazionale dedicata al riciclo della carta per sensibilizzare sull'importanza dell'economia circolare e della sostenibilità ambientale.",
+      "misure": [
+        "Art. 1, comma 1: Istituisce il 18 settembre come Giornata nazionale del riciclo della carta, con l'obiettivo di promuovere la cultura del risparmio delle risorse naturali, la riduzione degli sprechi e la diffusione di stili di vita sostenibili per lo sviluppo dell'economia circolare.",
+        "Art. 1, comma 2: La Giornata nazionale non determina gli effetti civili di cui alla legge 27 maggio 1949, n. 260.",
+        "Art. 2, comma 1: In occasione della Giornata nazionale, possono essere organizzati incontri e iniziative dedicati alla promozione del riciclo della carta.",
+        "Art. 2, comma 2: Il Ministro dell'ambiente e della sicurezza energetica assicura il coordinamento delle iniziative, coinvolgendo altri Ministri, istituzioni, il Consorzio nazionale recupero e riciclo degli imballaggi a base cellulosica, associazioni di categoria del settore cartario e cartotecnico, ed enti locali, nell'ambito di eventi consolidati come il festival «Cortile di Francesco», la manifestazione «Paper week», la Mostra internazionale dell’industria cartaria e il «Pianeta Terra Festival».",
+        "Art. 3, comma 1: Le amministrazioni provvedono agli adempimenti previsti dalla legge con risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica."
+      ],
+      "chi_interessato": "Cittadini, scuole, enti locali, Ministero dell'ambiente e della sicurezza energetica, Consorzio nazionale recupero e riciclo degli imballaggi a base cellulosica, associazioni di categoria del settore cartario e cartotecnico.",
+      "decorrenza": "10 novembre 2026",
+      "perche_conta": "Promuove la consapevolezza e l'educazione civica sui temi del riciclo e dell'economia circolare, rafforzando l'impegno nazionale verso la sostenibilità ambientale senza nuovi oneri finanziari.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26G00211/sg",
+      "vigore": "10/11/2026"
+    },
+    {
+      "codice_atto": "26G00212",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di imprese in stato di insolvenza",
+      "riferimento": "LEGGE 23 ottobre 2026, n. 196",
+      "categoria": "Economico",
+      "iter": "In vigore dal 27 ottobre 2026. Converte il decreto-legge 28 agosto 2026, n. 154.",
+      "contesto": "La legge converte con modificazioni il decreto-legge n. 154 del 2026, originariamente focalizzato su impianti strategici, estendendo l'ambito di applicazione a tutte le imprese in stato di insolvenza e modificando le disposizioni relative alle garanzie finanziarie per la gestione dei rifiuti.",
+      "misure": [
+        "Art. 1, comma 1: Il decreto-legge 28 agosto 2026, n. 154, è convertito in legge con le modificazioni riportate in allegato.",
+        "Allegato: All'articolo 1 del decreto-legge, al comma 1, capoverso g), sono soppresse le parole 'che gestiscono almeno un impianto dichiarato di interesse strategico nazionale ai sensi dell’articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231,'.",
+        "Allegato: La rubrica dell'articolo 1 del decreto-legge è sostituita dalla seguente: 'Disposizioni in materia di imprese in stato di insolvenza'.",
+        "Allegato: Nel titolo del decreto-legge, le parole 'di impianti di interesse strategico nazionale' sono sostituite dalle seguenti: 'di imprese in stato di insolvenza'."
+      ],
+      "chi_interessato": "Imprese in stato di insolvenza, in particolare quelle che gestiscono impianti di smaltimento o recupero rifiuti, Ministero delle Imprese e del Made in Italy, Ministero dell'Ambiente e della Sicurezza Energetica.",
+      "decorrenza": "27 ottobre 2026",
+      "perche_conta": "La legge estende le misure di continuità operativa a tutte le imprese in stato di insolvenza, non solo quelle con impianti strategici, e modifica le modalità di prestazione delle garanzie finanziarie per la gestione dei rifiuti, con impatti significativi sulla gestione delle procedure concorsuali e sulla tutela ambientale.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26G00212/sg",
+      "vigore": "27/10/2026"
+    },
+    {
+      "codice_atto": "26A05664",
+      "titolo": "Testo coordinato del decreto-legge 28 agosto 2026, n. 154, recante: «Misure urgenti per assicurare la continuità operativa di imprese in stato di insolvenza.»",
+      "riferimento": "TESTO COORDINATO DEL - DECRETO-LEGGE 28 agosto 2026, n. 154",
+      "categoria": "Economico",
+      "iter": "In vigore dal 27 ottobre 2026 (le modifiche apportate dalla legge di conversione).",
+      "contesto": "Il testo coordinato integra le modifiche apportate dalla legge di conversione 23 ottobre 2026, n. 196, al decreto-legge n. 154 del 2026, che disciplina le misure urgenti per la continuità operativa delle imprese in stato di insolvenza, con particolare riguardo alle garanzie finanziarie per la gestione dei rifiuti.",
+      "misure": [
+        "Art. 1, comma 1, lettera g) del D.Lgs. 152/2006 (modificato): Per le società ammesse alla procedura di amministrazione straordinaria ai sensi del decreto-legge 23 dicembre 2003, n. 347, le garanzie finanziarie richieste per gli impianti di smaltimento e recupero rifiuti, comprese quelle per la gestione delle discariche, possono essere prestate su base annuale e per una durata non inferiore a un anno, anche se l'autorizzazione o il periodo di gestione autorizzato ha durata superiore. Tale garanzia è considerata conforme ai requisiti di legge per il relativo periodo di efficacia. Resta fermo che nessuna attività di discarica può essere effettuata in mancanza della predetta garanzia finanziaria."
+      ],
+      "chi_interessato": "Società in amministrazione straordinaria che gestiscono impianti di smaltimento o recupero rifiuti, enti preposti al rilascio delle autorizzazioni ambientali e alla gestione delle garanzie finanziarie.",
+      "decorrenza": "27 ottobre 2026 (per le modifiche introdotte dalla legge di conversione)",
+      "perche_conta": "Fornisce un quadro normativo aggiornato e consolidato sulle disposizioni relative alle garanzie finanziarie per le imprese in stato di insolvenza che operano nel settore dei rifiuti, facilitando la continuità operativa e la gestione delle procedure di amministrazione straordinaria, pur mantenendo la tutela ambientale.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05664/sg"
+    }
+  ],
   "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "altri_atti": [
+    {
+      "codice_atto": "26A05586",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 17 settembre 2026 Rettifica del decreto 28 dicembre 2022, riguardante la riduzione delle risorse finanziarie a qualsiasi titolo spettanti a taluni comuni della Provincia di Bergamo, a seguito del trasferimento in proprieta', a titolo gratuito, di beni immobili statali negli anni 2015 e 2016.",
+      "sintesi": "Rettifica un precedente decreto relativo alla riduzione di risorse finanziarie per alcuni comuni della Provincia di Bergamo, a seguito del trasferimento gratuito di beni immobili statali.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05586/sg"
+    },
+    {
+      "codice_atto": "26A05589",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 15 ottobre 2026 Liquidazione coatta amministrativa della «Servizi Generali societa' cooperativa», in Aprilia e nomina del commissario liquidatore.",
+      "sintesi": "Dispone la liquidazione coatta amministrativa della 'Servizi Generali società cooperativa' di Aprilia e nomina il relativo commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05589/sg"
+    },
+    {
+      "codice_atto": "26A05590",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 15 ottobre 2026 Liquidazione coatta amministrativa della «Domus societa' cooperativa edilizia in liquidazione», in Castelluccio Inferiore e nomina del commissario liquidatore.",
+      "sintesi": "Dispone la liquidazione coatta amministrativa della 'Domus società cooperativa edilizia in liquidazione' di Castelluccio Inferiore e nomina il relativo commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05590/sg"
+    },
+    {
+      "codice_atto": "26A05583",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI - DELIBERA 15 ottobre 2026 Misura delle quote dovute dalle imprese di autotrasporto per l'anno 2027. (Delibera n. 8).",
+      "sintesi": "Stabilisce le quote che le imprese di autotrasporto devono versare per l'anno 2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05583/sg"
+    },
+    {
+      "codice_atto": "26A05565",
+      "categoria": "Economico",
+      "titolo": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 FSC 2007-2013. Ricognizione del rispetto dei termini per l'assunzione dell'obbligazione giuridicamente vincolante degli interventi finanziati con delibere CIPE n. 99 del 2015, n. 101 del 2015, n. 57 del 2016, n. 97 del 2017 e n. 19 del 2018. (Delibera n. 29/2026).",
+      "sintesi": "Effettua una ricognizione sul rispetto dei termini per l'assunzione delle obbligazioni giuridicamente vincolanti relative a interventi finanziati con il Fondo Sviluppo e Coesione (FSC) 2007-2013.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05565/sg"
+    },
+    {
+      "codice_atto": "26A05587",
+      "categoria": "Economico",
+      "titolo": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 FSC 2014-2020 e precedenti: Piani sviluppo e coesione (PSC) Regione Abruzzo e Regione autonoma Valle d'Aosta. Attuazione dell'articolo 242, comma 5, del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77. FSC 2021-2027: incremento dell'imputazione programmatica in favore della Regione Abruzzo e della Regione autonoma Valle d'Aosta. (Delibera n. 34/2026).",
+      "sintesi": "Dispone l'attuazione di misure relative ai Piani Sviluppo e Coesione (PSC) per le Regioni Abruzzo e Valle d'Aosta, con un incremento dell'imputazione programmatica per il FSC 2021-2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05587/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00211",
+      "titolo": "LEGGE 15 ottobre 2026, n. 195 Istituzione della Giornata nazionale del riciclo della carta.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26G00211/sg",
+      "tipo": "LEGGE",
+      "vigore": "10/11/2026"
+    },
+    {
+      "codice": "26G00212",
+      "titolo": "LEGGE 23 ottobre 2026, n. 196 Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuita' operativa di impianti di interesse strategico nazionale.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26G00212/sg",
+      "tipo": "LEGGE",
+      "vigore": "27/10/2026"
+    },
+    {
+      "codice": "26A05584",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 15 ottobre 2026 Istituzione e inserimento del bosco vetusto «Falascone» nella Rete nazionale dei boschi vetusti d'Italia.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05584/sg"
+    },
+    {
+      "codice": "26A05585",
+      "titolo": "DECRETO 15 ottobre 2026 Istituzione e inseguimento del bosco vetusto «Pavari» e suo inserimento nella Rete nazionale dei boschi vetusti d'Italia.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05585/sg"
+    },
+    {
+      "codice": "26A05586",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 17 settembre 2026 Rettifica del decreto 28 dicembre 2022, riguardante la riduzione delle risorse finanziarie a qualsiasi titolo spettanti a taluni comuni della Provincia di Bergamo, a seguito del trasferimento in proprieta', a titolo gratuito, di beni immobili statali negli anni 2015 e 2016.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05586/sg"
+    },
+    {
+      "codice": "26A05589",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 15 ottobre 2026 Liquidazione coatta amministrativa della «Servizi Generali societa' cooperativa», in Aprilia e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05589/sg"
+    },
+    {
+      "codice": "26A05590",
+      "titolo": "DECRETO 15 ottobre 2026 Liquidazione coatta amministrativa della «Domus societa' cooperativa edilizia in liquidazione», in Castelluccio Inferiore e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05590/sg"
+    },
+    {
+      "codice": "26A05583",
+      "titolo": "MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI - DELIBERA 15 ottobre 2026 Misura delle quote dovute dalle imprese di autotrasporto per l'anno 2027. (Delibera n. 8).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05583/sg"
+    },
+    {
+      "codice": "26A05565",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 FSC 2007-2013. Ricognizione del rispetto dei termini per l'assunzione dell'obbligazione giuridicamente vincolante degli interventi finanziati con delibere CIPE n. 99 del 2015, n. 101 del 2015, n. 57 del 2016, n. 97 del 2017 e n. 19 del 2018. (Delibera n. 29/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05565/sg"
+    },
+    {
+      "codice": "26A05587",
+      "titolo": "DELIBERA 4 agosto 2026 FSC 2014-2020 e precedenti: Piani sviluppo e coesione (PSC) Regione Abruzzo e Regione autonoma Valle d'Aosta. Attuazione dell'articolo 242, comma 5, del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77. FSC 2021-2027: incremento dell'imputazione programmatica in favore della Regione Abruzzo e della Regione autonoma Valle d'Aosta. (Delibera n. 34/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05587/sg"
+    },
+    {
+      "codice": "26A05664",
+      "titolo": "TESTI COORDINATI E AGGIORNATI TESTO COORDINATO DEL - DECRETO-LEGGE 28 agosto 2026, n. 154 Testo del decreto-legge 28 agosto 2026, n. 154 (in Gazzetta Ufficiale - Serie generale - n. 199 del 28 agosto 2026), coordinato con la legge di conversione 23 ottobre 2026, n. 196 (in questa stessa Gazzetta Ufficiale, alla pag. 2), recante: «Misure urgenti per assicurare la continuita' operativa di imprese in stato di insolvenza.».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05664/sg",
+      "tipo": "DECRETO-LEGGE"
+    },
+    {
+      "codice": "26A05561",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di brivaracetam, «Brivaracetam Desitin Pharma».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05561/sg"
+    },
+    {
+      "codice": "26A05562",
+      "titolo": "COMUNICATO Rettifica dell'estratto della determina IP n. 612 del 26 ottobre 2020 di autorizzazione all'importazione parallela del medicinale per uso umano «Tavor».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05562/sg"
+    },
+    {
+      "codice": "26A05563",
+      "titolo": "COMUNICATO Rettifica dell'estratto della determina IP n. 613 del 26 ottobre 2020 di autorizzazione all'importazione parallela del medicinale per uso umano «Tavor».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05563/sg"
+    },
+    {
+      "codice": "26A05564",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Progynova»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05564/sg"
+    },
+    {
+      "codice": "26A05653",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio dei medicinali per uso umano «Kolibri» e «Patrol»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05653/sg"
+    },
+    {
+      "codice": "26A05591",
+      "titolo": "CAMERA DI COMMERCIO DELLE MARCHE - COMUNICATO Provvedimenti concernenti i marchi di identificazione dei metalli preziosi",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05591/sg"
+    },
+    {
+      "codice": "26A05588",
+      "titolo": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO Rilascio di exequatur",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05588/sg"
+    },
+    {
+      "codice": "26A05592",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 1° ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05592/sg"
+    },
+    {
+      "codice": "26A05593",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 2 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05593/sg"
+    },
+    {
+      "codice": "26A05594",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 5 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05594/sg"
+    },
+    {
+      "codice": "26A05595",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 6 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05595/sg"
+    },
+    {
+      "codice": "26A05596",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 7 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05596/sg"
+    },
+    {
+      "codice": "26A05597",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 8 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05597/sg"
+    },
+    {
+      "codice": "26A05598",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 9 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05598/sg"
+    },
+    {
+      "codice": "26A05630",
+      "titolo": "MINISTERO DELLA GIUSTIZIA - COMUNICATO Mancata conversione del decreto-legge 26 agosto 2026, n. 153, recante: «Disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali.».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05630/sg"
+    }
+  ]
 }

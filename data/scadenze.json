@@ -1,5 +1,5 @@
 {
-  "generato": "2026-10-26T11:35:04Z",
+  "generato": "2026-10-26T18:44:10Z",
   "oggi": "2026-10-26",
   "decreti_legge": [
     {
@@ -81,6 +81,49 @@
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/23/26G00216/sg",
       "stato": "in_conversione",
       "giorni_mancanti": 57
+    },
+    {
+      "numero": 154,
+      "anno": 2026,
+      "data_dl": "2026-08-28",
+      "riferimento": "Decreto-legge 28 agosto 2026, n. 154",
+      "titolo": "Misure urgenti per assicurare la continuita' operativa di impianti di interesse strategico nazionale",
+      "pubblicazione": "2026-08-28",
+      "numero_gu": "",
+      "vigore": "",
+      "scadenza": "2026-10-27",
+      "categoria": "",
+      "scheda": null,
+      "link": "",
+      "fuori_archivio": true,
+      "stato": "convertito",
+      "conversione": {
+        "legge": "LEGGE 23 ottobre 2026, n. 196",
+        "data_gu": "2026-10-26",
+        "numero_gu": "249",
+        "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26G00212/sg"
+      },
+      "giorni_mancanti": 1
+    },
+    {
+      "numero": 153,
+      "anno": 2026,
+      "data_dl": "2026-08-26",
+      "riferimento": "Decreto-legge 26 agosto 2026, n. 153",
+      "titolo": "Disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali",
+      "pubblicazione": "",
+      "numero_gu": "",
+      "vigore": "",
+      "scadenza": "",
+      "categoria": "",
+      "scheda": null,
+      "link": "",
+      "fuori_archivio": true,
+      "stato": "non_convertito",
+      "conversione": {
+        "data_gu": "2026-10-26",
+        "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26A05630/sg"
+      }
     },
     {
       "numero": 143,
@@ -259,6 +302,15 @@
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/09/26G00196/sg"
     },
     {
+      "data": "2026-10-27",
+      "riferimento": "LEGGE 23 ottobre 2026, n. 196",
+      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di imprese in stato di insolvenza",
+      "categoria": "Economico",
+      "edizione": "2026-10-26",
+      "scheda": 1,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26G00212/sg"
+    },
+    {
       "data": "2026-10-30",
       "riferimento": "DECRETO LEGISLATIVO 25 settembre 2026, n. 184",
       "titolo": "Recepimento direttive UE per il Punto di Accesso Unico Europeo (ESAP)",
@@ -320,6 +372,15 @@
       "edizione": "2026-10-24",
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/24/26G00210/sg"
+    },
+    {
+      "data": "2026-11-10",
+      "riferimento": "LEGGE 15 ottobre 2026, n. 195",
+      "titolo": "Istituzione della Giornata nazionale del riciclo della carta",
+      "categoria": "Energia e Ambiente",
+      "edizione": "2026-10-26",
+      "scheda": 0,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26G00211/sg"
     }
   ]
 }
