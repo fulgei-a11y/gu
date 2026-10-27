@@ -128,43 +128,43 @@
    "id": "dossier",
    "nome": "Dossier di Camera e Senato",
    "url": "https://temi.camera.it/leg19/dossier.html",
-   "ok": true,
-   "trovati": 60
+   "ok": false,
+   "errore": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "id": "comm2",
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
-   "ok": true,
-   "trovati": 873
+   "ok": false,
+   "errore": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "id": "comm5",
    "nome": "V Commissione Bilancio",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
-   "ok": true,
-   "trovati": 674
+   "ok": false,
+   "errore": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "id": "comm6",
    "nome": "VI Commissione Finanze",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
-   "ok": true,
-   "trovati": 549
+   "ok": false,
+   "errore": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "id": "comm8",
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
-   "ok": true,
-   "trovati": 1611
+   "ok": false,
+   "errore": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
-   "ok": true,
-   "trovati": 1656
+   "ok": false,
+   "errore": "HTTPError: HTTP Error 403: Forbidden"
   }
  ],
  "voci": [
