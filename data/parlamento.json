@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-10-27T11:29:05Z",
+ "aggiornato": "2026-10-27T19:31:27Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-10-27T19:31:27Z",
+   "nuovi": 3
+  },
   {
    "quando": "2026-10-27T11:29:05Z",
    "nuovi": 7
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-20T11:25:05Z",
    "nuovi": 6
-  },
-  {
-   "quando": "2026-10-19T20:26:31Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -128,46 +128,91 @@
    "id": "dossier",
    "nome": "Dossier di Camera e Senato",
    "url": "https://temi.camera.it/leg19/dossier.html",
-   "ok": false,
-   "errore": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "trovati": 60
   },
   {
    "id": "comm2",
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
-   "ok": false,
-   "errore": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "trovati": 873
   },
   {
    "id": "comm5",
    "nome": "V Commissione Bilancio",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
-   "ok": false,
-   "errore": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "trovati": 674
   },
   {
    "id": "comm6",
    "nome": "VI Commissione Finanze",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
-   "ok": false,
-   "errore": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "trovati": 549
   },
   {
    "id": "comm8",
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
-   "ok": false,
-   "errore": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "trovati": 1612
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
-   "ok": false,
-   "errore": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "trovati": 1656
   }
  ],
  "voci": [
+  {
+   "id": "c-4ef2a39fbc9014",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "ANCI",
+   "tipo": "Memoria",
+   "contesto": "Audizioni informali, nell’ambito dell’esame, in sede referente, del disegno di legge C. 3133, di conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche, di rappresentanti di: - Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica - Azienda sanitaria locale Napoli 2 - Autorità di bacino distrettuale dell’Appennino centrale, Autorità di bacino distrettuale dell’Appennino meridionale, Autorità di b",
+   "seduta": "Seduta del 27/10/2026",
+   "data": "2026-10-27",
+   "ora": "14:34",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.103834.27-10-2026-14-34-15.858.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-27T19:31:27Z"
+  },
+  {
+   "id": "d-OCD18-23785",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/1230 del Parlamento europeo e del Consiglio, del 14 giugno 2023, relativo alle macchine e che abroga la direttiva 2006/42/CE del Parlamento europeo e del Consiglio e la direttiva 73/361/CEE del Consiglio",
+   "tipo": "",
+   "data": "2026-10-27",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23785/schema-decreto-legislativo-recante-adeguamento-della-normativa-nazionale-alle-disposizioni-del-regolamento-ue-2023-1230-del.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-27T19:31:27Z"
+  },
+  {
+   "id": "d-OCD18-23777",
+   "fonte": "dossier",
+   "organo": "Studi - Giustizia",
+   "materia": "Giustizia",
+   "titolo": "Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile",
+   "tipo": "Schede di lettura",
+   "data": "2026-10-27",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23777/disposizioni-urgenti-materia-sicurezza-pubblica-e-contrasto-alla-criminalita-minorile.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-10-27T19:31:27Z"
+  },
   {
    "id": "c-d2528ea8769dcc",
    "fonte": "commissione",
