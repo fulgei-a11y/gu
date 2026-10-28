@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-10-28T11:33:38Z",
+ "aggiornato": "2026-10-28T18:42:17Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-10-28T18:42:17Z",
+   "nuovi": 5
+  },
   {
    "quando": "2026-10-28T11:33:38Z",
    "nuovi": 4
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-20T20:23:22Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-20T19:23:53Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -157,17 +157,102 @@
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1614
+   "trovati": 1617
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
-   "trovati": 1657
+   "trovati": 1659
   }
  ],
  "voci": [
+  {
+   "id": "c-a0eecd2bb4539c",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Cnr",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti di SPRING - Sustainable Processes and Resources for Innovation and National Growth, in videoconferenza, di rappresentanti dell'Associazione nazionale piccoli comuni d'Italia (ANPCI), in videoconferenza, di rappresentanti dell'Associazione Rete Italiana LCA, in videoconferenza, di rappresentanti di RemTech Expo, di rappresentanti dell'Alleanza italiana per lo sviluppo sostenibile (AsviS), in videoconferenza, di rappresentanti della Rete professioni tecniche (RPT), in videoconferenza, di rappresentanti del Consorzio nazionale per la raccolta, il riciclo e il",
+   "seduta": "Seduta del 20/10/2026",
+   "data": "2026-10-28",
+   "ora": "17:04",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.103321.28-10-2026-17-04-00.869.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-28T18:42:17Z"
+  },
+  {
+   "id": "c-3bf68634c7a0de",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "UIL",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-10-28",
+   "ora": "14:24",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.28-10-2026-14-24-37.873.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-10-28T18:42:17Z"
+  },
+  {
+   "id": "c-fdc6094b90bae4",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "UIL",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-10-28",
+   "ora": "14:23",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/AttodelGoverno/leg19.com10.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.28-10-2026-14-23-49.723.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-10-28T18:42:17Z"
+  },
+  {
+   "id": "d-OCD18-23771",
+   "fonte": "dossier",
+   "organo": "Studi - Istituzioni",
+   "materia": "",
+   "titolo": "Nuova denominazione della Giornata nazionale in memoria delle vittime dei disastri ambientali e industriali causati dall'uomo",
+   "tipo": "Schede di lettura",
+   "data": "2026-10-28",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23771/nuova-denominazione-della-giornata-nazionale-memoria-vittime-disastri-ambientali-e-industriali-causati-dall-uomo.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-28T18:42:17Z"
+  },
+  {
+   "id": "d-OCD18-23799",
+   "fonte": "dossier",
+   "organo": "Studi - Trasporti",
+   "materia": "",
+   "titolo": "Disposizioni urgenti e misure di sostegno ai settori dell'autotrasporto, dell'agricoltura e della pesca",
+   "tipo": "Schede di lettura",
+   "data": "2026-10-28",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23799/disposizioni-urgenti-e-misure-sostegno-ai-settori-autotrasporto-agricoltura-e-della-pesca.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-10-28T18:42:17Z"
+  },
   {
    "id": "c-8a81be86d4227c",
    "fonte": "commissione",
