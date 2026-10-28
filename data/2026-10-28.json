@@ -1,14 +1,193 @@
 {
   "date": "2026-10-28",
   "giorno": "mercoledì",
-  "updatedAt": "2026-10-28T18:42:12Z",
+  "updatedAt": "2026-10-28T19:33:38Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "con_schede",
   "numero_gu": "251",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-10-28&numeroGazzetta=251",
-  "schede": [],
-  "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/10/28/251/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 28 ottobre 2026 è dominata da un importante Decreto Legislativo che recepisce direttive europee in materia di emissioni industriali e discariche di rifiuti, modificando il Codice dell'ambiente. Questo atto introduce significative novità per la prevenzione e riduzione dell'inquinamento, l'efficienza delle risorse e la digitalizzazione dei processi autorizzativi. Gli altri atti pubblicati riguardano principalmente riconoscimenti di centri di saggio, dichiarazioni di eccezionalità per eventi calamitosi e provvedimenti amministrativi di routine.",
+  "schede": [
+    {
+      "codice_atto": "26G00213",
+      "titolo": "Recepimento direttive UE su emissioni industriali e discariche di rifiuti",
+      "riferimento": "DECRETO LEGISLATIVO 28 settembre 2026, n. 197",
+      "categoria": "Energia e Ambiente",
+      "iter": "In vigore dal 12/11/2026",
+      "contesto": "Il decreto legislativo attua la direttiva (UE) 2024/1785, che modifica la direttiva 2010/75/UE (emissioni industriali) e la direttiva 1999/31/CE (discariche di rifiuti). L'atto interviene sul decreto legislativo 3 aprile 2006, n. 152 (Codice dell'ambiente), aggiornando la normativa nazionale in linea con gli obiettivi europei di prevenzione e riduzione integrate dell'inquinamento.",
+      "misure": [
+        "Art. 1: Modifica l'Art. 4 del D.Lgs. 152/2006, estendendo l'ambito della direttiva 2010/75/UE alle emissioni derivanti dall'allevamento di bestiame e ridefinendo l'Autorizzazione Integrata Ambientale (AIA) per includere obiettivi di efficienza delle risorse, economia circolare e decarbonizzazione, applicabili anche alle attività dell'allegato VIII-bis.",
+        "Art. 2: Modifica l'Art. 5 del D.Lgs. 152/2006, introducendo nuove definizioni e aggiornando quelle esistenti. Vengono inclusi 'odore' tra i parametri di emissione, 'profonda trasformazione industriale' per la riduzione dei gas serra, 'livelli di prestazione ambientale associati alle migliori tecniche disponibili' (BATAEPL), 'prestazione ambientale', 'valori di riferimento' e la 'registrazione' come procedura alternativa all'autorizzazione. Vengono inoltre ridefinite le categorie di 'pollame' e 'suini' e introdotte le 'unità di bestiame (UBA)' e la 'garanzia della conformità'.",
+        "Art. 3: Modifica l'Art. 6 del D.Lgs. 152/2006, estendendo l'applicazione delle disposizioni sulle modifiche sostanziali e le installazioni soggette ad AIA alle attività di cui all'allegato VIII-bis, salvo adesione al regime di registrazione. Vengono aggiunti requisiti per l'efficienza nell'uso delle risorse materiali e idriche, la promozione di energia rinnovabile e l'attuazione di un sistema di gestione ambientale.",
+        "Art. 4: Modifica l'Art. 7 del D.Lgs. 152/2006, sostituendo 'progetti relativi alle' con 'installazioni che svolgono' e includendo le installazioni di cui all'allegato VIII-bis che non aderiscono al regime di registrazione.",
+        "Art. 5: Sostituisce l'Art. 8-bis del D.Lgs. 152/2006, riorganizzando la Commissione istruttoria per l'Autorizzazione Integrata Ambientale-IPPC. La Commissione è composta da 23 esperti (di cui almeno 3 magistrati) e integrata con 5 componenti del Ministero della salute esperti in interazioni ambiente-salute. Il suo ruolo è di supporto scientifico e istruttorio per le AIA di competenza statale. L'incarico dura quattro anni, rinnovabile una sola volta. Regioni, province e comuni possono designare un proprio esperto.",
+        "Art. 6: Modifica l'Art. 9 del D.Lgs. 152/2006, introducendo l'obbligo per l'autorità competente di digitalizzare e telematizzare i processi di presentazione delle istanze AIA, di conduzione dei procedimenti autorizzativi, di emanazione dei provvedimenti e di gestione delle autorizzazioni, con pieno sviluppo dei sistemi entro il 31 dicembre 2035."
+      ],
+      "chi_interessato": "Operatori industriali e gestori di installazioni soggette ad Autorizzazione Integrata Ambientale (AIA), inclusi gli allevamenti di bestiame. Pubbliche amministrazioni coinvolte nei procedimenti AIA (Ministero dell'ambiente e della sicurezza energetica, Regioni, Province, Comuni). Membri della Commissione istruttoria IPPC.",
+      "decorrenza": "12/11/2026",
+      "perche_conta": "Questo decreto è fondamentale per l'aggiornamento del quadro normativo ambientale italiano, recependo direttive europee cruciali per la prevenzione e il controllo dell'inquinamento industriale e la gestione dei rifiuti. Introduce nuovi requisiti per l'efficienza delle risorse, la decarbonizzazione e l'economia circolare, estendendo l'ambito dell'AIA e rafforzando il ruolo della Commissione istruttoria. La digitalizzazione dei processi AIA rappresenta un passo significativo verso la semplificazione e l'efficienza amministrativa, con impatti diretti sulle imprese e sulla pubblica amministrazione.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26G00213/sg",
+      "vigore": "12/11/2026"
+    }
+  ],
+  "scartate": [
+    {
+      "codice_atto": "26A05606",
+      "materia": "Agricoltura",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 1 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «Syngenta Italia S.p.a.», in Milano, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05606/sg"
+    },
+    {
+      "codice_atto": "26A05607",
+      "materia": "Agricoltura",
+      "titolo": "DECRETO 1 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «Landlab S.r.l.», in Quinto Vicentino, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05607/sg"
+    },
+    {
+      "codice_atto": "26A05668",
+      "materia": "Protezione Civile",
+      "titolo": "DECRETO 22 ottobre 2026 Dichiarazione dell'esistenza del carattere di eccezionalita' degli eventi calamitosi verificatisi nei territori della Regione Veneto dal 18 al 21 luglio 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05668/sg"
+    },
+    {
+      "codice_atto": "26A05654",
+      "materia": "Lavoro e Politiche Sociali",
+      "titolo": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - DECRETO 20 ottobre 2026 Approvazione del questionario di valutazione da somministrare al campione rappresentativo di beneficiari dell'Assegno di inclusione (ADI), nell'ambito del Progetto di ricerca per la valutazione controfattuale dei percorsi di accompagnamento all'inclusione sociale e lavorativa.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05654/sg"
+    },
+    {
+      "codice_atto": "26A05669",
+      "materia": "Diritto Societario",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 15 ottobre 2026 Scioglimento della «Europa Residence soc. coop. a.c.l.i. a r.l.», in Mesagne e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05669/sg"
+    },
+    {
+      "codice_atto": "26A05670",
+      "materia": "Diritto Societario",
+      "titolo": "DECRETO 15 ottobre 2026 Scioglimento della «Aris societa' cooperativa a responsabilita' limitata», in Castellanza e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05670/sg"
+    },
+    {
+      "codice_atto": "26A05574",
+      "materia": "Sanità",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Zoviraxlabiale»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05574/sg"
+    },
+    {
+      "codice_atto": "26A05575",
+      "materia": "Sanità",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Enhertu»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05575/sg"
+    },
+    {
+      "codice_atto": "26A05683",
+      "materia": "Sanità",
+      "titolo": "COMUNICATO Comunicato relativo alla modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di triamcinolone acetonide, «Kenacort».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05683/sg"
+    },
+    {
+      "codice_atto": "26A05631",
+      "materia": "Trasporti Aerei",
+      "titolo": "ENTE NAZIONALE PER L'AVIAZIONE CIVILE - COMUNICATO Regolamento sull'impiego, sui limiti dei tempi di volo e di servizio e requisiti di riposo per l'equipaggio di condotta degli elicotteri adibiti al trasporto aereo di passeggeri per collegamenti con piattaforme petrolifere, per servizio medico di emergenza e per attivita' di ricerca e soccorso in montagna, Ed.2 Emend.2.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05631/sg"
+    },
+    {
+      "codice_atto": "26A05601",
+      "materia": "Affari Esteri",
+      "titolo": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO Rilascio di exequatur",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05601/sg"
+    },
+    {
+      "codice_atto": "26A05610",
+      "materia": "Agricoltura",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO Feampa 2021/2027 Decreto di scorrimento della sub graduatoria relativa alla GSA 18 sistema di pesca circuizione classe di lunghezza 24<=LFT<40 redatta ai sensi dell'articolo 4 del decreto 17 luglio 2024 e approvata con decreto 24 settembre 2025.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05610/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A05573",
+      "categoria": "Economico",
+      "titolo": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 Assegnazione risorse al gestore del servizio idrico integrato «Livenza Tagliamento Acque S.p.a.» per la realizzazione di opere e infrastrutture di collettamento, fognatura e depurazione nelle Regioni Friuli-Venezia Giulia e Veneto - Legge 30 dicembre 2025, n. 199, articolo 1, comma 968. (Delibera n. 44/2026).",
+      "sintesi": "Assegnazione di risorse finanziarie al gestore del servizio idrico integrato 'Livenza Tagliamento Acque S.p.a.' per la realizzazione di opere e infrastrutture di collettamento, fognatura e depurazione nelle Regioni Friuli-Venezia Giulia e Veneto, in attuazione della Legge 30 dicembre 2025, n. 199.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05573/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00213",
+      "titolo": "DECRETO LEGISLATIVO 28 settembre 2026, n. 197 Attuazione della direttiva (UE) 2024/1785 del Parlamento europeo e del Consiglio, del 24 aprile 2024, che modifica la direttiva 2010/75/UE del Parlamento europeo e del Consiglio, relativa alle emissioni industriali (prevenzione e riduzione integrate dell'inquinamento), e la direttiva 1999/31/CE del Consiglio, relativa alle discariche di rifiuti.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26G00213/sg",
+      "tipo": "DECRETO LEGISLATIVO",
+      "vigore": "12/11/2026"
+    },
+    {
+      "codice": "26A05606",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 1 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «Syngenta Italia S.p.a.», in Milano, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05606/sg"
+    },
+    {
+      "codice": "26A05607",
+      "titolo": "DECRETO 1 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «Landlab S.r.l.», in Quinto Vicentino, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05607/sg"
+    },
+    {
+      "codice": "26A05668",
+      "titolo": "DECRETO 22 ottobre 2026 Dichiarazione dell'esistenza del carattere di eccezionalita' degli eventi calamitosi verificatisi nei territori della Regione Veneto dal 18 al 21 luglio 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05668/sg"
+    },
+    {
+      "codice": "26A05654",
+      "titolo": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - DECRETO 20 ottobre 2026 Approvazione del questionario di valutazione da somministrare al campione rappresentativo di beneficiari dell'Assegno di inclusione (ADI), nell'ambito del Progetto di ricerca per la valutazione controfattuale dei percorsi di accompagnamento all'inclusione sociale e lavorativa.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05654/sg"
+    },
+    {
+      "codice": "26A05669",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 15 ottobre 2026 Scioglimento della «Europa Residence soc. coop. a.c.l.i. a r.l.», in Mesagne e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05669/sg"
+    },
+    {
+      "codice": "26A05670",
+      "titolo": "DECRETO 15 ottobre 2026 Scioglimento della «Aris societa' cooperativa a responsabilita' limitata», in Castellanza e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05670/sg"
+    },
+    {
+      "codice": "26A05573",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 Assegnazione risorse al gestore del servizio idrico integrato «Livenza Tagliamento Acque S.p.a.» per la realizzazione di opere e infrastrutture di collettamento, fognatura e depurazione nelle Regioni Friuli-Venezia Giulia e Veneto - Legge 30 dicembre 2025, n. 199, articolo 1, comma 968. (Delibera n. 44/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05573/sg"
+    },
+    {
+      "codice": "26A05574",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Zoviraxlabiale»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05574/sg"
+    },
+    {
+      "codice": "26A05575",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Enhertu»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05575/sg"
+    },
+    {
+      "codice": "26A05683",
+      "titolo": "COMUNICATO Comunicato relativo alla modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di triamcinolone acetonide, «Kenacort».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05683/sg"
+    },
+    {
+      "codice": "26A05631",
+      "titolo": "ENTE NAZIONALE PER L'AVIAZIONE CIVILE - COMUNICATO Regolamento sull'impiego, sui limiti dei tempi di volo e di servizio e requisiti di riposo per l'equipaggio di condotta degli elicotteri adibiti al trasporto aereo di passeggeri per collegamenti con piattaforme petrolifere, per servizio medico di emergenza e per attivita' di ricerca e soccorso in montagna, Ed.2 Emend.2.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05631/sg"
+    },
+    {
+      "codice": "26A05601",
+      "titolo": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO Rilascio di exequatur",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05601/sg"
+    },
+    {
+      "codice": "26A05610",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO Feampa 2021/2027 Decreto di scorrimento della sub graduatoria relativa alla GSA 18 sistema di pesca circuizione classe di lunghezza 24<=LFT<40 redatta ai sensi dell'articolo 4 del decreto 17 luglio 2024 e approvata con decreto 24 settembre 2025.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/28/26A05610/sg"
+    }
+  ]
 }
