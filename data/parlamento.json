@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-10-27T20:30:02Z",
+ "aggiornato": "2026-10-28T11:33:38Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-10-28T11:33:38Z",
+   "nuovi": 4
+  },
   {
    "quando": "2026-10-27T20:30:02Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-20T19:23:53Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-20T18:34:01Z",
-   "nuovi": 8
   }
  ],
  "fonti": [
@@ -157,17 +157,87 @@
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1612
+   "trovati": 1614
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
-   "trovati": 1656
+   "trovati": 1657
   }
  ],
  "voci": [
+  {
+   "id": "c-8a81be86d4227c",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Cisambiente-Confindustria",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3133 - \"Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche\" (3133)",
+   "seduta": "",
+   "data": "2026-10-28",
+   "ora": "11:09",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Progettodilegge/leg19.com08.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.102255.28-10-2026-11-09-19.649.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-28T11:33:38Z"
+  },
+  {
+   "id": "c-6fbd9cbab33f55",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Riqualta",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti del WWF Italia, in videoconferenza, di rappresentanti di Unirima, di rappresentanti dell'Autorità Nazionale Anticorruzione (ANAC), in videoconferenza, e di rappresentanti di Riqualta - Consorzio per il riuso e riciclo di qualità nel sistema arredo, in videoconferenza, nell'ambito dell'esame, in sede referente, del disegno di legge C. 3133, di conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
+   "seduta": "Seduta del 22/10/2026",
+   "data": "2026-10-28",
+   "ora": "11:07",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.103346.28-10-2026-11-07-34.307.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-28T11:33:38Z"
+  },
+  {
+   "id": "c-2a424ff142c125",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Conferenza unificata",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-10-28",
+   "ora": "10:13",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Progettodilegge/leg19.com08.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.28-10-2026-10-13-48.646.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-10-28T11:33:38Z"
+  },
+  {
+   "id": "d-OCD18-23797",
+   "fonte": "dossier",
+   "organo": "Studi - Giustizia",
+   "materia": "Giustizia",
+   "titolo": "Riforma dell'ordinamento forense - Edizione provvisoria",
+   "tipo": "Schede di lettura",
+   "data": "2026-10-28",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23797/riforma-ordinamento-forense-edizione-provvisoria.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-10-28T11:33:38Z"
+  },
   {
    "id": "c-4ef2a39fbc9014",
    "fonte": "commissione",
@@ -178,7 +248,7 @@
    "materia": "Energia e Ambiente",
    "titolo": "ANCI",
    "tipo": "Memoria",
-   "contesto": "Audizioni informali, nell’ambito dell’esame, in sede referente, del disegno di legge C. 3133, di conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche, di rappresentanti di: - Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica - Azienda sanitaria locale Napoli 2 - Autorità di bacino distrettuale dell’Appennino centrale, Autorità di bacino distrettuale dell’Appennino meridionale, Autorità di b",
+   "contesto": "Audizione informale di rappresentanti del Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica, in videoconferenza, di rappresentanti dell'Autorità di bacino distrettuale dell'Appennino centrale, dell'Autorità di bacino distrettuale dell'Appennino meridionale, dell'Autorità di bacino distrettuale dell'Appennino settentrionale, dell'Autorità di bacino distrettuale delle Alpi orientali e dell'Autorità di bacino distrettuale del fiume Po, in videoconferenza, di rappresentanti della Cabina di Regia per l'interazione del Sistema nazionale prevenzione salute",
    "seduta": "Seduta del 27/10/2026",
    "data": "2026-10-27",
    "ora": "14:34",
@@ -261,7 +331,7 @@
    "materia": "Energia e Ambiente",
    "titolo": "SIGEA",
    "tipo": "Memoria",
-   "contesto": "Audizioni informali, nell’ambito dell’esame, in sede referente, del disegno di legge C. 3133, di conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche, di rappresentanti di: - Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica - Azienda sanitaria locale Napoli 2 - Autorità di bacino distrettuale dell’Appennino centrale, Autorità di bacino distrettuale dell’Appennino meridionale, Autorità di b",
+   "contesto": "Audizione informale di rappresentanti del Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica, in videoconferenza, di rappresentanti dell'Autorità di bacino distrettuale dell'Appennino centrale, dell'Autorità di bacino distrettuale dell'Appennino meridionale, dell'Autorità di bacino distrettuale dell'Appennino settentrionale, dell'Autorità di bacino distrettuale delle Alpi orientali e dell'Autorità di bacino distrettuale del fiume Po, in videoconferenza, di rappresentanti della Cabina di Regia per l'interazione del Sistema nazionale prevenzione salute",
    "seduta": "Seduta del 27/10/2026",
    "data": "2026-10-26",
    "ora": "14:10",
@@ -280,7 +350,7 @@
    "materia": "Energia e Ambiente",
    "titolo": "Comieco",
    "tipo": "Memoria",
-   "contesto": "Audizioni informali, nell’ambito dell’esame, in sede referente, del disegno di legge C. 3133, di conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche, di rappresentanti di: - Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica - Azienda sanitaria locale Napoli 2 - Autorità di bacino distrettuale dell’Appennino centrale, Autorità di bacino distrettuale dell’Appennino meridionale, Autorità di b",
+   "contesto": "Audizione informale di rappresentanti del Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica, in videoconferenza, di rappresentanti dell'Autorità di bacino distrettuale dell'Appennino centrale, dell'Autorità di bacino distrettuale dell'Appennino meridionale, dell'Autorità di bacino distrettuale dell'Appennino settentrionale, dell'Autorità di bacino distrettuale delle Alpi orientali e dell'Autorità di bacino distrettuale del fiume Po, in videoconferenza, di rappresentanti della Cabina di Regia per l'interazione del Sistema nazionale prevenzione salute",
    "seduta": "Seduta del 27/10/2026",
    "data": "2026-10-26",
    "ora": "13:43",
@@ -299,7 +369,7 @@
    "materia": "Energia e Ambiente",
    "titolo": "Autorità di bacino distrettuali",
    "tipo": "Memoria",
-   "contesto": "Audizioni informali, nell’ambito dell’esame, in sede referente, del disegno di legge C. 3133, di conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche, di rappresentanti di: - Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica - Azienda sanitaria locale Napoli 2 - Autorità di bacino distrettuale dell’Appennino centrale, Autorità di bacino distrettuale dell’Appennino meridionale, Autorità di b",
+   "contesto": "Audizione informale di rappresentanti del Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica, in videoconferenza, di rappresentanti dell'Autorità di bacino distrettuale dell'Appennino centrale, dell'Autorità di bacino distrettuale dell'Appennino meridionale, dell'Autorità di bacino distrettuale dell'Appennino settentrionale, dell'Autorità di bacino distrettuale delle Alpi orientali e dell'Autorità di bacino distrettuale del fiume Po, in videoconferenza, di rappresentanti della Cabina di Regia per l'interazione del Sistema nazionale prevenzione salute",
    "seduta": "Seduta del 27/10/2026",
    "data": "2026-10-26",
    "ora": "13:41",
@@ -318,7 +388,7 @@
    "materia": "Energia e Ambiente",
    "titolo": "Gruppo Marseglia",
    "tipo": "Memoria",
-   "contesto": "Audizioni informali, nell’ambito dell’esame, in sede referente, del disegno di legge C. 3133, di conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche, di rappresentanti di: - Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica - Azienda sanitaria locale Napoli 2 - Autorità di bacino distrettuale dell’Appennino centrale, Autorità di bacino distrettuale dell’Appennino meridionale, Autorità di b",
+   "contesto": "Audizione informale di rappresentanti del Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica, in videoconferenza, di rappresentanti dell'Autorità di bacino distrettuale dell'Appennino centrale, dell'Autorità di bacino distrettuale dell'Appennino meridionale, dell'Autorità di bacino distrettuale dell'Appennino settentrionale, dell'Autorità di bacino distrettuale delle Alpi orientali e dell'Autorità di bacino distrettuale del fiume Po, in videoconferenza, di rappresentanti della Cabina di Regia per l'interazione del Sistema nazionale prevenzione salute",
    "seduta": "Seduta del 27/10/2026",
    "data": "2026-10-26",
    "ora": "13:39",

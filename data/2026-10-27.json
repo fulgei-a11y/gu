@@ -1,14 +1,201 @@
 {
   "date": "2026-10-27",
   "giorno": "martedì",
-  "updatedAt": "2026-10-27T20:30:00Z",
+  "updatedAt": "2026-10-28T11:33:19Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "nessuna_legge_interesse",
   "numero_gu": "250",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-10-27&numeroGazzetta=250",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/10/27/250/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 27 ottobre 2026 presenta un focus significativo su atti di natura economica e ambientale. In particolare, si segnala un decreto sulla rideterminazione temporanea dell'aliquota d'accisa e diverse misure relative al riconoscimento di centri di saggio per prodotti fitosanitari. Sono presenti anche atti di programmazione economica e finanziaria.",
   "schede": [],
-  "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "scartate": [
+    {
+      "codice_atto": "26A05604",
+      "materia": "Farmaceutica",
+      "titolo": "Modifica delle condizioni e modalita' di monitoraggio nell'ambito dei registri AIFA del medicinale per uso umano «Fabhalta». (Determina n. 58/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05604/sg"
+    },
+    {
+      "codice_atto": "26A05567",
+      "materia": "Farmaceutica",
+      "titolo": "Autorizzazione all'importazione parallela del medicinale per uso umano «Congescor»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05567/sg"
+    },
+    {
+      "codice_atto": "26A05568",
+      "materia": "Farmaceutica",
+      "titolo": "Autorizzazione all'importazione parallela del medicinale per uso umano «Diamicron»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05568/sg"
+    },
+    {
+      "codice_atto": "26A05569",
+      "materia": "Farmaceutica",
+      "titolo": "Autorizzazione all'importazione parallela del medicinale per uso umano «Emla»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05569/sg"
+    },
+    {
+      "codice_atto": "26A05608",
+      "materia": "Farmaceutica",
+      "titolo": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di tacrolimus, «Tacrolimus Atnhas Pharma».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05608/sg"
+    },
+    {
+      "codice_atto": "26A05609",
+      "materia": "Farmaceutica",
+      "titolo": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di bilastina, «Bilastina Amarox».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05609/sg"
+    },
+    {
+      "codice_atto": "26A05613",
+      "materia": "Farmaceutica",
+      "titolo": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di anidulafungina, «Anidulafungina Hikma».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05613/sg"
+    },
+    {
+      "codice_atto": "26A05614",
+      "materia": "Farmaceutica",
+      "titolo": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di zolpidem tartrate, «Zolpidem Pharmacare Italia».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05614/sg"
+    },
+    {
+      "codice_atto": "26A05605",
+      "materia": "Difesa",
+      "titolo": "Concessione delle medaglie d'argento al valore dell'Arma dei carabinieri",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05605/sg"
+    },
+    {
+      "codice_atto": "26A05615",
+      "materia": "Trasporti",
+      "titolo": "Approvazione del programma e delle modalita' d'esame per il conseguimento del titolo professionale di ufficiale di navigazione del diporto di 2ª classe.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05615/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A05599",
+      "categoria": "Energia e Ambiente",
+      "titolo": "DECRETO 1 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «Terremerse Soc. coop.», in Piangipane, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia di prodotti fitosanitari.",
+      "sintesi": "Riconosce l'idoneità del Centro di saggio «Terremerse Soc. coop.» per prove ufficiali di campo sui prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05599/sg"
+    },
+    {
+      "codice_atto": "26A05600",
+      "categoria": "Energia e Ambiente",
+      "titolo": "DECRETO 1 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «Bayer CropScience S.r.l.», in Milano, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia e alla determinazione dell'entita' dei residui di prodotti fitosanitari.",
+      "sintesi": "Riconosce l'idoneità del Centro di saggio «Bayer CropScience S.r.l.» per prove ufficiali di campo su efficacia e residui di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05600/sg"
+    },
+    {
+      "codice_atto": "26A05603",
+      "categoria": "Energia e Ambiente",
+      "titolo": "DECRETO 1 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «Co.Pro.B.», in Minerbio, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia di prodotti fitosanitari.",
+      "sintesi": "Riconosce l'idoneità del Centro di saggio «Co.Pro.B.» per prove ufficiali di campo sui prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05603/sg"
+    },
+    {
+      "codice_atto": "26A05612",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 19 ottobre 2026 Contingente, modalita' di cessione e ricavi di vendita della moneta in nikel-brass da 10 euro celebrativa del «200° anniversario della nascita di Carlo Collodi», in versione proof, millesimo 2026.",
+      "sintesi": "Definisce il contingente, le modalità di cessione e i ricavi di vendita per una moneta celebrativa da 10 euro.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05612/sg"
+    },
+    {
+      "codice_atto": "26A05715",
+      "categoria": "Economico",
+      "titolo": "DECRETO 27 ottobre 2026 Rideterminazione temporanea dell'aliquota d'accisa.",
+      "sintesi": "Ridetermina temporaneamente l'aliquota d'accisa.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05715/sg"
+    },
+    {
+      "codice_atto": "26A05566",
+      "categoria": "Economico",
+      "titolo": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 Modifica del Programma operativo complementare (POC) di azione e coesione «Citta' metropolitane» 2014-2020 (delibera CIPE n. 46 del 2016 e successive modificazioni). (Delibera n. 42/2026).",
+      "sintesi": "Modifica il Programma operativo complementare (POC) di azione e coesione «Città metropolitane» 2014-2020.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05566/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26A05599",
+      "titolo": "DECRETO 1 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «Terremerse Soc. coop.», in Piangipane, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05599/sg"
+    },
+    {
+      "codice": "26A05600",
+      "titolo": "DECRETO 1 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «Bayer CropScience S.r.l.», in Milano, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia e alla determinazione dell'entita' dei residui di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05600/sg"
+    },
+    {
+      "codice": "26A05603",
+      "titolo": "DECRETO 1 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «Co.Pro.B.», in Minerbio, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05603/sg"
+    },
+    {
+      "codice": "26A05612",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 19 ottobre 2026 Contingente, modalita' di cessione e ricavi di vendita della moneta in nikel-brass da 10 euro celebrativa del «200° anniversario della nascita di Carlo Collodi», in versione proof, millesimo 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05612/sg"
+    },
+    {
+      "codice": "26A05715",
+      "titolo": "DECRETO 27 ottobre 2026 Rideterminazione temporanea dell'aliquota d'accisa.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05715/sg"
+    },
+    {
+      "codice": "26A05604",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' AGENZIA ITALIANA DEL FARMACO - DETERMINA 15 ottobre 2026 Modifica delle condizioni e modalita' di monitoraggio nell'ambito dei registri AIFA del medicinale per uso umano «Fabhalta». (Determina n. 58/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05604/sg"
+    },
+    {
+      "codice": "26A05566",
+      "titolo": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 Modifica del Programma operativo complementare (POC) di azione e coesione «Citta' metropolitane» 2014-2020 (delibera CIPE n. 46 del 2016 e successive modificazioni). (Delibera n. 42/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05566/sg"
+    },
+    {
+      "codice": "26A05567",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Congescor»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05567/sg"
+    },
+    {
+      "codice": "26A05568",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Diamicron»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05568/sg"
+    },
+    {
+      "codice": "26A05569",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Emla»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05569/sg"
+    },
+    {
+      "codice": "26A05608",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di tacrolimus, «Tacrolimus Atnhas Pharma».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05608/sg"
+    },
+    {
+      "codice": "26A05609",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di bilastina, «Bilastina Amarox».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05609/sg"
+    },
+    {
+      "codice": "26A05613",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di anidulafungina, «Anidulafungina Hikma».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05613/sg"
+    },
+    {
+      "codice": "26A05614",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di zolpidem tartrate, «Zolpidem Pharmacare Italia».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05614/sg"
+    },
+    {
+      "codice": "26A05605",
+      "titolo": "MINISTERO DELLA DIFESA - COMUNICATO Concessione delle medaglie d'argento al valore dell'Arma dei carabinieri",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05605/sg"
+    },
+    {
+      "codice": "26A05615",
+      "titolo": "MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI - COMUNICATO Approvazione del programma e delle modalita' d'esame per il conseguimento del titolo professionale di ufficiale di navigazione del diporto di 2ª classe.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/27/26A05615/sg"
+    }
+  ]
 }
