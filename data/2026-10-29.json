@@ -1,14 +1,149 @@
 {
   "date": "2026-10-29",
   "giorno": "giovedì",
-  "updatedAt": "2026-10-29T11:33:21Z",
+  "updatedAt": "2026-10-29T18:44:41Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "nessuna_legge_interesse",
   "numero_gu": "252",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-10-29&numeroGazzetta=252",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/10/29/252/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 29 ottobre 2026 presenta diversi atti di natura amministrativa e comunicati. Non sono presenti leggi, decreti-legge o decreti legislativi rilevanti per le materie di interesse. Si segnalano provvedimenti in ambito economico relativi alla gestione di cooperative, alla programmazione economica regionale e al mercato dell'energia, oltre a comunicazioni di Cassa Depositi e Prestiti.",
   "schede": [],
-  "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "scartate": [
+    {
+      "codice_atto": "26G00215",
+      "materia": "Salute",
+      "titolo": "Regolamento in attuazione dell'articolo 12 della legge 10 novembre 2021, n. 175, recante «Disposizioni per la cura delle malattie rare e per il sostegno della ricerca e della produzione dei farmaci orfani».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26G00215/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A05673",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 14 ottobre 2026 Gestione commissariale della durata di un mese di talune societa' cooperative e nomina dei rispettivi legali pro tempore quali commissari ad acta.",
+      "sintesi": "Dispone la gestione commissariale di alcune società cooperative per un mese, nominando i legali pro tempore come commissari ad acta.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05673/sg"
+    },
+    {
+      "codice_atto": "26A05632",
+      "categoria": "Economico",
+      "titolo": "DECRETO 21 ottobre 2026 Scioglimento della «Cooperativa edilizia Orchidea», in Angri e nomina del commissario liquidatore.",
+      "sintesi": "Dispone lo scioglimento della «Cooperativa edilizia Orchidea» di Angri e nomina il commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05632/sg"
+    },
+    {
+      "codice_atto": "26A05618",
+      "categoria": "Economico",
+      "titolo": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 Regione Abruzzo - Modifica del Programma operativo complementare (POC) 2014-2020 e contestuale riduzione delle risorse del Piano sviluppo e coesione (PSC) 2014-2020. (Delibera n. 32/2026).",
+      "sintesi": "Modifica il Programma operativo complementare (POC) 2014-2020 della Regione Abruzzo e riduce le risorse del Piano sviluppo e coesione (PSC) 2014-2020.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05618/sg"
+    },
+    {
+      "codice_atto": "26A05720",
+      "categoria": "Economico",
+      "titolo": "CASSA DEPOSITI E PRESTITI S.P.A. - COMUNICATO Avviso relativo al Libretto Smart e al Libretto Minori",
+      "sintesi": "Avviso pubblico riguardante le condizioni e le caratteristiche del Libretto Smart e del Libretto Minori.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05720/sg"
+    },
+    {
+      "codice_atto": "26A05721",
+      "categoria": "Economico",
+      "titolo": "CASSA DEPOSITI E PRESTITI S.P.A. - COMUNICATO Avviso relativo agli indici concernenti buoni fruttiferi postali",
+      "sintesi": "Avviso pubblico riguardante gli indici applicati ai buoni fruttiferi postali.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05721/sg"
+    },
+    {
+      "codice_atto": "26A05633",
+      "categoria": "Energia e Ambiente",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Pubblicazione del decreto 16 ottobre 2026, che approva le modifiche alle Disposizioni tecniche di funzionamento del mercato della capacita'.",
+      "sintesi": "Pubblica il decreto che approva le modifiche alle Disposizioni tecniche di funzionamento del mercato della capacità energetica.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05633/sg"
+    },
+    {
+      "codice_atto": "26A05619",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - COMUNICATO Revisione biennale dei coefficienti di trasformazione del montante contributivo",
+      "sintesi": "Comunica la revisione biennale dei coefficienti di trasformazione utilizzati per il calcolo delle pensioni contributive.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05619/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00215",
+      "titolo": "DECRETO 5 agosto 2026, n. 198 Regolamento in attuazione dell'articolo 12 della legge 10 novembre 2021, n. 175, recante «Disposizioni per la cura delle malattie rare e per il sostegno della ricerca e della produzione dei farmaci orfani».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26G00215/sg"
+    },
+    {
+      "codice": "26A05616",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 21 ottobre 2026 Integrazione dell'incarico al Consorzio Barbera d'Asti e Vini del Monferrato a svolgere le funzioni di promozione, valorizzazione, tutela, vigilanza, informazione del consumatore e cura generale degli interessi di cui all'articolo 41, commi 1 e 4 della legge 12 dicembre 2016, n. 238 per la DOC «Calosso».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05616/sg"
+    },
+    {
+      "codice": "26A05672",
+      "titolo": "DECRETO 22 ottobre 2026 Conferma dell'incarico al Consorzio per la tutela, la promozione e la valorizzazione del Formaggio Ossolano DOP a svolgere le funzioni di cui all'articolo 53 della legge 24 aprile 1998, n. 128, come modificato dall'articolo 14, comma 15, della legge 21 dicembre 1999, n. 526, per la DOP «Ossolano».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05672/sg"
+    },
+    {
+      "codice": "26A05617",
+      "titolo": "MINISTERO DELLA CULTURA - DECRETO 4 settembre 2026 Bando per l'insegnamento delle discipline nei corsi di specializzazione della Scuola archeologica italiana in Atene nel triennio 2027-2029.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05617/sg"
+    },
+    {
+      "codice": "26A05671",
+      "titolo": "MINISTERO DELLA SALUTE - DECRETO 7 agosto 2026 Aggiornamento dell'elenco delle malattie infettive sottoposte a sorveglianza e rilevanti, mediante l'inserimento dell'infezione da Hantavirus, quale malattia emergente.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05671/sg"
+    },
+    {
+      "codice": "26A05673",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 14 ottobre 2026 Gestione commissariale della durata di un mese di talune societa' cooperative e nomina dei rispettivi legali pro tempore quali commissari ad acta.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05673/sg"
+    },
+    {
+      "codice": "26A05632",
+      "titolo": "DECRETO 21 ottobre 2026 Scioglimento della «Cooperativa edilizia Orchidea», in Angri e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05632/sg"
+    },
+    {
+      "codice": "26A05618",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 Regione Abruzzo - Modifica del Programma operativo complementare (POC) 2014-2020 e contestuale riduzione delle risorse del Piano sviluppo e coesione (PSC) 2014-2020. (Delibera n. 32/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05618/sg"
+    },
+    {
+      "codice": "26A05655",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Dimetilfumarato Sandoz».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05655/sg"
+    },
+    {
+      "codice": "26A05656",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Gliclazide Teva».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05656/sg"
+    },
+    {
+      "codice": "26A05720",
+      "titolo": "CASSA DEPOSITI E PRESTITI S.P.A. - COMUNICATO Avviso relativo al Libretto Smart e al Libretto Minori",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05720/sg"
+    },
+    {
+      "codice": "26A05721",
+      "titolo": "COMUNICATO Avviso relativo agli indici concernenti buoni fruttiferi postali",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05721/sg"
+    },
+    {
+      "codice": "26A05633",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Pubblicazione del decreto 16 ottobre 2026, che approva le modifiche alle Disposizioni tecniche di funzionamento del mercato della capacita'.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05633/sg"
+    },
+    {
+      "codice": "26A05674",
+      "titolo": "COMUNICATO Passaggio dal demanio al patrimonio dello Stato del terreno costituente l'ex alveo del torrente Chiavona, nel Comune di Calvene.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05674/sg"
+    },
+    {
+      "codice": "26A05619",
+      "titolo": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - COMUNICATO Revisione biennale dei coefficienti di trasformazione del montante contributivo",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/29/26A05619/sg"
+    }
+  ]
 }

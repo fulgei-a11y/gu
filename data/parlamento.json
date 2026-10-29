@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-10-29T11:33:24Z",
+ "aggiornato": "2026-10-29T18:44:59Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-10-29T18:44:59Z",
+   "nuovi": 5
+  },
   {
    "quando": "2026-10-29T11:33:24Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-21T20:23:33Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-21T19:23:39Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -157,17 +157,96 @@
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1617
+   "trovati": 1619
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
-   "trovati": 1659
+   "trovati": 1661
   }
  ],
  "voci": [
+  {
+   "id": "c-c36dfa4c275129",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "CGIL",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-10-29",
+   "ora": "16:30",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.29-10-2026-16-30-43.056.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-10-29T18:44:59Z"
+  },
+  {
+   "id": "c-bb1a5f1aadc020",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "SNAM",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-10-29",
+   "ora": "13:02",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.29-10-2026-13-02-55.670.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-10-29T18:44:59Z"
+  },
+  {
+   "id": "d-OCD18-23804",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Visita di studio presso l'hotspot di Lampedusa di delegazioni della I Commissione (Affari costituzionali) della Camera dei deputati, nonché dei parlamenti tedesco, austriaco e francese - Lampedusa, 30 ottobre 2026",
+   "tipo": "",
+   "data": "2026-10-29",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23804/visita-studio-presso-l-hotspot-lampedusa-delegazioni-della-i-commissione-affari-costituzionali-della-camera-deputati-nonche.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-29T18:44:59Z"
+  },
+  {
+   "id": "d-OCD18-23806",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Visita di studio presso l'hotspot di Lampedusa di delegazioni della I Commissione (Affari costituzionali) della Camera dei deputati, nonché dei parlamenti tedesco, austriaco e francese - Lampedusa, 30 ottobre 2026",
+   "tipo": "",
+   "data": "2026-10-29",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23806/visita-studio-presso-l-hotspot-lampedusa-delegazioni-della-i-commissione-affari-costituzionali-della-camera-deputati-nonche-1.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-29T18:44:59Z"
+  },
+  {
+   "id": "d-OCD18-23809",
+   "fonte": "dossier",
+   "organo": "Controllo parlamentare",
+   "materia": "",
+   "titolo": "Società a partecipazione pubblica e ricognizione degli assetti organizzativi - Monitoraggio e controllo - XIX Ottobre 2026",
+   "tipo": "",
+   "data": "2026-10-29",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23809/societa-partecipazione-pubblica-e-ricognizione-degli-assetti-organizzativi-monitoraggio-e-controllo-xix-ottobre-2026.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-29T18:44:59Z"
+  },
   {
    "id": "c-a0eecd2bb4539c",
    "fonte": "commissione",
