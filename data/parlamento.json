@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-10-29T20:35:00Z",
+ "aggiornato": "2026-10-30T11:29:03Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-10-30T11:29:03Z",
+   "nuovi": 3
+  },
   {
    "quando": "2026-10-29T20:35:00Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-22T20:04:36Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-22T19:08:06Z",
-   "nuovi": 2
   }
  ],
  "fonti": [
@@ -157,17 +157,70 @@
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1619
+   "trovati": 1621
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
-   "trovati": 1661
+   "trovati": 1663
   }
  ],
  "voci": [
+  {
+   "id": "c-0d8be92e6dd2a0",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "H2IT",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-10-30",
+   "ora": "09:46",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.30-10-2026-09-46-52.881.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-10-30T11:29:03Z"
+  },
+  {
+   "id": "c-cd127c063ed8d8",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Confartigianato e CNA",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-10-30",
+   "ora": "09:06",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.30-10-2026-09-06-24.407.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-10-30T11:29:03Z"
+  },
+  {
+   "id": "d-OCD18-23810",
+   "fonte": "dossier",
+   "organo": "Studi - Affari sociali",
+   "materia": "",
+   "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
+   "tipo": "Schede di lettura",
+   "data": "2026-10-30",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23810/delega-al-governo-materia-professioni-sanitarie-e-disposizioni-relative-alla-responsabilita-professionale-degli-esercenti.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-10-30T11:29:03Z"
+  },
   {
    "id": "c-c36dfa4c275129",
    "fonte": "commissione",
