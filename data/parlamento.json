@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-10-30T11:29:03Z",
+ "aggiornato": "2026-10-30T18:41:02Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-10-30T18:41:02Z",
+   "nuovi": 12
+  },
   {
    "quando": "2026-10-30T11:29:03Z",
    "nuovi": 3
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-22T20:24:17Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-22T20:04:36Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -157,17 +157,212 @@
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1621
+   "trovati": 1626
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
-   "trovati": 1663
+   "trovati": 1667
   }
  ],
  "voci": [
+  {
+   "id": "c-dfb9c1a813fa63",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Confcooperative",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale del Commissario unico per la realizzazione degli interventi necessari all'adeguamento alla normativa vigente per le discariche abusive presenti sul territorio nazionale, Gen. D. Giuseppe Vadalà, di rappresentanti di Confcooperative, di rappresentanti di Erion, in videoconferenza, di rappresentanti di Utilitalia, nell'ambito dell'esame, in sede referente, del disegno di legge C. 3133, di conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia ",
+   "seduta": "Seduta del 21/10/2026",
+   "data": "2026-10-30",
+   "ora": "18:37",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.103339.30-10-2026-18-37-52.263.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-30T18:41:02Z"
+  },
+  {
+   "id": "c-6bc0c862a3e09e",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "RINA",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-10-30",
+   "ora": "18:13",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.30-10-2026-18-13-54.608.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-10-30T18:41:02Z"
+  },
+  {
+   "id": "c-806cdcaaf5f876",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Italia Solare",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-10-30",
+   "ora": "18:11",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.30-10-2026-18-11-36.201.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-10-30T18:41:02Z"
+  },
+  {
+   "id": "c-78dadf02b1a8f7",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "FIAIP",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-10-30",
+   "ora": "16:07",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.30-10-2026-16-07-44.835.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-10-30T18:41:02Z"
+  },
+  {
+   "id": "c-dfe24c80a73b05",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "CNR_DIITET",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-10-30",
+   "ora": "13:21",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.30-10-2026-13-21-53.129.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-10-30T18:41:02Z"
+  },
+  {
+   "id": "c-a3e8d6136a26df",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "ISDE Italia",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3133 - \"Conversione in legge del decreto-legge 8 ottobre 2026, n. 177, recante disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l’economia circolare e le bonifiche\" (3133)",
+   "seduta": "",
+   "data": "2026-10-30",
+   "ora": "13:12",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Progettodilegge/leg19.com08.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.102255.30-10-2026-13-12-44.291.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-10-30T18:41:02Z"
+  },
+  {
+   "id": "d-OCD18-23818",
+   "fonte": "dossier",
+   "organo": "Studi - Finanze",
+   "materia": "Economico",
+   "titolo": "Disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+   "tipo": "Elementi per l'esame in Assemblea",
+   "data": "2026-10-30",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23818/disposizioni-urgenti-sostegno-economico-e-contenimento-degli-effetti-derivanti-dal-perdurante-aumento-del-costo-carburanti-nonche.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-10-30T18:41:02Z"
+  },
+  {
+   "id": "d-OCD18-23801",
+   "fonte": "dossier",
+   "organo": "Studi - Finanze",
+   "materia": "Economico",
+   "titolo": "Schema di decreto legislativo recante interventi di coordinamento e correttivi di disposizioni emanate in attuazione della delega fiscale",
+   "tipo": "Schede di lettura",
+   "data": "2026-10-30",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23801/schema-decreto-legislativo-recante-interventi-coordinamento-e-correttivi-disposizioni-emanate-attuazione-della-delega-fiscale.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-10-30T18:41:02Z"
+  },
+  {
+   "id": "d-OCD18-23788",
+   "fonte": "dossier",
+   "organo": "Studi - Bilancio",
+   "materia": "Economico",
+   "titolo": "Schema DPCM recante adozione nota metodologica relativa alla determinazione dei fabbisogni standard per le province e le città metropolitane delle regioni a statuto ordinario",
+   "tipo": "Schede di lettura",
+   "data": "2026-10-30",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23788/schema-dpcm-recante-adozione-nota-metodologica-relativa-alla-determinazione-fabbisogni-standard-province-e-citta-metropolitane.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-30T18:41:02Z"
+  },
+  {
+   "id": "d-OCD18-23815",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "Modifica al decreto legislativo 3 aprile 2006, n. 152, in materia di consorzi di gestione e tutela del territorio e delle acque irrigue",
+   "tipo": "",
+   "data": "2026-10-30",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23815/modifica-al-decreto-legislativo-3-aprile-2006-n-152-materia-consorzi-gestione-e-tutela-del-territorio-e-acque-irrigue.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-30T18:41:02Z"
+  },
+  {
+   "id": "d-OCD18-23817",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Riunione interparlamentare della Commissione per la cultura e l'istruzione (CULT) sul tema \"L'attuazione del regolamento europeo sulla libertà dei media (EMFA)\" - Bruxelles, 4-5 novembre 2026",
+   "tipo": "",
+   "data": "2026-10-30",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23817/riunione-interparlamentare-della-commissione-cultura-e-l-istruzione-cult-sul-tema-l-attuazione-del-regolamento-europeo-sulla.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-10-30T18:41:02Z"
+  },
+  {
+   "id": "d-OCD18-23812",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "DL 157-2026: Disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche",
+   "tipo": "",
+   "data": "2026-10-30",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23812/dl-157-2026-disposizioni-urgenti-materia-prezzi-petroliferi-connessi-al-protrarsi-della-nuova-crisi-mercati-internazionali-e.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-30T18:41:02Z"
+  },
   {
    "id": "c-0d8be92e6dd2a0",
    "fonte": "commissione",
@@ -619,7 +814,7 @@
    "fonte": "dossier",
    "organo": "Bilancio dello Stato",
    "materia": "",
-   "titolo": "SCHEMA DI DECRETO LEGISLATIVO RECANTE «RECEPIMENTO DELLA DIRETTIVA (UE) 2024/2841 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO, DEL 23 OTTOBRE 2024, CHE ISTITUISCE LA CARTA EUROPEA DELLA DISABILITÀ E IL CONTRASSEGNO EUROPEO DI PARCHEGGIO PER LE PERSONE CON DISABILITÀ»",
+   "titolo": "Schema di decreto legislativo recante «recepimento della direttiva (ue) 2024/2841 del parlamento europeo e del consiglio, del 23 ottobre 2024, che istituisce la carta europea della disabilità e il contrassegno europeo di parcheggio per le persone con disabilità»",
    "tipo": "",
    "data": "2026-10-26",
    "link": "https://temi.camera.it/leg19/dossier/OCD18-23792/schema-decreto-legislativo-recante-recepimento-della-direttiva-ue-2024-2841-del-parlamento-europeo-e-del-consiglio-del-23-ottobre.html",
@@ -762,7 +957,7 @@
    "titolo": "Modifica al decreto legislativo 3 aprile 2006, n. 152, in materia di consorzi di gestione e tutela del territorio e delle acque irrigue",
    "tipo": "Elementi per la valutazione degli aspetti di legittimità costituzionale",
    "data": "2026-10-26",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23743/modifica-al-decreto-legislativo-3-aprile-2006-n-152-materia-consorzi-gestione-e-tutela-del-territorio-e-acque-irrigue.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23743/modifica-al-decreto-legislativo-3-aprile-2006-n-152-materia-consorzi-gestione-e-tutela-del-territorio-e-acque-irrigue-1.html",
    "atto": "",
    "senato": false,
    "visto": "2026-10-26T18:42:34Z"
