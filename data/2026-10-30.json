@@ -1,14 +1,355 @@
 {
   "date": "2026-10-30",
   "giorno": "venerdì",
-  "updatedAt": "2026-10-30T18:41:00Z",
+  "updatedAt": "2026-10-30T19:33:27Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "con_schede",
   "numero_gu": "253",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-10-30&numeroGazzetta=253",
-  "schede": [],
-  "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/10/30/253/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 30 ottobre 2026 è dominata da un importante Decreto Legislativo che adegua la normativa italiana al regolamento UE sui materiali plastici riciclati a contatto con gli alimenti, introducendo un nuovo sistema sanzionatorio e una banca dati nazionale. Sono presenti anche atti relativi a scioglimenti di consigli comunali e comunicati di diverse autorità, tra cui l'AIFA e le Autorità di Bacino.",
+  "schede": [
+    {
+      "codice_atto": "26G00217",
+      "titolo": "Adeguamento normativo e sanzioni per materiali plastici riciclati a contatto con alimenti",
+      "riferimento": "DECRETO LEGISLATIVO 9 ottobre 2026, n. 199",
+      "categoria": "Energia e Ambiente",
+      "iter": "In vigore dal 14/11/2026",
+      "contesto": "Il decreto attua l'articolo 27 della legge 13 giugno 2025, n. 91 (Legge di delegazione europea 2024), adeguando la normativa nazionale al regolamento (UE) 2022/1616 della Commissione, che disciplina i materiali e gli oggetti di materia plastica riciclata destinati a venire a contatto con i prodotti alimentari. Ridefinisce il sistema sanzionatorio e introduce una banca dati nazionale per i controlli ufficiali.",
+      "misure": [
+        "Art. 1: Il decreto adegua la normativa nazionale al regolamento (UE) 2022/1616, ridefinisce il sistema sanzionatorio per le violazioni e determina le tariffe per le attività di controllo ufficiale sui materiali e oggetti destinati al contatto con gli alimenti (MOCA).",
+        "Art. 2: Istituisce presso il Ministero della salute una banca dati nazionale denominata 'Stabilimenti dei materiali e degli oggetti destinati a venire a contatto con gli alimenti e stabilimenti di riciclaggio'. Questa banca dati raccoglierà comunicazioni, notifiche, esiti dei controlli ufficiali e categorizzazione del rischio degli stabilimenti. Sarà alimentata e aggiornata da regioni, province autonome e ASL, e accessibile anche al Comando Carabinieri per la tutela della salute. Le modalità di funzionamento saranno definite con decreto ministeriale entro dodici mesi dall'entrata in vigore del presente decreto. Il Ministero della salute trasmetterà annualmente alle Camere una relazione sullo stato di attuazione del decreto.",
+        "Art. 3: Modifica il decreto legislativo 10 febbraio 2017, n. 29, aggiornandone il titolo e le premesse per includere il regolamento (UE) 2022/1616 e il regolamento (UE) 2017/625 sui controlli ufficiali. Sostituisce integralmente l'Art. 9, introducendo un dettagliato sistema sanzionatorio amministrativo pecuniario e accessorio (sospensione attività, richiamo/ritiro/distruzione merci) per diverse violazioni del regolamento (UE) 2022/1616, tra cui:",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 1): Produzione o immissione sul mercato di materiali o oggetti con plastica riciclata da processo non autorizzato: sanzione da euro 7.200 a euro 72.000 e sospensione attività da uno a sei mesi (o fino a regolarizzazione). In casi gravi o reiterati, sospensione da tre a dodici mesi.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 2): Utilizzo di materiali o oggetti con plastica riciclata da processo non autorizzato: sanzione da euro 6.000 a euro 60.000, con richiamo, ritiro, rimozione e distruzione delle merci. Per piccole/microimprese, sanzione da euro 4.000 a euro 40.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 3): Mancato rispetto delle prescrizioni o condizioni dell'autorizzazione del processo di riciclaggio: sanzione da euro 3.000 a euro 30.000 e sospensione attività da uno a sei mesi (o fino a regolarizzazione).",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 4): Riciclatore che utilizza tecnologia di riciclaggio a ciclo chiuso in violazione delle condizioni: sanzione da euro 4.000 a euro 30.000 e sospensione attività da uno a sei mesi (o fino a regolarizzazione).",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 5): Mancato rispetto delle prescrizioni su documentazione, istruzioni ed etichettatura: sanzione da euro 3.000 a euro 18.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 6): Gestori dei rifiuti che non rispettano le prescrizioni sull'input di materia plastica: sanzione da euro 4.000 a euro 35.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 7): Riciclatore che non rispetta le prescrizioni sull'input/output del processo di decontaminazione, esecuzione del processo, impianto di decontaminazione, registrazione/conservazione informazioni: sanzione da euro 4.000 a euro 35.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 8): Trasformatore, operatore del settore alimentare o rivenditore che non rispetta le prescrizioni: sanzione da euro 3.000 a euro 18.000. Per piccole/microimprese del settore alimentare, sanzione da euro 2.000 a euro 12.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 9): Gestore dello schema di riciclaggio che non adempie agli obblighi di informazione e aggiornamento: sanzione da euro 5.000 a euro 40.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 10): Sviluppatore che non notifica la nuova tecnologia: sanzione da euro 5.000 a euro 40.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 11): Sviluppatore che non pubblica la relazione prevista: sanzione da euro 1.000 a euro 8.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 12): Riciclatore che non rende disponibili le informazioni presso l'impianto di decontaminazione: sanzione da euro 3.000 a euro 20.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 13): Titolare dell'autorizzazione di un processo di riciclaggio che non adempie agli obblighi informativi: sanzione da euro 3.000 a euro 18.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 14): Riciclatore che non effettua le notifiche previste: sanzione da euro 5.000 a euro 40.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 15): Riciclatore che non trasmette la scheda di sintesi del monitoraggio della conformità dell'impianto di decontaminazione entro il termine: diffida e, in caso di mancato adempimento, sanzione da euro 3.000 a euro 18.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 16): Riciclatore che produce un lotto di materia plastica riciclata non conforme: sanzione da euro 4.000 a euro 35.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 17): Riciclatore che gestisce un impianto di riciclaggio non conforme: sanzione da euro 4.000 a euro 35.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 18): Riciclatori e trasformatori che non rispettano le prescrizioni sul contenuto delle dichiarazioni di conformità: sanzione da euro 3.000 a euro 18.000.",
+        "Art. 3, comma 1 (nuovo Art. 9, comma 19): Nella determinazione delle sanzioni si tiene conto anche dei danni cagionati a cose o persone.",
+        "Art. 3, comma 1 (nuovo Art. 15, comma 3): I proventi delle sanzioni dell'Art. 9 sono destinati al miglioramento e potenziamento della sorveglianza degli impianti di riciclo.",
+        "Art. 4: Modifica il decreto legislativo 2 febbraio 2021, n. 32, sostituendo l'articolo 6, comma 9, con una nuova disposizione che non è stata fornita nel testo integrale."
+      ],
+      "chi_interessato": "Operatori economici che producono, immettono sul mercato o utilizzano materiali e oggetti di materia plastica riciclata destinati a venire a contatto con i prodotti alimentari (riciclatori, trasformatori, operatori del settore alimentare, rivenditori, gestori dei rifiuti, sviluppatori di nuove tecnologie). Autorità sanitarie competenti, Ministero della Salute, Regioni, Province autonome, ASL e Comando Carabinieri per la tutela della salute.",
+      "decorrenza": "14 novembre 2026",
+      "perche_conta": "Questo decreto è fondamentale per la sicurezza alimentare e la sostenibilità ambientale, in quanto armonizza la legislazione italiana con le norme europee sull'uso di plastica riciclata per imballaggi alimentari. Introduce un quadro sanzionatorio robusto per garantire la conformità e la tracciabilità dei materiali, tutelando i consumatori e promuovendo pratiche di riciclo sicure. La creazione di una banca dati nazionale migliorerà la sorveglianza e il controllo del settore.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26G00217/sg",
+      "vigore": "14/11/2026"
+    }
+  ],
+  "scartate": [
+    {
+      "codice_atto": "26A05675",
+      "materia": "Pubblica Amministrazione / Enti Locali",
+      "titolo": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 2026 Scioglimento del consiglio comunale di Zambrone e nomina del commissario straordinario.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05675/sg"
+    },
+    {
+      "codice_atto": "26A05676",
+      "materia": "Pubblica Amministrazione / Enti Locali",
+      "titolo": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 2026 Sostituzione del commissario straordinario del consiglio comunale di Montello.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05676/sg"
+    },
+    {
+      "codice_atto": "26A05677",
+      "materia": "Pubblica Amministrazione / Enti Locali",
+      "titolo": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 2026 Scioglimento del consiglio comunale di Bisenti e nomina del commissario straordinario.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05677/sg"
+    },
+    {
+      "codice_atto": "26A05634",
+      "materia": "Agricoltura",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 21 ottobre 2026 Approvazione di una modifica ordinaria al disciplinare di produzione della denominazione di origine protetta dei vini «Colli Euganei».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05634/sg"
+    },
+    {
+      "codice_atto": "26A05620",
+      "materia": "Sanità",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di solifenacina succinato e tamsulosina cloridrato, «Solifenacina e Tamsulosina Doc».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05620/sg"
+    },
+    {
+      "codice_atto": "26A05657",
+      "materia": "Sanità",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Sumatriptan Zentiva».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05657/sg"
+    },
+    {
+      "codice_atto": "26A05658",
+      "materia": "Sanità",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Diclofenac Ratiopharm».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05658/sg"
+    },
+    {
+      "codice_atto": "26A05679",
+      "materia": "Sanità",
+      "titolo": "COMUNICATO Decadenza, per mancato rinnovo, dell'autorizzazione all'importazione parallela di taluni medicinali.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05679/sg"
+    },
+    {
+      "codice_atto": "26A05680",
+      "materia": "Sanità",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Bisolvon»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05680/sg"
+    },
+    {
+      "codice_atto": "26A05681",
+      "materia": "Sanità",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Topamax»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05681/sg"
+    },
+    {
+      "codice_atto": "26A05682",
+      "materia": "Sanità",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Locoidon»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05682/sg"
+    },
+    {
+      "codice_atto": "26A05753",
+      "materia": "Sanità / Economico",
+      "titolo": "COMUNICATO Attribuzione degli oneri di ripiano della spesa farmaceutica per acquisti diretti per l'anno 2025.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05753/sg"
+    },
+    {
+      "codice_atto": "26A05757",
+      "materia": "Sanità",
+      "titolo": "COMUNICATO Avviso di pubblicazione di provvedimenti di classificazione e rimborsabilita', ed atti correlati, di specialita' medicinali sul portale «TrovaNormeFarmaco».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05757/sg"
+    },
+    {
+      "codice_atto": "26A05678",
+      "materia": "Agricoltura",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO Arresto temporaneo obbligatorio anno 2024 - Approvazione della terza graduatoria parziale dei soggetti ammessi all'aiuto pubblico.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05678/sg"
+    },
+    {
+      "codice_atto": "26A05635",
+      "materia": "Culto",
+      "titolo": "MINISTERO DELL'INTERNO - COMUNICATO Soppressione della Confraternita di S. Giuseppe, in Monte Sant'Angelo",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05635/sg"
+    },
+    {
+      "codice_atto": "26A05636",
+      "materia": "Culto",
+      "titolo": "COMUNICATO Riconoscimento della personalita' giuridica della Casa religiosa di spiritualita' Giovanni Merlini, in Roma",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05636/sg"
+    },
+    {
+      "codice_atto": "26A05637",
+      "materia": "Culto",
+      "titolo": "COMUNICATO Mutamento del modo di esistenza della Provincia Italiana dei Missionari del S. Cuore, in Roma",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05637/sg"
+    },
+    {
+      "codice_atto": "26A05638",
+      "materia": "Culto",
+      "titolo": "COMUNICATO Mutamento della denominazione assunta dalla Confraternita della SS. Annunziata, in Amaseno",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05638/sg"
+    },
+    {
+      "codice_atto": "26A05639",
+      "materia": "Culto",
+      "titolo": "COMUNICATO Riconoscimento della personalita' giuridica del Santuario Diocesano «Madonna del Silenzio in San Francesco», in Avezzano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05639/sg"
+    },
+    {
+      "codice_atto": "26A05640",
+      "materia": "Culto",
+      "titolo": "COMUNICATO Soppressione della Parrocchia di S. Francesco, in Avezzano",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05640/sg"
+    },
+    {
+      "codice_atto": "26A05641",
+      "materia": "Culto",
+      "titolo": "COMUNICATO Soppressione della Parrocchia «Beata Vergine del Buon Consiglio», in Castiglione Tinella",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05641/sg"
+    },
+    {
+      "codice_atto": "26A05642",
+      "materia": "Culto",
+      "titolo": "COMUNICATO Soppressione della Parrocchia di S. Margherita, in Roddino",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05642/sg"
+    },
+    {
+      "codice_atto": "26A05643",
+      "materia": "Culto",
+      "titolo": "COMUNICATO Soppressione della Parrocchia dei Santi Pietro e Paolo, in Monforte",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05643/sg"
+    },
+    {
+      "codice_atto": "26A05646",
+      "materia": "Diritto d'autore",
+      "titolo": "S.I.A.E. - SOCIETA' ITALIANA DEGLI AUTORI ED EDITORI - COMUNICATO Elenco degli autori che non hanno rivendicato il proprio diritto di seguito",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05646/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A05644",
+      "categoria": "Energia e Ambiente",
+      "titolo": "AUTORITA' DI BACINO DISTRETTUALE DELLE ALPI ORIENTALI - COMUNICATO Aggiornamento del Piano di gestione del rischio di alluvioni nel Comune di Verona",
+      "sintesi": "Comunicato relativo all'aggiornamento del Piano di gestione del rischio di alluvioni per il Comune di Verona.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05644/sg"
+    },
+    {
+      "codice_atto": "26A05645",
+      "categoria": "Energia e Ambiente",
+      "titolo": "COMUNICATO Aggiornamento del Piano di gestione del rischio di alluvioni nei Comuni di Tarzo, Revine Lago e Vittorio Veneto",
+      "sintesi": "Comunicato relativo all'aggiornamento del Piano di gestione del rischio di alluvioni per i Comuni di Tarzo, Revine Lago e Vittorio Veneto.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05645/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00217",
+      "titolo": "DECRETO LEGISLATIVO 9 ottobre 2026, n. 199 Disposizioni di attuazione dell'articolo 27 della legge 13 giugno 2025, n. 91, per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2022/1616 della Commissione, del 15 settembre 2022, relativo ai materiali e agli oggetti di materia plastica riciclata destinati a venire a contatto con i prodotti alimentari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26G00217/sg",
+      "tipo": "DECRETO LEGISLATIVO",
+      "vigore": "14/11/2026"
+    },
+    {
+      "codice": "26A05675",
+      "titolo": "DECRETI PRESIDENZIALI - DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 2026 Scioglimento del consiglio comunale di Zambrone e nomina del commissario straordinario.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05675/sg"
+    },
+    {
+      "codice": "26A05676",
+      "titolo": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 2026 Sostituzione del commissario straordinario del consiglio comunale di Montello.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05676/sg"
+    },
+    {
+      "codice": "26A05677",
+      "titolo": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 2026 Scioglimento del consiglio comunale di Bisenti e nomina del commissario straordinario.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05677/sg"
+    },
+    {
+      "codice": "26A05634",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 21 ottobre 2026 Approvazione di una modifica ordinaria al disciplinare di produzione della denominazione di origine protetta dei vini «Colli Euganei».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05634/sg"
+    },
+    {
+      "codice": "26A05620",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di solifenacina succinato e tamsulosina cloridrato, «Solifenacina e Tamsulosina Doc».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05620/sg"
+    },
+    {
+      "codice": "26A05657",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Sumatriptan Zentiva».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05657/sg"
+    },
+    {
+      "codice": "26A05658",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Diclofenac Ratiopharm».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05658/sg"
+    },
+    {
+      "codice": "26A05679",
+      "titolo": "COMUNICATO Decadenza, per mancato rinnovo, dell'autorizzazione all'importazione parallela di taluni medicinali.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05679/sg"
+    },
+    {
+      "codice": "26A05680",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Bisolvon»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05680/sg"
+    },
+    {
+      "codice": "26A05681",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Topamax»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05681/sg"
+    },
+    {
+      "codice": "26A05682",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Locoidon»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05682/sg"
+    },
+    {
+      "codice": "26A05753",
+      "titolo": "COMUNICATO Attribuzione degli oneri di ripiano della spesa farmaceutica per acquisti diretti per l'anno 2025.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05753/sg"
+    },
+    {
+      "codice": "26A05757",
+      "titolo": "COMUNICATO Avviso di pubblicazione di provvedimenti di classificazione e rimborsabilita', ed atti correlati, di specialita' medicinali sul portale «TrovaNormeFarmaco».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05757/sg"
+    },
+    {
+      "codice": "26A05644",
+      "titolo": "AUTORITA' DI BACINO DISTRETTUALE DELLE ALPI ORIENTALI - COMUNICATO Aggiornamento del Piano di gestione del rischio di alluvioni nel Comune di Verona",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05644/sg"
+    },
+    {
+      "codice": "26A05645",
+      "titolo": "COMUNICATO Aggiornamento del Piano di gestione del rischio di alluvioni nei Comuni di Tarzo, Revine Lago e Vittorio Veneto",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05645/sg"
+    },
+    {
+      "codice": "26A05678",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO Arresto temporaneo obbligatorio anno 2024 - Approvazione della terza graduatoria parziale dei soggetti ammessi all'aiuto pubblico.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05678/sg"
+    },
+    {
+      "codice": "26A05635",
+      "titolo": "MINISTERO DELL'INTERNO - COMUNICATO Soppressione della Confraternita di S. Giuseppe, in Monte Sant'Angelo",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05635/sg"
+    },
+    {
+      "codice": "26A05636",
+      "titolo": "COMUNICATO Riconoscimento della personalita' giuridica della Casa religiosa di spiritualita' Giovanni Merlini, in Roma",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05636/sg"
+    },
+    {
+      "codice": "26A05637",
+      "titolo": "COMUNICATO Mutamento del modo di esistenza della Provincia Italiana dei Missionari del S. Cuore, in Roma",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05637/sg"
+    },
+    {
+      "codice": "26A05638",
+      "titolo": "COMUNICATO Mutamento della denominazione assunta dalla Confraternita della SS. Annunziata, in Amaseno",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05638/sg"
+    },
+    {
+      "codice": "26A05639",
+      "titolo": "COMUNICATO Riconoscimento della personalita' giuridica del Santuario Diocesano «Madonna del Silenzio in San Francesco», in Avezzano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05639/sg"
+    },
+    {
+      "codice": "26A05640",
+      "titolo": "COMUNICATO Soppressione della Parrocchia di S. Francesco, in Avezzano",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05640/sg"
+    },
+    {
+      "codice": "26A05641",
+      "titolo": "COMUNICATO Soppressione della Parrocchia «Beata Vergine del Buon Consiglio», in Castiglione Tinella",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05641/sg"
+    },
+    {
+      "codice": "26A05642",
+      "titolo": "COMUNICATO Soppressione della Parrocchia di S. Margherita, in Roddino",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05642/sg"
+    },
+    {
+      "codice": "26A05643",
+      "titolo": "COMUNICATO Soppressione della Parrocchia dei Santi Pietro e Paolo, in Monforte",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05643/sg"
+    },
+    {
+      "codice": "26A05646",
+      "titolo": "S.I.A.E. - SOCIETA' ITALIANA DEGLI AUTORI ED EDITORI - COMUNICATO Elenco degli autori che non hanno rivendicato il proprio diritto di seguito",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26A05646/sg"
+    }
+  ]
 }

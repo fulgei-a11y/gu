@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-10-30T18:41:02Z",
+ "aggiornato": "2026-10-30T19:34:11Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-10-30T19:34:11Z",
+   "nuovi": 2
+  },
   {
    "quando": "2026-10-30T18:41:02Z",
    "nuovi": 12
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-23T11:25:44Z",
    "nuovi": 5
-  },
-  {
-   "quando": "2026-10-22T20:24:17Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -168,6 +168,32 @@
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23816",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "DL 162-2026: Disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+   "tipo": "",
+   "data": "2026-10-30",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23816/dl-162-2026-disposizioni-urgenti-sostegno-economico-e-contenimento-degli-effetti-derivanti-dal-perdurante-aumento-del-costo.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-30T19:34:11Z"
+  },
+  {
+   "id": "d-OCD18-23814",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "DL 168-2026: Misure urgenti in materia di giustizia, di funzionalità del Ministero dell'interno e di impianti di interesse strategico nazionale",
+   "tipo": "",
+   "data": "2026-10-30",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23814/dl-168-2026-misure-urgenti-materia-giustizia-funzionalita-del-ministero-interno-e-impianti-interesse-strategico-nazionale.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-10-30T19:34:11Z"
+  },
   {
    "id": "c-dfb9c1a813fa63",
    "fonte": "commissione",
