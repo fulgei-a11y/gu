@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-10-31",
+    "giorno": "sabato",
+    "numero_gu": "254",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-10-31T11:26:19Z"
+  },
+  {
     "date": "2026-10-30",
     "giorno": "venerdì",
     "numero_gu": "253",
