@@ -1,16 +1,10 @@
 {
-  "ultimoControllo": "2026-11-02T18:53:33Z",
-  "ultimoSuccesso": "2026-11-02T18:53:33Z",
+  "ultimoControllo": "2026-11-02T19:43:06Z",
+  "ultimoSuccesso": "2026-11-02T19:43:06Z",
   "ok": true,
   "problemi": [],
   "avvisi": [],
   "ultimaEdizione": "2026-11-02",
-  "elaborate": [
-    {
-      "date": "2026-11-02",
-      "stato": "nessuna_legge_interesse",
-      "schede": 0
-    }
-  ],
-  "esecuzione": "https://github.com/fulgei-a11y/gu/actions/runs/41504467714"
+  "elaborate": [],
+  "esecuzione": "https://github.com/fulgei-a11y/gu/actions/runs/41512215888"
 }
