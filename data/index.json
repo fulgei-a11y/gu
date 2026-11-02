@@ -2,10 +2,10 @@
   {
     "date": "2026-11-02",
     "giorno": "lunedì",
-    "numero_gu": "",
-    "stato": "non_disponibile",
+    "numero_gu": "255",
+    "stato": "nessuna_legge_interesse",
     "schede": 0,
-    "updatedAt": "2026-11-02T11:46:21Z"
+    "updatedAt": "2026-11-02T18:51:38Z"
   },
   {
     "date": "2026-10-31",

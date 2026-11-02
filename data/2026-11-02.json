@@ -1,13 +1,224 @@
 {
   "date": "2026-11-02",
   "giorno": "lunedì",
-  "updatedAt": "2026-11-02T11:46:21Z",
+  "updatedAt": "2026-11-02T18:51:38Z",
   "version": 2,
-  "stato": "non_disponibile",
-  "numero_gu": "",
+  "stato": "nessuna_legge_interesse",
+  "numero_gu": "255",
+  "verificato": true,
+  "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-02&numeroGazzetta=255",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/02/255/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 2 novembre 2026 presenta numerosi atti di natura economica e amministrativa. Spiccano diversi decreti del Ministero dell'Economia e delle Finanze relativi alla riapertura delle sottoscrizioni di Buoni del Tesoro Poliennali, oltre a provvedimenti del Ministero delle Infrastrutture e dei Trasporti e del Ministero dell'Agricoltura, della Sovranità Alimentare e delle Foreste che toccano la gestione dei rischi in agricoltura e la tutela delle indicazioni geografiche.",
   "schede": [],
   "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "Edizione non ancora pubblicata o non raggiungibile al momento del controllo: verrà ricontrollata automaticamente."
+  "altri_atti": [
+    {
+      "codice_atto": "26A05701",
+      "categoria": "Economico",
+      "titolo": "Integrazione dell'allegato 7 al Piano di gestione dei rischi in agricoltura 2026.",
+      "sintesi": "Il decreto integra l'allegato 7 del Piano di gestione dei rischi in agricoltura per l'anno 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05701/sg"
+    },
+    {
+      "codice_atto": "26A05716",
+      "categoria": "Economico",
+      "titolo": "Modifica ordinaria al disciplinare di produzione della denominazione di origine protetta «Fico Bianco del Cilento».",
+      "sintesi": "Il decreto apporta una modifica ordinaria al disciplinare di produzione della DOP «Fico Bianco del Cilento».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05716/sg"
+    },
+    {
+      "codice_atto": "26A05724",
+      "categoria": "Economico",
+      "titolo": "Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 1,25%, indicizzati all'«Indice Eurostat» («BTP€i»), con godimento 15 settembre 2015 e scadenza 15 settembre 2032, trentaduesima e trentatreesima tranche.",
+      "sintesi": "Il decreto riapre le sottoscrizioni per BTP€i con tasso 1,25%, godimento 15 settembre 2015 e scadenza 15 settembre 2032, per la trentaduesima e trentatreesima tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05724/sg"
+    },
+    {
+      "codice_atto": "26A05725",
+      "categoria": "Economico",
+      "titolo": "Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 3,00%, con godimento 28 agosto 2026 e scadenza 30 ottobre 2028, quinta e sesta tranche.",
+      "sintesi": "Il decreto riapre le sottoscrizioni per BTP con tasso 3,00%, godimento 28 agosto 2026 e scadenza 30 ottobre 2028, per la quinta e sesta tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05725/sg"
+    },
+    {
+      "codice_atto": "26A05726",
+      "categoria": "Economico",
+      "titolo": "Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 2,35%, indicizzati all'«Indice Eurostat» («BTP€i»), con godimento 15 settembre 2004 e scadenza 15 settembre 2035, ventisettesima e ventottesima tranche.",
+      "sintesi": "Il decreto riapre le sottoscrizioni per BTP€i con tasso 2,35%, godimento 15 settembre 2004 e scadenza 15 settembre 2035, per la ventisettesima e ventottesima tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05726/sg"
+    },
+    {
+      "codice_atto": "26A05717",
+      "categoria": "Economico",
+      "titolo": "Disposizioni in materia di rendicontazione e verifica dei traguardi e degli obiettivi, attivazione del circuito finanziario e applicazione delle penalita' relative al Contratto di programma - parte Investimenti tra il Ministero delle infrastrutture e dei trasporti e Rete ferroviaria italiana S.p.a.",
+      "sintesi": "Il decreto stabilisce le disposizioni per la rendicontazione, la verifica degli obiettivi, l'attivazione finanziaria e l'applicazione delle penalità relative al Contratto di programma - parte Investimenti tra il Ministero delle infrastrutture e dei trasporti e Rete ferroviaria italiana S.p.a.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05717/sg"
+    },
+    {
+      "codice_atto": "26A05695",
+      "categoria": "Economico",
+      "titolo": "Pubblicazione del regolamento di esecuzione (UE) 2026/2341 della Commissione del 14 ottobre 2026, recante iscrizione dell'indicazione geografica «Oliva Alta Daunia» (DOP) nel registro delle indicazioni geografiche dell'Unione a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio.",
+      "sintesi": "Comunicato relativo alla pubblicazione del regolamento UE che iscrive la DOP «Oliva Alta Daunia» nel registro delle indicazioni geografiche dell'Unione.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05695/sg"
+    },
+    {
+      "codice_atto": "26A05696",
+      "categoria": "Economico",
+      "titolo": "Pubblicazione del regolamento di esecuzione (UE) 2026/2293 della Commissione dell'8 ottobre 2026, recante iscrizione dell'indicazione geografica «Capocollo di Martina Franca» (IGP) nel registro delle indicazioni geografiche dell'Unione a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio.",
+      "sintesi": "Comunicato relativo alla pubblicazione del regolamento UE che iscrive l'IGP «Capocollo di Martina Franca» nel registro delle indicazioni geografiche dell'Unione.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05696/sg"
+    },
+    {
+      "codice_atto": "26A05727",
+      "categoria": "Giustizia",
+      "titolo": "Elenco dei notai dispensandi per limiti di eta' - terzo quadrimestre 2026.",
+      "sintesi": "Comunicato che pubblica l'elenco dei notai che saranno dispensati dal servizio per raggiunti limiti di età nel terzo quadrimestre del 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05727/sg"
+    },
+    {
+      "codice_atto": "26A05704",
+      "categoria": "Economico",
+      "titolo": "Determinazione del costo medio orario del lavoro per il personale dipendente da imprese dell'industria metalmeccanica e della installazione di impianti, distintamente per gli operai e per gli impiegati, con decorrenza dal mese di giugno 2026.",
+      "sintesi": "Comunicato che determina il costo medio orario del lavoro per il personale dipendente dell'industria metalmeccanica e dell'installazione di impianti, con decorrenza da giugno 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05704/sg"
+    },
+    {
+      "codice_atto": "26A05735",
+      "categoria": "Economico",
+      "titolo": "Comunicato relativo alla pubblicazione della delibera n. 8 del 15 ottobre 2026 concernente la misura delle quote dovute dalle imprese di autotrasporto per l'anno 2027.",
+      "sintesi": "Comunicato che informa della pubblicazione della delibera n. 8/2026, la quale stabilisce la misura delle quote dovute dalle imprese di autotrasporto per l'anno 2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05735/sg"
+    },
+    {
+      "codice_atto": "26A05697",
+      "categoria": "Economico",
+      "titolo": "Ordinanza n. 3 del 12 ottobre 2026, concernente l'approvazione del Piano generale pluriennale degli interventi predisposto dal Commissario straordinario alla ricostruzione per i territori dell'Emilia-Romagna colpiti dagli eventi sismici del 20 e 29 maggio 2012.",
+      "sintesi": "Comunicato relativo all'approvazione del Piano generale pluriennale degli interventi per la ricostruzione dei territori dell'Emilia-Romagna colpiti dal sisma del 2012.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05697/sg"
+    },
+    {
+      "codice_atto": "26A05698",
+      "categoria": "Economico",
+      "titolo": "Ordinanza n. 4 del 12 ottobre 2026, concernente le disposizioni finalizzate al completamento degli interventi residui di ricostruzione privata a prevalente uso abitativo le cui istanze sono dirette al sindaco del comune nel quale e' ubicato l'immobile danneggiato.",
+      "sintesi": "Comunicato relativo alle disposizioni per il completamento degli interventi residui di ricostruzione privata a uso abitativo, con istanze dirette al sindaco.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05698/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26A05701",
+      "titolo": "DECRETO 22 settembre 2026 Integrazione dell'allegato 7 al Piano di gestione dei rischi in agricoltura 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05701/sg"
+    },
+    {
+      "codice": "26A05716",
+      "titolo": "DECRETO 26 ottobre 2026 Modifica ordinaria al disciplinare di produzione della denominazione di origine protetta «Fico Bianco del Cilento».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05716/sg"
+    },
+    {
+      "codice": "26A05724",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 27 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 1,25%, indicizzati all'«Indice Eurostat» («BTP€i»), con godimento 15 settembre 2015 e scadenza 15 settembre 2032, trentaduesima e trentatreesima tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05724/sg"
+    },
+    {
+      "codice": "26A05725",
+      "titolo": "DECRETO 27 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 3,00%, con godimento 28 agosto 2026 e scadenza 30 ottobre 2028, quinta e sesta tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05725/sg"
+    },
+    {
+      "codice": "26A05726",
+      "titolo": "DECRETO 27 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 2,35%, indicizzati all'«Indice Eurostat» («BTP€i»), con godimento 15 settembre 2004 e scadenza 15 settembre 2035, ventisettesima e ventottesima tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05726/sg"
+    },
+    {
+      "codice": "26A05717",
+      "titolo": "MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI - DECRETO 31 agosto 2026 Disposizioni in materia di rendicontazione e verifica dei traguardi e degli obiettivi, attivazione del circuito finanziario e applicazione delle penalita' relative al Contratto di programma - parte Investimenti tra il Ministero delle infrastrutture e dei trasporti e Rete ferroviaria italiana S.p.a.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05717/sg"
+    },
+    {
+      "codice": "26A05661",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di bupropione, «Bupropione EG».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05661/sg"
+    },
+    {
+      "codice": "26A05662",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di bupropione, «Bupropione Olpha».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05662/sg"
+    },
+    {
+      "codice": "26A05663",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di paclitaxel, «Velquira».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05663/sg"
+    },
+    {
+      "codice": "26A05690",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di everolimus, «Everolimus Tam».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05690/sg"
+    },
+    {
+      "codice": "26A05691",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di ezetimibe, «Ezetimibe Gena»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05691/sg"
+    },
+    {
+      "codice": "26A05692",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di zolpidem tartrato, «Zolpidem P-Care».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05692/sg"
+    },
+    {
+      "codice": "26A05693",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di omeprazolo, «Omeprazolo Aristo Pharma».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05693/sg"
+    },
+    {
+      "codice": "26A05694",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di brinzolamide/timololo, «Blizomit».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05694/sg"
+    },
+    {
+      "codice": "26A05702",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Emla»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05702/sg"
+    },
+    {
+      "codice": "26A05703",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Yasminelle»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05703/sg"
+    },
+    {
+      "codice": "26A05695",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO Pubblicazione del regolamento di esecuzione (UE) 2026/2341 della Commissione del 14 ottobre 2026, recante iscrizione dell'indicazione geografica «Oliva Alta Daunia» (DOP) nel registro delle indicazioni geografiche dell'Unione a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05695/sg"
+    },
+    {
+      "codice": "26A05696",
+      "titolo": "COMUNICATO Pubblicazione del regolamento di esecuzione (UE) 2026/2293 della Commissione dell'8 ottobre 2026, recante iscrizione dell'indicazione geografica «Capocollo di Martina Franca» (IGP) nel registro delle indicazioni geografiche dell'Unione a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05696/sg"
+    },
+    {
+      "codice": "26A05727",
+      "titolo": "MINISTERO DELLA GIUSTIZIA - COMUNICATO Elenco dei notai dispensandi per limiti di eta' - terzo quadrimestre 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05727/sg"
+    },
+    {
+      "codice": "26A05704",
+      "titolo": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - COMUNICATO Determinazione del costo medio orario del lavoro per il personale dipendente da imprese dell'industria metalmeccanica e della installazione di impianti, distintamente per gli operai e per gli impiegati, con decorrenza dal mese di giugno 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05704/sg"
+    },
+    {
+      "codice": "26A05735",
+      "titolo": "MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI - COMUNICATO Comunicato relativo alla pubblicazione della delibera n. 8 del 15 ottobre 2026 concernente la misura delle quote dovute dalle imprese di autotrasporto per l'anno 2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05735/sg"
+    },
+    {
+      "codice": "26A05697",
+      "titolo": "COMUNICATO Ordinanza n. 3 del 12 ottobre 2026, concernente l'approvazione del Piano generale pluriennale degli interventi predisposto dal Commissario straordinario alla ricostruzione per i territori dell'Emilia-Romagna colpiti dagli eventi sismici del 20 e 29 maggio 2012.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05697/sg"
+    },
+    {
+      "codice": "26A05698",
+      "titolo": "COMUNICATO Ordinanza n. 4 del 12 ottobre 2026, concernente le disposizioni finalizzate al completamento degli interventi residui di ricostruzione privata a prevalente uso abitativo le cui istanze sono dirette al sindaco del comune nel quale e' ubicato l'immobile danneggiato.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/02/26A05698/sg"
+    }
+  ]
 }

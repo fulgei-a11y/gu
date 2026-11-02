@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-02T11:59:20Z",
+ "aggiornato": "2026-11-02T18:51:55Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-02T18:51:55Z",
+   "nuovi": 6
+  },
   {
    "quando": "2026-11-02T11:59:20Z",
    "nuovi": 9
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-25T20:17:00Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-25T19:15:50Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -136,7 +136,7 @@
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
-   "trovati": 874
+   "trovati": 875
   },
   {
    "id": "comm5",
@@ -164,10 +164,100 @@
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
-   "trovati": 1674
+   "trovati": 1675
   }
  ],
  "voci": [
+  {
+   "id": "c-8d7d941440b11b",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "C. 3121 - Contributo scritto Comitato Idonei Addetti Ufficio per il Processo",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3121 - \"Conversione in legge del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalità del Ministero dell’interno e di impianti di interesse strategico nazionale\" (3121)",
+   "seduta": "",
+   "data": "2026-11-02",
+   "ora": "16:54",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Progettodilegge/leg19.com02.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.101486.02-11-2026-16-54-18.769.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "C. 3121",
+   "visto": "2026-11-02T18:51:55Z"
+  },
+  {
+   "id": "c-15447df57358ab",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "ADOC - Associazione per la difesa e l'orientamento dei consumatori",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-02",
+   "ora": "13:18",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.02-11-2026-13-18-45.820.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-02T18:51:55Z"
+  },
+  {
+   "id": "d-OCD18-23789",
+   "fonte": "dossier",
+   "organo": "Studi - Cultura",
+   "materia": "",
+   "titolo": "Modifiche alla legge 22 aprile 1941, n. 633, in materia di diritto di pubblicazione secondaria in ambito scientifico",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-02",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23789/modifiche-alla-legge-22-aprile-1941-n-633-materia-diritto-pubblicazione-secondaria-ambito-scientifico.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-02T18:51:55Z"
+  },
+  {
+   "id": "d-OCD18-23772",
+   "fonte": "dossier",
+   "organo": "Studi - Istituzioni",
+   "materia": "",
+   "titolo": "Dichiarazione di monumento nazionale del memoriale di Portella della Ginestra nonché disposizioni per il restauro, la tutela e la valorizzazione di esso",
+   "tipo": "Elementi per la valutazione degli aspetti di legittimità costituzionale",
+   "data": "2026-11-02",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23772/dichiarazione-monumento-nazionale-del-memoriale-portella-della-ginestra-nonche-disposizioni-restauro-tutela-e-valorizzazione-esso.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-02T18:51:55Z"
+  },
+  {
+   "id": "d-OCD18-23776",
+   "fonte": "dossier",
+   "organo": "Studi - Istituzioni",
+   "materia": "",
+   "titolo": "Adozione del Piano triennale di prevenzione e promozione della salute nelle scuole nonché istituzione della Giornata nazionale della prevenzione e della promozione della salute e dei corretti stili di vita in memoria di Umberto Veronesi",
+   "tipo": "Elementi per la valutazione degli aspetti di legittimità costituzionale",
+   "data": "2026-11-02",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23776/adozione-del-piano-triennale-prevenzione-e-promozione-della-salute-nelle-scuole-nonche-istituzione-della-giornata-nazionale-della.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-02T18:51:55Z"
+  },
+  {
+   "id": "d-OCD18-23802",
+   "fonte": "dossier",
+   "organo": "Studi - Istituzioni",
+   "materia": "",
+   "titolo": "Attribuzione alle regioni Liguria, Lombardia, Piemonte e Veneto di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-02",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23802/attribuzione-alle-regioni-liguria-lombardia-piemonte-e-veneto-ulteriori-forme-e-condizioni-particolari-autonomia-ai-sensi-articolo.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-02T18:51:55Z"
+  },
   {
    "id": "c-503bee41639e5a",
    "fonte": "commissione",
@@ -2099,7 +2189,7 @@
    "titolo": "Dichiarazione di monumento nazionale del memoriale di Portella della Ginestra nonché disposizioni per il restauro, la tutela e la valorizzazione di esso",
    "tipo": "Schede di lettura",
    "data": "2026-10-19",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23736/dichiarazione-monumento-nazionale-del-memoriale-portella-della-ginestra-nonche-disposizioni-restauro-tutela-e-valorizzazione-esso.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23736/dichiarazione-monumento-nazionale-del-memoriale-portella-della-ginestra-nonche-disposizioni-restauro-tutela-e-valorizzazione-esso-1.html",
    "atto": "",
    "senato": false,
    "visto": "2026-10-19T11:25:38Z"
