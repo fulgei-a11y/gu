@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-01T20:26:27Z",
+ "aggiornato": "2026-11-02T11:59:20Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-02T11:59:20Z",
+   "nuovi": 9
+  },
   {
    "quando": "2026-11-01T20:26:27Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-25T19:15:50Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-25T18:26:32Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -136,7 +136,7 @@
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
-   "trovati": 873
+   "trovati": 874
   },
   {
    "id": "comm5",
@@ -157,17 +157,190 @@
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1626
+   "trovati": 1627
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
-   "trovati": 1667
+   "trovati": 1674
   }
  ],
  "voci": [
+  {
+   "id": "c-503bee41639e5a",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "A.G. 450 - Contributo scritto Flepar",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 450 - Schema di decreto legislativo recante riforma dell'ordinamento forense (450)",
+   "seduta": "",
+   "data": "2026-11-02",
+   "ora": "12:31",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/AttodelGoverno/leg19.com02.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.104095.02-11-2026-12-31-45.282.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "A.G. 450",
+   "visto": "2026-11-02T11:59:20Z"
+  },
+  {
+   "id": "c-8132c230475178",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "ISPRA",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-11-02",
+   "ora": "12:22",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.02-11-2026-12-22-21.745.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-11-02T11:59:20Z"
+  },
+  {
+   "id": "c-151252571f4cc4",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Confindustria",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-11-02",
+   "ora": "12:16",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/AttodelGoverno/leg19.com10.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.02-11-2026-12-16-33.767.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-11-02T11:59:20Z"
+  },
+  {
+   "id": "c-745dcadf47f5de",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "UNRL - Unione nazionale revisori legali",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-02",
+   "ora": "11:45",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.02-11-2026-11-45-28.266.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-02T11:59:20Z"
+  },
+  {
+   "id": "c-0735791d1e9500",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "INRL - Istituto nazionale revisori legali",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-02",
+   "ora": "11:12",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.02-11-2026-11-12-25.573.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-02T11:59:20Z"
+  },
+  {
+   "id": "c-c57ac984e550b7",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "UNAPPA - Unione nazionale professionisti pratiche amministrative",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-02",
+   "ora": "10:58",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.02-11-2026-10-58-19.937.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-02T11:59:20Z"
+  },
+  {
+   "id": "c-0d7fc7525a6893",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "ASSOPAM - Associazione agenti e mediatori creditizi",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-02",
+   "ora": "10:41",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.02-11-2026-10-41-12.679.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-02T11:59:20Z"
+  },
+  {
+   "id": "c-d613c29355a132",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "CoLAP - Coordinamento libere associazioni professionali",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-02",
+   "ora": "10:39",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.02-11-2026-10-39-03.318.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-02T11:59:20Z"
+  },
+  {
+   "id": "c-22e2bc3f75e780",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Assoprofessioni",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-02",
+   "ora": "10:03",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.02-11-2026-10-03-53.598.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-02T11:59:20Z"
+  },
   {
    "id": "d-OCD18-23816",
    "fonte": "dossier",
@@ -261,7 +434,7 @@
     "X"
    ],
    "materia": "Economico",
-   "titolo": "FIAIP",
+   "titolo": "FIAIP - Federazione italiana agenti immobiliari professionali",
    "tipo": "Contributo scritto",
    "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
    "seduta": "",
