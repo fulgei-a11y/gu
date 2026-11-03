@@ -1,14 +1,136 @@
 {
   "date": "2026-11-03",
   "giorno": "martedì",
-  "updatedAt": "2026-11-03T11:42:59Z",
+  "updatedAt": "2026-11-03T18:45:51Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "nessuna_legge_interesse",
   "numero_gu": "256",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-03&numeroGazzetta=256",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/03/256/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 3 novembre 2026 presenta un focus significativo su aspetti economico-finanziari e di gestione della pubblica amministrazione. Si segnalano provvedimenti relativi a ristori per danni da eventi meteorologici, determinazione di tassi per titoli di Stato e pareri su contratti di programma. Non sono presenti Leggi, decreti-legge o decreti legislativi nelle materie di interesse.",
   "schede": [],
   "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "altri_atti": [
+    {
+      "codice_atto": "26A05739",
+      "categoria": "Economico",
+      "titolo": "DECRETO 22 luglio 2026 Cambio del regime di aiuti di Stato relativo al ristoro dei danni causati dagli eccezionali eventi meteorologici che, a partire dal giorno 18 gennaio 2026, hanno colpito il territorio delle Regioni Calabria, Sicilia e Sardegna; integrazione delle premesse del decreto di declaratoria della Regione Sardegna del 27 maggio 2026.",
+      "sintesi": "Modifica il regime di aiuti di Stato per il ristoro dei danni causati da eventi meteorologici eccezionali in Calabria, Sicilia e Sardegna, e integra le premesse di un decreto di declaratoria per la Regione Sardegna.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05739/sg"
+    },
+    {
+      "codice_atto": "26A05736",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 23 ottobre 2026 Determinazione dei tassi cedolari definitivi e accertamento dell'importo emesso dei buoni del Tesoro poliennali Valore, con godimento 27 ottobre 2026 e scadenza 27 ottobre 2031.",
+      "sintesi": "Determina i tassi cedolari definitivi e l'importo emesso dei BTP Valore con godimento 27 ottobre 2026 e scadenza 27 ottobre 2031.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05736/sg"
+    },
+    {
+      "codice_atto": "26A05737",
+      "categoria": "Economico",
+      "titolo": "DECRETO 23 ottobre 2026 Determinazione del tasso cedolare definitivo e accertamento dell'importo emesso dei buoni del Tesoro poliennali «BTP Valore Insieme», con godimento 27 ottobre 2026 e scadenza 27 ottobre 2031, nona emissione del BTP Valore.",
+      "sintesi": "Determina il tasso cedolare definitivo e l'importo emesso dei BTP Valore Insieme (nona emissione) con godimento 27 ottobre 2026 e scadenza 27 ottobre 2031.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05737/sg"
+    },
+    {
+      "codice_atto": "26A05722",
+      "categoria": "Economico",
+      "titolo": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 Parere sul Contratto di programma 2023-2026 tra l'Ente nazionale per l'aviazione civile (ENAC) e la Societa' di gestione aeroporti Alghero S.p.a. (SO.GE.A.AL), ex articolo 1, comma 11, del decreto-legge n. 133 del 2014. (Delibera n. 26/2026).",
+      "sintesi": "Esprime parere sul Contratto di programma 2023-2026 tra ENAC e SO.GE.A.AL per la gestione aeroportuale di Alghero.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05722/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26A05739",
+      "titolo": "DECRETO 22 luglio 2026 Cambio del regime di aiuti di Stato relativo al ristoro dei danni causati dagli eccezionali eventi meteorologici che, a partire dal giorno 18 gennaio 2026, hanno colpito il territorio delle Regioni Calabria, Sicilia e Sardegna; integrazione delle premesse del decreto di declaratoria della Regione Sardegna del 27 maggio 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05739/sg"
+    },
+    {
+      "codice": "26A05718",
+      "titolo": "DECRETO 27 ottobre 2026 Conferma dell'incarico al Consorzio volontario per la tutela dei vini Amelia DOC a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'art. 41, comma 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOC «Amelia».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05718/sg"
+    },
+    {
+      "codice": "26A05736",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 23 ottobre 2026 Determinazione dei tassi cedolari definitivi e accertamento dell'importo emesso dei buoni del Tesoro poliennali Valore, con godimento 27 ottobre 2026 e scadenza 27 ottobre 2031.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05736/sg"
+    },
+    {
+      "codice": "26A05737",
+      "titolo": "DECRETO 23 ottobre 2026 Determinazione del tasso cedolare definitivo e accertamento dell'importo emesso dei buoni del Tesoro poliennali «BTP Valore Insieme», con godimento 27 ottobre 2026 e scadenza 27 ottobre 2031, nona emissione del BTP Valore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05737/sg"
+    },
+    {
+      "codice": "26A05722",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 Parere sul Contratto di programma 2023-2026 tra l'Ente nazionale per l'aviazione civile (ENAC) e la Societa' di gestione aeroporti Alghero S.p.a. (SO.GE.A.AL), ex articolo 1, comma 11, del decreto-legge n. 133 del 2014. (Delibera n. 26/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05722/sg"
+    },
+    {
+      "codice": "26A05667",
+      "titolo": "UNIVERSITA' CARLO CATTANEO - LIUC - DECRETO 22 ottobre 2026 Emanazione del nuovo statuto.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05667/sg"
+    },
+    {
+      "codice": "26A05705",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di ezetimibe e simvastatina, «Zestan».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05705/sg"
+    },
+    {
+      "codice": "26A05706",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di pregabalin, «Regalbax».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05706/sg"
+    },
+    {
+      "codice": "26A05707",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Ducressa»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05707/sg"
+    },
+    {
+      "codice": "26A05708",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Travocort».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05708/sg"
+    },
+    {
+      "codice": "26A05709",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Efexor».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05709/sg"
+    },
+    {
+      "codice": "26A05710",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Duspatal».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05710/sg"
+    },
+    {
+      "codice": "26A05712",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Amlodipina/Valsartan/Idroclorotiazide Mylan Pharma».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05712/sg"
+    },
+    {
+      "codice": "26A05713",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Medivid».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05713/sg"
+    },
+    {
+      "codice": "26A05714",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Medivid».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05714/sg"
+    },
+    {
+      "codice": "26A05719",
+      "titolo": "COMUNICATO Rettifica dell'estratto della determina AAM/PPA n. 517/2026 del 18 settembre 2026 di modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Zinnat».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05719/sg"
+    },
+    {
+      "codice": "26A05779",
+      "titolo": "COMUNICATO Avviso di pubblicazione di provvedimenti di classificazione e rimborsabilita', ed atti correlati, di specialita' medicinali sul portale «TrovaNormeFarmaco».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05779/sg"
+    },
+    {
+      "codice": "26A05723",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO Pubblicazione della comunicazione alla Commissione europea di approvazione della modifica ordinaria del disciplinare di produzione della denominazione di origine protetta dei vini «Rubino di Cantavenna».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/03/26A05723/sg"
+    }
+  ]
 }

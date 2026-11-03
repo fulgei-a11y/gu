@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-03T11:43:02Z",
+ "aggiornato": "2026-11-03T18:46:04Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-03T18:46:04Z",
+   "nuovi": 3
+  },
   {
    "quando": "2026-11-03T11:43:02Z",
    "nuovi": 12
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-26T20:25:13Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-26T19:30:22Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -168,6 +168,45 @@
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23824",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Elementi per la verifica di suddiarietà - Proposta di modifica del regolamento sulla riduzione delle emissioni di metano nel settore dell'energia per quanto riguarda il rinvio di determinati obblighi",
+   "tipo": "",
+   "data": "2026-11-03",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23824/elementi-verifica-suddiarieta-proposta-modifica-del-regolamento-sulla-riduzione-emissioni-metano-nel-settore-energia-quanto.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-03T18:46:04Z"
+  },
+  {
+   "id": "d-OCD18-23825",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Elementi per la verifica di sussidiarietà - Le iniziative legislative dell'UE per migliorare la mobilità dei lavoratori dell'UE",
+   "tipo": "",
+   "data": "2026-11-03",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23825/elementi-verifica-sussidiarieta-iniziative-legislative-ue-migliorare-mobilita-lavoratori-ue.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-03T18:46:04Z"
+  },
+  {
+   "id": "d-OCD18-23826",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Elementi per la verifica di sussidiarietà - Il regolamento sugli appalti pubblici e le concessioni (Public Procurement Act)",
+   "tipo": "",
+   "data": "2026-11-03",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23826/elementi-verifica-sussidiarieta-regolamento-sugli-appalti-pubblici-e-concessioni-public-procurement-act.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-03T18:46:04Z"
+  },
   {
    "id": "c-e4e50d1b8d5165",
    "fonte": "commissione",
