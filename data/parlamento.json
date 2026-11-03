@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-02T20:39:02Z",
+ "aggiornato": "2026-11-03T11:43:02Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-03T11:43:02Z",
+   "nuovi": 12
+  },
   {
    "quando": "2026-11-02T20:39:02Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-26T19:30:22Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-26T18:42:34Z",
-   "nuovi": 12
   }
  ],
  "fonti": [
@@ -136,7 +136,7 @@
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
-   "trovati": 875
+   "trovati": 882
   },
   {
    "id": "comm5",
@@ -157,17 +157,234 @@
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1627
+   "trovati": 1628
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
-   "trovati": 1675
+   "trovati": 1678
   }
  ],
  "voci": [
+  {
+   "id": "c-e4e50d1b8d5165",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "A.G. 450 - Memoria CNF",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Francesco Greco, presidente del Consiglio nazionale forense (CNF), nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "seduta": "Seduta del 03/11/2026",
+   "data": "2026-11-03",
+   "ora": "12:30",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.104871.03-11-2026-12-30-15.045.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "A.G. 450",
+   "visto": "2026-11-03T11:43:02Z"
+  },
+  {
+   "id": "c-aab8ee02925386",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "A.G. 450 - Memoria UCPI",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Alberto del Noce, presidente dell’Unione Nazionale Camere Civili (UNCC) e Francesco Petrelli, presidente dell’Unione Camere Penali Italiane (UCPI), nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "seduta": "Seduta del 03/11/2026",
+   "data": "2026-11-03",
+   "ora": "11:36",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.104883.03-11-2026-11-36-12.454.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "A.G. 450",
+   "visto": "2026-11-03T11:43:02Z"
+  },
+  {
+   "id": "c-9e921f52043e95",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "A.G. 450 - Memoria UNCC",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Alberto del Noce, presidente dell’Unione Nazionale Camere Civili (UNCC) e Francesco Petrelli, presidente dell’Unione Camere Penali Italiane (UCPI), nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "seduta": "Seduta del 03/11/2026",
+   "data": "2026-11-03",
+   "ora": "11:29",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.104883.03-11-2026-11-29-40.041.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "A.G. 450",
+   "visto": "2026-11-03T11:43:02Z"
+  },
+  {
+   "id": "c-8f1a88b701affb",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "A.G. 450 - Memoria di OCF",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti dell’Organismo Congressuale Forense (OCF), del Movimento Forense (MF), dell’Associazione Italiana Giovani Avvocati (AIGA), dell’Associazione Nazionale Forense (ANF) e dell’Unione Italiana Forense (UIF), nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "seduta": "Seduta del 03/11/2026",
+   "data": "2026-11-03",
+   "ora": "11:27",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.104879.03-11-2026-11-27-02.896.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "A.G. 450",
+   "visto": "2026-11-03T11:43:02Z"
+  },
+  {
+   "id": "c-e8e23c0d0a896d",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "A.G. 450 - Memoria di AIGA",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti dell’Organismo Congressuale Forense (OCF), del Movimento Forense (MF), dell’Associazione Italiana Giovani Avvocati (AIGA), dell’Associazione Nazionale Forense (ANF) e dell’Unione Italiana Forense (UIF), nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "seduta": "Seduta del 03/11/2026",
+   "data": "2026-11-03",
+   "ora": "11:27",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.104879.03-11-2026-11-27-32.795.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "A.G. 450",
+   "visto": "2026-11-03T11:43:02Z"
+  },
+  {
+   "id": "c-c0425c4a305b03",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "A.G. 450 - Memoria di Andrea Pasqualin (Unione Triveneta)",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Sergio Paparo, presidente del Consiglio dell'Ordine degli Avvocati di Firenze, Andrea Pasqualin, presidente dell’Unione Triveneta dei Consigli degli Ordini degli Avvocati, Cosimo Matteucci, presidente di MGA-Sindacato nazionale forense, nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "seduta": "Seduta del 03/11/2026",
+   "data": "2026-11-03",
+   "ora": "11:26",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.104875.03-11-2026-11-26-16.845.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "A.G. 450",
+   "visto": "2026-11-03T11:43:02Z"
+  },
+  {
+   "id": "c-3342c3c47c163d",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "A.G. 450 - Memoria di Sergio Paparo (Consiglio Ordine Avvocati Firenze)",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Sergio Paparo, presidente del Consiglio dell'Ordine degli Avvocati di Firenze, Andrea Pasqualin, presidente dell’Unione Triveneta dei Consigli degli Ordini degli Avvocati, Cosimo Matteucci, presidente di MGA-Sindacato nazionale forense, nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "seduta": "Seduta del 03/11/2026",
+   "data": "2026-11-03",
+   "ora": "11:25",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.104875.03-11-2026-11-25-31.318.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "A.G. 450",
+   "visto": "2026-11-03T11:43:02Z"
+  },
+  {
+   "id": "c-29c35b4ee09d21",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Consiglio nazionale dell’ordine dei consulenti del lavoro",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti della Federazione italiana gestori impianti stradali carburanti (FIGISC-Confcommercio), in videoconferenza, di rappresentanti del Consiglio nazionale dell'ordine dei consulenti del lavoro, di rappresentanti dell’Alleanza delle Cooperative italiane, di rappresentanti dell’Associazione nazionale per l'industria e il terziario (ANPIT), di rappresentanti della Federazione italiana gestori carburanti e affini (FEGICA), di rappresentanti della Federazione italiana benzinai (FAIB), di rappresentanti del Consiglio nazionale dottori commercialisti ed esperti contab",
+   "seduta": "Seduta del 03/11/2026",
+   "data": "2026-11-03",
+   "ora": "10:31",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.104904.03-11-2026-10-31-50.987.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-03T11:43:02Z"
+  },
+  {
+   "id": "c-491861d4b2e8f8",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Elettricità futura",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-11-03",
+   "ora": "10:05",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.03-11-2026-10-05-12.174.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-11-03T11:43:02Z"
+  },
+  {
+   "id": "d-OCD18-23803",
+   "fonte": "dossier",
+   "organo": "Studi - Ambiente",
+   "materia": "Energia e Ambiente",
+   "titolo": "Conferenza delle Nazioni Unite sui cambiamenti climatici - COP31",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-03",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23803/conferenza-nazioni-unite-sui-cambiamenti-climatici-cop31.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-03T11:43:02Z"
+  },
+  {
+   "id": "d-OCD18-23823",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Conferenza interparlamentare sulla politica estera e di sicurezza comune (PESC) e sulla politica di sicurezza e di difesa comune (PSDC) - Dublino, 4-6 novembre 2026",
+   "tipo": "",
+   "data": "2026-11-03",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23823/conferenza-interparlamentare-sulla-politica-estera-e-sicurezza-comune-pesc-e-sulla-politica-sicurezza-e-difesa-comune-psdc-dublino.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-03T11:43:02Z"
+  },
+  {
+   "id": "c-af830da52fc528",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Unem",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti della Federazione italiana gestori impianti stradali carburanti (FIGISC-Confcommercio), in videoconferenza, di rappresentanti del Consiglio nazionale dell'ordine dei consulenti del lavoro, di rappresentanti dell’Alleanza delle Cooperative italiane, di rappresentanti dell’Associazione nazionale per l'industria e il terziario (ANPIT), di rappresentanti della Federazione italiana gestori carburanti e affini (FEGICA), di rappresentanti della Federazione italiana benzinai (FAIB), di rappresentanti del Consiglio nazionale dottori commercialisti ed esperti contab",
+   "seduta": "Seduta del 03/11/2026",
+   "data": "2026-11-02",
+   "ora": "17:51",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.104904.02-11-2026-17-51-14.928.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-03T11:43:02Z"
+  },
   {
    "id": "c-8d7d941440b11b",
    "fonte": "commissione",
