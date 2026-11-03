@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-03T18:46:04Z",
+ "aggiornato": "2026-11-03T19:38:05Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-03T19:38:05Z",
+   "nuovi": 1
+  },
   {
    "quando": "2026-11-03T18:46:04Z",
    "nuovi": 3
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-27T11:29:05Z",
    "nuovi": 7
-  },
-  {
-   "quando": "2026-10-26T20:25:13Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -168,6 +168,19 @@
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23831",
+   "fonte": "dossier",
+   "organo": "Studi - Giustizia",
+   "materia": "Giustizia",
+   "titolo": "Riforma dell'ordinamento forense",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-03",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23831/riforma-ordinamento-forense.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-03T19:38:05Z"
+  },
   {
    "id": "d-OCD18-23824",
    "fonte": "dossier",
