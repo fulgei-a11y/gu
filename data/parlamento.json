@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-03T20:39:22Z",
+ "aggiornato": "2026-11-04T11:49:47Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-04T11:49:47Z",
+   "nuovi": 3
+  },
   {
    "quando": "2026-11-03T20:39:22Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-27T20:30:02Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-27T19:31:27Z",
-   "nuovi": 3
   }
  ],
  "fonti": [
@@ -169,6 +169,45 @@
  ],
  "voci": [
   {
+   "id": "d-OCD18-23820",
+   "fonte": "dossier",
+   "organo": "Studi - Osservatorio legislativo e parlamentare",
+   "materia": "",
+   "titolo": "Conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minori",
+   "tipo": "Elementi di valutazione sulla qualità del testo e su specificità, omogeneità e limiti di contenuto del decreto-legge",
+   "data": "2026-11-04",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23820/conversione-legge-del-decreto-legge-22-ottobre-2026-n-190-recante-disposizioni-urgenti-materia-sicurezza-pubblica-e-contrasto-alla.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-04T11:49:47Z"
+  },
+  {
+   "id": "d-OCD18-23819",
+   "fonte": "dossier",
+   "organo": "Studi - Osservatorio legislativo e parlamentare",
+   "materia": "",
+   "titolo": "Delega al Governo per la riforma della disciplina degli ordinamenti professionali",
+   "tipo": "Elementi di valutazione sulla qualità del testo",
+   "data": "2026-11-04",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23819/delega-al-governo-riforma-della-disciplina-degli-ordinamenti-professionali.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-04T11:49:47Z"
+  },
+  {
+   "id": "d-OCD18-23834",
+   "fonte": "dossier",
+   "organo": "Controllo parlamentare",
+   "materia": "",
+   "titolo": "L'attuazione degli atti di indirizzo - Monitoraggio e controllo - XIX Novembre 2026",
+   "tipo": "",
+   "data": "2026-11-04",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23834/l-attuazione-degli-atti-indirizzo-monitoraggio-e-controllo-xix-novembre-2026.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-04T11:49:47Z"
+  },
+  {
    "id": "d-OCD18-23831",
    "fonte": "dossier",
    "organo": "Studi - Giustizia",
@@ -186,10 +225,10 @@
    "fonte": "dossier",
    "organo": "Rapporti con l'Unione europea",
    "materia": "",
-   "titolo": "Elementi per la verifica di suddiarietà - Proposta di modifica del regolamento sulla riduzione delle emissioni di metano nel settore dell'energia per quanto riguarda il rinvio di determinati obblighi",
+   "titolo": "Elementi per la verifica di sussidiarietà - Proposta di modifica del regolamento sulla riduzione delle emissioni di metano nel settore dell'energia per quanto riguarda il rinvio di determinati obblighi",
    "tipo": "",
    "data": "2026-11-03",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23824/elementi-verifica-suddiarieta-proposta-modifica-del-regolamento-sulla-riduzione-emissioni-metano-nel-settore-energia-quanto.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23824/elementi-verifica-sussidiarieta-proposta-modifica-del-regolamento-sulla-riduzione-emissioni-metano-nel-settore-energia-quanto.html",
    "atto": "",
    "senato": false,
    "visto": "2026-11-03T18:46:04Z"
@@ -230,7 +269,7 @@
    "materia": "Giustizia",
    "titolo": "A.G. 450 - Memoria CNF",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di Francesco Greco, presidente del Consiglio nazionale forense (CNF), nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "contesto": "Audizione informale, in videoconferenza, di Francesco Greco, presidente del Consiglio nazionale forense (CNF), nell'ambito dell'esame dello schema di decreto legislativo recante riforma dell'ordinamento forense (Atto n. 450)",
    "seduta": "Seduta del 03/11/2026",
    "data": "2026-11-03",
    "ora": "12:30",
@@ -249,7 +288,7 @@
    "materia": "Giustizia",
    "titolo": "A.G. 450 - Memoria UCPI",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di Alberto del Noce, presidente dell’Unione Nazionale Camere Civili (UNCC) e Francesco Petrelli, presidente dell’Unione Camere Penali Italiane (UCPI), nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "contesto": "Audizione informale, in videoconferenza, di Alberto del Noce, presidente dell'Unione Nazionale Camere Civili (UNCC), e di rappresentanti dell'Unione Camere Penali Italiane (UCPI), nell'ambito dell'esame dello schema di decreto legislativo recante riforma dell'ordinamento forense (Atto n. 450)",
    "seduta": "Seduta del 03/11/2026",
    "data": "2026-11-03",
    "ora": "11:36",
@@ -268,7 +307,7 @@
    "materia": "Giustizia",
    "titolo": "A.G. 450 - Memoria UNCC",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di Alberto del Noce, presidente dell’Unione Nazionale Camere Civili (UNCC) e Francesco Petrelli, presidente dell’Unione Camere Penali Italiane (UCPI), nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "contesto": "Audizione informale, in videoconferenza, di Alberto del Noce, presidente dell'Unione Nazionale Camere Civili (UNCC), e di rappresentanti dell'Unione Camere Penali Italiane (UCPI), nell'ambito dell'esame dello schema di decreto legislativo recante riforma dell'ordinamento forense (Atto n. 450)",
    "seduta": "Seduta del 03/11/2026",
    "data": "2026-11-03",
    "ora": "11:29",
@@ -287,7 +326,7 @@
    "materia": "Giustizia",
    "titolo": "A.G. 450 - Memoria di OCF",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di rappresentanti dell’Organismo Congressuale Forense (OCF), del Movimento Forense (MF), dell’Associazione Italiana Giovani Avvocati (AIGA), dell’Associazione Nazionale Forense (ANF) e dell’Unione Italiana Forense (UIF), nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "contesto": "Audizione informale di rappresentanti dell'Organismo Congressuale Forense (OCF), in videoconferenza, del Movimento Forense (MF), in videoconferenza, dell'Associazione Italiana Giovani Avvocati (AIGA), dell'Associazione Nazionale Forense (ANF) e dell'Unione Italiana Forense (UIF), nell'ambito dell'esame dello schema di decreto legislativo recante riforma dell'ordinamento forense (Atto n. 450)",
    "seduta": "Seduta del 03/11/2026",
    "data": "2026-11-03",
    "ora": "11:27",
@@ -306,7 +345,7 @@
    "materia": "Giustizia",
    "titolo": "A.G. 450 - Memoria di AIGA",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di rappresentanti dell’Organismo Congressuale Forense (OCF), del Movimento Forense (MF), dell’Associazione Italiana Giovani Avvocati (AIGA), dell’Associazione Nazionale Forense (ANF) e dell’Unione Italiana Forense (UIF), nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "contesto": "Audizione informale di rappresentanti dell'Organismo Congressuale Forense (OCF), in videoconferenza, del Movimento Forense (MF), in videoconferenza, dell'Associazione Italiana Giovani Avvocati (AIGA), dell'Associazione Nazionale Forense (ANF) e dell'Unione Italiana Forense (UIF), nell'ambito dell'esame dello schema di decreto legislativo recante riforma dell'ordinamento forense (Atto n. 450)",
    "seduta": "Seduta del 03/11/2026",
    "data": "2026-11-03",
    "ora": "11:27",
@@ -325,7 +364,7 @@
    "materia": "Giustizia",
    "titolo": "A.G. 450 - Memoria di Andrea Pasqualin (Unione Triveneta)",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di Sergio Paparo, presidente del Consiglio dell'Ordine degli Avvocati di Firenze, Andrea Pasqualin, presidente dell’Unione Triveneta dei Consigli degli Ordini degli Avvocati, Cosimo Matteucci, presidente di MGA-Sindacato nazionale forense, nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "contesto": "Audizione informale, in videoconferenza, di Sergio Paparo, presidente del consiglio dell'ordine degli avvocati di Firenze, di Andrea Pasqualin, presidente dell'unione triveneta dei consigli degli ordini degli avvocati, e di rappresentanti di MGA-Sindacato nazionale forense, nell'ambito dell'esame dello schema di decreto legislativo recante riforma dell'ordinamento forense (Atto n. 450)",
    "seduta": "Seduta del 03/11/2026",
    "data": "2026-11-03",
    "ora": "11:26",
@@ -344,7 +383,7 @@
    "materia": "Giustizia",
    "titolo": "A.G. 450 - Memoria di Sergio Paparo (Consiglio Ordine Avvocati Firenze)",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di Sergio Paparo, presidente del Consiglio dell'Ordine degli Avvocati di Firenze, Andrea Pasqualin, presidente dell’Unione Triveneta dei Consigli degli Ordini degli Avvocati, Cosimo Matteucci, presidente di MGA-Sindacato nazionale forense, nell’ambito dell’esame dello Schema di decreto legislativo recante riforma dell’ordinamento forense (Atto n. 450).",
+   "contesto": "Audizione informale, in videoconferenza, di Sergio Paparo, presidente del consiglio dell'ordine degli avvocati di Firenze, di Andrea Pasqualin, presidente dell'unione triveneta dei consigli degli ordini degli avvocati, e di rappresentanti di MGA-Sindacato nazionale forense, nell'ambito dell'esame dello schema di decreto legislativo recante riforma dell'ordinamento forense (Atto n. 450)",
    "seduta": "Seduta del 03/11/2026",
    "data": "2026-11-03",
    "ora": "11:25",
@@ -363,7 +402,7 @@
    "materia": "Economico",
    "titolo": "Consiglio nazionale dell’ordine dei consulenti del lavoro",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di rappresentanti della Federazione italiana gestori impianti stradali carburanti (FIGISC-Confcommercio), in videoconferenza, di rappresentanti del Consiglio nazionale dell'ordine dei consulenti del lavoro, di rappresentanti dell’Alleanza delle Cooperative italiane, di rappresentanti dell’Associazione nazionale per l'industria e il terziario (ANPIT), di rappresentanti della Federazione italiana gestori carburanti e affini (FEGICA), di rappresentanti della Federazione italiana benzinai (FAIB), di rappresentanti del Consiglio nazionale dottori commercialisti ed esperti contab",
+   "contesto": "Audizione informale di rappresentanti della Federazione italiana gestori impianti stradali carburanti (FIGISC-Confcommercio), in videoconferenza, di rappresentanti del Consiglio nazionale dell'ordine dei consulenti del lavoro, di rappresentanti dell'Alleanza delle Cooperative italiane, di rappresentanti dell'Associazione nazionale per l'industria e il terziario (ANPIT), di rappresentanti della Federazione italiana gestori carburanti e affini (FEGICA), di rappresentanti della Federazione italiana benzinai (FAIB), di rappresentanti del Consiglio nazionale dottori commercialisti ed esperti contab",
    "seduta": "Seduta del 03/11/2026",
    "data": "2026-11-03",
    "ora": "10:31",
@@ -428,7 +467,7 @@
    "materia": "Economico",
    "titolo": "Unem",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di rappresentanti della Federazione italiana gestori impianti stradali carburanti (FIGISC-Confcommercio), in videoconferenza, di rappresentanti del Consiglio nazionale dell'ordine dei consulenti del lavoro, di rappresentanti dell’Alleanza delle Cooperative italiane, di rappresentanti dell’Associazione nazionale per l'industria e il terziario (ANPIT), di rappresentanti della Federazione italiana gestori carburanti e affini (FEGICA), di rappresentanti della Federazione italiana benzinai (FAIB), di rappresentanti del Consiglio nazionale dottori commercialisti ed esperti contab",
+   "contesto": "Audizione informale di rappresentanti della Federazione italiana gestori impianti stradali carburanti (FIGISC-Confcommercio), in videoconferenza, di rappresentanti del Consiglio nazionale dell'ordine dei consulenti del lavoro, di rappresentanti dell'Alleanza delle Cooperative italiane, di rappresentanti dell'Associazione nazionale per l'industria e il terziario (ANPIT), di rappresentanti della Federazione italiana gestori carburanti e affini (FEGICA), di rappresentanti della Federazione italiana benzinai (FAIB), di rappresentanti del Consiglio nazionale dottori commercialisti ed esperti contab",
    "seduta": "Seduta del 03/11/2026",
    "data": "2026-11-02",
    "ora": "17:51",
