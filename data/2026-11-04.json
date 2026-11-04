@@ -1,14 +1,282 @@
 {
   "date": "2026-11-04",
   "giorno": "mercoledì",
-  "updatedAt": "2026-11-04T11:49:44Z",
+  "updatedAt": "2026-11-04T23:30:24Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "nessuna_legge_interesse",
   "numero_gu": "257",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-04&numeroGazzetta=257",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/04/257/sg/pdf",
+  "sintesi": "L'edizione odierna della Gazzetta Ufficiale Serie Generale n. 257 del 4 novembre 2026 presenta un'ampia serie di decreti ministeriali e comunicati, focalizzandosi principalmente su aspetti economico-finanziari e amministrativi. Si segnalano in particolare le riaperture delle sottoscrizioni per vari titoli di Stato e l'approvazione di un programma di interventi per la riqualificazione sismica degli edifici pubblici. Sono presenti anche atti relativi al settore agricolo e alla sanità, con autorizzazioni e modifiche per medicinali.",
   "schede": [],
-  "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "scartate": [
+    {
+      "codice_atto": "26A05729",
+      "materia": "Agricoltura e produzione alimentare",
+      "titolo": "DECRETO 28 ottobre 2026 Modifica ordinaria al disciplinare di produzione della indicazione geografica protetta «Uva di Puglia».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05729/sg"
+    },
+    {
+      "codice_atto": "26A05621",
+      "materia": "Sanità e farmaci",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di decitabina, «Decitabina Seacross».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05621/sg"
+    },
+    {
+      "codice_atto": "26A05622",
+      "materia": "Sanità e farmaci",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di ruxolitinib, «Ruxolitinib Sandoz».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05622/sg"
+    },
+    {
+      "codice_atto": "26A05623",
+      "materia": "Sanità e farmaci",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di ibuprofene, «Ibuprofene Sandoz BV».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05623/sg"
+    },
+    {
+      "codice_atto": "26A05624",
+      "materia": "Sanità e farmaci",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di brinzolamide, «Brinzolamide Sandoz Gmbh».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05624/sg"
+    },
+    {
+      "codice_atto": "26A05732",
+      "materia": "Sanità e farmaci",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di dolutegravir, «Dolutegravir Teva».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05732/sg"
+    },
+    {
+      "codice_atto": "26A05742",
+      "materia": "Sanità e farmaci",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Gelistrol»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05742/sg"
+    },
+    {
+      "codice_atto": "26A05743",
+      "materia": "Sanità e farmaci",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Acido Acetilsalicilico Aurobindo».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05743/sg"
+    },
+    {
+      "codice_atto": "26A05745",
+      "materia": "Sanità e farmaci",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Glucosamina Solfato EG».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05745/sg"
+    },
+    {
+      "codice_atto": "26A05746",
+      "materia": "Sanità e farmaci",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Atorvastatina Pensa».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05746/sg"
+    },
+    {
+      "codice_atto": "26A05747",
+      "materia": "Sanità e farmaci",
+      "titolo": "COMUNICATO Sospensione dell'autorizzazione alla produzione di medicinali per terapie avanzate preparati su base non ripetitiva per uso umano, rilasciata alla societa' Fondazione Banca degli occhi del Veneto ETS.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05747/sg"
+    },
+    {
+      "codice_atto": "26A05734",
+      "materia": "Affari Esteri",
+      "titolo": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO Rilascio di exequatur",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05734/sg"
+    },
+    {
+      "codice_atto": "26A05733",
+      "materia": "Cultura",
+      "titolo": "MINISTERO DELLA CULTURA - COMUNICATO Fondo per la promozione della lettura, della tutela e della valorizzazione del patrimonio librario - Assegnazione dei finanziamenti per l'anno finanziario 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05733/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A05731",
+      "categoria": "Economico",
+      "titolo": "DECRETO 7 ottobre 2026 Modifiche al decreto 27 settembre 2023, recante: «Disposizioni nazionali in materia di riconoscimento e controllo delle organizzazioni di produttori \"ortofrutticoli\" e loro associazioni, di fondi di esercizio e programmi operativi previsti dall'intervento settoriale ortofrutticoli del Piano strategico della PAC (PSP)».",
+      "sintesi": "Modifica le disposizioni nazionali per il riconoscimento e controllo delle organizzazioni di produttori ortofrutticoli e le relative associazioni, nonché i fondi di esercizio e programmi operativi nell'ambito del Piano strategico della PAC.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05731/sg"
+    },
+    {
+      "codice_atto": "26A05730",
+      "categoria": "Energia e Ambiente",
+      "titolo": "DECRETO 13 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «SAGEA», in Castagnito d'Alba, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia e alla determinazione dell'entita' dei residui di prodotti fitosanitari.",
+      "sintesi": "Riconosce l'idoneità al Centro di saggio «SAGEA» per condurre prove ufficiali di campo su efficacia e residui di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05730/sg"
+    },
+    {
+      "codice_atto": "26A05740",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 28 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni ordinari del Tesoro a 133 giorni, terza e quarta tranche.",
+      "sintesi": "Riapre le operazioni di sottoscrizione per la terza e quarta tranche dei Buoni Ordinari del Tesoro a 133 giorni.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05740/sg"
+    },
+    {
+      "codice_atto": "26A05741",
+      "categoria": "Economico",
+      "titolo": "DECRETO 28 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni ordinari del Tesoro a 45 giorni, quinta e sesta tranche.",
+      "sintesi": "Riapre le operazioni di sottoscrizione per la quinta e sesta tranche dei Buoni Ordinari del Tesoro a 45 giorni.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05741/sg"
+    },
+    {
+      "codice_atto": "26A05780",
+      "categoria": "Economico",
+      "titolo": "DECRETO 29 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 3,95%, con godimento 1° ottobre 2026 e scadenza 1° febbraio 2032, terza e quarta tranche.",
+      "sintesi": "Riapre le operazioni di sottoscrizione per la terza e quarta tranche dei Buoni del Tesoro Poliennali 3,95% (godimento 1° ottobre 2026, scadenza 1° febbraio 2032).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05780/sg"
+    },
+    {
+      "codice_atto": "26A05781",
+      "categoria": "Economico",
+      "titolo": "DECRETO 29 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 3,50%, con godimento 16 gennaio 2024 e scadenza 15 febbraio 2031, ottava e nona tranche.",
+      "sintesi": "Riapre le operazioni di sottoscrizione per l'ottava e nona tranche dei Buoni del Tesoro Poliennali 3,50% (godimento 16 gennaio 2024, scadenza 15 febbraio 2031).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05781/sg"
+    },
+    {
+      "codice_atto": "26A05728",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA PROTEZIONE CIVILE - DECRETO 6 agosto 2026 Approvazione del secondo programma degli interventi di riqualificazione sismica degli edifici pubblici, ai sensi dell'articolo 9-ter, commi 2, lettera a), numero 1), e 3, del decreto-legge 11 giugno 2024, n. 76, convertito, con modificazioni, dalla legge 8 agosto 2024, n. 111.",
+      "sintesi": "Approva il secondo programma di interventi per la riqualificazione sismica degli edifici pubblici, come previsto dal D.L. 76/2024.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05728/sg"
+    },
+    {
+      "codice_atto": "26A05760",
+      "categoria": "Economico",
+      "titolo": "CAMERA DI COMMERCIO INDUSTRIA ARTIGIANATO E AGRICOLTURA DEL GRAN SASSO D'ITALIA - COMUNICATO Provvedimento concernente i marchi di identificazione dei metalli preziosi",
+      "sintesi": "Comunica provvedimenti relativi ai marchi di identificazione dei metalli preziosi per la Camera di Commercio del Gran Sasso d'Italia.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05760/sg"
+    },
+    {
+      "codice_atto": "26A05758",
+      "categoria": "Economico",
+      "titolo": "CAMERA DI COMMERCIO DI NAPOLI - COMUNICATO Provvedimento concernente i marchi di identificazione dei metalli preziosi",
+      "sintesi": "Comunica provvedimenti relativi ai marchi di identificazione dei metalli preziosi per la Camera di Commercio di Napoli.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05758/sg"
+    },
+    {
+      "codice_atto": "26A05759",
+      "categoria": "Economico",
+      "titolo": "COMUNICATO Provvedimenti concernenti i marchi di identificazione dei metalli preziosi",
+      "sintesi": "Comunica provvedimenti relativi ai marchi di identificazione dei metalli preziosi.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05759/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26A05731",
+      "titolo": "DECRETO 7 ottobre 2026 Modifiche al decreto 27 settembre 2023, recante: «Disposizioni nazionali in materia di riconoscimento e controllo delle organizzazioni di produttori \"ortofrutticoli\" e loro associazioni, di fondi di esercizio e programmi operativi previsti dall'intervento settoriale ortofrutticoli del Piano strategico della PAC (PSP)».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05731/sg"
+    },
+    {
+      "codice": "26A05730",
+      "titolo": "DECRETO 13 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «SAGEA», in Castagnito d'Alba, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia e alla determinazione dell'entita' dei residui di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05730/sg"
+    },
+    {
+      "codice": "26A05729",
+      "titolo": "DECRETO 28 ottobre 2026 Modifica ordinaria al disciplinare di produzione della indicazione geografica protetta «Uva di Puglia».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05729/sg"
+    },
+    {
+      "codice": "26A05740",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 28 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni ordinari del Tesoro a 133 giorni, terza e quarta tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05740/sg"
+    },
+    {
+      "codice": "26A05741",
+      "titolo": "DECRETO 28 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni ordinari del Tesoro a 45 giorni, quinta e sesta tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05741/sg"
+    },
+    {
+      "codice": "26A05780",
+      "titolo": "DECRETO 29 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 3,95%, con godimento 1° ottobre 2026 e scadenza 1° febbraio 2032, terza e quarta tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05780/sg"
+    },
+    {
+      "codice": "26A05781",
+      "titolo": "DECRETO 29 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 3,50%, con godimento 16 gennaio 2024 e scadenza 15 febbraio 2031, ottava e nona tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05781/sg"
+    },
+    {
+      "codice": "26A05728",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA PROTEZIONE CIVILE - DECRETO 6 agosto 2026 Approvazione del secondo programma degli interventi di riqualificazione sismica degli edifici pubblici, ai sensi dell'articolo 9-ter, commi 2, lettera a), numero 1), e 3, del decreto-legge 11 giugno 2024, n. 76, convertito, con modificazioni, dalla legge 8 agosto 2024, n. 111.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05728/sg"
+    },
+    {
+      "codice": "26A05621",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di decitabina, «Decitabina Seacross».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05621/sg"
+    },
+    {
+      "codice": "26A05622",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di ruxolitinib, «Ruxolitinib Sandoz».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05622/sg"
+    },
+    {
+      "codice": "26A05623",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di ibuprofene, «Ibuprofene Sandoz BV».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05623/sg"
+    },
+    {
+      "codice": "26A05624",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di brinzolamide, «Brinzolamide Sandoz Gmbh».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05624/sg"
+    },
+    {
+      "codice": "26A05732",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di dolutegravir, «Dolutegravir Teva».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05732/sg"
+    },
+    {
+      "codice": "26A05742",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Gelistrol»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05742/sg"
+    },
+    {
+      "codice": "26A05743",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Acido Acetilsalicilico Aurobindo».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05743/sg"
+    },
+    {
+      "codice": "26A05745",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Glucosamina Solfato EG».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05745/sg"
+    },
+    {
+      "codice": "26A05746",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Atorvastatina Pensa».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05746/sg"
+    },
+    {
+      "codice": "26A05747",
+      "titolo": "COMUNICATO Sospensione dell'autorizzazione alla produzione di medicinali per terapie avanzate preparati su base non ripetitiva per uso umano, rilasciata alla societa' Fondazione Banca degli occhi del Veneto ETS.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05747/sg"
+    },
+    {
+      "codice": "26A05760",
+      "titolo": "CAMERA DI COMMERCIO INDUSTRIA ARTIGIANATO E AGRICOLTURA DEL GRAN SASSO D'ITALIA - COMUNICATO Provvedimento concernente i marchi di identificazione dei metalli preziosi",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05760/sg"
+    },
+    {
+      "codice": "26A05758",
+      "titolo": "CAMERA DI COMMERCIO DI NAPOLI - COMUNICATO Provvedimento concernente i marchi di identificazione dei metalli preziosi",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05758/sg"
+    },
+    {
+      "codice": "26A05759",
+      "titolo": "COMUNICATO Provvedimenti concernenti i marchi di identificazione dei metalli preziosi",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05759/sg"
+    },
+    {
+      "codice": "26A05734",
+      "titolo": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO Rilascio di exequatur",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05734/sg"
+    },
+    {
+      "codice": "26A05733",
+      "titolo": "MINISTERO DELLA CULTURA - COMUNICATO Fondo per la promozione della lettura, della tutela e della valorizzazione del patrimonio librario - Assegnazione dei finanziamenti per l'anno finanziario 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/04/26A05733/sg"
+    }
+  ]
 }
