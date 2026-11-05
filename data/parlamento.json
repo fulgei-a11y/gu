@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-04T23:30:52Z",
+ "aggiornato": "2026-11-04T23:59:09Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-04T23:59:09Z",
+   "nuovi": 0
+  },
   {
    "quando": "2026-11-04T23:30:52Z",
    "nuovi": 3
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-28T18:42:17Z",
    "nuovi": 5
-  },
-  {
-   "quando": "2026-10-28T11:33:38Z",
-   "nuovi": 4
   }
  ],
  "fonti": [
@@ -156,8 +156,8 @@
    "id": "comm8",
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
-   "ok": true,
-   "trovati": 1628
+   "ok": false,
+   "errore": "nessun documento riconosciuto: la struttura della pagina potrebbe essere cambiata"
   },
   {
    "id": "comm10",
@@ -453,12 +453,11 @@
   {
    "id": "c-491861d4b2e8f8",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Elettricità futura",
    "tipo": "Contributo scritto",
    "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
@@ -466,7 +465,7 @@
    "data": "2026-11-03",
    "ora": "10:05",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.03-11-2026-10-05-12.174.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "A.G. 446",
    "visto": "2026-11-03T11:43:02Z"
   },
@@ -627,12 +626,11 @@
   {
    "id": "c-8132c230475178",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "ISPRA",
    "tipo": "Contributo scritto",
    "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
@@ -640,19 +638,18 @@
    "data": "2026-11-02",
    "ora": "12:22",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.02-11-2026-12-22-21.745.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "A.G. 446",
    "visto": "2026-11-02T11:59:20Z"
   },
   {
    "id": "c-151252571f4cc4",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Confindustria",
    "tipo": "Contributo scritto",
    "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
@@ -660,7 +657,7 @@
    "data": "2026-11-02",
    "ora": "12:16",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/AttodelGoverno/leg19.com10.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.02-11-2026-12-16-33.767.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "A.G. 446",
    "visto": "2026-11-02T11:59:20Z"
   },
@@ -826,12 +823,11 @@
   {
    "id": "c-6bc0c862a3e09e",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "RINA",
    "tipo": "Contributo scritto",
    "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
@@ -839,19 +835,18 @@
    "data": "2026-10-30",
    "ora": "18:13",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.30-10-2026-18-13-54.608.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "A.G. 446",
    "visto": "2026-10-30T18:41:02Z"
   },
   {
    "id": "c-806cdcaaf5f876",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Italia Solare",
    "tipo": "Contributo scritto",
    "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
@@ -859,7 +854,7 @@
    "data": "2026-10-30",
    "ora": "18:11",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.30-10-2026-18-11-36.201.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "A.G. 446",
    "visto": "2026-10-30T18:41:02Z"
   },
@@ -885,12 +880,11 @@
   {
    "id": "c-dfe24c80a73b05",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "CNR_DIITET",
    "tipo": "Contributo scritto",
    "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
@@ -898,7 +892,7 @@
    "data": "2026-10-30",
    "ora": "13:21",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.30-10-2026-13-21-53.129.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "A.G. 446",
    "visto": "2026-10-30T18:41:02Z"
   },
@@ -1002,12 +996,11 @@
   {
    "id": "c-0d8be92e6dd2a0",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "H2IT",
    "tipo": "Contributo scritto",
    "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
@@ -1015,19 +1008,18 @@
    "data": "2026-10-30",
    "ora": "09:46",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.30-10-2026-09-46-52.881.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "A.G. 446",
    "visto": "2026-10-30T11:29:03Z"
   },
   {
    "id": "c-cd127c063ed8d8",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Confartigianato e CNA",
    "tipo": "Contributo scritto",
    "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
@@ -1035,7 +1027,7 @@
    "data": "2026-10-30",
    "ora": "09:06",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.30-10-2026-09-06-24.407.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "A.G. 446",
    "visto": "2026-10-30T11:29:03Z"
   },
@@ -1055,12 +1047,11 @@
   {
    "id": "c-c36dfa4c275129",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "CGIL",
    "tipo": "Contributo scritto",
    "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
@@ -1068,19 +1059,18 @@
    "data": "2026-10-29",
    "ora": "16:30",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.29-10-2026-16-30-43.056.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "A.G. 446",
    "visto": "2026-10-29T18:44:59Z"
   },
   {
    "id": "c-bb1a5f1aadc020",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "SNAM",
    "tipo": "Contributo scritto",
    "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
@@ -1088,7 +1078,7 @@
    "data": "2026-10-29",
    "ora": "13:02",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.29-10-2026-13-02-55.670.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "A.G. 446",
    "visto": "2026-10-29T18:44:59Z"
   },
@@ -1153,12 +1143,11 @@
   {
    "id": "c-3bf68634c7a0de",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "UIL",
    "tipo": "Contributo scritto",
    "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
@@ -1166,7 +1155,7 @@
    "data": "2026-10-28",
    "ora": "14:24",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/AttodelGoverno/leg19.com08.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.28-10-2026-14-24-37.873.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "A.G. 446",
    "visto": "2026-10-28T18:42:17Z"
   },
@@ -1851,12 +1840,11 @@
   {
    "id": "c-f9cdc72217a4f8",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Faib-Fegica (Memoria)",
    "tipo": "Contributo scritto",
    "contesto": "A.C. 3148 - S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" (approvato dal Senato) (3148)",
@@ -1864,19 +1852,18 @@
    "data": "2026-10-23",
    "ora": "12:25",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103144.23-10-2026-12-25-03.328.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "C. 3148",
    "visto": "2026-10-23T11:25:44Z"
   },
   {
    "id": "c-150d19dde20672",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Faib-Fegica (Slide)",
    "tipo": "Contributo scritto",
    "contesto": "A.C. 3148 - S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" (approvato dal Senato) (3148)",
@@ -1884,7 +1871,7 @@
    "data": "2026-10-23",
    "ora": "12:25",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103144.23-10-2026-12-25-03.410.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "C. 3148",
    "visto": "2026-10-23T11:25:44Z"
   },
@@ -1961,12 +1948,11 @@
   {
    "id": "c-cca74ab54ffd2d",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "X Attività produttive",
    "commissioni": [
-    "VIII",
     "X"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "ECCO Climate",
    "tipo": "Contributo scritto",
    "contesto": "A.C. 3148 - S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" (approvato dal Senato) (3148)",
@@ -1974,7 +1960,7 @@
    "data": "2026-10-22",
    "ora": "15:22",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Progettodilegge/leg19.com08.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103144.22-10-2026-15-22-36.398.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "atto": "C. 3148",
    "visto": "2026-10-22T19:08:06Z"
   },
@@ -5547,8 +5533,7 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V",
-    "VIII"
+    "V"
    ],
    "materia": "Economico",
    "titolo": "Contributo scritto UIL scuola",
@@ -5588,8 +5573,7 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V",
-    "VIII"
+    "V"
    ],
    "materia": "Economico",
    "titolo": "Conferenza unificata",
@@ -5769,8 +5753,7 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V",
-    "VIII"
+    "V"
    ],
    "materia": "Economico",
    "titolo": "Contributo scritto FLEPAR",
@@ -5850,8 +5833,7 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V",
-    "VIII"
+    "V"
    ],
    "materia": "Economico",
    "titolo": "Contributo scritto Rete professioni tecniche",
@@ -5871,8 +5853,7 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V",
-    "VIII"
+    "V"
    ],
    "materia": "Economico",
    "titolo": "Autorità nazionale anticorruzione (ANAC)",
@@ -5892,8 +5873,7 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V",
-    "VIII"
+    "V"
    ],
    "materia": "Economico",
    "titolo": "Proposte emendative UNCEM",
@@ -5913,8 +5893,7 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V",
-    "VIII"
+    "V"
    ],
    "materia": "Economico",
    "titolo": "Memoria Confagricoltura",
@@ -5934,8 +5913,7 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V",
-    "VIII"
+    "V"
    ],
    "materia": "Economico",
    "titolo": "Memoria Unitaria CNI, CNAPPC e CNGeGL",
@@ -5995,8 +5973,7 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V",
-    "VIII"
+    "V"
    ],
    "materia": "Economico",
    "titolo": "Documento Conferenza delle regioni",
@@ -6016,8 +5993,7 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V",
-    "VIII"
+    "V"
    ],
    "materia": "Economico",
    "titolo": "Memoria CGIL",
@@ -6037,8 +6013,7 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V",
-    "VIII"
+    "V"
    ],
    "materia": "Economico",
    "titolo": "UGL",
@@ -6058,8 +6033,7 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V",
-    "VIII"
+    "V"
    ],
    "materia": "Economico",
    "titolo": "Memoria Salutequità",
