@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-05T00:45:44Z",
+ "aggiornato": "2026-11-05T18:32:00Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-05T18:32:00Z",
+   "nuovi": 35
+  },
   {
    "quando": "2026-11-05T00:45:44Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-28T20:33:26Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-28T19:34:09Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -136,7 +136,7 @@
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
-   "trovati": 882
+   "trovati": 884
   },
   {
    "id": "comm5",
@@ -157,17 +157,684 @@
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1628
+   "trovati": 1632
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
-   "trovati": 1678
+   "trovati": 1709
   }
  ],
  "voci": [
+  {
+   "id": "c-1c0273ce2206be",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Conflavoro",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "18:02",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-18-02-09.252.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-8eec3259b62d14",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Movimento Consumatori",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "17:57",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-17-57-07.348.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-f8763f41dafec8",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "OCTO",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "17:57",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-17-57-44.705.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-35ce5ff238b9f2",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Federconsumatori",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "17:56",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-17-56-06.616.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-78d1e3caf444cb",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Enea",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "14:16",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/AttodelGoverno/leg19.com10.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.05-11-2026-14-16-19.937.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-2af81cc1c49bfa",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Confcommercio",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale, in videoconferenza, di rappresentanti di Confcommercio, nell'ambito dell'esame, in sede referente, della proposta di legge C. 2410 Andreuzza, recante «Istituzione della qualifica di comunità marina o lacuale e disposizioni per il sostegno dell'erogazione dei servizi pubblici nei comuni»",
+   "seduta": "Seduta del 27/10/2026",
+   "data": "2026-11-05",
+   "ora": "13:25",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.103813.05-11-2026-13-25-25.210.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 2410",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-2963db62bbd7bb",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Adiconsum",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:24",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-24-19.768.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-9a9bf97b735d24",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Prima Assicurazioni",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:20",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-20-21.818.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-4e22d4e12d4df9",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Associazione Radio Domani",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:20",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-20-47.208.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-0ac88cd295895f",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Assocostieri",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:19",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-19-15.554.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-07d67aa92f7d8c",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Confimprese",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:19",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-19-56.403.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-2ca2b3d3c9ef3a",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "MRights e Artisti 7607",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:18",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-18-43.964.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-44eab6839e0782",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "ANAMA - Associazione nazionale agenti e mediatori d’Affari",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:17",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-17-12.087.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-d3a763990434fd",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Confartigianato - CNA - Casartigiani",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:15",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-15-19.740.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-8684fbe8040cc3",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "ASSOCOMPARA",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:14",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-14-03.277.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-3f8690823ad1fc",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Federdistribuzione",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:14",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-14-52.698.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-e50192fab6af4d",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "ANIA - Associazione nazionale fra le imprese assicuratrici",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:13",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-13-36.238.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-87bf33898a2af9",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "AIIP - Associazione italiana internet provider",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:12",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-12-06.010.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-1ec7d9c4ec49bb",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Udicon",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:11",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-11-18.962.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-8e0167cf53c907",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Udicon (approfondimento)",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:11",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-11-18.981.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-e3e1eaecfa3303",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "UNRL - Unione nazionale revisori legali (nota integrativa)",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:09",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-09-33.647.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-ea921171e5bcc9",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Altroconsumo",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "13:08",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.05-11-2026-13-08-30.522.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-b3bdc8dca74a8f",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "CNDCEC",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti della Federazione italiana gestori impianti stradali carburanti (FIGISC-Confcommercio), in videoconferenza, di rappresentanti del Consiglio nazionale dell'ordine dei consulenti del lavoro, di rappresentanti dell'Alleanza delle Cooperative italiane, di rappresentanti dell'Associazione nazionale per l'industria e il terziario (ANPIT), di rappresentanti della Federazione italiana gestori carburanti e affini (FEGICA), di rappresentanti della Federazione italiana benzinai (FAIB), di rappresentanti del Consiglio nazionale dottori commercialisti ed esperti contab",
+   "seduta": "Seduta del 03/11/2026",
+   "data": "2026-11-05",
+   "ora": "13:06",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.104904.05-11-2026-13-06-01.729.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-ce916c60f2ddd2",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Alleanza delle cooperative italiane",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti della Federazione italiana gestori impianti stradali carburanti (FIGISC-Confcommercio), in videoconferenza, di rappresentanti del Consiglio nazionale dell'ordine dei consulenti del lavoro, di rappresentanti dell'Alleanza delle Cooperative italiane, di rappresentanti dell'Associazione nazionale per l'industria e il terziario (ANPIT), di rappresentanti della Federazione italiana gestori carburanti e affini (FEGICA), di rappresentanti della Federazione italiana benzinai (FAIB), di rappresentanti del Consiglio nazionale dottori commercialisti ed esperti contab",
+   "seduta": "Seduta del 03/11/2026",
+   "data": "2026-11-05",
+   "ora": "13:06",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.104904.05-11-2026-13-06-52.358.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-7c6d1e410667fd",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "ENEA",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti del Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica, in videoconferenza, di rappresentanti dell'Autorità di bacino distrettuale dell'Appennino centrale, dell'Autorità di bacino distrettuale dell'Appennino meridionale, dell'Autorità di bacino distrettuale dell'Appennino settentrionale, dell'Autorità di bacino distrettuale delle Alpi orientali e dell'Autorità di bacino distrettuale del fiume Po, in videoconferenza, di rappresentanti della Cabina di Regia per l'interazione del Sistema nazionale prevenzione salute",
+   "seduta": "Seduta del 27/10/2026",
+   "data": "2026-11-05",
+   "ora": "11:59",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.103834.05-11-2026-11-59-14.313.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-a79a30d1b917c0",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Legambiente",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti del Comieco - Consorzio nazionale per il recupero e il riciclo degli imballaggi a base cellulosica, in videoconferenza, di rappresentanti dell'Autorità di bacino distrettuale dell'Appennino centrale, dell'Autorità di bacino distrettuale dell'Appennino meridionale, dell'Autorità di bacino distrettuale dell'Appennino settentrionale, dell'Autorità di bacino distrettuale delle Alpi orientali e dell'Autorità di bacino distrettuale del fiume Po, in videoconferenza, di rappresentanti della Cabina di Regia per l'interazione del Sistema nazionale prevenzione salute",
+   "seduta": "Seduta del 27/10/2026",
+   "data": "2026-11-05",
+   "ora": "11:59",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.103834.05-11-2026-11-59-45.484.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3133",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-ae9e747be59296",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "A.G. 450 - Contributo scritto Unione Ordini Forensi Lazio",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 450 - Schema di decreto legislativo recante riforma dell'ordinamento forense (450)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "11:53",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/AttodelGoverno/leg19.com02.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.104095.05-11-2026-11-53-25.354.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "A.G. 450",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-90e23ff9e42953",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "A.G. 450 - Contributo scritto Unione Ordini Forensi Lazio",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 450 - Schema di decreto legislativo recante riforma dell'ordinamento forense (450)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "11:53",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/AttodelGoverno/leg19.com02.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.104095.05-11-2026-11-53-25.418.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "A.G. 450",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-6f50de5f4fc14c",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII",
+    "X"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "ANEV",
+   "tipo": "Contributo scritto",
+   "contesto": "A.G. 446 - Schema di decreto legislativo recante adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare lecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724 (446)",
+   "seduta": "",
+   "data": "2026-11-05",
+   "ora": "11:26",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/AttodelGoverno/leg19.com10.AttodelGoverno.Contributo%20Scritto.PUBBLICO.ideGes.102716.05-11-2026-11-26-15.709.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "A.G. 446",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-d7df6dcef5d3be",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Assopetroli-Assoenergia",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti di Confimprese, in videoconferenza, di rappresentanti di Confindustria nautica, di rappresentanti di Assopetroli-Assoenergia, in videoconferenza, di rappresentanti di Federchimica-Assogasliquidi, in videoconferenza, e di rappresentanti della Federazione italiana agenti immobiliari professionali (FIAIP) e di rappresentanti della Federazione italiana mediatori agenti d'affari (FIMAA), anche in videoconferenza, nell'ambito dell'esame, in sede referente, del disegno di legge C. 3120, recante legge annuale per il mercato e la concorrenza 2026",
+   "seduta": "Seduta del 04/11/2026",
+   "data": "2026-11-05",
+   "ora": "11:20",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.104954.05-11-2026-11-20-55.902.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-97fe9216269976",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Confimprese",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti di Confimprese, in videoconferenza, di rappresentanti di Confindustria nautica, di rappresentanti di Assopetroli-Assoenergia, in videoconferenza, di rappresentanti di Federchimica-Assogasliquidi, in videoconferenza, e di rappresentanti della Federazione italiana agenti immobiliari professionali (FIAIP) e di rappresentanti della Federazione italiana mediatori agenti d'affari (FIMAA), anche in videoconferenza, nell'ambito dell'esame, in sede referente, del disegno di legge C. 3120, recante legge annuale per il mercato e la concorrenza 2026",
+   "seduta": "Seduta del 04/11/2026",
+   "data": "2026-11-05",
+   "ora": "11:20",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.104954.05-11-2026-11-20-55.947.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-f74c685e91513f",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Confindustria nautica",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti di Confimprese, in videoconferenza, di rappresentanti di Confindustria nautica, di rappresentanti di Assopetroli-Assoenergia, in videoconferenza, di rappresentanti di Federchimica-Assogasliquidi, in videoconferenza, e di rappresentanti della Federazione italiana agenti immobiliari professionali (FIAIP) e di rappresentanti della Federazione italiana mediatori agenti d'affari (FIMAA), anche in videoconferenza, nell'ambito dell'esame, in sede referente, del disegno di legge C. 3120, recante legge annuale per il mercato e la concorrenza 2026",
+   "seduta": "Seduta del 04/11/2026",
+   "data": "2026-11-05",
+   "ora": "11:20",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.104954.05-11-2026-11-20-55.964.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-8f4f9c17ae7715",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Federchimica-Assogasliquidi",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti di Confimprese, in videoconferenza, di rappresentanti di Confindustria nautica, di rappresentanti di Assopetroli-Assoenergia, in videoconferenza, di rappresentanti di Federchimica-Assogasliquidi, in videoconferenza, e di rappresentanti della Federazione italiana agenti immobiliari professionali (FIAIP) e di rappresentanti della Federazione italiana mediatori agenti d'affari (FIMAA), anche in videoconferenza, nell'ambito dell'esame, in sede referente, del disegno di legge C. 3120, recante legge annuale per il mercato e la concorrenza 2026",
+   "seduta": "Seduta del 04/11/2026",
+   "data": "2026-11-05",
+   "ora": "11:20",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.104954.05-11-2026-11-20-55.980.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-1f66e91b68bd09",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "FIAIP",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti di Confimprese, in videoconferenza, di rappresentanti di Confindustria nautica, di rappresentanti di Assopetroli-Assoenergia, in videoconferenza, di rappresentanti di Federchimica-Assogasliquidi, in videoconferenza, e di rappresentanti della Federazione italiana agenti immobiliari professionali (FIAIP) e di rappresentanti della Federazione italiana mediatori agenti d'affari (FIMAA), anche in videoconferenza, nell'ambito dell'esame, in sede referente, del disegno di legge C. 3120, recante legge annuale per il mercato e la concorrenza 2026",
+   "seduta": "Seduta del 04/11/2026",
+   "data": "2026-11-05",
+   "ora": "11:20",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.104954.05-11-2026-11-20-55.996.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
+  {
+   "id": "c-e990cd921b47b2",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "FIMAA",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti di Confimprese, in videoconferenza, di rappresentanti di Confindustria nautica, di rappresentanti di Assopetroli-Assoenergia, in videoconferenza, di rappresentanti di Federchimica-Assogasliquidi, in videoconferenza, e di rappresentanti della Federazione italiana agenti immobiliari professionali (FIAIP) e di rappresentanti della Federazione italiana mediatori agenti d'affari (FIMAA), anche in videoconferenza, nell'ambito dell'esame, in sede referente, del disegno di legge C. 3120, recante legge annuale per il mercato e la concorrenza 2026",
+   "seduta": "Seduta del 04/11/2026",
+   "data": "2026-11-05",
+   "ora": "11:20",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.104954.05-11-2026-11-20-56.012.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-05T18:32:00Z"
+  },
   {
    "id": "d-OCD18-23837",
    "fonte": "dossier",
