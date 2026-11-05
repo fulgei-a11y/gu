@@ -1,14 +1,181 @@
 {
   "date": "2026-11-05",
   "giorno": "giovedì",
-  "updatedAt": "2026-11-05T18:31:59Z",
+  "updatedAt": "2026-11-05T23:30:55Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "nessuna_legge_interesse",
   "numero_gu": "258",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-05&numeroGazzetta=258",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/05/258/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 5 novembre 2026 presenta un focus significativo su atti di natura economica e finanziaria, con particolare riferimento alla riapertura di sottoscrizioni di titoli di Stato e a provvedimenti in ambito agricolo e di gestione del dissesto finanziario degli enti locali. Non sono presenti leggi, decreti-legge o decreti legislativi nelle materie di interesse.",
   "schede": [],
   "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "altri_atti": [
+    {
+      "codice_atto": "26A05738",
+      "categoria": "Economico",
+      "titolo": "DECRETO 7 ottobre 2026 Modifiche al decreto 27 settembre 2023, recante: «Disposizioni nazionali in materia di fondi di esercizio e programmi operativi delle organizzazioni di produttori e loro associazioni del settore delle patate previsti dall'intervento settoriale \"patate\" del Piano strategico della PAC (PSP)».",
+      "sintesi": "Modifica le disposizioni nazionali relative ai fondi di esercizio e ai programmi operativi per le organizzazioni di produttori del settore delle patate, nell'ambito del Piano strategico della PAC.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05738/sg"
+    },
+    {
+      "codice_atto": "26A05761",
+      "categoria": "Economico",
+      "titolo": "DECRETO 28 ottobre 2026 Conferma dell'incarico al Consorzio di tutela del Pistacchio Verde di Bronte D.O.P. a svolgere le funzioni di cui all'articolo 53 della legge 24 aprile 1998, n. 128, come modificato dall'articolo 14, comma 15, della legge 21 dicembre 1999, n. 526 per la DOP «Pistacchio Verde di Bronte».",
+      "sintesi": "Conferma l'incarico al Consorzio di tutela del Pistacchio Verde di Bronte D.O.P. per lo svolgimento delle funzioni previste dalla normativa vigente in materia di denominazioni di origine protetta.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05761/sg"
+    },
+    {
+      "codice_atto": "26A05762",
+      "categoria": "Economico",
+      "titolo": "PROVVEDIMENTO 28 ottobre 2026 Proposta di modifica ordinaria al disciplinare di produzione della denominazione di origine protetta «Sopressa Vicentina».",
+      "sintesi": "Riguarda una proposta di modifica ordinaria al disciplinare di produzione della denominazione di origine protetta «Sopressa Vicentina».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05762/sg"
+    },
+    {
+      "codice_atto": "26A05782",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 29 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 4,00%, con godimento 1° settembre 2026 e scadenza 1° ottobre 2036, quinta e sesta tranche.",
+      "sintesi": "Dispone la riapertura delle operazioni di sottoscrizione per la quinta e sesta tranche dei Buoni del Tesoro Poliennali con tasso del 4,00%, godimento 1° settembre 2026 e scadenza 1° ottobre 2036.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05782/sg"
+    },
+    {
+      "codice_atto": "26A05783",
+      "categoria": "Economico",
+      "titolo": "DECRETO 29 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei certificati di credito del Tesoro indicizzati al tasso Euribor a sei mesi («CCTeu»), con godimento 15 aprile 2026 e scadenza 15 aprile 2036, undicesima e dodicesima tranche.",
+      "sintesi": "Dispone la riapertura delle operazioni di sottoscrizione per l'undicesima e dodicesima tranche dei Certificati di Credito del Tesoro indicizzati al tasso Euribor a sei mesi (CCTeu), con godimento 15 aprile 2026 e scadenza 15 aprile 2036.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05783/sg"
+    },
+    {
+      "codice_atto": "26A05763",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'INTERNO - COMUNICATO Nomina dell'organo straordinario di liquidazione cui affidare la gestione del dissesto finanziario del Comune di Furnari.",
+      "sintesi": "Nomina l'organo straordinario di liquidazione incaricato della gestione del dissesto finanziario del Comune di Furnari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05763/sg"
+    },
+    {
+      "codice_atto": "26A05764",
+      "categoria": "Economico",
+      "titolo": "COMUNICATO Nomina di un nuovo componente dell'organo straordinario di liquidazione cui affidare la gestione del dissesto finanziario del Comune di Sant'Agata de' Goti.",
+      "sintesi": "Nomina un nuovo componente dell'organo straordinario di liquidazione per la gestione del dissesto finanziario del Comune di Sant'Agata de' Goti.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05764/sg"
+    },
+    {
+      "codice_atto": "26A05765",
+      "categoria": "Economico",
+      "titolo": "COMUNICATO Nomina dell'organo straordinario di liquidazione cui affidare la gestione del dissesto finanziario del Comune di Canna.",
+      "sintesi": "Nomina l'organo straordinario di liquidazione incaricato della gestione del dissesto finanziario del Comune di Canna.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05765/sg"
+    },
+    {
+      "codice_atto": "26A05766",
+      "categoria": "Economico",
+      "titolo": "PROVINCIA AUTONOMA DI BOLZANO ALTO ADIGE - COMUNICATO Liquidazione coatta amministrativa della «Perfekta soc. coop.», in Bolzano e nomina del commissario liquidatore.",
+      "sintesi": "Dispone la liquidazione coatta amministrativa della «Perfekta soc. coop.» di Bolzano e nomina il relativo commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05766/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26A05738",
+      "titolo": "DECRETO 7 ottobre 2026 Modifiche al decreto 27 settembre 2023, recante: «Disposizioni nazionali in materia di fondi di esercizio e programmi operativi delle organizzazioni di produttori e loro associazioni del settore delle patate previsti dall'intervento settoriale \"patate\" del Piano strategico della PAC (PSP)».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05738/sg"
+    },
+    {
+      "codice": "26A05761",
+      "titolo": "DECRETO 28 ottobre 2026 Conferma dell'incarico al Consorzio di tutela del Pistacchio Verde di Bronte D.O.P. a svolgere le funzioni di cui all'articolo 53 della legge 24 aprile 1998, n. 128, come modificato dall'articolo 14, comma 15, della legge 21 dicembre 1999, n. 526 per la DOP «Pistacchio Verde di Bronte».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05761/sg"
+    },
+    {
+      "codice": "26A05762",
+      "titolo": "PROVVEDIMENTO 28 ottobre 2026 Proposta di modifica ordinaria al disciplinare di produzione della denominazione di origine protetta «Sopressa Vicentina».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05762/sg"
+    },
+    {
+      "codice": "26A05782",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 29 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 4,00%, con godimento 1° settembre 2026 e scadenza 1° ottobre 2036, quinta e sesta tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05782/sg"
+    },
+    {
+      "codice": "26A05783",
+      "titolo": "DECRETO 29 ottobre 2026 Riapertura delle operazioni di sottoscrizione dei certificati di credito del Tesoro indicizzati al tasso Euribor a sei mesi («CCTeu»), con godimento 15 aprile 2026 e scadenza 15 aprile 2036, undicesima e dodicesima tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05783/sg"
+    },
+    {
+      "codice": "26A05625",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di pazopanib, «Pazopanib Pharmacare».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05625/sg"
+    },
+    {
+      "codice": "26A05744",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio di taluni medicinali per uso umano",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05744/sg"
+    },
+    {
+      "codice": "26A05748",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Diclomed»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05748/sg"
+    },
+    {
+      "codice": "26A05749",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Syntocinon»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05749/sg"
+    },
+    {
+      "codice": "26A05750",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Batiflox»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05750/sg"
+    },
+    {
+      "codice": "26A05751",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Cefepima Noridem»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05751/sg"
+    },
+    {
+      "codice": "26A05752",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di clorexidina gluconato e alcol etilico al 96%, «Clorexifarm Alcolico».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05752/sg"
+    },
+    {
+      "codice": "26A05754",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di lacosamide, «Peleikos»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05754/sg"
+    },
+    {
+      "codice": "26A05755",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di citisiniclina, «Minreksav»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05755/sg"
+    },
+    {
+      "codice": "26A05756",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di atorvastatina, «Atorvastatina Medreg».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05756/sg"
+    },
+    {
+      "codice": "26A05767",
+      "titolo": "COMUNICATO Avviso di pubblicazione di provvedimenti di classificazione e rimborsabilita' di specialita' medicinali, ed atti correlati, sul portale «TrovaNormeFarmaco».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05767/sg"
+    },
+    {
+      "codice": "26A05763",
+      "titolo": "MINISTERO DELL'INTERNO - COMUNICATO Nomina dell'organo straordinario di liquidazione cui affidare la gestione del dissesto finanziario del Comune di Furnari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05763/sg"
+    },
+    {
+      "codice": "26A05764",
+      "titolo": "COMUNICATO Nomina di un nuovo componente dell'organo straordinario di liquidazione cui affidare la gestione del dissesto finanziario del Comune di Sant'Agata de' Goti.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05764/sg"
+    },
+    {
+      "codice": "26A05765",
+      "titolo": "COMUNICATO Nomina dell'organo straordinario di liquidazione cui affidare la gestione del dissesto finanziario del Comune di Canna.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05765/sg"
+    },
+    {
+      "codice": "26A05766",
+      "titolo": "PROVINCIA AUTONOMA DI BOLZANO ALTO ADIGE - COMUNICATO Liquidazione coatta amministrativa della «Perfekta soc. coop.», in Bolzano e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/05/26A05766/sg"
+    }
+  ]
 }
