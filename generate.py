@@ -39,7 +39,10 @@ MAX_PER_RUN = int(os.environ.get("MAX_PER_RUN", "4"))
 FORCE_DATE = os.environ.get("GU_DATE", "").strip()
 RUN_REPORT = os.environ.get("RUN_REPORT", "run_report_generate.json")
 
-MODELS = ["gemini-2.5-flash", "gemini-3.5-flash", "gemini-2.5-pro", "gemini-3.5-flash-lite"]
+# Prima il 2.5, che ha sempre funzionato; se non risponde, i modelli più nuovi del piano gratuito
+MODELS = ["gemini-2.5-flash", "gemini-3.8-flash", "gemini-3.6-flash", "gemini-3.5-flash", "gemini-3.5-flash-lite",
+          "gemini-3.1-flash-lite"]
+GEMINI_SKIP = set()   # modelli senza quota o non disponibili: non si riprovano nello stesso aggiornamento
 GIORNI = ["lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato", "domenica"]
 MESI = ["", "gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
         "agosto", "settembre", "ottobre", "novembre", "dicembre"]
@@ -287,6 +290,8 @@ Restituisci SOLO JSON valido con questa struttura:
 def call_gemini(prompt):
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     for model in MODELS:
+        if model in GEMINI_SKIP:
+            continue
         for attempt in range(3):
             try:
                 print(f"   🤖 {model} (tentativo {attempt + 1})...")
@@ -303,10 +308,12 @@ def call_gemini(prompt):
                 if "429" in msg or "RESOURCE_EXHAUSTED" in msg:
                     # limite al minuto: si aspetta e si riprova con lo stesso modello
                     if "per day" in msg.lower() or "PerDay" in msg:
+                        GEMINI_SKIP.add(model)   # quota del giorno finita: non si riprova in questo aggiornamento
                         break
                     print("   ⏳ Limite di richieste al minuto: attendo 65 secondi...")
                     time.sleep(65)
-                elif "404" in msg or "NOT_FOUND" in msg:
+                elif "404" in msg or "NOT_FOUND" in msg or "not enabled" in msg or "not supported" in msg:
+                    GEMINI_SKIP.add(model)
                     break
                 else:
                     time.sleep(5)
