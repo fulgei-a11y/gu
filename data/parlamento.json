@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-06T00:50:29Z",
+ "aggiornato": "2026-11-06T17:49:33Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-06T17:49:33Z",
+   "nuovi": 8
+  },
   {
    "quando": "2026-11-06T00:50:29Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-29T20:35:00Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-29T19:35:16Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -164,10 +164,156 @@
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
-   "trovati": 1709
+   "trovati": 1715
   }
  ],
  "voci": [
+  {
+   "id": "c-338e3dcfe9f5f0",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "IVASS",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-06",
+   "ora": "15:20",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.06-11-2026-15-20-29.960.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-06T17:49:33Z"
+  },
+  {
+   "id": "c-c96f1811715c3b",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "CNCC",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-06",
+   "ora": "09:34",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.06-11-2026-09-34-27.307.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-06T17:49:33Z"
+  },
+  {
+   "id": "c-6a413f5f1d10f7",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "FIMAA",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti di Confimprese, in videoconferenza, di rappresentanti di Confindustria nautica, di rappresentanti di Assopetroli-Assoenergia, in videoconferenza, di rappresentanti di Federchimica-Assogasliquidi, in videoconferenza, e di rappresentanti della Federazione italiana agenti immobiliari professionali (FIAIP) e di rappresentanti della Federazione italiana mediatori agenti d'affari (FIMAA), anche in videoconferenza, nell'ambito dell'esame, in sede referente, del disegno di legge C. 3120, recante legge annuale per il mercato e la concorrenza 2026",
+   "seduta": "Seduta del 04/11/2026",
+   "data": "2026-11-06",
+   "ora": "09:30",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.104954.06-11-2026-09-30-40.908.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-06T17:49:33Z"
+  },
+  {
+   "id": "c-f62a5eac77ff62",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Unione Nazionale Consumatori",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-06",
+   "ora": "09:16",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.06-11-2026-09-16-16.156.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-06T17:49:33Z"
+  },
+  {
+   "id": "c-e35edaa954860e",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Utilitalia - contributo scritto",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-06",
+   "ora": "09:13",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.06-11-2026-09-13-15.431.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-06T17:49:33Z"
+  },
+  {
+   "id": "c-f385e3caea753f",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Utilitialia - emendamenti",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-06",
+   "ora": "09:13",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.06-11-2026-09-13-50.770.docx",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-06T17:49:33Z"
+  },
+  {
+   "id": "c-45f5bc808a2f28",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Motus-E",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-06",
+   "ora": "09:09",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.06-11-2026-09-09-13.163.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-06T17:49:33Z"
+  },
+  {
+   "id": "d-OCD18-23853",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "19a riunione del Gruppo di controllo parlamentare congiunto su Europol (JPSG) - Bruxelles, 9-10 novembre 2026",
+   "tipo": "",
+   "data": "2026-11-06",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23853/19a-riunione-del-gruppo-controllo-parlamentare-congiunto-europol-jpsg-bruxelles-9-10-novembre-2026.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-06T17:49:33Z"
+  },
   {
    "id": "c-1c0273ce2206be",
    "fonte": "commissione",
