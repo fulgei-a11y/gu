@@ -307,8 +307,8 @@ def call_gemini(prompt):
                 print(f"   ⚠️ {model}: {msg[:200]}")
                 if "429" in msg or "RESOURCE_EXHAUSTED" in msg:
                     # limite al minuto: si aspetta e si riprova con lo stesso modello
-                    if "per day" in msg.lower() or "PerDay" in msg or attempt >= 1:
-                        GEMINI_SKIP.add(model)   # quota finita anche dopo l'attesa: si passa al successivo
+                    if "per day" in msg.lower() or "PerDay" in msg:
+                        GEMINI_SKIP.add(model)   # quota del giorno finita: non si riprova in questo aggiornamento
                         break
                     print("   ⏳ Limite di richieste al minuto: attendo 65 secondi...")
                     time.sleep(65)
