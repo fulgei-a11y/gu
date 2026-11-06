@@ -39,9 +39,9 @@ MAX_PER_RUN = int(os.environ.get("MAX_PER_RUN", "4"))
 FORCE_DATE = os.environ.get("GU_DATE", "").strip()
 RUN_REPORT = os.environ.get("RUN_REPORT", "run_report_generate.json")
 
-# Prima i modelli più nuovi del piano gratuito; il 2.5 (ad accesso sempre più limitato) resta in coda
-MODELS = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-3.5-flash", "gemini-3.5-flash-lite",
-          "gemini-3.1-flash-lite", "gemini-2.5-flash"]
+# Prima il 2.5, che ha sempre funzionato; se non risponde, i modelli più nuovi del piano gratuito
+MODELS = ["gemini-2.5-flash", "gemini-3.8-flash", "gemini-3.6-flash", "gemini-3.5-flash", "gemini-3.5-flash-lite",
+          "gemini-3.1-flash-lite"]
 GEMINI_SKIP = set()   # modelli senza quota o non disponibili: non si riprovano nello stesso aggiornamento
 GIORNI = ["lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato", "domenica"]
 MESI = ["", "gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
