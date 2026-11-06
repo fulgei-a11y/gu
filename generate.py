@@ -39,7 +39,10 @@ MAX_PER_RUN = int(os.environ.get("MAX_PER_RUN", "4"))
 FORCE_DATE = os.environ.get("GU_DATE", "").strip()
 RUN_REPORT = os.environ.get("RUN_REPORT", "run_report_generate.json")
 
-MODELS = ["gemini-2.5-flash", "gemini-3.5-flash", "gemini-2.5-pro", "gemini-3.5-flash-lite"]
+# Prima i modelli più nuovi del piano gratuito; il 2.5 (ad accesso sempre più limitato) resta in coda
+MODELS = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-3.5-flash", "gemini-3.5-flash-lite",
+          "gemini-3.1-flash-lite", "gemini-2.5-flash"]
+GEMINI_SKIP = set()   # modelli senza quota o non disponibili: non si riprovano nello stesso aggiornamento
 GIORNI = ["lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato", "domenica"]
 MESI = ["", "gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
         "agosto", "settembre", "ottobre", "novembre", "dicembre"]
@@ -287,6 +290,8 @@ Restituisci SOLO JSON valido con questa struttura:
 def call_gemini(prompt):
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     for model in MODELS:
+        if model in GEMINI_SKIP:
+            continue
         for attempt in range(3):
             try:
                 print(f"   🤖 {model} (tentativo {attempt + 1})...")
@@ -302,11 +307,13 @@ def call_gemini(prompt):
                 print(f"   ⚠️ {model}: {msg[:200]}")
                 if "429" in msg or "RESOURCE_EXHAUSTED" in msg:
                     # limite al minuto: si aspetta e si riprova con lo stesso modello
-                    if "per day" in msg.lower() or "PerDay" in msg:
+                    if "per day" in msg.lower() or "PerDay" in msg or attempt >= 1:
+                        GEMINI_SKIP.add(model)   # quota finita anche dopo l'attesa: si passa al successivo
                         break
                     print("   ⏳ Limite di richieste al minuto: attendo 65 secondi...")
                     time.sleep(65)
-                elif "404" in msg or "NOT_FOUND" in msg:
+                elif "404" in msg or "NOT_FOUND" in msg or "not enabled" in msg or "not supported" in msg:
+                    GEMINI_SKIP.add(model)
                     break
                 else:
                     time.sleep(5)
