@@ -1,50 +1,77 @@
 {
   "date": "2026-11-06",
   "giorno": "venerdì",
-  "updatedAt": "2026-11-06T22:57:09Z",
+  "updatedAt": "2026-11-07T08:09:21Z",
   "version": 2,
   "stato": "con_schede",
   "numero_gu": "259",
   "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-06&numeroGazzetta=259",
   "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/06/259/sg/pdf",
-  "sintesi": "L'edizione del 6 novembre 2026 della Gazzetta Ufficiale è caratterizzata dalla pubblicazione del decreto-legge n. 200, che introduce una proroga temporanea in regime di prorogatio per il collegio dell'Autorità Nazionale Anticorruzione al fine di garantirne la continuità operativa. La parte restante della serie generale raccoglie atti amministrativi, autorizzazioni dell'AIFA e comunicati istituzionali di minore impatto economico-regolatorio generale.",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 6 novembre 2026 è dominata da un importante Decreto-Legge che assicura la continuità delle funzioni dell'Autorità Nazionale Anticorruzione (ANAC) in un periodo di transizione. Sono inoltre presenti diversi atti ministeriali e comunicati che toccano materie come l'agricoltura, la salute e l'ambiente, con un focus sulla gestione fitosanitaria e la promozione del settore vitivinicolo.",
+  "modello": "gemini-2.5-flash",
   "schede": [
     {
       "codice_atto": "26G00223",
-      "titolo": "Prorogatio delle funzioni dei vertici dell'ANAC",
+      "titolo": "Misure urgenti per assicurare la continuità delle funzioni dell'Autorità nazionale anticorruzione (ANAC)",
       "riferimento": "DECRETO-LEGGE 6 novembre 2026, n. 200",
       "categoria": "Economico",
-      "iter": "In vigore dal 07/11/2026. Decreto-legge da convertire in legge entro 60 giorni.",
-      "contesto": "Il provvedimento interviene con urgenza a seguito dell'avvio, nella riunione del Consiglio dei ministri del 5 novembre 2026, del procedimento di nomina dei nuovi vertici dell'ANAC, per evitare il vuoto istituzionale e la paralisi delle funzioni dell'Autorità.",
+      "iter": "In vigore dal 07/11/2026. Decreto-legge da convertire in legge.",
+      "contesto": "Il decreto-legge interviene per garantire la continuità operativa dell'Autorità nazionale anticorruzione (ANAC) in un momento di transizione, in attesa della nomina del nuovo presidente e dei componenti.",
       "misure": [
-        "Art. 1, comma 1: Il presidente e i componenti dell'Autorità nazionale anticorruzione (nominati con D.P.R. 11 settembre 2020) continuano a esercitare le proprie funzioni limitatamente agli atti di ordinaria amministrazione e a quelli indifferibili e urgenti.",
-        "Art. 1, comma 1: Tale regime transitorio dura fino alla nomina del nuovo presidente e dei nuovi componenti dell'ANAC e comunque non oltre quarantacinque giorni dalla data di entrata in vigore del decreto.",
-        "Art. 2, comma 1: Entrata in vigore fissata al giorno successivo alla pubblicazione (7 novembre 2026)."
+        "Art. 1, comma 1: Il presidente e i componenti dell'Autorità nazionale anticorruzione, nominati con decreti del Presidente della Repubblica 11 settembre 2020, continuano a esercitare le proprie funzioni. L'esercizio è limitato agli atti di ordinaria amministrazione e a quelli indifferibili e urgenti. Tale proroga è valida fino alla nomina del nuovo presidente e dei nuovi componenti dell'Autorità medesima, e comunque non oltre quarantacinque giorni dalla data di entrata in vigore del presente decreto."
       ],
-      "chi_interessato": "Autorità Nazionale Anticorruzione (Presidente e componenti uscenti), stazioni appaltanti, operatori economici e soggetti sottoposti alla vigilanza in materia di contratti pubblici e trasparenza.",
-      "decorrenza": "7 novembre 2026",
-      "perche_conta": "Evita il blocco decisionale dell'autorità di vigilanza sugli appalti pubblici e sull'anticorruzione, consentendo l'adozione tempestiva degli atti non differibili nelle more del rinnovo formale dell'organo collegiale.",
+      "chi_interessato": "L'Autorità nazionale anticorruzione (ANAC), il suo presidente e i componenti, nonché le pubbliche amministrazioni e i soggetti vigilati dall'ANAC.",
+      "decorrenza": "07/11/2026",
+      "perche_conta": "Il decreto è cruciale per evitare un vuoto funzionale nell'ANAC, un'istituzione chiave per la prevenzione della corruzione e la trasparenza nella pubblica amministrazione italiana. Assicura la continuità delle attività essenziali durante il processo di rinnovo dei suoi organi direttivi.",
       "fonte_testo": "testo integrale",
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26G00223/sg",
       "vigore": "07/11/2026"
     }
   ],
-  "scartate": [],
+  "scartate": [
+    {
+      "codice_atto": "26A05874",
+      "materia": "Istituzionale/parlamentare",
+      "titolo": "Convocazione del Parlamento in seduta comune.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05874/sg"
+    }
+  ],
   "altri_atti": [
     {
-      "codice_atto": "26A05898",
+      "codice_atto": "26A05790",
       "categoria": "Economico",
-      "titolo": "CASSA DEPOSITI E PRESTITI S.P.A. - Comunicato",
-      "sintesi": "Avviso concernente le condizioni relative all'emissione dei buoni fruttiferi postali.",
-      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05898/sg"
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 18 settembre 2026 Disposizioni nazionali di attuazione dell'articolo 58, paragrafo 1, lettera i) del regolamento (UE) 2021/2115 del Parlamento europeo e del Consiglio e successive modificazioni ed integrazioni, per quanto riguarda l'applicazione dell'intervento settoriale vitivinicolo inerente ad azioni volte ad accrescere la reputazione dei vigneti italiani promuovendo il turismo enologico nelle regioni di produzione.",
+      "sintesi": "Il decreto attua disposizioni europee per il settore vitivinicolo, promuovendo il turismo enologico nelle regioni di produzione al fine di accrescere la reputazione dei vigneti italiani.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05790/sg"
+    },
+    {
+      "codice_atto": "26A05788",
+      "categoria": "Energia e Ambiente",
+      "titolo": "ORDINANZA 1 ottobre 2026 Adozione di misure fitosanitarie d'emergenza per la gestione, il contrasto e l'eradicazione di Xylella fastidiosa (Well et al.) in Basilicata. (Ordinanza n. 18).",
+      "sintesi": "L'ordinanza stabilisce misure fitosanitarie d'emergenza per la gestione, il contrasto e l'eradicazione del batterio Xylella fastidiosa nella regione Basilicata.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05788/sg"
+    },
+    {
+      "codice_atto": "26A05768",
+      "categoria": "Economico",
+      "titolo": "DECRETO 28 ottobre 2026 Conferma dell'incarico al Consorzio di tutela Cerasuolo di Vittoria DOCG e Vittoria DOC a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, comma 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOCG «Cerasuolo di Vittoria» ed alla DOC «Vittoria».",
+      "sintesi": "Il decreto conferma l'incarico al Consorzio di tutela Cerasuolo di Vittoria DOCG e Vittoria DOC per le funzioni di promozione, valorizzazione, vigilanza e tutela delle relative denominazioni.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05768/sg"
     },
     {
       "codice_atto": "26A05805",
-      "categoria": "Energia e Ambiente",
-      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - Decreto 7 ottobre 2026",
-      "sintesi": "Modifica la disciplina tecnica dei contenitori a pressione di gas con membrature miste isolanti e metalliche contenenti parti attive di apparecchiature elettriche.",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 7 ottobre 2026 Modifica del decreto 1° dicembre 1980, recante: «Disciplina dei contenitori a pressione di gas con membrature miste di materiale isolante e di materiale metallico, contenenti parti attive di apparecchiature elettriche».",
+      "sintesi": "Il decreto modifica la disciplina dei contenitori a pressione di gas con membrature miste, utilizzati in apparecchiature elettriche.",
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05805/sg"
+    },
+    {
+      "codice_atto": "26A05816",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Passaggio dal demanio al patrimonio dello Stato dell'ex casello idraulico sito in via Borghetto, 31, nel Comune di Villa Bartolomea.",
+      "sintesi": "Il comunicato attesta il passaggio di un ex casello idraulico dal demanio al patrimonio dello Stato nel Comune di Villa Bartolomea.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05816/sg"
     }
   ],
   "atti": [
