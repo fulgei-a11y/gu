@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-07T08:09:46Z",
+ "aggiornato": "2026-11-07T16:45:27Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-07T16:45:27Z",
+   "nuovi": 1
+  },
   {
    "quando": "2026-11-07T08:09:46Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-31T11:26:32Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-10-30T20:29:30Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -168,6 +168,19 @@
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23844",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "Schema di decreto legislativo recante disposizioni per l'adeguamento della normativa nazionale al regolamento (UE) 2024/2847 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, relativo a requisiti orizzontali di cibersicurezza per i prodotti con elementi digitali e che modifica i regolamenti (UE) n. 168/2013 e (UE) 2019/1020 e la direttiva (UE) 2020/1828 (regolamento sulla ciberresilienza)",
+   "tipo": "",
+   "data": "2026-11-07",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23844/schema-decreto-legislativo-recante-disposizioni-l-adeguamento-della-normativa-nazionale-al-regolamento-ue-2024-2847-del-parlamento.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-07T16:45:27Z"
+  },
   {
    "id": "c-338e3dcfe9f5f0",
    "fonte": "commissione",
@@ -2445,7 +2458,7 @@
    "titolo": "Schema di decreto legislativo recante disposizioni per l'adeguamento della normativa nazionale al regolamento (UE) 2024/2847 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, relativo a requisiti orizzontali di cibersicurezza per i prodotti con elementi digitali e che modifica i regolamenti (UE) n. 168/2013 e (UE) 2019/1020 e la direttiva (UE) 2020/1828 (regolamento sulla ciberresilienza)",
    "tipo": "Schede di lettura",
    "data": "2026-10-26",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23730/schema-decreto-legislativo-recante-disposizioni-l-adeguamento-della-normativa-nazionale-al-regolamento-ue-2024-2847-del-parlamento.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23730/schema-decreto-legislativo-recante-disposizioni-l-adeguamento-della-normativa-nazionale-al-regolamento-ue-2024-2847-del-parlamento-1.html",
    "atto": "",
    "senato": true,
    "visto": "2026-10-26T18:42:34Z"

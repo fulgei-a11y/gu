@@ -1,14 +1,183 @@
 {
   "date": "2026-11-07",
   "giorno": "sabato",
-  "updatedAt": "2026-11-06T23:58:24Z",
+  "updatedAt": "2026-11-07T16:45:09Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "nessuna_legge_interesse",
   "numero_gu": "260",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-07&numeroGazzetta=260",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/07/260/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 7 novembre 2026 presenta una serie di atti amministrativi e comunicati. Non sono presenti leggi, decreti-legge o decreti legislativi. Gli atti più rilevanti riguardano la proroga di uno stato di emergenza, la conferma di incarichi a consorzi di tutela per prodotti agroalimentari e la definizione delle quote di mercato per i produttori di apparecchiature elettriche ed elettroniche.",
+  "modello": "gemini-2.5-flash",
   "schede": [],
   "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "altri_atti": [
+    {
+      "codice_atto": "26A05807",
+      "categoria": "Economico",
+      "titolo": "DELIBERA DEL CONSIGLIO DEI MINISTRI 28 ottobre 2026 Proroga dello stato di emergenza per intervento all'estero in conseguenza del perdurare degli accadimenti in atto nel territorio dell'Ucraina.",
+      "sintesi": "Proroga lo stato di emergenza per interventi all'estero, in relazione alla situazione in Ucraina, rientrando nell'ambito della pubblica amministrazione e delle relazioni internazionali.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05807/sg"
+    },
+    {
+      "codice_atto": "26A05806",
+      "categoria": "Economico",
+      "titolo": "DECRETO 2 novembre 2026 Conferma dell'incarico al Consorzio di tutela IGP Patata del Fucino a svolgere le funzioni di cui all'articolo 53 della legge 24 aprile 1998, n. 128, come modificato dall'art. 14, comma 15, della legge 21 dicembre 1999, n. 526, per la IGP «Patata del Fucino».",
+      "sintesi": "Conferma l'incarico al Consorzio di tutela IGP Patata del Fucino per le funzioni di promozione, valorizzazione e vigilanza, con implicazioni economiche e di regolamentazione del mercato agroalimentare.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05806/sg"
+    },
+    {
+      "codice_atto": "26A05808",
+      "categoria": "Economico",
+      "titolo": "DECRETO 2 novembre 2026 Conferma dell'incarico al Consorzio di tutela DOC Tavoliere a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, sulla DOC «Tavoliere delle Puglie» o «Tavoliere».",
+      "sintesi": "Conferma l'incarico al Consorzio di tutela DOC Tavoliere per le funzioni di promozione, valorizzazione, vigilanza e tutela, con implicazioni economiche e di regolamentazione del mercato agroalimentare.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05808/sg"
+    },
+    {
+      "codice_atto": "26A05809",
+      "categoria": "Economico",
+      "titolo": "DECRETO 2 novembre 2026 Conferma dell'incarico al Consorzio italiano tutela Mortadella Bologna a svolgere le funzioni di cui all'articolo 53 della legge 24 aprile 1998, n. 128, come modificato dall'art. 14, comma 15, della legge 21 dicembre 1999, n. 526, per la IGP «Mortadella Bologna».",
+      "sintesi": "Conferma l'incarico al Consorzio italiano tutela Mortadella Bologna per le funzioni di promozione, valorizzazione e vigilanza, con implicazioni economiche e di regolamentazione del mercato agroalimentare.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05809/sg"
+    },
+    {
+      "codice_atto": "26A05818",
+      "categoria": "Economico",
+      "titolo": "DETERMINA 30 ottobre 2026 Medicinali la cui autorizzazione all'immissione in commercio risulta decaduta per mancata commercializzazione, ai sensi dell'art. 38 del decreto legislativo 24 aprile 2006, n. 219 e successive modificazioni ed integrazioni. (Determina n. 616/2026).",
+      "sintesi": "Elenca i medicinali la cui autorizzazione all'immissione in commercio è decaduta per mancata commercializzazione, influenzando il mercato farmaceutico e la regolamentazione economica del settore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05818/sg"
+    },
+    {
+      "codice_atto": "26A05815",
+      "categoria": "Energia e Ambiente",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Definizione delle quote di mercato dei produttori di apparecchiature elettriche ed elettroniche (AEE) relative all'anno 2025.",
+      "sintesi": "Definisce le quote di mercato per i produttori di AEE per l'anno 2025, rilevante per la gestione dei rifiuti e la sostenibilità ambientale.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05815/sg"
+    },
+    {
+      "codice_atto": "26A05817",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - DIPARTIMENTO PER LE POLITICHE IN FAVORE DELLE PERSONE CON DISABILITA' - COMUNICATO Interventi finalizzati al riconoscimento del valore sociale ed economico dell'attivita' di cura non professionale del caregiver familiare per l'anno 2026 - Fondo unico per l'inclusione delle persone con disabilita'.",
+      "sintesi": "Riguarda gli interventi per il riconoscimento del valore dell'attività di cura dei caregiver familiari per il 2026, con implicazioni economiche e sociali legate al Fondo unico per l'inclusione delle persone con disabilità.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05817/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26A05807",
+      "titolo": "DELIBERA DEL CONSIGLIO DEI MINISTRI 28 ottobre 2026 Proroga dello stato di emergenza per intervento all'estero in conseguenza del perdurare degli accadimenti in atto nel territorio dell'Ucraina.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05807/sg"
+    },
+    {
+      "codice": "26A05806",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 2 novembre 2026 Conferma dell'incarico al Consorzio di tutela IGP Patata del Fucino a svolgere le funzioni di cui all'articolo 53 della legge 24 aprile 1998, n. 128, come modificato dall'art. 14, comma 15, della legge 21 dicembre 1999, n. 526, per la IGP «Patata del Fucino».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05806/sg"
+    },
+    {
+      "codice": "26A05808",
+      "titolo": "DECRETO 2 novembre 2026 Conferma dell'incarico al Consorzio di tutela DOC Tavoliere a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, sulla DOC «Tavoliere delle Puglie» o «Tavoliere».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05808/sg"
+    },
+    {
+      "codice": "26A05809",
+      "titolo": "DECRETO 2 novembre 2026 Conferma dell'incarico al Consorzio italiano tutela Mortadella Bologna a svolgere le funzioni di cui all'articolo 53 della legge 24 aprile 1998, n. 128, come modificato dall'art. 14, comma 15, della legge 21 dicembre 1999, n. 526, per la IGP «Mortadella Bologna».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05809/sg"
+    },
+    {
+      "codice": "26A05818",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' AGENZIA ITALIANA DEL FARMACO - DETERMINA 30 ottobre 2026 Medicinali la cui autorizzazione all'immissione in commercio risulta decaduta per mancata commercializzazione, ai sensi dell'art. 38 del decreto legislativo 24 aprile 2006, n. 219 e successive modificazioni ed integrazioni. (Determina n. 616/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05818/sg"
+    },
+    {
+      "codice": "26A05785",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di biotina, «Beotebal»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05785/sg"
+    },
+    {
+      "codice": "26A05786",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di dimetilfumarato, «Dimetilfumarato Cipla».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05786/sg"
+    },
+    {
+      "codice": "26A05793",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Celecoxib Maxmind».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05793/sg"
+    },
+    {
+      "codice": "26A05794",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Ketoprofene sale di lisina Zentiva Italia».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05794/sg"
+    },
+    {
+      "codice": "26A05795",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Ondansetron Accord».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05795/sg"
+    },
+    {
+      "codice": "26A05796",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Recotuss Sedativo».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05796/sg"
+    },
+    {
+      "codice": "26A05797",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Kleder»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05797/sg"
+    },
+    {
+      "codice": "26A05798",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Naloxone Accord».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05798/sg"
+    },
+    {
+      "codice": "26A05799",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Antispasmina Colica».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05799/sg"
+    },
+    {
+      "codice": "26A05800",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio di taluni medicinali per uso umano, a base di buprenorfina",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05800/sg"
+    },
+    {
+      "codice": "26A05815",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Definizione delle quote di mercato dei produttori di apparecchiature elettriche ed elettroniche (AEE) relative all'anno 2025.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05815/sg"
+    },
+    {
+      "codice": "26A05810",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 12 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05810/sg"
+    },
+    {
+      "codice": "26A05811",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 13 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05811/sg"
+    },
+    {
+      "codice": "26A05812",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 14 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05812/sg"
+    },
+    {
+      "codice": "26A05813",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 15 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05813/sg"
+    },
+    {
+      "codice": "26A05814",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 16 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05814/sg"
+    },
+    {
+      "codice": "26A05817",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - DIPARTIMENTO PER LE POLITICHE IN FAVORE DELLE PERSONE CON DISABILITA' - COMUNICATO Interventi finalizzati al riconoscimento del valore sociale ed economico dell'attivita' di cura non professionale del caregiver familiare per l'anno 2026 - Fondo unico per l'inclusione delle persone con disabilita'.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05817/sg"
+    },
+    {
+      "codice": "26A05872",
+      "titolo": "RETTIFICHE ERRATA-CORRIGE Comunicato relativo ai lavori preparatori della legge 28 luglio 2026, n. 137, riguardante: «Delega al Governo per la riforma dell'ordinamento forense». (Legge pubblicata nella Gazzetta Ufficiale - Serie generale - n. 177 del 1° agosto 2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05872/sg"
+    }
+  ]
 }
