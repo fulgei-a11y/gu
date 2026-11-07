@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-06T23:34:22Z",
+ "aggiornato": "2026-11-06T23:58:28Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-06T23:58:28Z",
+   "nuovi": 0
+  },
   {
    "quando": "2026-11-06T23:34:22Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-10-30T19:34:11Z",
    "nuovi": 2
-  },
-  {
-   "quando": "2026-10-30T18:41:02Z",
-   "nuovi": 12
   }
  ],
  "fonti": [
@@ -163,8 +163,8 @@
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
-   "ok": true,
-   "trovati": 1715
+   "ok": false,
+   "errore": "nessun documento riconosciuto: la struttura della pagina potrebbe essere cambiata"
   }
  ],
  "voci": [
@@ -395,8 +395,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "Enea",
@@ -852,8 +851,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "ANEV",
@@ -1268,8 +1266,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "Elettricità futura",
@@ -1442,8 +1439,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "ISPRA",
@@ -1462,8 +1458,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "Confindustria",
@@ -1641,8 +1636,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "RINA",
@@ -1661,8 +1655,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "Italia Solare",
@@ -1700,8 +1693,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "CNR_DIITET",
@@ -1817,8 +1809,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "H2IT",
@@ -1837,8 +1828,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "Confartigianato e CNA",
@@ -1870,8 +1860,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "CGIL",
@@ -1890,8 +1879,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "SNAM",
@@ -1968,8 +1956,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "UIL",
@@ -2666,8 +2653,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "Faib-Fegica (Memoria)",
@@ -2686,8 +2672,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "Faib-Fegica (Slide)",
@@ -2776,8 +2761,7 @@
    "fonte": "commissione",
    "organo": "VIII Ambiente",
    "commissioni": [
-    "VIII",
-    "X"
+    "VIII"
    ],
    "materia": "Energia e Ambiente",
    "titolo": "ECCO Climate",
