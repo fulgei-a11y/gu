@@ -47,7 +47,9 @@ jobs:
       - name: Installazione dipendenze
         id: deps
         run: |
-          pip install google-genai requests pypdf
+          # versione della libreria Gemini bloccata: un aggiornamento automatico (3.0, 6/11/2026)
+          # aveva cambiato il comportamento e messo fuori uso gemini-2.5-flash
+          pip install "google-genai==3.0.0" requests pypdf
 
       - name: Controlla che gli script siano completi
         id: check

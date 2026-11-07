@@ -288,7 +288,10 @@ Restituisci SOLO JSON valido con questa struttura:
 
 
 def call_gemini(prompt):
-    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    # v1beta indicata esplicitamente: dalla versione 3.0 della libreria (6/11/2026) il valore
+    # predefinito è passato a "v1", che rifiuta le istruzioni di sistema con gemini-2.5-flash
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"],
+                          http_options=types.HttpOptions(api_version="v1beta"))
     for model in MODELS:
         if model in GEMINI_SKIP:
             continue
@@ -301,7 +304,9 @@ def call_gemini(prompt):
                     thinking_config=types.ThinkingConfig(thinking_budget=2048),
                 )
                 r = client.models.generate_content(model=model, contents=prompt, config=cfg)
-                return json.loads(r.text)
+                res = json.loads(r.text)
+                res["_modello"] = model
+                return res
             except Exception as e:
                 msg = str(e)
                 print(f"   ⚠️ {model}: {msg[:200]}")
@@ -393,6 +398,7 @@ def process(date, anchors):
         "link_gu": url,
         "pdf_gu": f"{BASE}/eli/gu/{date.year}/{date.month:02d}/{date.day:02d}/{num}/sg/pdf",
         "sintesi": res.get("sintesi", ""),
+        "modello": res.get("_modello", ""),
         "schede": schede,
         "scartate": fix(res.get("scartate")),
         "altri_atti": fix(res.get("altri_atti")),
