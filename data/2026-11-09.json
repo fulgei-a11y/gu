@@ -1,14 +1,292 @@
 {
   "date": "2026-11-09",
   "giorno": "lunedì",
-  "updatedAt": "2026-11-09T20:01:15Z",
+  "updatedAt": "2026-11-09T21:18:28Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "con_schede",
   "numero_gu": "261",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-09&numeroGazzetta=261",
-  "schede": [],
-  "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/09/261/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 9 novembre 2026 presenta due importanti leggi: una che introduce nuove tutele per la reputazione delle persone assolte o prosciolte, garantendo la pubblicità dei provvedimenti favorevoli, e un'altra che converte un decreto-legge con misure urgenti in materia energetica, accelerando i procedimenti per le infrastrutture strategiche e promuovendo l'elettrificazione dei consumi e la filiera del biogas. Sono inoltre presenti atti ministeriali di rilievo economico e ambientale.",
+  "modello": "gemini-2.5-flash",
+  "schede": [
+    {
+      "codice_atto": "26G00218",
+      "titolo": "Nuove tutele per la pubblicità delle sentenze di assoluzione o proscioglimento",
+      "riferimento": "LEGGE 29 ottobre 2026, n. 201",
+      "categoria": "Giustizia",
+      "iter": "In vigore dal 24/11/2026",
+      "contesto": "La legge interviene sul Codice in materia di protezione dei dati personali (D.Lgs. 30 giugno 2003, n. 196) per rafforzare la tutela della reputazione delle persone coinvolte in procedimenti penali conclusi con esito favorevole.",
+      "misure": [
+        "Art. 1, comma 1: Introduce l'articolo 144-ter nel D.Lgs. 196/2003. Su richiesta della persona assolta, prosciolta, con non luogo a procedere o archiviata, il direttore o responsabile della testata giornalistica (radiofonica, televisiva o telematica) che ha dato notizia del procedimento penale è tenuto a dare pubblicità, senza oneri per l'interessato, alla notizia dei provvedimenti favorevoli, con rilievo adeguato allo spazio già riservato al procedimento penale.",
+        "Art. 1, comma 2: In caso di mancato adempimento, l'interessato può rivolgere una segnalazione al Garante per la protezione dei dati personali. Il Garante decide entro cinque giorni e può ordinare la pubblicazione della notizia dei provvedimenti favorevoli.",
+        "Art. 2, comma 1: Prevede una clausola di invarianza finanziaria, stabilendo che dall'attuazione della legge non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Il Garante provvede ai relativi adempimenti nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente."
+      ],
+      "chi_interessato": "Persone fisiche che hanno ottenuto sentenze di assoluzione, proscioglimento, non luogo a procedere o provvedimenti di archiviazione in procedimenti penali di cui è stata data notizia dai media. Sono interessate anche le testate giornalistiche e il Garante per la protezione dei dati personali.",
+      "decorrenza": "24 novembre 2026",
+      "perche_conta": "Questa legge è fondamentale per il diritto all'oblio e alla reputazione, garantendo che le notizie di esito favorevole di un procedimento penale ricevano la stessa visibilità delle notizie iniziali, contrastando la 'gogna mediatica' e tutelando l'immagine delle persone ingiustamente coinvolte.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26G00218/sg",
+      "vigore": "24/11/2026"
+    },
+    {
+      "codice_atto": "26G00222",
+      "titolo": "Misure urgenti per prezzi petroliferi, infrastrutture energetiche e fonti rinnovabili",
+      "riferimento": "LEGGE 6 novembre 2026, n. 202",
+      "categoria": "Energia e Ambiente",
+      "iter": "In vigore dal 24/11/2026. Converte, con modificazioni, il decreto-legge 10 settembre 2026, n. 157.",
+      "contesto": "La legge di conversione interviene con modifiche al decreto-legge n. 157/2026, che contiene disposizioni urgenti per affrontare la crisi dei mercati internazionali dei prezzi petroliferi e per accelerare lo sviluppo di infrastrutture e attività energetiche strategiche, con un focus sulla transizione ecologica.",
+      "misure": [
+        "Art. 1-bis (nuovo): Modifica l'articolo 1-decies del D.L. 63/2026 per promuovere la filiera del biogas e del biometano. Ammette alla digestione anaerobica, come sottoprodotti, i residui dell'industria agroalimentare e i residui delle attività di trasformazione di prodotti agricoli per biocombustibili, biomolecole e biomateriali, a condizione che non contengano sostanze chimiche pericolose e che il digestato prodotto rispetti i valori limite dell'Allegato IX, parte B, del decreto del Ministro delle politiche agricole alimentari e forestali 25 febbraio 2016.",
+        "Art. 2, comma 1 (modificato): Accelera i procedimenti per attività di prospezione, ricerca e coltivazione di idrocarburi su terraferma. Se la regione non si esprime sull'intesa entro 45 giorni, il Presidente del Consiglio assegna un termine non superiore a 60 giorni (o 30 giorni in caso di procedimento unico) per provvedere.",
+        "Art. 2, comma 4 (aggiunto): Estende le funzioni del commissario ad acta all'adozione di ogni atto endoprocedimentale o provvedimento autorizzatorio di competenza regionale o di enti locali, propedeutico e necessario alla conclusione del procedimento.",
+        "Art. 2-bis (nuovo): Introduce misure a favore dell'elettrificazione dei consumi. L'ARERA adotta misure per la riduzione dei contributi a titolo di Quota potenza, rimodulando gli altri contributi senza incrementi degli oneri di sistema a carico degli utenti finali.",
+        "Art. 2-ter (nuovo): Accelera i procedimenti per l'individuazione di aree idonee all'installazione di impianti da fonti rinnovabili, modificando il D.Lgs. 25 novembre 2024, n. 190. Consente interventi anche in 'buffer zone' con caratteristiche di area idonea, senza applicazione della disciplina semplificata."
+      ],
+      "chi_interessato": "Imprese del settore energetico (idrocarburi, biogas, biometano, rinnovabili), ARERA, Regioni ed enti locali coinvolti in autorizzazioni energetiche, utenti finali di energia elettrica, produttori agricoli e agroalimentari.",
+      "decorrenza": "24 novembre 2026",
+      "perche_conta": "Questa legge è cruciale per la sicurezza energetica nazionale, la transizione ecologica e la semplificazione amministrativa. Le modifiche mirano a sbloccare investimenti in infrastrutture strategiche, a incentivare la produzione di energia da fonti rinnovabili (biogas/biometano) e a promuovere l'elettrificazione, contribuendo al raggiungimento degli obiettivi climatici e alla stabilizzazione dei prezzi energetici.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26G00222/sg",
+      "vigore": "24/11/2026"
+    }
+  ],
+  "scartate": [
+    {
+      "codice_atto": "26A05848",
+      "materia": "Sanità",
+      "titolo": "MINISTERO DELLA SALUTE - DECRETO 20 ottobre 2026 Conferma del riconoscimento del carattere scientifico dell'IRCCS di diritto privato «MultiMedica S.p.a.», in Milano, nell'area tematica di afferenza «cardiologia-pneumologia».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05848/sg"
+    },
+    {
+      "codice_atto": "26A05849",
+      "materia": "Amministrazione/Imprese",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 28 ottobre 2026 Sostituzione del commissario liquidatore della «Santa Marinella societa' cooperativa», in Roma.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05849/sg"
+    },
+    {
+      "codice_atto": "26A05846",
+      "materia": "Protezione Civile/Ricostruzione",
+      "titolo": "ORDINANZA 24 settembre 2026 Modifiche all'ordinanza n. 1 del 2 luglio 2025, ai sensi dell'art. 1, comma 674 della legge n. 207 del 2024 e dell'art. 2, comma 2 del decreto-legge n. 189 del 2016. (Ordinanza n. 14/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05846/sg"
+    },
+    {
+      "codice_atto": "26A05847",
+      "materia": "Protezione Civile/Ricostruzione",
+      "titolo": "ORDINANZA 24 settembre 2026 Approvazione del quinto stralcio del Piano di ricostruzione delle opere pubbliche e del Piano di ricostruzione delle chiese e degli edifici di culto dei territori delle Regioni Marche e Umbria, colpiti dagli eventi sismici del 9 novembre 2022 e del 9 marzo 2023, ai sensi degli articoli 3 e 3-bis dell'ordinanza n. 1 del 2 luglio 2025. Integrazioni all'allegato A dell'ordinanza n. 9 del 27 marzo 2026 e all'allegato A dell'ordinanza n. 6 del 9 marzo 2026. (Ordinanza n. 15/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05847/sg"
+    },
+    {
+      "codice_atto": "26A05801",
+      "materia": "Farmaci",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di tiocolchicoside, «Tioside».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05801/sg"
+    },
+    {
+      "codice_atto": "26A05802",
+      "materia": "Farmaci",
+      "titolo": "COMUNICATO Proroga dell'implementazione degli stampati del medicinale per uso umano, a base di magaldrato, «Riopan»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05802/sg"
+    },
+    {
+      "codice_atto": "26A05803",
+      "materia": "Farmaci",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di desmopressina, «Minirin/DDAVP».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05803/sg"
+    },
+    {
+      "codice_atto": "26A05804",
+      "materia": "Farmaci",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di itraconazolo, «Sporanox».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05804/sg"
+    },
+    {
+      "codice_atto": "26A05820",
+      "materia": "Farmaci",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di macitentan, «Macitentan Reig Jofre».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05820/sg"
+    },
+    {
+      "codice_atto": "26A05821",
+      "materia": "Farmaci",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Colfri»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05821/sg"
+    },
+    {
+      "codice_atto": "26A05822",
+      "materia": "Farmaci",
+      "titolo": "COMUNICATO Rinnovo dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di rosuvastatina e ezetimibe, «Maoris».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05822/sg"
+    },
+    {
+      "codice_atto": "26A05823",
+      "materia": "Farmaci",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Clidix»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05823/sg"
+    },
+    {
+      "codice_atto": "26A05824",
+      "materia": "Farmaci",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Rozetimad»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05824/sg"
+    },
+    {
+      "codice_atto": "26A05825",
+      "materia": "Farmaci",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Posaconazolo Zentiva»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05825/sg"
+    },
+    {
+      "codice_atto": "26A05826",
+      "materia": "Farmaci",
+      "titolo": "COMUNICATO Rettifica della determina n. 515/2026 del 18 settembre 2026, concernente la modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Alprazolam Pensa».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05826/sg"
+    },
+    {
+      "codice_atto": "26A05819",
+      "materia": "Agricoltura",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO Domanda di registrazione della indicazione geografica protetta «Ciliegia delle Colline Veronesi» e pubblicazione del disciplinare di produzione.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05819/sg"
+    },
+    {
+      "codice_atto": "26A05836",
+      "materia": "Infrastrutture/Appalti",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO DI GOVERNO PER LA REALIZZAZIONE DELLA LINEA 2 DELLA METROPOLITANA DELLA CITTA' DI TORINO - COMUNICATO Ordinanza n. 58 del 27 ottobre 2026 - Appalto n. 3/2026: procedura aperta ex articoli 71 e 141 del decreto legislativo n. 36/2023 per l'affidamento del servizio di coordinamento della sicurezza in fase di esecuzione («CSE»), ai sensi del decreto legislativo n. 81/2008 e successive modificazioni ed integrazioni, per i lavori da eseguire nell'ambito della realizzazione della Linea 2 della metropolitana di Torino, tratta «Rebaudeng",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05836/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A05934",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 9 novembre 2026 Rideterminazione temporanea dell'aliquota d'accisa.",
+      "sintesi": "Il decreto ridetermina temporaneamente l'aliquota d'accisa, con impatto sui prezzi dei prodotti soggetti a tale imposta.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05934/sg"
+    },
+    {
+      "codice_atto": "26A05837",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - DECRETO 2 ottobre 2026 Individuazione dei criteri e delle modalita' per la prestazione della garanzia per i debiti ereditari, quando sono chiamati all'eredita' unicamente persone giuridiche private senza scopo di lucro ed enti del Terzo settore.",
+      "sintesi": "Il decreto stabilisce criteri e modalità per la garanzia dei debiti ereditari in caso di successione da parte di persone giuridiche private senza scopo di lucro ed enti del Terzo settore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05837/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00218",
+      "titolo": "LEGGE 29 ottobre 2026, n. 201 Modifica al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicita' delle sentenze di assoluzione o proscioglimento.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26G00218/sg",
+      "tipo": "LEGGE",
+      "vigore": "24/11/2026"
+    },
+    {
+      "codice": "26G00222",
+      "titolo": "LEGGE 6 novembre 2026, n. 202 Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attivita' energetiche strategiche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26G00222/sg",
+      "tipo": "LEGGE",
+      "vigore": "24/11/2026"
+    },
+    {
+      "codice": "26A05934",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 9 novembre 2026 Rideterminazione temporanea dell'aliquota d'accisa.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05934/sg"
+    },
+    {
+      "codice": "26A05848",
+      "titolo": "MINISTERO DELLA SALUTE - DECRETO 20 ottobre 2026 Conferma del riconoscimento del carattere scientifico dell'IRCCS di diritto privato «MultiMedica S.p.a.», in Milano, nell'area tematica di afferenza «cardiologia-pneumologia».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05848/sg"
+    },
+    {
+      "codice": "26A05837",
+      "titolo": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - DECRETO 2 ottobre 2026 Individuazione dei criteri e delle modalita' per la prestazione della garanzia per i debiti ereditari, quando sono chiamati all'eredita' unicamente persone giuridiche private senza scopo di lucro ed enti del Terzo settore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05837/sg"
+    },
+    {
+      "codice": "26A05849",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 28 ottobre 2026 Sostituzione del commissario liquidatore della «Santa Marinella societa' cooperativa», in Roma.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05849/sg"
+    },
+    {
+      "codice": "26A05846",
+      "titolo": "ORDINANZA 24 settembre 2026 Modifiche all'ordinanza n. 1 del 2 luglio 2025, ai sensi dell'art. 1, comma 674 della legge n. 207 del 2024 e dell'art. 2, comma 2 del decreto-legge n. 189 del 2016. (Ordinanza n. 14/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05846/sg"
+    },
+    {
+      "codice": "26A05847",
+      "titolo": "ORDINANZA 24 settembre 2026 Approvazione del quinto stralcio del Piano di ricostruzione delle opere pubbliche e del Piano di ricostruzione delle chiese e degli edifici di culto dei territori delle Regioni Marche e Umbria, colpiti dagli eventi sismici del 9 novembre 2022 e del 9 marzo 2023, ai sensi degli articoli 3 e 3-bis dell'ordinanza n. 1 del 2 luglio 2025. Integrazioni all'allegato A dell'ordinanza n. 9 del 27 marzo 2026 e all'allegato A dell'ordinanza n. 6 del 9 marzo 2026. (Ordinanza n. 15/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05847/sg"
+    },
+    {
+      "codice": "26A05912",
+      "titolo": "TESTI COORDINATI E AGGIORNATI TESTO COORDINATO DEL - DECRETO-LEGGE Testo del decreto-legge 10 settembre 2026, n. 157 (in Gazzetta Ufficiale - Serie generale - n. 210 del 10 settembre 2026), coordinato con la legge di conversione 6 novembre 2026, n. 202 (in questa stessa Gazzetta Ufficiale alla pag. 2), recante: «Disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attivita' energetiche strategiche.».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05912/sg",
+      "tipo": "DECRETO-LEGGE"
+    },
+    {
+      "codice": "26A05801",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di tiocolchicoside, «Tioside».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05801/sg"
+    },
+    {
+      "codice": "26A05802",
+      "titolo": "COMUNICATO Proroga dell'implementazione degli stampati del medicinale per uso umano, a base di magaldrato, «Riopan»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05802/sg"
+    },
+    {
+      "codice": "26A05803",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di desmopressina, «Minirin/DDAVP».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05803/sg"
+    },
+    {
+      "codice": "26A05804",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di itraconazolo, «Sporanox».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05804/sg"
+    },
+    {
+      "codice": "26A05820",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di macitentan, «Macitentan Reig Jofre».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05820/sg"
+    },
+    {
+      "codice": "26A05821",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Colfri»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05821/sg"
+    },
+    {
+      "codice": "26A05822",
+      "titolo": "COMUNICATO Rinnovo dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di rosuvastatina e ezetimibe, «Maoris».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05822/sg"
+    },
+    {
+      "codice": "26A05823",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Clidix»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05823/sg"
+    },
+    {
+      "codice": "26A05824",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Rozetimad»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05824/sg"
+    },
+    {
+      "codice": "26A05825",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Posaconazolo Zentiva»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05825/sg"
+    },
+    {
+      "codice": "26A05826",
+      "titolo": "COMUNICATO Rettifica della determina n. 515/2026 del 18 settembre 2026, concernente la modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Alprazolam Pensa».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05826/sg"
+    },
+    {
+      "codice": "26A05819",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO Domanda di registrazione della indicazione geografica protetta «Ciliegia delle Colline Veronesi» e pubblicazione del disciplinare di produzione.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05819/sg"
+    },
+    {
+      "codice": "26A05836",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO DI GOVERNO PER LA REALIZZAZIONE DELLA LINEA 2 DELLA METROPOLITANA DELLA CITTA' DI TORINO - COMUNICATO Ordinanza n. 58 del 27 ottobre 2026 - Appalto n. 3/2026: procedura aperta ex articoli 71 e 141 del decreto legislativo n. 36/2023 per l'affidamento del servizio di coordinamento della sicurezza in fase di esecuzione («CSE»), ai sensi del decreto legislativo n. 81/2008 e successive modificazioni ed integrazioni, per i lavori da eseguire nell'ambito della realizzazione della Linea 2 della metropolitana di Torino, tratta «Rebaudeng",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26A05836/sg"
+    }
+  ]
 }

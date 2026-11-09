@@ -1,5 +1,5 @@
 {
-  "generato": "2026-11-09T20:03:09Z",
+  "generato": "2026-11-09T21:20:56Z",
   "oggi": "2026-11-09",
   "decreti_legge": [
     {
@@ -97,6 +97,29 @@
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26G00223/sg",
       "stato": "in_conversione",
       "giorni_mancanti": 57
+    },
+    {
+      "numero": 157,
+      "anno": 2026,
+      "data_dl": "2026-09-10",
+      "riferimento": "Decreto-legge 10 settembre 2026, n. 157",
+      "titolo": "Disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attivita' energetiche strategiche",
+      "pubblicazione": "2026-09-10",
+      "numero_gu": "",
+      "vigore": "",
+      "scadenza": "2026-11-09",
+      "categoria": "",
+      "scheda": null,
+      "link": "",
+      "fuori_archivio": true,
+      "stato": "convertito",
+      "conversione": {
+        "legge": "LEGGE 6 novembre 2026, n. 202",
+        "data_gu": "2026-11-09",
+        "numero_gu": "261",
+        "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26G00222/sg"
+      },
+      "giorni_mancanti": 0
     },
     {
       "numero": 154,
@@ -388,6 +411,24 @@
       "edizione": "2026-10-30",
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26G00217/sg"
+    },
+    {
+      "data": "2026-11-24",
+      "riferimento": "LEGGE 29 ottobre 2026, n. 201",
+      "titolo": "Nuove tutele per la pubblicità delle sentenze di assoluzione o proscioglimento",
+      "categoria": "Giustizia",
+      "edizione": "2026-11-09",
+      "scheda": 0,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26G00218/sg"
+    },
+    {
+      "data": "2026-11-24",
+      "riferimento": "LEGGE 6 novembre 2026, n. 202",
+      "titolo": "Misure urgenti per prezzi petroliferi, infrastrutture energetiche e fonti rinnovabili",
+      "categoria": "Energia e Ambiente",
+      "edizione": "2026-11-09",
+      "scheda": 1,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26G00222/sg"
     }
   ]
 }
