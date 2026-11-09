@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-09T19:01:13Z",
+ "aggiornato": "2026-11-09T20:01:16Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-09T20:01:16Z",
+   "nuovi": 1
+  },
   {
    "quando": "2026-11-09T19:01:13Z",
    "nuovi": 1
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-04T23:59:09Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-04T23:30:52Z",
-   "nuovi": 3
   }
  ],
  "fonti": [
@@ -168,6 +168,19 @@
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23842",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "Divieto di importazione e di pubblicità di beni e servizi provenienti da insediamenti israeliani nel territorio palestinese occupato",
+   "tipo": "",
+   "data": "2026-11-09",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23842/divieto-importazione-e-pubblicita-beni-e-servizi-provenienti-insediamenti-israeliani-nel-territorio-palestinese-occupato-1.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-09T20:01:16Z"
+  },
   {
    "id": "c-de2a31cc4cd01e",
    "fonte": "commissione",
