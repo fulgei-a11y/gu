@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-10T20:01:12Z",
+ "aggiornato": "2026-11-10T23:06:10Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-10T23:06:10Z",
+   "nuovi": 1
+  },
   {
    "quando": "2026-11-10T20:01:12Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-07T08:09:46Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-06T23:58:28Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -168,6 +168,19 @@
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23877",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "DL 168-2026: Misure urgenti in materia di giustizia, di funzionalità del Ministero dell’interno e di impianti di interesse strategico nazionale",
+   "tipo": "",
+   "data": "2026-11-10",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23877/dl-168-2026-misure-urgenti-materia-giustizia-funzionalita-del-ministero-interno-e-impianti-interesse-strategico-nazionale.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-10T23:06:10Z"
+  },
   {
    "id": "c-6088898012821f",
    "fonte": "commissione",
@@ -2976,7 +2989,7 @@
    "titolo": "DL 168-2026: Misure urgenti in materia di giustizia, di funzionalità del Ministero dell'interno e di impianti di interesse strategico nazionale",
    "tipo": "",
    "data": "2026-10-30",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23814/dl-168-2026-misure-urgenti-materia-giustizia-funzionalita-del-ministero-interno-e-impianti-interesse-strategico-nazionale.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23814/dl-168-2026-misure-urgenti-materia-giustizia-funzionalita-del-ministero-interno-e-impianti-interesse-strategico-nazionale-1.html",
    "atto": "",
    "senato": false,
    "visto": "2026-10-30T19:34:11Z"

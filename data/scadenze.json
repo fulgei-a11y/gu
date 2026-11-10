@@ -1,6 +1,6 @@
 {
-  "generato": "2026-11-10T20:03:15Z",
-  "oggi": "2026-11-10",
+  "generato": "2026-11-10T23:07:52Z",
+  "oggi": "2026-11-11",
   "decreti_legge": [
     {
       "numero": 170,
@@ -16,7 +16,7 @@
       "scheda": null,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/09/30/26G00190/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 19
+      "giorni_mancanti": 18
     },
     {
       "numero": 177,
@@ -32,7 +32,7 @@
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/08/26G00199/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 27
+      "giorni_mancanti": 26
     },
     {
       "numero": 185,
@@ -48,7 +48,7 @@
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/16/26G00208/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 35
+      "giorni_mancanti": 34
     },
     {
       "numero": 190,
@@ -64,7 +64,7 @@
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 41
+      "giorni_mancanti": 40
     },
     {
       "numero": 193,
@@ -80,7 +80,7 @@
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/23/26G00216/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 42
+      "giorni_mancanti": 41
     },
     {
       "numero": 200,
@@ -96,7 +96,7 @@
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26G00223/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 56
+      "giorni_mancanti": 55
     },
     {
       "numero": 157,
@@ -119,7 +119,7 @@
         "numero_gu": "261",
         "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26G00222/sg"
       },
-      "giorni_mancanti": -1
+      "giorni_mancanti": -2
     },
     {
       "numero": 154,
@@ -142,7 +142,7 @@
         "numero_gu": "249",
         "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26G00212/sg"
       },
-      "giorni_mancanti": -14
+      "giorni_mancanti": -15
     },
     {
       "numero": 153,
@@ -185,7 +185,7 @@
         "numero_gu": "232",
         "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/06/26G00193/sg"
       },
-      "giorni_mancanti": -35
+      "giorni_mancanti": -36
     },
     {
       "numero": 144,
@@ -208,7 +208,7 @@
         "numero_gu": "232",
         "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/06/26G00194/sg"
       },
-      "giorni_mancanti": -35
+      "giorni_mancanti": -36
     },
     {
       "numero": 139,
