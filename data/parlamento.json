@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-11T00:26:56Z",
+ "aggiornato": "2026-11-11T11:01:16Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-11T11:01:16Z",
+   "nuovi": 6
+  },
   {
    "quando": "2026-11-11T00:26:56Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-07T19:01:09Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-07T18:01:10Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -143,7 +143,7 @@
    "nome": "V Commissione Bilancio",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
-   "trovati": 726
+   "trovati": 731
   },
   {
    "id": "comm6",
@@ -168,6 +168,114 @@
   }
  ],
  "voci": [
+  {
+   "id": "c-4af82412a7aa2e",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria ARIS",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Virginio Bebber, presidente dell'Associazione religiosa istituti socio-sanitari (ARIS), Mauro Mattiacci, direttore generale dell'Associazione religiosa istituti socio-sanitari (ARIS), Domenico Arena, responsabile nazionale della sezione RSA dell'Associazione religiosa istituti socio-sanit",
+   "seduta": "Seduta del 09/11/2026",
+   "data": "2026-11-11",
+   "ora": "11:59",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106052.11-11-2026-11-59-35.903.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-11T11:01:16Z"
+  },
+  {
+   "id": "c-0115879bc90250",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Contributo scritto CONFETRA",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3174-bis - \"Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" ( Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174 ) (3174- bis )",
+   "seduta": "",
+   "data": "2026-11-11",
+   "ora": "11:57",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Progettodilegge/leg19.com05.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.105085.11-11-2026-11-57-21.852.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "C. 3174",
+   "visto": "2026-11-11T11:01:16Z"
+  },
+  {
+   "id": "c-7d77a9d207f044",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria Alleanza delle cooperative",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Silvia Rimondi, direttore dell'Associazione generale cooperative italiane, in videoconferenza, Gianluigi Granero, direttore di Legacoop, e Vito Domenico Sciancalepore, capo del dipartimento legislativo giuridico e sindacale di Confcooperative, in videoconferenza, in rappresentanza dell'Al",
+   "seduta": "Seduta del 10/11/2026",
+   "data": "2026-11-11",
+   "ora": "11:57",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106081.11-11-2026-11-57-22.309.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-11T11:01:16Z"
+  },
+  {
+   "id": "c-03a6639a5b6ca0",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Contributo scritto Confabitare",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3174-bis - \"Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" ( Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174 ) (3174- bis )",
+   "seduta": "",
+   "data": "2026-11-11",
+   "ora": "11:22",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Progettodilegge/leg19.com05.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.105085.11-11-2026-11-22-07.026.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "C. 3174",
+   "visto": "2026-11-11T11:01:16Z"
+  },
+  {
+   "id": "c-bdc61d2c242b0d",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria UIL",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Christian Ferrari, segretario confederale della CGIL, Angelo Marinelli, segretario confederale della CISL, e Santo Biondo, segretario confederale della UIL",
+   "seduta": "Seduta del 10/11/2026",
+   "data": "2026-11-11",
+   "ora": "11:09",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106089.11-11-2026-11-09-01.998.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-11T11:01:16Z"
+  },
+  {
+   "id": "d-OCD18-23873",
+   "fonte": "dossier",
+   "organo": "Studi - Giustizia",
+   "materia": "Giustizia",
+   "titolo": "Misure in materia di giustizia, di funzionalità del Ministero dell'interno e di impianti di interesse strategico nazionale",
+   "tipo": "Elementi per l'esame in Assemblea",
+   "data": "2026-11-11",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23873/misure-materia-giustizia-funzionalita-del-ministero-interno-e-impianti-interesse-strategico-nazionale.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-11T11:01:16Z"
+  },
   {
    "id": "d-OCD18-23877",
    "fonte": "dossier",
@@ -248,7 +356,7 @@
    "materia": "Economico",
    "titolo": "Memoria Federdistribuzione",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti dell'Alleanza delle cooperative italiane, Confapi, Confimi industria, Conflavoro PMI, Confprofessioni e Federdistribuzione.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Silvia Rimondi, direttore dell'Associazione generale cooperative italiane, in videoconferenza, Gianluigi Granero, direttore di Legacoop, e Vito Domenico Sciancalepore, capo del dipartimento legislativo giuridico e sindacale di Confcooperative, in videoconferenza, in rappresentanza dell'Al",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "17:08",
@@ -267,7 +375,7 @@
    "materia": "Economico",
    "titolo": "Memoria CISAL_allegato 1",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizioni di rappresentanti di CISAL, CONFSAL, UGL e USB.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Massimo Blasi, segretario confederale della CISAL, Angelo Raffaele Margiotta, segretario generale di CONFSAL, Rocco Freda, consigliere nazionale e responsabile dell'ufficio studi economici nazionale di CONFSAL, Luigi Ulgiati, vicesegretario generale di UGL, e Alessandro Giannelli, compone",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "17:02",
@@ -286,7 +394,7 @@
    "materia": "Economico",
    "titolo": "Memoria CISAL_allegato 2",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizioni di rappresentanti di CISAL, CONFSAL, UGL e USB.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Massimo Blasi, segretario confederale della CISAL, Angelo Raffaele Margiotta, segretario generale di CONFSAL, Rocco Freda, consigliere nazionale e responsabile dell'ufficio studi economici nazionale di CONFSAL, Luigi Ulgiati, vicesegretario generale di UGL, e Alessandro Giannelli, compone",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "17:02",
@@ -343,7 +451,7 @@
    "materia": "Economico",
    "titolo": "Memoria CIA Agricoltori italiani",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti di Confagricoltura, CIA-Agricoltori italiani, Coldiretti e COPAGRI.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Roberto Caponi, direttore generale di Confagricoltura, Simone Cergnul, responsabile dell'ufficio relazioni istituzionali di CIA-Agricoltori italiani, Gianfranco Calabria, vice capo dell'area legislativa di Coldiretti, e Manfredi Pacifici, coordinatore dell'area legislativa di COPAGRI",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "15:39",
@@ -381,7 +489,7 @@
    "materia": "Economico",
    "titolo": "Memoria CGIL",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti di CGIL, CISL e UIL.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Christian Ferrari, segretario confederale della CGIL, Angelo Marinelli, segretario confederale della CISL, e Santo Biondo, segretario confederale della UIL",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "15:15",
@@ -400,7 +508,7 @@
    "materia": "Economico",
    "titolo": "Memoria CISL",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti di CGIL, CISL e UIL.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Christian Ferrari, segretario confederale della CGIL, Angelo Marinelli, segretario confederale della CISL, e Santo Biondo, segretario confederale della UIL",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "15:15",
@@ -419,7 +527,7 @@
    "materia": "Giustizia",
    "titolo": "C. 3159 Governo - Memoria ANM",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di rappresentanti dell’Associazione Nazionale Magistrati (ANM), nell’ambito dell’esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante “Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile”.",
+   "contesto": "Audizione informale, in videoconferenza, di rappresentanti dell'Associazione Nazionale Magistrati (ANM), nell'ambito dell'esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante «Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile»",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "14:55",
@@ -438,7 +546,7 @@
    "materia": "Economico",
    "titolo": "Memoria CISAL",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizioni di rappresentanti di CISAL, CONFSAL, UGL e USB.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Massimo Blasi, segretario confederale della CISAL, Angelo Raffaele Margiotta, segretario generale di CONFSAL, Rocco Freda, consigliere nazionale e responsabile dell'ufficio studi economici nazionale di CONFSAL, Luigi Ulgiati, vicesegretario generale di UGL, e Alessandro Giannelli, compone",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "13:10",
@@ -457,7 +565,7 @@
    "materia": "Economico",
    "titolo": "Memoria USB",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizioni di rappresentanti di CISAL, CONFSAL, UGL e USB.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Massimo Blasi, segretario confederale della CISAL, Angelo Raffaele Margiotta, segretario generale di CONFSAL, Rocco Freda, consigliere nazionale e responsabile dell'ufficio studi economici nazionale di CONFSAL, Luigi Ulgiati, vicesegretario generale di UGL, e Alessandro Giannelli, compone",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "13:10",
@@ -533,7 +641,7 @@
    "materia": "Giustizia",
    "titolo": "C. 3159 Governo - Memoria dott.ssa Paola Ortolan",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di Paola Ortolan, presidente del Tribunale per i minorenni di Milano, nell’ambito dell’esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante “Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile”.",
+   "contesto": "Audizione informale, in videoconferenza, di Paola Ortolan, presidente del Tribunale per i minorenni di Milano, nell'ambito dell'esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante «Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile»",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "12:20",
@@ -591,7 +699,7 @@
    "materia": "Economico",
    "titolo": "Memoria Confartigianato, CNA, Casartigiani",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti di Confcommercio-Imprese per l’Italia, Confesercenti, Confartigianato, CNA e Casartigiani.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Donatella Prampolini, vicepresidente nazionale con incarico alle politiche fiscali e di bilancio di Confcommercio-Imprese per l'Italia, Nico Gronchi, presidente nazionale di Confesercenti e Marco Granelli, presidente di Confartigianato, anche in rappresentanza di CNA e Casartigiani",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "11:52",
@@ -610,7 +718,7 @@
    "materia": "Economico",
    "titolo": "Memoria Confesercenti",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti di Confcommercio-Imprese per l’Italia, Confesercenti, Confartigianato, CNA e Casartigiani.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Donatella Prampolini, vicepresidente nazionale con incarico alle politiche fiscali e di bilancio di Confcommercio-Imprese per l'Italia, Nico Gronchi, presidente nazionale di Confesercenti e Marco Granelli, presidente di Confartigianato, anche in rappresentanza di CNA e Casartigiani",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "11:52",
@@ -648,7 +756,7 @@
    "materia": "Economico",
    "titolo": "Memoria Conflavoro PMI",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti dell'Alleanza delle cooperative italiane, Confapi, Confimi industria, Conflavoro PMI, Confprofessioni e Federdistribuzione.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Silvia Rimondi, direttore dell'Associazione generale cooperative italiane, in videoconferenza, Gianluigi Granero, direttore di Legacoop, e Vito Domenico Sciancalepore, capo del dipartimento legislativo giuridico e sindacale di Confcooperative, in videoconferenza, in rappresentanza dell'Al",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "10:25",
@@ -667,7 +775,7 @@
    "materia": "Economico",
    "titolo": "Memoria Confimi industria",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti dell'Alleanza delle cooperative italiane, Confapi, Confimi industria, Conflavoro PMI, Confprofessioni e Federdistribuzione.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Silvia Rimondi, direttore dell'Associazione generale cooperative italiane, in videoconferenza, Gianluigi Granero, direttore di Legacoop, e Vito Domenico Sciancalepore, capo del dipartimento legislativo giuridico e sindacale di Confcooperative, in videoconferenza, in rappresentanza dell'Al",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "10:25",
@@ -686,7 +794,7 @@
    "materia": "Economico",
    "titolo": "Confimi industria proposte emendative",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti dell'Alleanza delle cooperative italiane, Confapi, Confimi industria, Conflavoro PMI, Confprofessioni e Federdistribuzione.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Silvia Rimondi, direttore dell'Associazione generale cooperative italiane, in videoconferenza, Gianluigi Granero, direttore di Legacoop, e Vito Domenico Sciancalepore, capo del dipartimento legislativo giuridico e sindacale di Confcooperative, in videoconferenza, in rappresentanza dell'Al",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "10:25",
@@ -705,7 +813,7 @@
    "materia": "Economico",
    "titolo": "Memoria Confprofessioni",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti dell'Alleanza delle cooperative italiane, Confapi, Confimi industria, Conflavoro PMI, Confprofessioni e Federdistribuzione.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Silvia Rimondi, direttore dell'Associazione generale cooperative italiane, in videoconferenza, Gianluigi Granero, direttore di Legacoop, e Vito Domenico Sciancalepore, capo del dipartimento legislativo giuridico e sindacale di Confcooperative, in videoconferenza, in rappresentanza dell'Al",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "10:25",
@@ -724,7 +832,7 @@
    "materia": "Economico",
    "titolo": "Memoria INPS",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti dell'INPS.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Valeria Vittimberga, direttore generale dell'INPS",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "09:54",
@@ -743,7 +851,7 @@
    "materia": "Economico",
    "titolo": "Memoria ABI",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti dell'ABI.",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Marco Elio Rottigni, direttore generale dell'ABI",
    "seduta": "Seduta del 10/11/2026",
    "data": "2026-11-10",
    "ora": "09:27",
