@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-11T19:01:14Z",
+ "aggiornato": "2026-11-11T20:01:15Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-11T20:01:15Z",
+   "nuovi": 1
+  },
   {
    "quando": "2026-11-11T19:01:14Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-07T23:28:44Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-07T22:23:41Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -168,6 +168,19 @@
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23866",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "Disegno di legge di bilancio 2027 - Effetti sui saldi e conto risorse e impieghi",
+   "tipo": "",
+   "data": "2026-11-11",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23866/disegno-legge-bilancio-2027-effetti-sui-saldi-e-conto-risorse-e-impieghi.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-11T20:01:15Z"
+  },
   {
    "id": "c-73ff16f106b3e8",
    "fonte": "commissione",
