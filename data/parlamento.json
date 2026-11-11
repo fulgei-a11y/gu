@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-11T11:01:16Z",
+ "aggiornato": "2026-11-11T18:01:17Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-11T18:01:17Z",
+   "nuovi": 15
+  },
   {
    "quando": "2026-11-11T11:01:16Z",
    "nuovi": 6
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-07T20:01:11Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-07T19:01:09Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -136,14 +136,14 @@
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
-   "trovati": 886
+   "trovati": 890
   },
   {
    "id": "comm5",
    "nome": "V Commissione Bilancio",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
-   "trovati": 731
+   "trovati": 737
   },
   {
    "id": "comm6",
@@ -168,6 +168,267 @@
   }
  ],
  "voci": [
+  {
+   "id": "c-24a15ef6b98417",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "C. 3159 - Memoria Gambardella",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Antonella Massaro, professoressa di diritto penale presso l'Università degli Studi “Roma Tre”, Marco Gambardella, professore di diritto penale presso l'Università degli Studi di Roma “Sapienza”, Tullio Padovani, professore di diritto penale presso la Scuola Superiore “Sant’Anna” di Pisa, Roberto Bartoli, professore di diritto penale presso l’Università degli Studi di Firenze, e Clelia Iasevoli, professoressa di diritto processuale penale presso l’Università degli Studi di Napoli “Federico II”, nell’ambito dell’esame del disegno di legge C. 3159, di conversione in legge d",
+   "seduta": "Seduta del 11/11/2026",
+   "data": "2026-11-11",
+   "ora": "18:04",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.106151.11-11-2026-18-04-53.623.doc",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "C. 3159",
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "c-f7ea06a6679706",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria Unioncamere",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione, in videoconferenza, di Giuseppe Tripoli, segretario generale di Unioncamere",
+   "seduta": "Seduta del 09/11/2026",
+   "data": "2026-11-11",
+   "ora": "16:45",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106010.11-11-2026-16-45-34.648.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "c-9e9d1f8d6cd335",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Contributo scritto Federturismo",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3174-bis - \"Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" ( Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174 ) (3174- bis )",
+   "seduta": "",
+   "data": "2026-11-11",
+   "ora": "15:58",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Progettodilegge/leg19.com05.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.105085.11-11-2026-15-58-50.012.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "C. 3174",
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "c-38208b8e591c94",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Proposte emendative ANCI",
+   "tipo": "Altro",
+   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti della Conferenza delle regioni e delle province autonome, ANCI e UPI",
+   "seduta": "Seduta del 11/11/2026",
+   "data": "2026-11-11",
+   "ora": "15:55",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Altro.PUBBLICO.ideGes.106105.11-11-2026-15-55-27.301.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "c-94a38b78d548f6",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria UPI",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti della Conferenza delle regioni e delle province autonome, ANCI e UPI",
+   "seduta": "Seduta del 11/11/2026",
+   "data": "2026-11-11",
+   "ora": "15:55",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106105.11-11-2026-15-55-27.347.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "c-206da9bf2d46d9",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria ANCI",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti della Conferenza delle regioni e delle province autonome, ANCI e UPI",
+   "seduta": "Seduta del 11/11/2026",
+   "data": "2026-11-11",
+   "ora": "15:45",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106105.11-11-2026-15-45-38.599.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "c-4e2bc3ac792617",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "C. 3159 - Memoria Azzariti",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Gaetano Azzariti, professore di diritto costituzionale presso l’Università degli Studi di Roma “Sapienza”, nell’ambito dell’esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante “Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile”.",
+   "seduta": "Seduta del 11/11/2026",
+   "data": "2026-11-11",
+   "ora": "15:29",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.106170.11-11-2026-15-29-37.887.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "C. 3159",
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "c-e18fb998b42ef0",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "C. 3159 - Memoria OCF",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti dell’Organismo Congressuale Forense (OCF) e dell’Unione Camere Penali Italiane (UCPI), nell’ambito dell’esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante “Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile”.",
+   "seduta": "Seduta del 11/11/2026",
+   "data": "2026-11-11",
+   "ora": "15:24",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.106162.11-11-2026-15-24-24.647.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "C. 3159",
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "c-5c822d17c24b12",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "C. 3159 - Memoria UCPI",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti dell’Organismo Congressuale Forense (OCF) e dell’Unione Camere Penali Italiane (UCPI), nell’ambito dell’esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante “Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile”.",
+   "seduta": "Seduta del 11/11/2026",
+   "data": "2026-11-11",
+   "ora": "15:24",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.106162.11-11-2026-15-24-56.367.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "C. 3159",
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "c-5c7e877a16279f",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria Confedilizia",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Giorgio Spaziani Testa, presidente di Confedilizia",
+   "seduta": "Seduta del 09/11/2026",
+   "data": "2026-11-11",
+   "ora": "15:19",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106018.11-11-2026-15-19-58.787.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "c-943161194fabf7",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria CISL_allegato 2",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Christian Ferrari, segretario confederale della CGIL, Angelo Marinelli, segretario confederale della CISL, e Santo Biondo, segretario confederale della UIL",
+   "seduta": "Seduta del 10/11/2026",
+   "data": "2026-11-11",
+   "ora": "12:41",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106089.11-11-2026-12-41-39.357.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "d-OCD18-23868",
+   "fonte": "dossier",
+   "organo": "Studi - Osservatorio legislativo e parlamentare",
+   "materia": "",
+   "titolo": "Legge annuale per il mercato e la concorrenza 2026",
+   "tipo": "Elementi di valutazione sulla qualità del testo",
+   "data": "2026-11-11",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23868/legge-annuale-mercato-e-concorrenza-2026.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "d-OCD18-23807",
+   "fonte": "dossier",
+   "organo": "Studi - Istituzioni",
+   "materia": "",
+   "titolo": "Disposizioni in materia di circoscrizioni giudiziarie",
+   "tipo": "Elementi per la valutazione degli aspetti di legittimità costituzionale",
+   "data": "2026-11-11",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23807/disposizioni-materia-circoscrizioni-giudiziarie.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "d-OCD18-23869",
+   "fonte": "dossier",
+   "organo": "Studi - Osservatorio legislativo e parlamentare",
+   "materia": "",
+   "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
+   "tipo": "Elementi di valutazione sulla qualità del testo",
+   "data": "2026-11-11",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23869/delega-al-governo-riforma-e-riordino-della-legislazione-farmaceutica-materia-accesso-al-farmaco-monitoraggio-e-controllo-della.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-11T18:01:17Z"
+  },
+  {
+   "id": "d-OCD18-23879",
+   "fonte": "dossier",
+   "organo": "Studi - Ambiente",
+   "materia": "Energia e Ambiente",
+   "titolo": "Misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale \"EURO 5\"",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-11",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23879/misure-urgenti-circolazione-veicoli-ad-alimentazione-diesel-appartenenti-alla-categoria-ambientale-euro-5.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-11T18:01:17Z"
+  },
   {
    "id": "c-4af82412a7aa2e",
    "fonte": "commissione",
@@ -506,7 +767,7 @@
     "V"
    ],
    "materia": "Economico",
-   "titolo": "Memoria CISL",
+   "titolo": "Memoria CISL_allegato 1",
    "tipo": "Memoria",
    "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Christian Ferrari, segretario confederale della CGIL, Angelo Marinelli, segretario confederale della CISL, e Santo Biondo, segretario confederale della UIL",
    "seduta": "Seduta del 10/11/2026",
