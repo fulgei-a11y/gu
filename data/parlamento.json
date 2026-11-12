@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-12T01:49:39Z",
+ "aggiornato": "2026-11-12T11:01:19Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-12T11:01:19Z",
+   "nuovi": 4
+  },
   {
    "quando": "2026-11-12T01:49:39Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-08T19:01:12Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-08T18:01:10Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -136,14 +136,14 @@
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
-   "trovati": 890
+   "trovati": 892
   },
   {
    "id": "comm5",
    "nome": "V Commissione Bilancio",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
-   "trovati": 737
+   "trovati": 739
   },
   {
    "id": "comm6",
@@ -168,6 +168,82 @@
   }
  ],
  "voci": [
+  {
+   "id": "c-1391385e40047b",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria e proposte emendative UDU",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Lucia Ferrante, rappresentante dell'Unione degli universitari, e Caterina La Rocca, responsabile organizzativo della Rete",
+   "seduta": "Seduta del 09/11/2026",
+   "data": "2026-11-12",
+   "ora": "10:31",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.105998.12-11-2026-10-31-58.170.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T11:01:19Z"
+  },
+  {
+   "id": "c-1fefdd5334bc03",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "C. 3068 - Integrazione contributo UNRL",
+   "tipo": "Allegato",
+   "contesto": "A.C. 3068 - S. 1663. - \"Delega al Governo per la riforma della disciplina degli ordinamenti professionali\" (approvato dal Senato) (3068)",
+   "seduta": "",
+   "data": "2026-11-12",
+   "ora": "09:26",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Progettodilegge/leg19.com02.Progettodilegge.Allegato.PUBBLICO.ideGes.99874.12-11-2026-09-26-47.469.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "C. 3068",
+   "visto": "2026-11-12T11:01:19Z"
+  },
+  {
+   "id": "c-a0371eae22e710",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria Confederazione italiana dirigenti e alte professionalità (CIDA)",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Marco Ballarè, vicepresidente della Confederazione italiana dirigenti e alte professionalità (CIDA), Valter Quercioli, presidente di Federmanager, e Antonello Giannelli, vicepresidente della Confederazione italiana dirigenti e alte professionalità (CIDA)",
+   "seduta": "Seduta del 09/11/2026",
+   "data": "2026-11-12",
+   "ora": "09:24",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106022.12-11-2026-09-24-11.711.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T11:01:19Z"
+  },
+  {
+   "id": "c-e84f75f8ae6fb4",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "C. 3159 - Memoria di Massaro",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Antonella Massaro, professoressa di diritto penale presso l'Università degli Studi «Roma Tre», di Marco Gambardella, professore di diritto penale presso l'Università degli Studi di Roma «Sapienza», di Tullio Padovani, professore di diritto penale presso la Scuola Superiore «Sant'Anna» di Pisa, in videoconferenza, di Roberto Bartoli, professore di diritto penale presso l'Università degli Studi di Firenze, in videoconferenza, e di Clelia Iasevoli, professoressa di diritto processuale penale presso l'Università degli Studi di Napoli «Federico II», nell'ambito dell'esame del",
+   "seduta": "Seduta del 11/11/2026",
+   "data": "2026-11-12",
+   "ora": "09:16",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.106151.12-11-2026-09-16-59.551.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "C. 3159",
+   "visto": "2026-11-12T11:01:19Z"
+  },
   {
    "id": "d-OCD18-23866",
    "fonte": "dossier",
@@ -210,7 +286,7 @@
    "materia": "Giustizia",
    "titolo": "C. 3159 - Memoria Gambardella",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di Antonella Massaro, professoressa di diritto penale presso l'Università degli Studi “Roma Tre”, Marco Gambardella, professore di diritto penale presso l'Università degli Studi di Roma “Sapienza”, Tullio Padovani, professore di diritto penale presso la Scuola Superiore “Sant’Anna” di Pisa, Roberto Bartoli, professore di diritto penale presso l’Università degli Studi di Firenze, e Clelia Iasevoli, professoressa di diritto processuale penale presso l’Università degli Studi di Napoli “Federico II”, nell’ambito dell’esame del disegno di legge C. 3159, di conversione in legge d",
+   "contesto": "Audizione informale di Antonella Massaro, professoressa di diritto penale presso l'Università degli Studi «Roma Tre», di Marco Gambardella, professore di diritto penale presso l'Università degli Studi di Roma «Sapienza», di Tullio Padovani, professore di diritto penale presso la Scuola Superiore «Sant'Anna» di Pisa, in videoconferenza, di Roberto Bartoli, professore di diritto penale presso l'Università degli Studi di Firenze, in videoconferenza, e di Clelia Iasevoli, professoressa di diritto processuale penale presso l'Università degli Studi di Napoli «Federico II», nell'ambito dell'esame del",
    "seduta": "Seduta del 11/11/2026",
    "data": "2026-11-11",
    "ora": "18:04",
@@ -267,7 +343,7 @@
    "materia": "Economico",
    "titolo": "Proposte emendative ANCI",
    "tipo": "Altro",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti della Conferenza delle regioni e delle province autonome, ANCI e UPI",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato. Audizione di Marco Alparone, coordinatore della Commissione affari finanziari della Conferenza delle regioni e delle province autonome e vicepresidente della Regione Lombardia, Giancarlo Righini, coordinatore vicario della Commissione affari finanziari della Conferenza delle regioni e delle province a",
    "seduta": "Seduta del 11/11/2026",
    "data": "2026-11-11",
    "ora": "15:55",
@@ -286,7 +362,7 @@
    "materia": "Economico",
    "titolo": "Memoria UPI",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti della Conferenza delle regioni e delle province autonome, ANCI e UPI",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato. Audizione di Marco Alparone, coordinatore della Commissione affari finanziari della Conferenza delle regioni e delle province autonome e vicepresidente della Regione Lombardia, Giancarlo Righini, coordinatore vicario della Commissione affari finanziari della Conferenza delle regioni e delle province a",
    "seduta": "Seduta del 11/11/2026",
    "data": "2026-11-11",
    "ora": "15:55",
@@ -305,7 +381,7 @@
    "materia": "Economico",
    "titolo": "Memoria ANCI",
    "tipo": "Memoria",
-   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti della Conferenza delle regioni e delle province autonome, ANCI e UPI",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato. Audizione di Marco Alparone, coordinatore della Commissione affari finanziari della Conferenza delle regioni e delle province autonome e vicepresidente della Regione Lombardia, Giancarlo Righini, coordinatore vicario della Commissione affari finanziari della Conferenza delle regioni e delle province a",
    "seduta": "Seduta del 11/11/2026",
    "data": "2026-11-11",
    "ora": "15:45",
@@ -324,7 +400,7 @@
    "materia": "Giustizia",
    "titolo": "C. 3159 - Memoria Azzariti",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di Gaetano Azzariti, professore di diritto costituzionale presso l’Università degli Studi di Roma “Sapienza”, nell’ambito dell’esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante “Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile”.",
+   "contesto": "Audizione informale di Gaetano Azzariti, professore di diritto costituzionale presso l'Università degli Studi di Roma «Sapienza», nell'ambito dell'esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante «Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile»",
    "seduta": "Seduta del 11/11/2026",
    "data": "2026-11-11",
    "ora": "15:29",
@@ -343,7 +419,7 @@
    "materia": "Giustizia",
    "titolo": "C. 3159 - Memoria OCF",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di rappresentanti dell’Organismo Congressuale Forense (OCF) e dell’Unione Camere Penali Italiane (UCPI), nell’ambito dell’esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante “Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile”.",
+   "contesto": "Audizione informale di rappresentanti dell'Unione Camere Penali Italiane (UCPI) e, in videoconferenza, dell'Organismo Congressuale Forense (OCF), nell'ambito dell'esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante «Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile»",
    "seduta": "Seduta del 11/11/2026",
    "data": "2026-11-11",
    "ora": "15:24",
@@ -362,7 +438,7 @@
    "materia": "Giustizia",
    "titolo": "C. 3159 - Memoria UCPI",
    "tipo": "Memoria",
-   "contesto": "Audizione informale di rappresentanti dell’Organismo Congressuale Forense (OCF) e dell’Unione Camere Penali Italiane (UCPI), nell’ambito dell’esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante “Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile”.",
+   "contesto": "Audizione informale di rappresentanti dell'Unione Camere Penali Italiane (UCPI) e, in videoconferenza, dell'Organismo Congressuale Forense (OCF), nell'ambito dell'esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante «Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile»",
    "seduta": "Seduta del 11/11/2026",
    "data": "2026-11-11",
    "ora": "15:24",
