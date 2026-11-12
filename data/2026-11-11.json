@@ -1,14 +1,249 @@
 {
   "date": "2026-11-11",
   "giorno": "mercoledì",
-  "updatedAt": "2026-11-11T20:01:12Z",
+  "updatedAt": "2026-11-12T00:26:24Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "con_schede",
   "numero_gu": "263",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-11&numeroGazzetta=263",
-  "schede": [],
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/11/263/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 11 novembre 2026 presenta due atti normativi di rilievo: una legge di ratifica di trattati internazionali in materia penale con il Vietnam e un decreto-legge che istituisce un piano straordinario per i Campi Flegrei. Quest'ultimo introduce un nuovo Commissario straordinario e una struttura di supporto dedicata, con significative implicazioni organizzative e finanziarie per la gestione del rischio bradisismico. Completano l'edizione diversi decreti e provvedimenti di natura economica e amministrativa.",
+  "modello": "gemini-2.5-flash",
+  "schede": [
+    {
+      "codice_atto": "26G00220",
+      "titolo": "Ratifica ed esecuzione di trattati penali con il Vietnam",
+      "riferimento": "LEGGE 29 ottobre 2026, n. 204",
+      "categoria": "Giustizia",
+      "iter": "In vigore dal 12/11/2026",
+      "contesto": "La legge autorizza la ratifica e dà piena esecuzione a tre trattati internazionali stipulati con la Repubblica Socialista del Vietnam, volti a rafforzare la cooperazione giudiziaria in materia penale.",
+      "misure": [
+        "Art. 1: Autorizza il Presidente della Repubblica a ratificare il Trattato di estradizione, il Trattato sul trasferimento delle persone condannate e il Trattato di assistenza giudiziaria in materia penale tra la Repubblica italiana e la Repubblica Socialista del Vietnam, fatti a Roma il 18 e il 26 luglio 2023.",
+        "Art. 2: Dà piena ed intera esecuzione ai Trattati di cui all'articolo 1, a decorrere dalla data della loro entrata in vigore, in conformità a quanto disposto dai rispettivi articoli finali dei Trattati stessi.",
+        "Art. 3, comma 1: Gli oneri derivanti dalle spese relative al Trattato di estradizione (articoli 17 e 19) sono valutati in euro 31.028 annui a decorrere dall'anno 2026.",
+        "Art. 3, comma 2: Gli oneri derivanti dalle spese relative al Trattato sul trasferimento delle persone condannate (articoli 8 e 18) sono valutati in euro 21.028 annui a decorrere dall'anno 2026.",
+        "Art. 3, comma 3: Gli oneri derivanti dalle spese relative al Trattato di assistenza giudiziaria in materia penale (articoli 11, 12, 13, 15 e 20, paragrafo 1) sono valutati in euro 73.355 annui a decorrere dall'anno 2026.",
+        "Art. 3, comma 4: Agli oneri complessivi di euro 125.411 annui a decorrere dall'anno 2026 si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto nel bilancio triennale 2026-2028 del Ministero dell'economia e delle finanze, utilizzando l'accantonamento relativo al Ministero degli affari esteri e della cooperazione internazionale.",
+        "Art. 3, comma 5: Le amministrazioni interessate provvedono agli adempimenti previsti dalla legge con risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica, ad esclusione di quanto previsto dai commi 1, 2 e 3.",
+        "Art. 4: La legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale (12 novembre 2026)."
+      ],
+      "chi_interessato": "Repubblica italiana, Repubblica Socialista del Vietnam, Ministero degli Affari Esteri e della Cooperazione Internazionale, Ministero dell'Economia e delle Finanze, Ministero della Giustizia, autorità giudiziarie e di polizia, persone coinvolte in procedimenti penali internazionali.",
+      "decorrenza": "12 novembre 2026",
+      "perche_conta": "La legge è fondamentale per l'implementazione degli accordi internazionali che regolano l'estradizione, il trasferimento di persone condannate e l'assistenza giudiziaria in materia penale tra Italia e Vietnam. Questo rafforza la cooperazione giudiziaria e la lotta alla criminalità transnazionale, garantendo un quadro giuridico chiaro per la gestione di casi che coinvolgono cittadini o interessi di entrambi i Paesi.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26G00220/sg",
+      "vigore": "12/11/2026"
+    },
+    {
+      "codice_atto": "26G00225",
+      "titolo": "Piano straordinario per i Campi Flegrei e disposizioni di protezione civile",
+      "riferimento": "DECRETO-LEGGE 11 novembre 2026, n. 205",
+      "categoria": "Economico",
+      "iter": "In vigore dal 12/11/2026. Decreto-legge da convertire in legge entro 60 giorni.",
+      "contesto": "Il decreto-legge è emanato per fronteggiare con urgenza gli effetti dell'evoluzione del fenomeno bradisismico nell'area dei Campi Flegrei, definendo misure speciali per la resilienza, la riduzione della vulnerabilità e dell'esposizione ai rischi naturali della popolazione, del patrimonio edilizio e delle infrastrutture.",
+      "misure": [
+        "Art. 1, comma 1: Il Presidente della Regione Campania pro tempore è nominato «Commissario straordinario per gli interventi nell’area dei Campi Flegrei» fino al 31 dicembre 2036, con il compito di coordinare e attuare gli interventi necessari a fronteggiare il fenomeno bradisismico.",
+        "Art. 1, comma 2 e 3: Il Commissario subentra nelle funzioni, rapporti giuridici e risorse finanziarie dei precedenti Commissari straordinari e degli enti territoriali (Regione Campania, Comuni di Napoli, Pozzuoli, Bacoli, Monte di Procida) per gli interventi già previsti da normative precedenti.",
+        "Art. 1, comma 4: Il Commissario coordina interventi di prevenzione e riduzione della vulnerabilità sismica di edifici privati (abitazione principale), riparazione e riqualificazione sismica di edifici privati danneggiati, concedendo i relativi contributi (Art. 11-16). Provvede a ricognizione, programmazione e attuazione di interventi su immobili pubblici, infrastrutture e servizi pubblici, mitigazione del rischio da crollo di costoni rocciosi, centri operativi comunali e aree di attesa/raccolta (Art. 18-19). Organizza interventi di assistenza e sostegno a famiglie e attività economiche/produttive.",
+        "Art. 1, comma 5: L'ambito territoriale di competenza del Commissario include i comuni di Bacoli, Napoli e Pozzuoli, e per alcune funzioni (Art. 12, 13 e 13-bis del DL 144/2026) anche il comune di Monte di Procida.",
+        "Art. 1, comma 6: Il Commissario può provvedere anche a mezzo di ordinanze, anche in deroga a disposizioni di legge (salvo penali, principi generali, antimafia, vincoli UE), con motivazione specifica.",
+        "Art. 1, comma 7: Al Commissario non spettano compensi, salvo rimborsi spese documentate fino a euro 25.000 annui.",
+        "Art. 2, comma 1: Per l'esercizio dei compiti, il Commissario si avvale di una struttura di supporto posta alle sue dirette dipendenze, costituita con propria ordinanza.",
+        "Art. 2, comma 2: La struttura di supporto ha un contingente massimo di 93 unità (3 dirigenti generali, 9 dirigenti non generali, 81 personale non dirigenziale) provenienti da pubbliche amministrazioni centrali ed enti territoriali, collocati fuori ruolo o in comando.",
+        "Art. 2, comma 7: Gli oneri per la struttura di supporto sono quantificati in euro 1.730.303 per il 2026, euro 10.333.555 per il 2027 e euro 10.883.891 per ciascuno degli anni dal 2028 al 2036, con copertura ai sensi dell'articolo 8.",
+        "Art. 3, comma 1: Il Commissario può avvalersi di un massimo di sette esperti (compenso max 50.000 euro annui) e stipulare convenzioni non onerose con aziende sanitarie, università, enti pubblici di ricerca, strutture delle amministrazioni centrali, Agenzia del Demanio, UTA, Regione Campania e comuni. Può anche avvalersi di Centri di competenza di Protezione Civile e stipulare convenzioni con società in house o partecipate statali (oneri max 2% dei quadri economici degli interventi).",
+        "Art. 3, comma 2: Il Commissario nomina due vicecommissari (uno per patrimonio pubblico/infrastrutture, uno per patrimonio privato/assistenza popolazione) con compenso massimo di euro 100.000 annui."
+      ],
+      "chi_interessato": "Popolazione e attività economiche dell'area dei Campi Flegrei (Comuni di Bacoli, Napoli, Pozzuoli, Monte di Procida), Regione Campania, Ministero per la Protezione Civile e le Politiche del Mare, Dipartimento della Protezione Civile, pubbliche amministrazioni centrali e locali, proprietari di immobili, imprese edili, professionisti tecnici.",
+      "decorrenza": "12 novembre 2026",
+      "perche_conta": "Questo decreto-legge rappresenta un intervento organico e di lungo termine per la gestione del rischio bradisismico nei Campi Flegrei, istituendo una governance centralizzata e dotandola di poteri speciali. Le misure mirano a ridurre la vulnerabilità del territorio e della popolazione, con un impatto significativo sulla pianificazione urbanistica, la sicurezza degli edifici e le risorse finanziarie dedicate alla prevenzione e alla riqualificazione. È cruciale per la sicurezza e lo sviluppo sostenibile dell'area.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26G00225/sg",
+      "vigore": "12/11/2026"
+    }
+  ],
   "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "altri_atti": [
+    {
+      "codice_atto": "26A05868",
+      "categoria": "Economico",
+      "titolo": "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 24 settembre 2026 Determinazione delle percentuali, spettanti alle regioni a statuto speciale, del contributo di cui all'articolo 330, commi 2 e 3, del decreto legislativo 15 marzo 2010, n. 66, recante «Codice dell'ordinamento militare».",
+      "sintesi": "Determina le percentuali del contributo finanziario spettante alle regioni a statuto speciale, come previsto dal Codice dell'ordinamento militare.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05868/sg"
+    },
+    {
+      "codice_atto": "26A05869",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 30 ottobre 2026 Riparto e assegnazione del fondo a favore delle amministrazioni centrali dello Stato, per assicurare il finanziamento degli investimenti e lo sviluppo infrastrutturale del Paese agli interventi del Ministero dell'economia e delle finanze.",
+      "sintesi": "Definisce il riparto e l'assegnazione di fondi per investimenti e sviluppo infrastrutturale destinati agli interventi del Ministero dell'Economia e delle Finanze.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05869/sg"
+    },
+    {
+      "codice_atto": "26A05870",
+      "categoria": "Economico",
+      "titolo": "DECRETO 30 ottobre 2026 Riparto e assegnazione del fondo a favore delle amministrazioni centrali dello Stato, per assicurare il finanziamento degli investimenti e lo sviluppo infrastrutturale del Paese.",
+      "sintesi": "Stabilisce il riparto e l'assegnazione di un fondo per il finanziamento di investimenti e lo sviluppo infrastrutturale del Paese a favore delle amministrazioni centrali dello Stato.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05870/sg"
+    },
+    {
+      "codice_atto": "26A05858",
+      "categoria": "Giustizia",
+      "titolo": "MINISTERO DELLA GIUSTIZIA - DECRETO 2 novembre 2026 Variazione della misura dell'indennita' di trasferta spettante agli ufficiali giudiziari.",
+      "sintesi": "Modifica l'importo dell'indennità di trasferta riconosciuta agli ufficiali giudiziari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05858/sg"
+    },
+    {
+      "codice_atto": "26A05871",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 4 novembre 2026 Liquidazione coatta amministrativa della «MS Log Societa' cooperativa a r.l.», in Torino e nomina del commissario liquidatore.",
+      "sintesi": "Dispone la liquidazione coatta amministrativa della società cooperativa «MS Log Società cooperativa a r.l.» e nomina il relativo commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05871/sg"
+    },
+    {
+      "codice_atto": "26A05911",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO PER L'ATTUAZIONE DEGLI INTERVENTI PUBBLICI NELL'AREA DEI CAMPI FLEGREI - ORDINANZA 2 ottobre 2026 Ulteriori disposizioni attuative per la realizzazione dell'intervento «Interventi di riqualificazione sismica della Scuola primaria e dell'infanzia G. Marconi del Circolo didattico 1 G. Marconi - CUP G85E25000130001 di cui all'articolo 1, comma 1, dell'ordinanza n. 3 del 21 marzo 2025.». (Ordinanza n. 29/2026).",
+      "sintesi": "Fornisce ulteriori disposizioni per la realizzazione di interventi di riqualificazione sismica della Scuola primaria e dell'infanzia G. Marconi nell'area dei Campi Flegrei.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05911/sg"
+    },
+    {
+      "codice_atto": "26A05859",
+      "categoria": "Economico",
+      "titolo": "AGENZIA DELLE ENTRATE - PROVVEDIMENTO 3 novembre 2026 Attivazione delle sezioni stralcio delle Conservatorie dei registri immobiliari di Venezia e di Chioggia.",
+      "sintesi": "Attiva le sezioni stralcio delle Conservatorie dei registri immobiliari di Venezia e Chioggia, con implicazioni per la gestione immobiliare e fiscale.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05859/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00220",
+      "titolo": "LEGGE 29 ottobre 2026, n. 204 Ratifica ed esecuzione dei Trattati di estradizione, trasferimento delle persone condannate e assistenza giudiziaria in materia penale tra la Repubblica italiana e la Repubblica Socialista del Vietnam, fatti a Roma il 18 e il 26 luglio 2023.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26G00220/sg",
+      "tipo": "LEGGE",
+      "vigore": "12/11/2026"
+    },
+    {
+      "codice": "26G00225",
+      "titolo": "DECRETO-LEGGE 11 novembre 2026, n. 205 Piano straordinario per i Campi Flegrei nonche' ulteriori disposizioni urgenti di protezione civile.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26G00225/sg",
+      "tipo": "DECRETO-LEGGE",
+      "vigore": "12/11/2026"
+    },
+    {
+      "codice": "26A05868",
+      "titolo": "DECRETI PRESIDENZIALI - DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 24 settembre 2026 Determinazione delle percentuali, spettanti alle regioni a statuto speciale, del contributo di cui all'articolo 330, commi 2 e 3, del decreto legislativo 15 marzo 2010, n. 66, recante «Codice dell'ordinamento militare».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05868/sg"
+    },
+    {
+      "codice": "26A05869",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 30 ottobre 2026 Riparto e assegnazione del fondo a favore delle amministrazioni centrali dello Stato, per assicurare il finanziamento degli investimenti e lo sviluppo infrastrutturale del Paese agli interventi del Ministero dell'economia e delle finanze.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05869/sg"
+    },
+    {
+      "codice": "26A05870",
+      "titolo": "DECRETO 30 ottobre 2026 Riparto e assegnazione del fondo a favore delle amministrazioni centrali dello Stato, per assicurare il finanziamento degli investimenti e lo sviluppo infrastrutturale del Paese.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05870/sg"
+    },
+    {
+      "codice": "26A05858",
+      "titolo": "MINISTERO DELLA GIUSTIZIA - DECRETO 2 novembre 2026 Variazione della misura dell'indennita' di trasferta spettante agli ufficiali giudiziari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05858/sg"
+    },
+    {
+      "codice": "26A05871",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 4 novembre 2026 Liquidazione coatta amministrativa della «MS Log Societa' cooperativa a r.l.», in Torino e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05871/sg"
+    },
+    {
+      "codice": "26A05911",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO PER L'ATTUAZIONE DEGLI INTERVENTI PUBBLICI NELL'AREA DEI CAMPI FLEGREI - ORDINANZA 2 ottobre 2026 Ulteriori disposizioni attuative per la realizzazione dell'intervento «Interventi di riqualificazione sismica della Scuola primaria e dell'infanzia G. Marconi del Circolo didattico 1 G. Marconi - CUP G85E25000130001 di cui all'articolo 1, comma 1, dell'ordinanza n. 3 del 21 marzo 2025.». (Ordinanza n. 29/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05911/sg"
+    },
+    {
+      "codice": "26A05859",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' AGENZIA DELLE ENTRATE - PROVVEDIMENTO 3 novembre 2026 Attivazione delle sezioni stralcio delle Conservatorie dei registri immobiliari di Venezia e di Chioggia.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05859/sg"
+    },
+    {
+      "codice": "26A05884",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di tafamidis, «Vyndaqel». (Determina n. 1532/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05884/sg"
+    },
+    {
+      "codice": "26A05885",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di pegfilgrastim, «Nylaspeg». (Determina n. 1533/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05885/sg"
+    },
+    {
+      "codice": "26A05886",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di dasatinib, «Dasatinib Accord Healthcare». (Determina n. 1534/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05886/sg"
+    },
+    {
+      "codice": "26A05887",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di denosumab, «Denosumab Ascend». (Determina n. 1535/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05887/sg"
+    },
+    {
+      "codice": "26A05840",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di rosuvastatina/acidi grassi omega-3, «Rosuvastatina e Omega 3 SPA Societa' prodotti antibiotici».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05840/sg"
+    },
+    {
+      "codice": "26A05841",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio dei medicinali per uso umano, a base di isoniazide/rifampicina e di isoniazide/pirazinamide/rifampicina, «Rifinah» e «Rifater».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05841/sg"
+    },
+    {
+      "codice": "26A05842",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di simvastatina, «Simvastatina EG».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05842/sg"
+    },
+    {
+      "codice": "26A05843",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di linagliptin, «Linagliptin Krka».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05843/sg"
+    },
+    {
+      "codice": "26A05844",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di tossoide tetanico, «Tetana»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05844/sg"
+    },
+    {
+      "codice": "26A05845",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di rosuvastatina, «Rosuvastatina EG».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05845/sg"
+    },
+    {
+      "codice": "26A05860",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di ruxolitinib, «Ruxolitinib G. L. Pharma».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05860/sg"
+    },
+    {
+      "codice": "26A05861",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di empagliflozin, «Empagliflozin Tecnigen».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05861/sg"
+    },
+    {
+      "codice": "26A05862",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Seacor»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05862/sg"
+    },
+    {
+      "codice": "26A05863",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Zoely»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05863/sg"
+    },
+    {
+      "codice": "26A05864",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Indusil»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05864/sg"
+    },
+    {
+      "codice": "26A05865",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Trazodone EG»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05865/sg"
+    }
+  ]
 }
