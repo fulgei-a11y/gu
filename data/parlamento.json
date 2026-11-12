@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-12T11:01:19Z",
+ "aggiornato": "2026-11-12T18:01:16Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-12T18:01:16Z",
+   "nuovi": 21
+  },
   {
    "quando": "2026-11-12T11:01:19Z",
    "nuovi": 4
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-08T20:01:17Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-08T19:01:12Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -136,14 +136,14 @@
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
-   "trovati": 892
+   "trovati": 893
   },
   {
    "id": "comm5",
    "nome": "V Commissione Bilancio",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
-   "trovati": 739
+   "trovati": 756
   },
   {
    "id": "comm6",
@@ -168,6 +168,387 @@
   }
  ],
  "voci": [
+  {
+   "id": "c-d3059101e84e9c",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Proposte emendative Federdistribuzione",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Silvia Rimondi, direttore dell'Associazione generale cooperative italiane, in videoconferenza, Gianluigi Granero, direttore di Legacoop, e Vito Domenico Sciancalepore, capo del dipartimento legislativo giuridico e sindacale di Confcooperative, in videoconferenza, in rappresentanza dell'Al",
+   "seduta": "Seduta del 10/11/2026",
+   "data": "2026-11-12",
+   "ora": "16:38",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106081.12-11-2026-16-38-03.537.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-165617a3650be3",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Contributo scritto Assopetroli-Assoenergia",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3174-bis - \"Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" ( Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174 ) (3174- bis )",
+   "seduta": "",
+   "data": "2026-11-12",
+   "ora": "16:17",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Progettodilegge/leg19.com05.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.105085.12-11-2026-16-17-41.093.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "C. 3174",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-138a334dd1ea3a",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria Banca d'Italia",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti della Banca d’Italia.",
+   "seduta": "Seduta del 12/11/2026",
+   "data": "2026-11-12",
+   "ora": "15:42",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106117.12-11-2026-15-42-15.003.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-8112a4178b8e2f",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria UPB",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione del presidente dell’Ufficio parlamentare di bilancio, Lilia Cavallari.",
+   "seduta": "Seduta del 12/11/2026",
+   "data": "2026-11-12",
+   "ora": "15:42",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106121.12-11-2026-15-42-59.732.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-0b74d7eb90e889",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Proposte emendative Istituto nazionale tributaristi",
+   "tipo": "Altro",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Pasquale Saggese, responsabile per l'area fiscalità della Fondazione nazionale di ricerca dei commercialisti, in rappresentanza del Consiglio nazionale dei dottori commercialisti e degli esperti contabili, Angela Eugenia Losito, consigliera nazionale del Consiglio nazionale dell'ordine de",
+   "seduta": "Seduta del 09/11/2026",
+   "data": "2026-11-12",
+   "ora": "15:06",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Altro.PUBBLICO.ideGes.106056.12-11-2026-15-06-43.952.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-fa61de68d70584",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Contributo scritto AIE",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3174-bis - \"Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" ( Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174 ) (3174- bis )",
+   "seduta": "",
+   "data": "2026-11-12",
+   "ora": "14:35",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Progettodilegge/leg19.com05.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.105085.12-11-2026-14-35-05.893.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "C. 3174",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-b753dc359e35a6",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Proposte emendative UPI",
+   "tipo": "Altro",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato. Audizione di Marco Alparone, coordinatore della Commissione affari finanziari della Conferenza delle regioni e delle province autonome e vicepresidente della Regione Lombardia, Giancarlo Righini, coordinatore vicario della Commissione affari finanziari della Conferenza delle regioni e delle province a",
+   "seduta": "Seduta del 11/11/2026",
+   "data": "2026-11-12",
+   "ora": "14:11",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Altro.PUBBLICO.ideGes.106105.12-11-2026-14-11-58.889.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-188bdb8b7316ed",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria Confindustria",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato. Audizione di Maurizio Tarquini, direttore generale di Confindustria",
+   "seduta": "Seduta del 11/11/2026",
+   "data": "2026-11-12",
+   "ora": "13:49",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106101.12-11-2026-13-49-05.847.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-cacca5d7fd8087",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria Consiglio Nazionale Ingegneri_ Rete Professioni tecniche",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Pasquale Saggese, responsabile per l'area fiscalità della Fondazione nazionale di ricerca dei commercialisti, in rappresentanza del Consiglio nazionale dei dottori commercialisti e degli esperti contabili, Angela Eugenia Losito, consigliera nazionale del Consiglio nazionale dell'ordine de",
+   "seduta": "Seduta del 09/11/2026",
+   "data": "2026-11-12",
+   "ora": "13:48",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106056.12-11-2026-13-48-02.621.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-3e57a0b147e6b6",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Forum Terzo Settore",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Stefano Tassinari, componente del coordinamento del Forum nazionale del Terzo settore",
+   "seduta": "Seduta del 09/11/2026",
+   "data": "2026-11-12",
+   "ora": "13:43",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106401.12-11-2026-13-43-05.999.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-a6e2c7641c319f",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria CNEL",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all’esame del disegno di legge recante bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell’articolo 119, comma 3, del Regolamento della Camera e dell’articolo 48 del Regolamento del Senato. Audizione di rappresentanti del CNEL.",
+   "seduta": "Seduta del 12/11/2026",
+   "data": "2026-11-12",
+   "ora": "13:34",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106113.12-11-2026-13-34-59.390.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-80c132a679f03f",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria ISTAT",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato. Audizione di Francesco Maria Chelli, presidente dell'ISTAT, Stefano Menghinello, direttore del dipartimento per le statistiche economiche, ambientali e conti nazionali dell'ISTAT, e Cristina Freguja, direttrice del dipartimento per le statistiche sociali e demografiche dell'ISTAT",
+   "seduta": "Seduta del 11/11/2026",
+   "data": "2026-11-12",
+   "ora": "13:20",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106097.12-11-2026-13-20-32.970.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-3ee39c2b4d0a60",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "C. 3159 - Contributo scritto Garlatti",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3159 - \"Conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile\" (3159)",
+   "seduta": "",
+   "data": "2026-11-12",
+   "ora": "12:44",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Progettodilegge/leg19.com02.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103736.12-11-2026-12-44-56.131.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "C. 3159",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-2d110550727da6",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Contributo scritto Conflavoro PMI Sanità",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3174-bis - \"Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" ( Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174 ) (3174- bis )",
+   "seduta": "",
+   "data": "2026-11-12",
+   "ora": "12:30",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Progettodilegge/leg19.com05.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.105085.12-11-2026-12-30-52.007.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "C. 3174",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-2bdf10ee3553a3",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Contributo scritto SIGEA n. 2",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3174-bis - \"Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" ( Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174 ) (3174- bis )",
+   "seduta": "",
+   "data": "2026-11-12",
+   "ora": "12:28",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Progettodilegge/leg19.com05.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.105085.12-11-2026-12-28-40.228.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "C. 3174",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-9c091fab727fb9",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Contributo scritto SIGEA n. 1",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3174-bis - \"Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" ( Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174 ) (3174- bis )",
+   "seduta": "",
+   "data": "2026-11-12",
+   "ora": "12:28",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Progettodilegge/leg19.com05.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.105085.12-11-2026-12-28-40.296.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "C. 3174",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-3ecb4dce1ddac9",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Contributo scritto SIGEA n. 3",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3174-bis - \"Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" ( Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174 ) (3174- bis )",
+   "seduta": "",
+   "data": "2026-11-12",
+   "ora": "12:28",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Progettodilegge/leg19.com05.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.105085.12-11-2026-12-28-40.397.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "C. 3174",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "c-627c784b629b9d",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria Confapi",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Silvia Rimondi, direttore dell'Associazione generale cooperative italiane, in videoconferenza, Gianluigi Granero, direttore di Legacoop, e Vito Domenico Sciancalepore, capo del dipartimento legislativo giuridico e sindacale di Confcooperative, in videoconferenza, in rappresentanza dell'Al",
+   "seduta": "Seduta del 10/11/2026",
+   "data": "2026-11-12",
+   "ora": "12:25",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106081.12-11-2026-12-25-17.431.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "d-OCD18-23861",
+   "fonte": "dossier",
+   "organo": "Studi - Bilancio",
+   "materia": "Economico",
+   "titolo": "Legge di bilancio 2027 - Volume III - Stati di previsione dei Ministeri",
+   "tipo": "A.C. 3174-bis - Stati di previsione dei Ministeri",
+   "data": "2026-11-12",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23861/legge-bilancio-2027-volume-iii-stati-previsione-ministeri.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "d-OCD18-23875",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "Legge di bilancio 2027 - Profili finanziari_Vol. 1",
+   "tipo": "",
+   "data": "2026-11-12",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23875/legge-bilancio-2027-profili-finanziari-vol-1.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-12T18:01:16Z"
+  },
+  {
+   "id": "d-OCD18-23876",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "Legge di bilancio 2027 - Profili finanziari_Vol. 2",
+   "tipo": "",
+   "data": "2026-11-12",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23876/legge-bilancio-2027-profili-finanziari-vol-2.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-12T18:01:16Z"
+  },
   {
    "id": "c-1391385e40047b",
    "fonte": "commissione",
