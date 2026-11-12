@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-12T19:01:15Z",
+ "aggiornato": "2026-11-12T20:01:57Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-12T20:01:57Z",
+   "nuovi": 1
+  },
   {
    "quando": "2026-11-12T19:01:15Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-08T23:27:14Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-08T22:33:04Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -168,6 +168,19 @@
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23893",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Audizione del Vicepresidente esecutivo della Commissione europea per la coesione e le riforme, Raffaele Fitto, nell'ambito dell'esame delle proposte relative al Quadro finanziario pluriennale dell'UE 2028-2034 - Roma, 17 novembre 2026",
+   "tipo": "",
+   "data": "2026-11-12",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23893/audizione-del-vicepresidente-esecutivo-della-commissione-europea-coesione-e-riforme-raffaele-fitto-nell-ambito-esame-proposte.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-12T20:01:57Z"
+  },
   {
    "id": "c-d3059101e84e9c",
    "fonte": "commissione",

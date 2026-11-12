@@ -1,5 +1,5 @@
 {
-  "generato": "2026-11-12T19:03:09Z",
+  "generato": "2026-11-12T20:04:10Z",
   "oggi": "2026-11-12",
   "decreti_legge": [
     {
@@ -463,6 +463,15 @@
       "edizione": "2026-11-10",
       "scheda": null,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/10/26G00219/sg"
+    },
+    {
+      "data": "2026-11-27",
+      "riferimento": "LEGGE 29 ottobre 2026, n. 206",
+      "titolo": "Riforma delle politiche per i giovani e del servizio civile universale",
+      "categoria": "Economico",
+      "edizione": "2026-11-12",
+      "scheda": 0,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26G00221/sg"
     }
   ]
 }

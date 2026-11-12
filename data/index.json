@@ -3,9 +3,9 @@
     "date": "2026-11-12",
     "giorno": "giovedì",
     "numero_gu": "264",
-    "stato": "non_disponibile",
-    "schede": 0,
-    "updatedAt": "2026-11-12T19:01:12Z"
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-11-12T20:01:13Z"
   },
   {
     "date": "2026-11-11",

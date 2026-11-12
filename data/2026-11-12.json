@@ -1,14 +1,307 @@
 {
   "date": "2026-11-12",
   "giorno": "giovedì",
-  "updatedAt": "2026-11-12T19:01:12Z",
+  "updatedAt": "2026-11-12T20:01:13Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "con_schede",
   "numero_gu": "264",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-12&numeroGazzetta=264",
-  "schede": [],
-  "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/12/264/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale n. 264 del 12 novembre 2026 è dominata dalla Legge n. 206/2026, che introduce una riforma organica delle politiche per i giovani e del servizio civile universale, delegando il Governo per l'adozione di decreti legislativi. Vengono inoltre istituiti la Carta Giovani Nazionale e un Osservatorio permanente per le politiche giovanili. Tra gli altri atti, si segnalano provvedimenti in materia di giustizia tributaria, ambiente e cybersicurezza.",
+  "modello": "gemini-2.5-flash",
+  "schede": [
+    {
+      "codice_atto": "26G00221",
+      "titolo": "Riforma delle politiche per i giovani e del servizio civile universale",
+      "riferimento": "LEGGE 29 ottobre 2026, n. 206",
+      "categoria": "Economico",
+      "iter": "In vigore dal 27/11/2026. Prevede deleghe al Governo per l'adozione di decreti legislativi entro sei mesi dalla data di entrata in vigore.",
+      "contesto": "La legge delega il Governo per il riordino e il coordinamento delle politiche nazionali per i giovani e per la revisione della normativa in materia di servizio civile universale, introducendo anche nuove misure immediate.",
+      "misure": [
+        "Art. 1: Delega al Governo per adottare, entro sei mesi, decreti legislativi per la semplificazione, il riordino e il riassetto delle politiche per i giovani (14-30 anni), in coerenza con il diritto UE e le strategie internazionali. Principi direttivi includono la promozione della strategia UE per la gioventù, il coordinamento tra livelli di governo, l'istituzione di un tavolo tecnico di coordinamento, strumenti di monitoraggio, la definizione delle comunità giovanili, criteri di rappresentatività per le organizzazioni giovanili, l'adozione di una strategia nazionale per la gioventù (almeno quinquennale), il coinvolgimento dell'Agenzia italiana per la gioventù e del Consiglio nazionale dei giovani, la definizione della figura del lavoratore socio-educativo (Youth Work) e la ricognizione normativa per un testo unico.",
+        "Art. 2: Delega al Governo per adottare, entro sei mesi, decreti legislativi per razionalizzare le procedure relative al servizio civile universale. Principi direttivi includono la semplificazione della normativa (anche con un testo unico), la regolazione della programmazione, la disciplina del procedimento amministrativo di iscrizione all'albo degli enti e di presentazione/valutazione dei progetti, la revisione del sistema dei controlli e delle verifiche, il monitoraggio e la valutazione dei risultati, la valorizzazione e certificazione delle competenze acquisite dagli operatori volontari e la revisione delle cause di esclusione dei volontari.",
+        "Art. 3: Istituisce la 'Carta giovani nazionale (CGN)' gratuita per giovani di età compresa tra diciotto e trentacinque anni (cittadini italiani, UE o stranieri regolarmente residenti). La CGN è uno strumento per l'accesso a servizi istituzionali e la fruizione agevolata di beni e servizi. I criteri, le funzionalità e le modalità di realizzazione e distribuzione saranno definiti con decreto dell'Autorità politica delegata entro sessanta giorni. La gestione avviene con risorse del Fondo per le politiche giovanili, senza nuovi oneri. Abroga i commi 413 e 414 dell'articolo 1 della legge 27 dicembre 2019, n. 160.",
+        "Art. 4: Istituisce l'Osservatorio permanente per le politiche per i giovani presso il Dipartimento per le politiche giovanili e il servizio civile universale, con funzioni consultive, di indirizzo, programmazione e coordinamento. L'Osservatorio è presieduto dal Presidente del Consiglio dei ministri o dall'Autorità politica delegata e composto da rappresentanti ministeriali, enti territoriali e giovanili. Si avvale di un Comitato tecnico-scientifico che predispone un rapporto annuale sulla condizione giovanile. Le attività sono svolte con risorse disponibili a legislazione vigente, senza nuovi oneri."
+      ],
+      "chi_interessato": "Giovani (14-35 anni), enti locali, regioni, province autonome, enti del Terzo settore, organizzazioni giovanili, enti di servizio civile universale, operatori volontari, pubblica amministrazione (Dipartimento per le politiche giovanili, vari Ministeri, Agenzia italiana per la gioventù, Consiglio nazionale dei giovani, ISTAT, CNR).",
+      "decorrenza": "27/11/2026",
+      "perche_conta": "Questa legge rappresenta un intervento organico e strategico per le politiche giovanili e il servizio civile universale, mirando a semplificare la normativa, coordinare gli interventi e promuovere l'autonomia e la partecipazione dei giovani. L'introduzione della Carta Giovani Nazionale e dell'Osservatorio permanente sono strumenti chiave per l'attuazione di tali obiettivi.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26G00221/sg",
+      "vigore": "27/11/2026"
+    }
+  ],
+  "scartate": [
+    {
+      "codice_atto": "26A05876",
+      "materia": "Agricoltura",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 16 settembre 2026 Modifiche al decreto 18 settembre 2024, recante «Modalita' di registrazione, nell'ambito del sistema informativo agricolo nazionale, delle consegne delle olive da olio ai frantoi oleari da parte dei commercianti di olive».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05876/sg"
+    },
+    {
+      "codice_atto": "26A05877",
+      "materia": "Agricoltura",
+      "titolo": "cato a svolgere le funzioni di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOCG «Colline Teramane Montepulciano d'Abruzzo», alle DOC «Abruzzo», «Cerasuolo d'Abruzzo», «Controguerra», «Montepulciano d'Abruzzo», «Trebbiano d'Abruzzo», «Villamagna» ed alle IGT «Colline Frentane», «Colline Pescaresi», «Colline Teatine», «del Vastese» o «Histonium» e «Terre di Chieti» ed attribuzione dell'incarico a svolgere le funzioni di promozione, valorizzazione, tutela, vigilanza, informazione del consumatore e cura generale degli interessi di cui all'articolo 41, comm",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05877/sg"
+    },
+    {
+      "codice_atto": "26A05878",
+      "materia": "Agricoltura",
+      "titolo": "DECRETO 5 novembre 2026 Conferma dell'incarico al Consorzio di tutela e valorizzazione dei vini «Salice Salentino DOP» a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOP «Salice Salentino».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05878/sg"
+    },
+    {
+      "codice_atto": "26A05890",
+      "materia": "Sanità",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di buprenorfina, «Buprenorfina Neuraxpharm». (Determina n. 1536/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05890/sg"
+    },
+    {
+      "codice_atto": "26A05891",
+      "materia": "Sanità",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di insulina efsitora alfa, «Onswik». (Determina n. 1537/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05891/sg"
+    },
+    {
+      "codice_atto": "26A05892",
+      "materia": "Sanità",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di vaccino antinfluenzale (antigene di superficie, inattivato, adiuvato, prodotto in colture cellulari), «Aujemflu». (Determina n. 1538/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05892/sg"
+    },
+    {
+      "codice_atto": "26A05893",
+      "materia": "Sanità",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di satralizumab, «Enspryng». (Determina n. 1539/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05893/sg"
+    },
+    {
+      "codice_atto": "26A05918",
+      "materia": "Sanità",
+      "titolo": "DETERMINA 5 novembre 2026 Proroga del termine fissato al 16 novembre 2026, di cui all'articolo 1, comma 1, della determina n. DG 442/2023 del 13 novembre 2023, concernente il rinnovo dell'autorizzazione in via transitoria all'uso di apteni per patch test in assenza di alternative cliniche in commercio. (Determina n. 60/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05918/sg"
+    },
+    {
+      "codice_atto": "26A05866",
+      "materia": "Sanità",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di cisplatino, «Cisplatino Pfizer»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05866/sg"
+    },
+    {
+      "codice_atto": "26A05867",
+      "materia": "Sanità",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio dei medicinali per uso umano «Botox» e «Vistabex»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05867/sg"
+    },
+    {
+      "codice_atto": "26A05881",
+      "materia": "Commercio",
+      "titolo": "CAMERA DI COMMERCIO, INDUSTRIA, ARTIGIANATO E AGRICOLTURA DELL'UMBRIA - COMUNICATO Provvedimenti concernenti i marchi di identificazione dei metalli preziosi",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05881/sg"
+    },
+    {
+      "codice_atto": "26A05920",
+      "materia": "Amministrazione",
+      "titolo": "CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO - COMUNICATO Modifiche al regolamento degli organi, dell'organizzazione e delle procedure del CNEL",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05920/sg"
+    },
+    {
+      "codice_atto": "26A05894",
+      "materia": "Amministrazione",
+      "titolo": "COMUNICATO Modifiche dell'allegato 1 all'ordinanza n. 109 del 23 dicembre 2020",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05894/sg"
+    },
+    {
+      "codice_atto": "26A05895",
+      "materia": "Amministrazione",
+      "titolo": "COMUNICATO Modifiche degli allegati alle ordinanze n. 129 del 13 dicembre 2022 e n. 137 del 29 marzo 2023",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05895/sg"
+    },
+    {
+      "codice_atto": "26A05896",
+      "materia": "Amministrazione",
+      "titolo": "COMUNICATO Modifiche all'allegato 2 dell'ordinanza n. 250 del 22 dicembre 2025 e all'allegato 1 dell'ordinanza n. 263 del 9 marzo 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05896/sg"
+    },
+    {
+      "codice_atto": "26A05897",
+      "materia": "Amministrazione",
+      "titolo": "COMUNICATO Modifiche all'allegato B dell'ordinanza n. 128 del 13 ottobre 2022",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05897/sg"
+    },
+    {
+      "codice_atto": "26A05882",
+      "materia": "Amministrazione",
+      "titolo": "PROVINCIA AUTONOMA DI BOLZANO ALTO ADIGE - COMUNICATO Scioglimento, per atto dell'autorita', della «M.R.I. societa' cooperativa», in Bolzano, senza nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05882/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A05879",
+      "categoria": "Energia e Ambiente",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - DECRETO 29 ottobre 2026 Designazione del sito di importanza comunitaria Valle Uria quale Zona speciale di conservazione (ZSC) ricadente nel territorio della Regione Calabria.",
+      "sintesi": "Designa il sito di importanza comunitaria Valle Uria come Zona Speciale di Conservazione (ZSC) nella Regione Calabria, rafforzando la tutela ambientale.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05879/sg"
+    },
+    {
+      "codice_atto": "26A05875",
+      "categoria": "Giustizia",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 2 novembre 2026 Accertamento del periodo di mancato funzionamento della Corte di giustizia tributaria di primo grado di Livorno nella giornata del 20 ottobre 2026.",
+      "sintesi": "Accerta il mancato funzionamento della Corte di giustizia tributaria di primo grado di Livorno per il 20 ottobre 2026, con implicazioni sui termini processuali.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05875/sg"
+    },
+    {
+      "codice_atto": "26A05888",
+      "categoria": "Economico",
+      "titolo": "ORDINANZA 25 settembre 2026 Modifiche e integrazioni alle ordinanze n. 105 del 17 settembre 2020 e n. 132 del 30 dicembre 2022. (Ordinanza n. 295/2026).",
+      "sintesi": "Introduce modifiche e integrazioni a precedenti ordinanze, probabilmente relative a gestione di emergenze o provvedimenti amministrativi con impatto economico o sulla pubblica amministrazione.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05888/sg"
+    },
+    {
+      "codice_atto": "26A05889",
+      "categoria": "Economico",
+      "titolo": "ORDINANZA 25 settembre 2026 Disposizioni modificative dell'ordinanza n. 272 del 4 maggio 2026. (Ordinanza n. 297/2026).",
+      "sintesi": "Modifica disposizioni di una precedente ordinanza, con possibili effetti su ambiti economici o di pubblica amministrazione.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05889/sg"
+    },
+    {
+      "codice_atto": "26A05919",
+      "categoria": "Economico",
+      "titolo": "AGENZIA PER LA CYBERSICUREZZA NAZIONALE - COMUNICATO Adozione della determinazione recante termini, modalita' e procedimenti di utilizzo e accesso alla piattaforma digitale, nonche' ulteriori informazioni che i soggetti devono fornire all'Autorita' nazionale competente NIS e termini, modalita' e procedimento di designazione dei rappresentanti NIS sul territorio nazionale.",
+      "sintesi": "Definisce termini e modalità per l'utilizzo e l'accesso alla piattaforma digitale e per la designazione dei rappresentanti NIS, rilevante per la pubblica amministrazione e le imprese in ambito di cybersicurezza.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05919/sg"
+    },
+    {
+      "codice_atto": "26A05880",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - DIPARTIMENTO PER LA TRASFORMAZIONE DIGITALE - COMUNICATO Definizione delle misure tecniche e organizzative da adottarsi con riferimento ai trattamenti di dati personali effettuati nell'ambito del Sistema IT-Wallet.",
+      "sintesi": "Stabilisce le misure tecniche e organizzative per il trattamento dei dati personali nel Sistema IT-Wallet, con impatto sulla pubblica amministrazione e la gestione dei dati dei cittadini.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05880/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00221",
+      "titolo": "LEGGE 29 ottobre 2026, n. 206 Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26G00221/sg",
+      "tipo": "LEGGE",
+      "vigore": "27/11/2026"
+    },
+    {
+      "codice": "26A05876",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 16 settembre 2026 Modifiche al decreto 18 settembre 2024, recante «Modalita' di registrazione, nell'ambito del sistema informativo agricolo nazionale, delle consegne delle olive da olio ai frantoi oleari da parte dei commercianti di olive».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05876/sg"
+    },
+    {
+      "codice": "26A05877",
+      "titolo": "cato a svolgere le funzioni di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOCG «Colline Teramane Montepulciano d'Abruzzo», alle DOC «Abruzzo», «Cerasuolo d'Abruzzo», «Controguerra», «Montepulciano d'Abruzzo», «Trebbiano d'Abruzzo», «Villamagna» ed alle IGT «Colline Frentane», «Colline Pescaresi», «Colline Teatine», «del Vastese» o «Histonium» e «Terre di Chieti» ed attribuzione dell'incarico a svolgere le funzioni di promozione, valorizzazione, tutela, vigilanza, informazione del consumatore e cura generale degli interessi di cui all'articolo 41, comm",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05877/sg"
+    },
+    {
+      "codice": "26A05878",
+      "titolo": "DECRETO 5 novembre 2026 Conferma dell'incarico al Consorzio di tutela e valorizzazione dei vini «Salice Salentino DOP» a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOP «Salice Salentino».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05878/sg"
+    },
+    {
+      "codice": "26A05879",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - DECRETO 29 ottobre 2026 Designazione del sito di importanza comunitaria Valle Uria quale Zona speciale di conservazione (ZSC) ricadente nel territorio della Regione Calabria.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05879/sg"
+    },
+    {
+      "codice": "26A05875",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 2 novembre 2026 Accertamento del periodo di mancato funzionamento della Corte di giustizia tributaria di primo grado di Livorno nella giornata del 20 ottobre 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05875/sg"
+    },
+    {
+      "codice": "26A05888",
+      "titolo": "ORDINANZA 25 settembre 2026 Modifiche e integrazioni alle ordinanze n. 105 del 17 settembre 2020 e n. 132 del 30 dicembre 2022. (Ordinanza n. 295/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05888/sg"
+    },
+    {
+      "codice": "26A05889",
+      "titolo": "ORDINANZA 25 settembre 2026 Disposizioni modificative dell'ordinanza n. 272 del 4 maggio 2026. (Ordinanza n. 297/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05889/sg"
+    },
+    {
+      "codice": "26A05890",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di buprenorfina, «Buprenorfina Neuraxpharm». (Determina n. 1536/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05890/sg"
+    },
+    {
+      "codice": "26A05891",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di insulina efsitora alfa, «Onswik». (Determina n. 1537/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05891/sg"
+    },
+    {
+      "codice": "26A05892",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di vaccino antinfluenzale (antigene di superficie, inattivato, adiuvato, prodotto in colture cellulari), «Aujemflu». (Determina n. 1538/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05892/sg"
+    },
+    {
+      "codice": "26A05893",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di satralizumab, «Enspryng». (Determina n. 1539/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05893/sg"
+    },
+    {
+      "codice": "26A05918",
+      "titolo": "DETERMINA 5 novembre 2026 Proroga del termine fissato al 16 novembre 2026, di cui all'articolo 1, comma 1, della determina n. DG 442/2023 del 13 novembre 2023, concernente il rinnovo dell'autorizzazione in via transitoria all'uso di apteni per patch test in assenza di alternative cliniche in commercio. (Determina n. 60/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05918/sg"
+    },
+    {
+      "codice": "26A05866",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di cisplatino, «Cisplatino Pfizer»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05866/sg"
+    },
+    {
+      "codice": "26A05867",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio dei medicinali per uso umano «Botox» e «Vistabex»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05867/sg"
+    },
+    {
+      "codice": "26A05919",
+      "titolo": "AGENZIA PER LA CYBERSICUREZZA NAZIONALE - COMUNICATO Adozione della determinazione recante termini, modalita' e procedimenti di utilizzo e accesso alla piattaforma digitale, nonche' ulteriori informazioni che i soggetti devono fornire all'Autorita' nazionale competente NIS e termini, modalita' e procedimento di designazione dei rappresentanti NIS sul territorio nazionale.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05919/sg"
+    },
+    {
+      "codice": "26A05881",
+      "titolo": "CAMERA DI COMMERCIO, INDUSTRIA, ARTIGIANATO E AGRICOLTURA DELL'UMBRIA - COMUNICATO Provvedimenti concernenti i marchi di identificazione dei metalli preziosi",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05881/sg"
+    },
+    {
+      "codice": "26A05920",
+      "titolo": "CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO - COMUNICATO Modifiche al regolamento degli organi, dell'organizzazione e delle procedure del CNEL",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05920/sg"
+    },
+    {
+      "codice": "26A05894",
+      "titolo": "COMUNICATO Modifiche dell'allegato 1 all'ordinanza n. 109 del 23 dicembre 2020",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05894/sg"
+    },
+    {
+      "codice": "26A05895",
+      "titolo": "COMUNICATO Modifiche degli allegati alle ordinanze n. 129 del 13 dicembre 2022 e n. 137 del 29 marzo 2023",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05895/sg"
+    },
+    {
+      "codice": "26A05896",
+      "titolo": "COMUNICATO Modifiche all'allegato 2 dell'ordinanza n. 250 del 22 dicembre 2025 e all'allegato 1 dell'ordinanza n. 263 del 9 marzo 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05896/sg"
+    },
+    {
+      "codice": "26A05897",
+      "titolo": "COMUNICATO Modifiche all'allegato B dell'ordinanza n. 128 del 13 ottobre 2022",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05897/sg"
+    },
+    {
+      "codice": "26A05880",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - DIPARTIMENTO PER LA TRASFORMAZIONE DIGITALE - COMUNICATO Definizione delle misure tecniche e organizzative da adottarsi con riferimento ai trattamenti di dati personali effettuati nell'ambito del Sistema IT-Wallet.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05880/sg"
+    },
+    {
+      "codice": "26A05882",
+      "titolo": "PROVINCIA AUTONOMA DI BOLZANO ALTO ADIGE - COMUNICATO Scioglimento, per atto dell'autorita', della «M.R.I. societa' cooperativa», in Bolzano, senza nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26A05882/sg"
+    }
+  ]
 }
