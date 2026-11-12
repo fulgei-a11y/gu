@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-12T00:27:09Z",
+ "aggiornato": "2026-11-12T01:06:12Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-12T01:06:12Z",
+   "nuovi": 0
+  },
   {
    "quando": "2026-11-12T00:27:09Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-08T16:55:49Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-08T11:01:15Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -135,15 +135,15 @@
    "id": "comm2",
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
-   "ok": true,
-   "trovati": 890
+   "ok": false,
+   "errore": "nessun documento riconosciuto: la struttura della pagina potrebbe essere cambiata"
   },
   {
    "id": "comm5",
    "nome": "V Commissione Bilancio",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
-   "ok": true,
-   "trovati": 737
+   "ok": false,
+   "errore": "nessun documento riconosciuto: la struttura della pagina potrebbe essere cambiata"
   },
   {
    "id": "comm6",
@@ -156,15 +156,15 @@
    "id": "comm8",
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
-   "ok": true,
-   "trovati": 1632
+   "ok": false,
+   "errore": "nessun documento riconosciuto: la struttura della pagina potrebbe essere cambiata"
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
-   "ok": true,
-   "trovati": 1715
+   "ok": false,
+   "errore": "nessun documento riconosciuto: la struttura della pagina potrebbe essere cambiata"
   }
  ],
  "voci": [
