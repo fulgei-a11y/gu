@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-13T11:02:12Z",
+ "aggiornato": "2026-11-13T18:01:15Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-13T18:01:15Z",
+   "nuovi": 8
+  },
   {
    "quando": "2026-11-13T11:02:12Z",
    "nuovi": 1
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-09T21:19:06Z",
    "nuovi": 1
-  },
-  {
-   "quando": "2026-11-09T20:01:16Z",
-   "nuovi": 1
   }
  ],
  "fonti": [
@@ -136,14 +136,14 @@
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
-   "trovati": 893
+   "trovati": 894
   },
   {
    "id": "comm5",
    "nome": "V Commissione Bilancio",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
-   "trovati": 756
+   "trovati": 758
   },
   {
    "id": "comm6",
@@ -164,10 +164,150 @@
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
-   "trovati": 1716
+   "trovati": 1717
   }
  ],
  "voci": [
+  {
+   "id": "c-2318fc62c5e16c",
+   "fonte": "commissione",
+   "organo": "II Giustizia",
+   "commissioni": [
+    "II"
+   ],
+   "materia": "Giustizia",
+   "titolo": "C. 3159 - Memoria Amnesty International",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di rappresentanti di Save The Children, di Antigone, in videoconferenza, e di Amnesty International, in videoconferenza, nell'ambito dell'esame del disegno di legge C. 3159, di conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante «Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile»",
+   "seduta": "Seduta del 11/11/2026",
+   "data": "2026-11-13",
+   "ora": "17:44",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.106166.13-11-2026-17-44-32.306.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
+   "atto": "C. 3159",
+   "visto": "2026-11-13T18:01:15Z"
+  },
+  {
+   "id": "c-f760534f203f1c",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Proposte emendative CGIL",
+   "tipo": "Allegato",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Christian Ferrari, segretario confederale della CGIL, Angelo Marinelli, segretario confederale della CISL, e Santo Biondo, segretario confederale della UIL",
+   "seduta": "Seduta del 10/11/2026",
+   "data": "2026-11-13",
+   "ora": "16:59",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Allegato.PUBBLICO.ideGes.106089.13-11-2026-16-59-54.613.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-13T18:01:15Z"
+  },
+  {
+   "id": "c-4c38f693dee601",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria AIC",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Gaetano Gullo, rappresentante dell'ufficio legislativo dell'Associazione italiana coltivatori (AIC)",
+   "seduta": "Seduta del 09/11/2026",
+   "data": "2026-11-13",
+   "ora": "16:40",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106030.13-11-2026-16-40-54.522.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-13T18:01:15Z"
+  },
+  {
+   "id": "c-ee8fa364ebcb96",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Assodistil",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-13",
+   "ora": "14:22",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.13-11-2026-14-22-58.445.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-13T18:01:15Z"
+  },
+  {
+   "id": "c-9c10bf08fc14cd",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "Conferenza Unificata",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3120 - \"Legge annuale per il mercato e la concorrenza 2026\" (3120)",
+   "seduta": "",
+   "data": "2026-11-13",
+   "ora": "14:17",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Progettodilegge/leg19.com10.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.103539.13-11-2026-14-17-45.485.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "C. 3120",
+   "visto": "2026-11-13T18:01:15Z"
+  },
+  {
+   "id": "c-c8b27783d7f843",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria Confindustria dispositivi medici",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Fabio Faltoni, presidente di Confindustria dispositivi medici, Marcello Cattani, presidente di Farmindustria, e Filippo Anelli, presidente della Federazione nazionale degli ordini dei medici chirurghi e degli odontoiatri (FNOMCeO), in videoconferenza",
+   "seduta": "Seduta del 09/11/2026",
+   "data": "2026-11-13",
+   "ora": "13:41",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106048.13-11-2026-13-41-54.118.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-13T18:01:15Z"
+  },
+  {
+   "id": "d-OCD18-23896",
+   "fonte": "dossier",
+   "organo": "Studi - Giustizia",
+   "materia": "Giustizia",
+   "titolo": "Disposizioni in materia di circoscrizioni giudiziarie",
+   "tipo": "Elementi per l'esame in Assemblea",
+   "data": "2026-11-13",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23896/disposizioni-materia-circoscrizioni-giudiziarie.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-13T18:01:15Z"
+  },
+  {
+   "id": "d-OCD18-23899",
+   "fonte": "dossier",
+   "organo": "Studi - Affari esteri",
+   "materia": "",
+   "titolo": "Divieto di importazione e di pubblicità di beni e servizi provenienti da insediamenti israeliani nel territorio palestinese occupato",
+   "tipo": "Elementi per l'esame in Assemblea",
+   "data": "2026-11-13",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23899/divieto-importazione-e-pubblicita-beni-e-servizi-provenienti-insediamenti-israeliani-nel-territorio-palestinese-occupato.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-13T18:01:15Z"
+  },
   {
    "id": "c-0f81000faa042b",
    "fonte": "commissione",
@@ -919,7 +1059,7 @@
    "titolo": "Disposizioni in materia di circoscrizioni giudiziarie",
    "tipo": "Elementi per la valutazione degli aspetti di legittimità costituzionale",
    "data": "2026-11-11",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23807/disposizioni-materia-circoscrizioni-giudiziarie.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23807/disposizioni-materia-circoscrizioni-giudiziarie-1.html",
    "atto": "",
    "senato": false,
    "visto": "2026-11-11T18:01:17Z"
@@ -1695,7 +1835,7 @@
    "titolo": "Divieto di importazione e di pubblicità di beni e servizi provenienti da insediamenti israeliani nel territorio palestinese occupato",
    "tipo": "",
    "data": "2026-11-09",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23842/divieto-importazione-e-pubblicita-beni-e-servizi-provenienti-insediamenti-israeliani-nel-territorio-palestinese-occupato-1.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23842/divieto-importazione-e-pubblicita-beni-e-servizi-provenienti-insediamenti-israeliani-nel-territorio-palestinese-occupato-2.html",
    "atto": "",
    "senato": false,
    "visto": "2026-11-09T20:01:16Z"
@@ -2249,7 +2389,7 @@
    "titolo": "Divieto di importazione e di pubblicità di beni e servizi provenienti da insediamenti israeliani nel territorio palestinese occupato",
    "tipo": "Elementi per la valutazione degli aspetti di legittimità costituzionale",
    "data": "2026-11-09",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23783/divieto-importazione-e-pubblicita-beni-e-servizi-provenienti-insediamenti-israeliani-nel-territorio-palestinese-occupato.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23783/divieto-importazione-e-pubblicita-beni-e-servizi-provenienti-insediamenti-israeliani-nel-territorio-palestinese-occupato-1.html",
    "atto": "",
    "senato": false,
    "visto": "2026-11-09T18:01:23Z"
