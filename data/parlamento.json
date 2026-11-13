@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-13T19:01:16Z",
+ "aggiornato": "2026-11-13T20:02:40Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-13T20:02:40Z",
+   "nuovi": 1
+  },
   {
    "quando": "2026-11-13T19:01:16Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-10T02:34:53Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-10T01:47:37Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -168,6 +168,19 @@
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23900",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Riunione interparlamentare per la valutazione delle attività di Eurojust - Bruxelles 16 novembre 2026",
+   "tipo": "",
+   "data": "2026-11-13",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23900/riunione-interparlamentare-valutazione-attivita-eurojust-bruxelles-16-novembre-2026.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-13T20:02:40Z"
+  },
   {
    "id": "c-2318fc62c5e16c",
    "fonte": "commissione",

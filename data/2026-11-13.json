@@ -1,14 +1,231 @@
 {
   "date": "2026-11-13",
   "giorno": "venerdì",
-  "updatedAt": "2026-11-13T19:01:12Z",
+  "updatedAt": "2026-11-13T20:01:21Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "con_schede",
   "numero_gu": "265",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-13&numeroGazzetta=265",
-  "schede": [],
-  "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/13/265/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 13 novembre 2026 è dominata da un importante Decreto-Legge che introduce misure urgenti per la riduzione del costo dell'energia elettrica e del gas, modificando il precedente DL n. 21 del 2026. Le disposizioni mirano a rafforzare la concorrenza nei mercati all'ingrosso e a stabilizzare i prezzi per i consumatori. Sono presenti anche atti minori di interesse economico e ambientale.",
+  "modello": "gemini-2.5-flash",
+  "schede": [
+    {
+      "codice_atto": "26G00227",
+      "titolo": "Misure urgenti per la riduzione del costo dell'energia elettrica e del gas",
+      "riferimento": "DECRETO-LEGGE 13 novembre 2026, n. 207",
+      "categoria": "Energia e Ambiente",
+      "iter": "Decreto-legge da convertire in legge entro 60 giorni dalla sua pubblicazione.",
+      "contesto": "Il decreto interviene sugli articoli 4, 6 e 9 del decreto-legge 20 febbraio 2026, n. 21, convertito, con modificazioni, dalla legge 10 aprile 2026, n. 49, al fine di assicurarne una più efficace applicazione nel contesto dell'attuale quadro normativo eurounitario in materia di aiuti di Stato e di regolazione dei mercati elettrici, rafforzando l'efficacia delle misure di contenimento dei costi energetici a fronte della volatilità delle quotazioni del gas naturale.",
+      "misure": [
+        "Art. 1, comma 1, lettera a): Abroga i commi 12 e 13 dell'articolo 4 del decreto-legge n. 21 del 2026.",
+        "Art. 1, comma 1, lettera b), punto 1) - Nuovo Art. 6, comma 1: Entro trenta giorni, l'ARERA adotta linee guida per la valutazione delle condotte di trattenimento economico di capacità degli operatori del mercato all'ingrosso, al fine di rafforzare la concorrenza e favorire il trasferimento nei prezzi di offerta della valorizzazione dei costi variabili delle fonti rinnovabili non programmabili. Definisce altresì i criteri per considerare pratiche abusive le condotte degli operatori.",
+        "Art. 1, comma 1, lettera b), punto 1) - Nuovo Art. 6, comma 2: A decorrere dal 1° gennaio 2027, l'ARERA definisce le modalità per includere i corrispettivi unitari variabili della tariffa di trasporto del gas naturale (diversi da quelli per costi variabili) e le componenti tariffarie addizionali a copertura di oneri generali del sistema gas, tra gli oneri oggetto di rimborso per gli impianti termoelettrici alimentati da gas naturale o derivati (esclusi quelli in regime di essenzialità con reintegrazione dei costi), nei limiti dei prelievi di combustibile funzionali alla produzione di energia elettrica immessa in rete o consumata in sito. Il mancato gettito è coperto mediante componenti applicate ai prelievi di energia elettrica e all'energia elettrica consumata in sito.",
+        "Art. 1, comma 1, lettera b), punto 1) - Nuovo Art. 6, comma 3: L'ARERA disciplina un meccanismo di rimborso ai produttori termoelettrici, definito con adeguato anticipo e per lassi temporali predefiniti (non superiori a diciotto mesi), per massimizzare i benefici per i consumatori italiani. Il rimborso è riconosciuto agli impianti termoelettrici alimentati da gas naturale o derivati (esclusi quelli in regime di essenzialità con reintegrazione dei costi), nei limiti dei prelievi di combustibile funzionali alla produzione di energia elettrica. I rimborsi non possono superare la differenza positiva tra il prezzo registrato nel mercato all'ingrosso a pronti presso il TTF (giorno precedente) e un valore di 58.9 euro/MWh. L'ARERA riduce l'entità del rimborso in specifici periodi di mercato.",
+        "Art. 1, comma 1, lettera b), punto 2) - Nuovo Art. 6, comma 3-bis: La copertura finanziaria del meccanismo di rimborso di cui al comma 3 è assicurata mediante l'applicazione di appositi corrispettivi ai soggetti responsabili del bilanciamento, commisurati all'energia elettrica prelevata. Sono previste esclusioni per l'energia elettrica da contratti a termine sottoscritti prima dell'entrata in vigore del decreto, per l'energia da rinnovabili non incentivate, per la differenza positiva tra acquisti e vendite all'ingrosso a prezzi non correlati al mercato a pronti per la fornitura a condizioni non indicizzate, e per l'energia prelevata da impianti di accumulo o per servizi ancillari.",
+        "Art. 1, comma 1, lettera b), punto 2) - Nuovo Art. 6, comma 3-quinquies: Il corrispettivo di cui al comma 3-bis è applicato nel limite di 15 euro/MWh per l'energia elettrica prodotta da impianti di generazione rinnovabile necessaria a fornire punti di prelievo a condizioni economiche non indicizzate ai prezzi di mercato spot.",
+        "Art. 1, comma 1, lettera b), punto 2) - Nuovo Art. 6, comma 3-sexies: I corrispettivi applicati non possono essere traslati sui clienti finali se non nei limiti dell'energia elettrica assoggettata e per i soli consumi afferenti a contratti con condizioni economiche indicizzate ai prezzi di mercato spot. I benefici netti derivanti dai commi 3 e 3-bis per l'energia consumata in sito sono trasferiti ai clienti finali.",
+        "Art. 1, comma 1, lettera c) - Nuovo Art. 9, comma 3: L'ARERA, con uno o più provvedimenti da adottare entro il 30 novembre 2026, definisce le modalità di impiego delle risorse destinate alla riduzione degli oneri del gas naturale applicati ai clienti finali, nei limiti delle risorse versate alla Cassa per i servizi energetici e ambientali e della relativa annualità, per garantire il rispetto degli obiettivi di finanza pubblica.",
+        "Art. 2: Il decreto entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale e sarà presentato alle Camere per la conversione in legge."
+      ],
+      "chi_interessato": "Autorità di regolazione per energia, reti e ambiente (ARERA), operatori del mercato all'ingrosso dell'energia elettrica, produttori termoelettrici alimentati a gas naturale e derivati, soggetti responsabili del bilanciamento, clienti finali di energia elettrica e gas.",
+      "decorrenza": "In vigore dal 14 novembre 2026. Alcune misure specifiche decorrono dal 1° gennaio 2027 (Art. 6, comma 2) o richiedono provvedimenti ARERA entro 30 giorni (Art. 6, comma 1) o entro il 30 novembre 2026 (Art. 9, comma 3).",
+      "perche_conta": "Questo decreto-legge è cruciale per il contenimento dei costi energetici in Italia. Introduce meccanismi di regolazione e rimborso volti a stabilizzare i prezzi dell'energia elettrica e del gas, proteggendo i consumatori e le imprese dalla volatilità dei mercati. Le modifiche rafforzano la concorrenza e adeguano la normativa italiana al quadro eurounitario in materia di aiuti di Stato e regolazione dei mercati elettrici.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26G00227/sg",
+      "vigore": "14/11/2026"
+    }
+  ],
+  "scartate": [
+    {
+      "codice_atto": "26A05900",
+      "materia": "Infrastrutture e Trasporti",
+      "titolo": "MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI - DECRETO 30 giugno 2026 Approvazione del Documento strategico pluriennale della mobilita' ferroviaria di passeggeri e merci, ai sensi dell'articolo 1, comma 7-bis, del decreto legislativo 15 luglio 2015, n. 112.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05900/sg"
+    },
+    {
+      "codice_atto": "26A05921",
+      "materia": "Protezione Civile",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA PROTEZIONE CIVILE - DECRETO 14 settembre 2026 Disciplina del passaggio alla gestione del Commissario straordinario alla ricostruzione nei territori dell'Emilia-Romagna colpiti dal sisma del 18 settembre 2023, di cui al decreto del 22 dicembre 2025, delle attivita' e delle funzioni della gestione commissariale relative all'ordinanza n. 1042/2023.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05921/sg"
+    },
+    {
+      "codice_atto": "26A05901",
+      "materia": "Sanità",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di trofinetide, «Daybu». (Determina n. 1540/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05901/sg"
+    },
+    {
+      "codice_atto": "26A05902",
+      "materia": "Sanità",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di levodopa/carbidopa, «Hopledo». (Determina n. 1541/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05902/sg"
+    },
+    {
+      "codice_atto": "26A05903",
+      "materia": "Sanità",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di teplizumab, «Teizeild». (Determina n. 1542/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05903/sg"
+    },
+    {
+      "codice_atto": "26A05904",
+      "materia": "Sanità",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di insulina glargine, «Ondibta». (Determina n. 1543/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05904/sg"
+    },
+    {
+      "codice_atto": "26A05905",
+      "materia": "Sanità",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di tedizolid fosfato, «Sivextro». (Determina n. 1544/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05905/sg"
+    },
+    {
+      "codice_atto": "26A05906",
+      "materia": "Sanità",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di linagliptin, «Linagliptin Olpha».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05906/sg"
+    },
+    {
+      "codice_atto": "26A05933",
+      "materia": "Sanità",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO Rettifica dell'estratto della determina AAM/AIC n. 313/2026 del 9 ottobre 2026, concernente l'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di liraglutide, «Glanux».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05933/sg"
+    },
+    {
+      "codice_atto": "26A06024",
+      "materia": "Diritto Costituzionale",
+      "titolo": "CORTE SUPREMA DI CASSAZIONE - COMUNICATO Annuncio di una proposta di legge di iniziativa popolare",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A06024/sg"
+    },
+    {
+      "codice_atto": "26A05907",
+      "materia": "Affari Esteri",
+      "titolo": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO Limitazione delle funzioni del titolare del Consolato onorario in San Juan de Portorico (Portorico, Stati Uniti).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05907/sg"
+    },
+    {
+      "codice_atto": "26A05922",
+      "materia": "Ambiente",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Cancellazione dall'elenco delle associazioni di protezione ambientale dell'«Associazione ambiente e lavoro - ETS», in Milano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05922/sg"
+    },
+    {
+      "codice_atto": "26A05923",
+      "materia": "Ambiente",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Cancellazione dall'elenco delle associazioni di protezione ambientale dell'associazione «Greenaccord - ETS», in Roma.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05923/sg"
+    },
+    {
+      "codice_atto": "26A05924",
+      "materia": "Imprese",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - COMUNICATO Modifica dell'autorizzazione all'esercizio dell'attivita' fiduciaria della societa' «CA Indosuez Fiduciaria S.p.a.», in Milano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05924/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A05899",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 28 ottobre 2026 Modalita' di attuazione del contributo a fondo perduto a favore degli imprenditori della pesca e dell'acquacoltura per i maggiori costi sostenuti per l'acquisto di carburante.",
+      "sintesi": "Definisce le modalità per l'erogazione di contributi a fondo perduto a favore degli imprenditori della pesca e dell'acquacoltura per compensare i maggiori costi del carburante.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05899/sg"
+    },
+    {
+      "codice_atto": "26A05994",
+      "categoria": "Economico",
+      "titolo": "CASSA DEPOSITI E PRESTITI S.P.A. - COMUNICATO Avviso relativo al Libretto smart e al Libretto minori",
+      "sintesi": "Avviso pubblico riguardante le condizioni e le caratteristiche dei prodotti di risparmio Libretto smart e Libretto minori offerti da Cassa Depositi e Prestiti S.p.A.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05994/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00227",
+      "titolo": "DECRETO-LEGGE 13 novembre 2026, n. 207 Disposizioni urgenti per la riduzione del costo dell'energia elettrica e del gas.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26G00227/sg",
+      "tipo": "DECRETO-LEGGE",
+      "vigore": "14/11/2026"
+    },
+    {
+      "codice": "26A05899",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 28 ottobre 2026 Modalita' di attuazione del contributo a fondo perduto a favore degli imprenditori della pesca e dell'acquacoltura per i maggiori costi sostenuti per l'acquisto di carburante.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05899/sg"
+    },
+    {
+      "codice": "26A05900",
+      "titolo": "MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI - DECRETO 30 giugno 2026 Approvazione del Documento strategico pluriennale della mobilita' ferroviaria di passeggeri e merci, ai sensi dell'articolo 1, comma 7-bis, del decreto legislativo 15 luglio 2015, n. 112.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05900/sg"
+    },
+    {
+      "codice": "26A05921",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA PROTEZIONE CIVILE - DECRETO 14 settembre 2026 Disciplina del passaggio alla gestione del Commissario straordinario alla ricostruzione nei territori dell'Emilia-Romagna colpiti dal sisma del 18 settembre 2023, di cui al decreto del 22 dicembre 2025, delle attivita' e delle funzioni della gestione commissariale relative all'ordinanza n. 1042/2023.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05921/sg"
+    },
+    {
+      "codice": "26A05901",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di trofinetide, «Daybu». (Determina n. 1540/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05901/sg"
+    },
+    {
+      "codice": "26A05902",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di levodopa/carbidopa, «Hopledo». (Determina n. 1541/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05902/sg"
+    },
+    {
+      "codice": "26A05903",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di teplizumab, «Teizeild». (Determina n. 1542/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05903/sg"
+    },
+    {
+      "codice": "26A05904",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di insulina glargine, «Ondibta». (Determina n. 1543/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05904/sg"
+    },
+    {
+      "codice": "26A05905",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di tedizolid fosfato, «Sivextro». (Determina n. 1544/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05905/sg"
+    },
+    {
+      "codice": "26A05906",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di linagliptin, «Linagliptin Olpha».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05906/sg"
+    },
+    {
+      "codice": "26A05933",
+      "titolo": "COMUNICATO Rettifica dell'estratto della determina AAM/AIC n. 313/2026 del 9 ottobre 2026, concernente l'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di liraglutide, «Glanux».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05933/sg"
+    },
+    {
+      "codice": "26A05994",
+      "titolo": "CASSA DEPOSITI E PRESTITI S.P.A. - COMUNICATO Avviso relativo al Libretto smart e al Libretto minori",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05994/sg"
+    },
+    {
+      "codice": "26A06024",
+      "titolo": "CORTE SUPREMA DI CASSAZIONE - COMUNICATO Annuncio di una proposta di legge di iniziativa popolare",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A06024/sg"
+    },
+    {
+      "codice": "26A05907",
+      "titolo": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO Limitazione delle funzioni del titolare del Consolato onorario in San Juan de Portorico (Portorico, Stati Uniti).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05907/sg"
+    },
+    {
+      "codice": "26A05922",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Cancellazione dall'elenco delle associazioni di protezione ambientale dell'«Associazione ambiente e lavoro - ETS», in Milano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05922/sg"
+    },
+    {
+      "codice": "26A05923",
+      "titolo": "COMUNICATO Cancellazione dall'elenco delle associazioni di protezione ambientale dell'associazione «Greenaccord - ETS», in Roma.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05923/sg"
+    },
+    {
+      "codice": "26A05924",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - COMUNICATO Modifica dell'autorizzazione all'esercizio dell'attivita' fiduciaria della societa' «CA Indosuez Fiduciaria S.p.a.», in Milano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26A05924/sg"
+    }
+  ]
 }

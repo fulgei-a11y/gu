@@ -1,5 +1,5 @@
 {
-  "generato": "2026-11-13T19:03:02Z",
+  "generato": "2026-11-13T20:04:43Z",
   "oggi": "2026-11-13",
   "decreti_legge": [
     {
@@ -113,6 +113,22 @@
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26G00225/sg",
       "stato": "in_conversione",
       "giorni_mancanti": 58
+    },
+    {
+      "numero": 207,
+      "anno": 2026,
+      "data_dl": "2026-11-13",
+      "riferimento": "Decreto-legge 13 novembre 2026, n. 207",
+      "titolo": "Misure urgenti per la riduzione del costo dell'energia elettrica e del gas",
+      "pubblicazione": "2026-11-13",
+      "numero_gu": "265",
+      "vigore": "2026-11-14",
+      "scadenza": "2027-01-12",
+      "categoria": "Energia e Ambiente",
+      "scheda": 0,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26G00227/sg",
+      "stato": "in_conversione",
+      "giorni_mancanti": 60
     },
     {
       "numero": 157,
