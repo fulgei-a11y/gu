@@ -1,5 +1,5 @@
 {
-  "generato": "2026-11-16T18:03:23Z",
+  "generato": "2026-11-16T19:03:28Z",
   "oggi": "2026-11-16",
   "decreti_legge": [
     {
@@ -129,6 +129,29 @@
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26G00227/sg",
       "stato": "in_conversione",
       "giorni_mancanti": 57
+    },
+    {
+      "numero": 162,
+      "anno": 2026,
+      "data_dl": "2026-09-17",
+      "riferimento": "Decreto-legge 17 settembre 2026, n. 162",
+      "titolo": "Disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonche' in materia fiscale",
+      "pubblicazione": "2026-09-17",
+      "numero_gu": "",
+      "vigore": "",
+      "scadenza": "2026-11-16",
+      "categoria": "",
+      "scheda": null,
+      "link": "",
+      "fuori_archivio": true,
+      "stato": "convertito",
+      "conversione": {
+        "legge": "LEGGE 13 novembre 2026, n. 209",
+        "data_gu": "2026-11-16",
+        "numero_gu": "267",
+        "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/sg"
+      },
+      "giorni_mancanti": 0
     },
     {
       "numero": 157,
@@ -434,6 +457,15 @@
       "edizione": "2026-10-30",
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/30/26G00217/sg"
+    },
+    {
+      "data": "2026-11-17",
+      "riferimento": "LEGGE 13 novembre 2026, n. 209",
+      "titolo": "Conversione del DL Carburanti e Misure Fiscali",
+      "categoria": "Economico",
+      "edizione": "2026-11-16",
+      "scheda": 0,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/sg"
     },
     {
       "data": "2026-11-24",

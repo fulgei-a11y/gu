@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-16T18:01:17Z",
+ "aggiornato": "2026-11-16T19:01:43Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-16T19:01:43Z",
+   "nuovi": 1
+  },
   {
    "quando": "2026-11-16T18:01:17Z",
    "nuovi": 10
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-12T23:27:35Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-12T20:01:57Z",
-   "nuovi": 1
   }
  ],
  "fonti": [
@@ -168,6 +168,19 @@
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23829",
+   "fonte": "dossier",
+   "organo": "Studi - Difesa",
+   "materia": "",
+   "titolo": "Programma pluriennale di A/R n. SMD 9/2026, denominato «Aeromobili a pilotaggio remoto (APR) di classe I della Difesa», relativo al potenziamento della capacità di sorveglianza, esplorazione, acquisizione informativa e intervento a livello tattico delle varie componenti dell'Aeronautica militare",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-16",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23829/programma-pluriennale-r-n-smd-9-2026-denominato-aeromobili-pilotaggio-remoto-apr-classe-i-della-difesa-relativo-al-potenziamento.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-16T19:01:43Z"
+  },
   {
    "id": "c-96bf069144368b",
    "fonte": "commissione",
