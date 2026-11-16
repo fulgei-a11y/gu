@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-15T23:48:18Z",
+ "aggiornato": "2026-11-16T11:01:18Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-16T11:01:18Z",
+   "nuovi": 3
+  },
   {
    "quando": "2026-11-15T23:48:18Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-12T19:01:15Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-12T18:42:24Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -143,7 +143,7 @@
    "nome": "V Commissione Bilancio",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
-   "trovati": 758
+   "trovati": 759
   },
   {
    "id": "comm6",
@@ -168,6 +168,51 @@
   }
  ],
  "voci": [
+  {
+   "id": "c-33d977b986ae8d",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Contributo scritto CANDE - CLASS ACTION NAZIONALE DELL’EDILIZIA",
+   "tipo": "Contributo scritto",
+   "contesto": "A.C. 3174-bis - \"Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029\" ( Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 120, comma 2, del Regolamento, e comunicato all'Assemblea il 4 novembre 2026, degli articoli 69, comma 8, 105 e 115 del disegno di legge n. 3174 ) (3174- bis )",
+   "seduta": "",
+   "data": "2026-11-16",
+   "ora": "09:35",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Progettodilegge/leg19.com05.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.105085.16-11-2026-09-35-43.646.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "C. 3174",
+   "visto": "2026-11-16T11:01:18Z"
+  },
+  {
+   "id": "d-OCD18-23901",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Conferenza di alto livello \"Dall'adozione all'azione: attuare la direttiva sulla lotta alla violenza contro le donne e alla violenza domestica\" - Bruxelles, 18 novembre 2026",
+   "tipo": "",
+   "data": "2026-11-16",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23901/conferenza-alto-livello-dall-adozione-all-azione-attuare-direttiva-sulla-lotta-alla-violenza-contro-donne-e-alla-violenza.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-16T11:01:18Z"
+  },
+  {
+   "id": "d-OCD18-23881",
+   "fonte": "dossier",
+   "organo": "Studi - Affari sociali",
+   "materia": "",
+   "titolo": "Disposizioni in materia di documento riepilogativo delle informazioni riguardanti le prestazioni sanitarie eseguite",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-16",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23881/disposizioni-materia-documento-riepilogativo-informazioni-riguardanti-prestazioni-sanitarie-eseguite.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-16T11:01:18Z"
+  },
   {
    "id": "d-OCD18-23900",
    "fonte": "dossier",
