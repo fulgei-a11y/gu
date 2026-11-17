@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-17T02:48:26Z",
+ "aggiornato": "2026-11-17T11:01:17Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-17T11:01:17Z",
+   "nuovi": 1
+  },
   {
    "quando": "2026-11-17T02:48:26Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-13T19:01:16Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-13T18:24:22Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -168,6 +168,19 @@
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23908",
+   "fonte": "dossier",
+   "organo": "Studi - Attività produttive",
+   "materia": "Economico",
+   "titolo": "Disposizioni urgenti per la riduzione del costo dell'energia elettrica e del gas",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-17",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23908/disposizioni-urgenti-riduzione-del-costo-energia-elettrica-e-del-gas.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-17T11:01:17Z"
+  },
   {
    "id": "d-OCD18-23829",
    "fonte": "dossier",
