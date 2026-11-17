@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-17T18:01:22Z",
+ "aggiornato": "2026-11-17T19:01:31Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-17T19:01:31Z",
+   "nuovi": 1
+  },
   {
    "quando": "2026-11-17T18:01:22Z",
    "nuovi": 4
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-13T23:26:41Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-13T20:02:40Z",
-   "nuovi": 1
   }
  ],
  "fonti": [
@@ -143,7 +143,7 @@
    "nome": "V Commissione Bilancio",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
-   "trovati": 762
+   "trovati": 763
   },
   {
    "id": "comm6",
@@ -168,6 +168,25 @@
   }
  ],
  "voci": [
+  {
+   "id": "c-de2b19ee27b7af",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria Confcommercio - Imprese per l'Italia",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Donatella Prampolini, vicepresidente nazionale con incarico alle politiche fiscali e di bilancio di Confcommercio-Imprese per l'Italia, Nico Gronchi, presidente nazionale di Confesercenti e Marco Granelli, presidente di Confartigianato, anche in rappresentanza di CNA e Casartigiani",
+   "seduta": "Seduta del 10/11/2026",
+   "data": "2026-11-17",
+   "ora": "19:13",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106085.17-11-2026-19-13-25.342.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-17T19:01:31Z"
+  },
   {
    "id": "c-a1f8db23e4fa29",
    "fonte": "commissione",
