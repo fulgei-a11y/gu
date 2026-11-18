@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-18T11:01:24Z",
+ "aggiornato": "2026-11-18T18:01:15Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-18T18:01:15Z",
+   "nuovi": 4
+  },
   {
    "quando": "2026-11-18T11:01:24Z",
    "nuovi": 1
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-14T20:01:15Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-14T19:01:11Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -164,10 +164,68 @@
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
-   "trovati": 1717
+   "trovati": 1718
   }
  ],
  "voci": [
+  {
+   "id": "c-d26ec8b83cb21c",
+   "fonte": "commissione",
+   "organo": "X Attività produttive",
+   "commissioni": [
+    "X"
+   ],
+   "materia": "Economico",
+   "titolo": "UIL",
+   "tipo": "Memoria",
+   "contesto": "Audizioni informali, sulle prospettive industriali del sito siderurgico di Taranto, di rappresentanti di CGIL, CISL, UIL e UGL",
+   "seduta": "Seduta del 18/11/2026",
+   "data": "2026-11-18",
+   "ora": "15:07",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM10/Audizioni/leg19.com10.Audizioni.Memoria.PUBBLICO.ideGes.107004.18-11-2026-15-07-50.822.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
+   "atto": "",
+   "visto": "2026-11-18T18:01:15Z"
+  },
+  {
+   "id": "d-OCD18-23889",
+   "fonte": "dossier",
+   "organo": "Studi - Giustizia",
+   "materia": "Giustizia",
+   "titolo": "Modifica all'articolo 1 della legge 7 ottobre 1969, n. 742, in materia di sospensione feriale dei termini processuali",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-18",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23889/modifica-all-articolo-1-della-legge-7-ottobre-1969-n-742-materia-sospensione-feriale-termini-processuali.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-18T18:01:15Z"
+  },
+  {
+   "id": "d-OCD18-23920",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "DL 177-2026: Disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
+   "tipo": "",
+   "data": "2026-11-18",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23920/dl-177-2026-disposizioni-urgenti-rafforzamento-istruttorie-ambientali-gestione-problemi-climatici-l-economia-circolare-e-bonifiche.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-18T18:01:15Z"
+  },
+  {
+   "id": "d-OCD18-23773",
+   "fonte": "dossier",
+   "organo": "Studi - Cultura",
+   "materia": "",
+   "titolo": "Decreto scuola",
+   "tipo": "Elementi per l'esame in Assemblea",
+   "data": "2026-11-18",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23773/decreto-scuola.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-18T18:01:15Z"
+  },
   {
    "id": "d-OCD18-23907",
    "fonte": "dossier",
@@ -349,7 +407,7 @@
    "titolo": "DL 177/2026: Disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche",
    "tipo": "",
    "data": "2026-11-16",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23904/dl-177-2026-disposizioni-urgenti-rafforzamento-istruttorie-ambientali-gestione-problemi-climatici-l-economia-circolare-e-bonifiche.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23904/dl-177-2026-disposizioni-urgenti-rafforzamento-istruttorie-ambientali-gestione-problemi-climatici-l-economia-circolare-e-bonifiche-1.html",
    "atto": "",
    "senato": false,
    "visto": "2026-11-16T18:01:17Z"
