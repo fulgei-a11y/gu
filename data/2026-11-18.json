@@ -1,14 +1,296 @@
 {
   "date": "2026-11-18",
   "giorno": "mercoledì",
-  "updatedAt": "2026-11-18T18:01:14Z",
+  "updatedAt": "2026-11-18T19:01:24Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "nessuna_legge_interesse",
   "numero_gu": "269",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-18&numeroGazzetta=269",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/18/269/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 18 novembre 2026 si concentra principalmente su atti di natura economica e amministrativa. Sono presenti numerosi provvedimenti relativi alla gestione delle risorse finanziarie, in particolare per la ricostruzione post-sisma e post-eventi meteorologici, e per la riorganizzazione di enti pubblici. Si segnala inoltre la riapertura delle sottoscrizioni per i Buoni del Tesoro Poliennali.",
+  "modello": "gemini-2.5-flash",
   "schede": [],
-  "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "scartate": [
+    {
+      "codice_atto": "26A05963",
+      "materia": "Istruzione",
+      "titolo": "MINISTERO DELL'ISTRUZIONE E DEL MERITO - DECRETO 14 ottobre 2026 Piano di azione nazionale pluriennale per la promozione del Sistema integrato di educazione e di istruzione, dalla nascita ai sei anni, per il quinquennio 2026-2030.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05963/sg"
+    },
+    {
+      "codice_atto": "26A05964",
+      "materia": "Sanità/Farmaceutica",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di fulvestrant, «Fulvestrant Orion».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05964/sg"
+    },
+    {
+      "codice_atto": "26A05965",
+      "materia": "Sanità/Farmaceutica",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di esomeprazolo, «Esomeprazolo Doc Generics».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05965/sg"
+    },
+    {
+      "codice_atto": "26A05966",
+      "materia": "Sanità/Farmaceutica",
+      "titolo": "COMUNICATO Proroga dell'implementazione degli stampati del medicinale per uso umano, a base di magaldrato, «Riopan»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05966/sg"
+    },
+    {
+      "codice_atto": "26A05967",
+      "materia": "Sanità/Farmaceutica",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Pcolina»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05967/sg"
+    },
+    {
+      "codice_atto": "26A05998",
+      "materia": "Sanità/Farmaceutica",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Chinina Cloridrato S.A.L.F.».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05998/sg"
+    },
+    {
+      "codice_atto": "26A05999",
+      "materia": "Sanità/Farmaceutica",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Tusselim Fluidificante Tosse».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05999/sg"
+    },
+    {
+      "codice_atto": "26A06000",
+      "materia": "Sanità/Farmaceutica",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Ilmotask».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06000/sg"
+    },
+    {
+      "codice_atto": "26A06001",
+      "materia": "Sanità/Farmaceutica",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Ornibel»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06001/sg"
+    },
+    {
+      "codice_atto": "26A06067",
+      "materia": "Sanità/Farmaceutica",
+      "titolo": "COMUNICATO Avviso di pubblicazione di provvedimenti di classificazione e rimborsabilita', ed atti correlati, di specialita' medicinali sul portale «TrovaNormeFarmaco».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06067/sg"
+    },
+    {
+      "codice_atto": "26A06017",
+      "materia": "Istruzione/Università",
+      "titolo": "MINISTERO DELL'UNIVERSITA' E DELLA RICERCA - COMUNICATO Decreto integrativo posti disponibili per i candidati dei Paesi non UE residenti all'estero per l'ammissione al corso di laurea magistrale a ciclo unico in Medicina e chirurgia, classe LM-41, in lingua inglese per l'anno accademico 2026/2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06017/sg"
+    },
+    {
+      "codice_atto": "26A06018",
+      "materia": "Istruzione/Università",
+      "titolo": "COMUNICATO Decreto integrativo posti disponibili per l'ammissione ai corsi di laurea magistrale delle professioni sanitarie per l'anno accademico 2026/2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06018/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A06016",
+      "categoria": "Economico",
+      "titolo": "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 24 settembre 2026 Riparto delle risorse per l'assunzione a tempo indeterminato di personale impiegato nei territori dei comuni colpiti dai sismi del 2016 e del 2017.",
+      "sintesi": "Ripartisce le risorse finanziarie per l'assunzione a tempo indeterminato di personale nei comuni colpiti dai sismi del 2016 e 2017.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06016/sg"
+    },
+    {
+      "codice_atto": "26A06038",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 12 novembre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 3,35%, con godimento 15 luglio 2026 e scadenza 15 settembre 2033, settima e ottava tranche.",
+      "sintesi": "Riapre le operazioni di sottoscrizione per la settima e ottava tranche dei Buoni del Tesoro Poliennali (BTP) con tasso del 3,35% e scadenza 15 settembre 2033.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06038/sg"
+    },
+    {
+      "codice_atto": "26A05959",
+      "categoria": "Economico",
+      "titolo": "ORDINANZA 12 ottobre 2026 Modifiche ed integrazioni all'ordinanza speciale n. 39 del 23 dicembre 2022, recante «Interventi di ricostruzione nel Comune di Preci». (Ordinanza speciale n. 184).",
+      "sintesi": "Modifica e integra l'ordinanza speciale n. 39/2022 relativa agli interventi di ricostruzione nel Comune di Preci.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05959/sg"
+    },
+    {
+      "codice_atto": "26A05960",
+      "categoria": "Economico",
+      "titolo": "ORDINANZA 12 ottobre 2026 Modifiche ed integrazioni all'ordinanza speciale n. 18 del 15 luglio 2021, recante «Interventi di ricostruzione del centro storico di Castelluccio di Norcia». (Ordinanza speciale n. 185).",
+      "sintesi": "Modifica e integra l'ordinanza speciale n. 18/2021 relativa agli interventi di ricostruzione del centro storico di Castelluccio di Norcia.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05960/sg"
+    },
+    {
+      "codice_atto": "26A05961",
+      "categoria": "Economico",
+      "titolo": "ORDINANZA 12 ottobre 2026 Modifiche ed integrazioni dell'ordinanza speciale n. 51 del 26 luglio 2023, avente per oggetto «Interventi in Comune di Montereale, capoluogo e frazioni». (Ordinanza speciale n. 186).",
+      "sintesi": "Modifica e integra l'ordinanza speciale n. 51/2023 relativa agli interventi di ricostruzione nel Comune di Montereale, capoluogo e frazioni.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05961/sg"
+    },
+    {
+      "codice_atto": "26A06025",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA FUNZIONE PUBBLICA - DECRETO 2 ottobre 2026 Modifiche al decreto 28 gennaio 2026, recante la riorganizzazione del Dipartimento della funzione pubblica.",
+      "sintesi": "Apporta modifiche al decreto del 28 gennaio 2026 concernente la riorganizzazione del Dipartimento della funzione pubblica.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06025/sg"
+    },
+    {
+      "codice_atto": "26A06019",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA PROTEZIONE CIVILE - ORDINANZA 9 novembre 2026 Riparto delle risorse finanziarie stanziate dalla delibera del Consiglio dei ministri del 18 febbraio 2026 - annualita' 2026 - in favore delle Regioni Calabria, Sardegna e Siciliana, colpite dagli eccezionali eventi meteorologici occorsi a partire dal giorno 18 gennaio 2026. (Ordinanza n. 1221).",
+      "sintesi": "Ripartisce le risorse finanziarie per l'annualità 2026 in favore delle Regioni Calabria, Sardegna e Siciliana, colpite da eccezionali eventi meteorologici.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06019/sg"
+    },
+    {
+      "codice_atto": "26A06039",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 26 ottobre 2026",
+      "sintesi": "Pubblica i cambi di riferimento indicativi rilevati il 26 ottobre 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06039/sg"
+    },
+    {
+      "codice_atto": "26A06040",
+      "categoria": "Economico",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 27 ottobre 2026",
+      "sintesi": "Pubblica i cambi di riferimento indicativi rilevati il 27 ottobre 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06040/sg"
+    },
+    {
+      "codice_atto": "26A06041",
+      "categoria": "Economico",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 28 ottobre 2026",
+      "sintesi": "Pubblica i cambi di riferimento indicativi rilevati il 28 ottobre 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06041/sg"
+    },
+    {
+      "codice_atto": "26A06042",
+      "categoria": "Economico",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 29 ottobre 2026",
+      "sintesi": "Pubblica i cambi di riferimento indicativi rilevati il 29 ottobre 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06042/sg"
+    },
+    {
+      "codice_atto": "26A06043",
+      "categoria": "Economico",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 30 ottobre 2026",
+      "sintesi": "Pubblica i cambi di riferimento indicativi rilevati il 30 ottobre 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06043/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26A06016",
+      "titolo": "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 24 settembre 2026 Riparto delle risorse per l'assunzione a tempo indeterminato di personale impiegato nei territori dei comuni colpiti dai sismi del 2016 e del 2017.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06016/sg"
+    },
+    {
+      "codice": "26A06038",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 12 novembre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 3,35%, con godimento 15 luglio 2026 e scadenza 15 settembre 2033, settima e ottava tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06038/sg"
+    },
+    {
+      "codice": "26A05963",
+      "titolo": "MINISTERO DELL'ISTRUZIONE E DEL MERITO - DECRETO 14 ottobre 2026 Piano di azione nazionale pluriennale per la promozione del Sistema integrato di educazione e di istruzione, dalla nascita ai sei anni, per il quinquennio 2026-2030.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05963/sg"
+    },
+    {
+      "codice": "26A05959",
+      "titolo": "ORDINANZA 12 ottobre 2026 Modifiche ed integrazioni all'ordinanza speciale n. 39 del 23 dicembre 2022, recante «Interventi di ricostruzione nel Comune di Preci». (Ordinanza speciale n. 184).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05959/sg"
+    },
+    {
+      "codice": "26A05960",
+      "titolo": "ORDINANZA 12 ottobre 2026 Modifiche ed integrazioni all'ordinanza speciale n. 18 del 15 luglio 2021, recante «Interventi di ricostruzione del centro storico di Castelluccio di Norcia». (Ordinanza speciale n. 185).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05960/sg"
+    },
+    {
+      "codice": "26A05961",
+      "titolo": "ORDINANZA 12 ottobre 2026 Modifiche ed integrazioni dell'ordinanza speciale n. 51 del 26 luglio 2023, avente per oggetto «Interventi in Comune di Montereale, capoluogo e frazioni». (Ordinanza speciale n. 186).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05961/sg"
+    },
+    {
+      "codice": "26A06025",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA FUNZIONE PUBBLICA - DECRETO 2 ottobre 2026 Modifiche al decreto 28 gennaio 2026, recante la riorganizzazione del Dipartimento della funzione pubblica.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06025/sg"
+    },
+    {
+      "codice": "26A06019",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA PROTEZIONE CIVILE - ORDINANZA 9 novembre 2026 Riparto delle risorse finanziarie stanziate dalla delibera del Consiglio dei ministri del 18 febbraio 2026 - annualita' 2026 - in favore delle Regioni Calabria, Sardegna e Siciliana, colpite dagli eccezionali eventi meteorologici occorsi a partire dal giorno 18 gennaio 2026. (Ordinanza n. 1221).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06019/sg"
+    },
+    {
+      "codice": "26A05964",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di fulvestrant, «Fulvestrant Orion».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05964/sg"
+    },
+    {
+      "codice": "26A05965",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di esomeprazolo, «Esomeprazolo Doc Generics».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05965/sg"
+    },
+    {
+      "codice": "26A05966",
+      "titolo": "COMUNICATO Proroga dell'implementazione degli stampati del medicinale per uso umano, a base di magaldrato, «Riopan»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05966/sg"
+    },
+    {
+      "codice": "26A05967",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Pcolina»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05967/sg"
+    },
+    {
+      "codice": "26A05998",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Chinina Cloridrato S.A.L.F.».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05998/sg"
+    },
+    {
+      "codice": "26A05999",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Tusselim Fluidificante Tosse».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05999/sg"
+    },
+    {
+      "codice": "26A06000",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Ilmotask».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06000/sg"
+    },
+    {
+      "codice": "26A06001",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Ornibel»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06001/sg"
+    },
+    {
+      "codice": "26A06067",
+      "titolo": "COMUNICATO Avviso di pubblicazione di provvedimenti di classificazione e rimborsabilita', ed atti correlati, di specialita' medicinali sul portale «TrovaNormeFarmaco».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06067/sg"
+    },
+    {
+      "codice": "26A06039",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 26 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06039/sg"
+    },
+    {
+      "codice": "26A06040",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 27 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06040/sg"
+    },
+    {
+      "codice": "26A06041",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 28 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06041/sg"
+    },
+    {
+      "codice": "26A06042",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 29 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06042/sg"
+    },
+    {
+      "codice": "26A06043",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 30 ottobre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06043/sg"
+    },
+    {
+      "codice": "26A06017",
+      "titolo": "MINISTERO DELL'UNIVERSITA' E DELLA RICERCA - COMUNICATO Decreto integrativo posti disponibili per i candidati dei Paesi non UE residenti all'estero per l'ammissione al corso di laurea magistrale a ciclo unico in Medicina e chirurgia, classe LM-41, in lingua inglese per l'anno accademico 2026/2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06017/sg"
+    },
+    {
+      "codice": "26A06018",
+      "titolo": "COMUNICATO Decreto integrativo posti disponibili per l'ammissione ai corsi di laurea magistrale delle professioni sanitarie per l'anno accademico 2026/2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A06018/sg"
+    }
+  ]
 }
