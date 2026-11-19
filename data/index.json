@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-19",
+    "giorno": "giovedì",
+    "numero_gu": "270",
+    "stato": "non_disponibile",
+    "schede": 0,
+    "updatedAt": "2026-11-19T00:09:49Z"
+  },
+  {
     "date": "2026-11-18",
     "giorno": "mercoledì",
     "numero_gu": "269",
