@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-19T19:01:18Z",
+ "aggiornato": "2026-11-19T19:22:13Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-19T19:22:13Z",
+   "nuovi": 1
+  },
   {
    "quando": "2026-11-19T19:01:18Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-15T23:13:33Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-15T22:41:33Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -168,6 +168,19 @@
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23918",
+   "fonte": "dossier",
+   "organo": "Studi - Cultura",
+   "materia": "",
+   "titolo": "Misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-19",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23918/misure-urgenti-garantire-regolare-avvio-anno-scolastico-2026-2027-l-accompagnamento-misure-del-piano-nazionale-ripresa-e.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-19T19:22:13Z"
+  },
   {
    "id": "d-OCD18-23925",
    "fonte": "dossier",
