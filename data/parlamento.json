@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-19T01:45:14Z",
+ "aggiornato": "2026-11-19T11:01:17Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-19T11:01:17Z",
+   "nuovi": 0
+  },
   {
    "quando": "2026-11-19T01:45:14Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-15T19:01:15Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-15T18:01:14Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -178,7 +178,7 @@
    "materia": "Economico",
    "titolo": "UIL",
    "tipo": "Memoria",
-   "contesto": "Audizioni informali, sulle prospettive industriali del sito siderurgico di Taranto, di rappresentanti di CGIL, CISL, UIL e UGL",
+   "contesto": "Audizione informale, anche in videoconferenza, di rappresentanti di CGIL, CISL, UIL e UGL, sulle prospettive industriali del sito siderurgico di Taranto",
    "seduta": "Seduta del 18/11/2026",
    "data": "2026-11-18",
    "ora": "15:07",
