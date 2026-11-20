@@ -1,13 +1,14 @@
 {
   "date": "2026-11-20",
   "giorno": "venerdì",
-  "updatedAt": "2026-11-20T00:59:14Z",
+  "updatedAt": "2026-11-20T01:40:59Z",
   "version": 2,
   "stato": "non_disponibile",
-  "numero_gu": "",
+  "numero_gu": "271",
+  "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-20&numeroGazzetta=271",
   "schede": [],
   "scartate": [],
   "altri_atti": [],
   "atti": [],
-  "note": "Edizione non ancora pubblicata o non raggiungibile al momento del controllo: verrà ricontrollata automaticamente."
+  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
 }
