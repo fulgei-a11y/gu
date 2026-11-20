@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-20T01:41:02Z",
+ "aggiornato": "2026-11-20T18:58:47Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-20T18:58:47Z",
+   "nuovi": 2
+  },
   {
    "quando": "2026-11-20T01:41:02Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-16T20:01:24Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-16T19:01:43Z",
-   "nuovi": 1
   }
  ],
  "fonti": [
@@ -128,46 +128,72 @@
    "id": "dossier",
    "nome": "Dossier di Camera e Senato",
    "url": "https://temi.camera.it/leg19/dossier.html",
-   "ok": false,
-   "errore": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "trovati": 60
   },
   {
    "id": "comm2",
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
-   "ok": false,
-   "errore": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "trovati": 894
   },
   {
    "id": "comm5",
    "nome": "V Commissione Bilancio",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
-   "ok": false,
-   "errore": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "trovati": 763
   },
   {
    "id": "comm6",
    "nome": "VI Commissione Finanze",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
-   "ok": false,
-   "errore": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "trovati": 549
   },
   {
    "id": "comm8",
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
-   "ok": false,
-   "errore": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "trovati": 1632
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
-   "ok": false,
-   "errore": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "trovati": 1718
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23885",
+   "fonte": "dossier",
+   "organo": "Studi - Istituzioni",
+   "materia": "",
+   "titolo": "Riparto dei contributi alle associazioni combattentistiche vigilate dal Ministero dell'interno per l'anno 2026",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-20",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23885/riparto-contributi-alle-associazioni-combattentistiche-vigilate-dal-ministero-interno-l-anno-2026.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-20T18:58:47Z"
+  },
+  {
+   "id": "d-OCD18-23919",
+   "fonte": "dossier",
+   "organo": "Studi - Giustizia",
+   "materia": "Giustizia",
+   "titolo": "Revisione della disciplina della responsabilità amministrativa delle persone giuridiche di cui al decreto legislativo 8 giugno 2001, n. 231",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-20",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23919/revisione-della-disciplina-della-responsabilita-amministrativa-persone-giuridiche-cui-al-decreto-legislativo-8-giugno-2001-n-231.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-20T18:58:47Z"
+  },
   {
    "id": "d-OCD18-23918",
    "fonte": "dossier",
@@ -9171,11 +9197,12 @@
   {
    "id": "c-44103521e30450",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "V Bilancio",
    "commissioni": [
+    "V",
     "VIII"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Contributo scritto UIL scuola",
    "tipo": "Contributo scritto",
    "contesto": "A.C. 3083 - \"Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile\" (3083)",
@@ -9183,7 +9210,7 @@
    "data": "2026-09-21",
    "ora": "16:00",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Progettodilegge/leg19.com05.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.99451.21-09-2026-16-00-41.215.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "atto": "C. 3083",
    "visto": "2026-10-10T14:59:48Z",
    "iniziale": true
@@ -9211,11 +9238,12 @@
   {
    "id": "c-57e51416172f41",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "V Bilancio",
    "commissioni": [
+    "V",
     "VIII"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Conferenza unificata",
    "tipo": "Contributo scritto",
    "contesto": "A.C. 3083 - \"Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile\" (3083)",
@@ -9223,7 +9251,7 @@
    "data": "2026-09-18",
    "ora": "09:27",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Progettodilegge/leg19.com08.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.99451.18-09-2026-09-27-45.996.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "atto": "C. 3083",
    "visto": "2026-10-10T14:59:48Z",
    "iniziale": true
@@ -9391,11 +9419,12 @@
   {
    "id": "c-ae6ffdcc3a791e",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "V Bilancio",
    "commissioni": [
+    "V",
     "VIII"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Contributo scritto FLEPAR",
    "tipo": "Contributo scritto",
    "contesto": "A.C. 3083 - \"Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile\" (3083)",
@@ -9403,7 +9432,7 @@
    "data": "2026-09-14",
    "ora": "17:10",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Progettodilegge/leg19.com08.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.99451.14-09-2026-17-10-56.860.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "atto": "C. 3083",
    "visto": "2026-10-10T14:59:48Z",
    "iniziale": true
@@ -9471,11 +9500,12 @@
   {
    "id": "c-94e695ecfabe2b",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "V Bilancio",
    "commissioni": [
+    "V",
     "VIII"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Contributo scritto Rete professioni tecniche",
    "tipo": "Contributo scritto",
    "contesto": "A.C. 3083 - \"Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile\" (3083)",
@@ -9483,7 +9513,7 @@
    "data": "2026-09-11",
    "ora": "14:13",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Progettodilegge/leg19.com05.Progettodilegge.Contributo%20Scritto.PUBBLICO.ideGes.99451.11-09-2026-14-13-14.947.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "atto": "C. 3083",
    "visto": "2026-10-10T14:59:48Z",
    "iniziale": true
@@ -9491,11 +9521,12 @@
   {
    "id": "c-df40bbf305a248",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "V Bilancio",
    "commissioni": [
+    "V",
     "VIII"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Autorità nazionale anticorruzione (ANAC)",
    "tipo": "Memoria",
    "contesto": "Audizione informale di rappresentanti dell'Autorità nazionale anticorruzione (ANAC), nell'ambito dell'esame del disegno di legge C. 3083, di conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
@@ -9503,7 +9534,7 @@
    "data": "2026-09-11",
    "ora": "11:26",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.99579.11-09-2026-11-26-23.032.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "atto": "C. 3083",
    "visto": "2026-10-10T14:59:48Z",
    "iniziale": true
@@ -9511,11 +9542,12 @@
   {
    "id": "c-ce1a7c85038e24",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "V Bilancio",
    "commissioni": [
+    "V",
     "VIII"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Proposte emendative UNCEM",
    "tipo": "Memoria",
    "contesto": "Audizione informale, in videoconferenza, nell'ambito dell'esame del disegno di legge C. 3083, di conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile, di rappresentanti dell'Unione nazionale comuni, comunità ed enti montani (UNCEM)",
@@ -9523,7 +9555,7 @@
    "data": "2026-09-11",
    "ora": "10:43",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.99601.11-09-2026-10-43-43.091.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "atto": "C. 3083",
    "visto": "2026-10-10T14:59:48Z",
    "iniziale": true
@@ -9531,11 +9563,12 @@
   {
    "id": "c-879394e118a30f",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "V Bilancio",
    "commissioni": [
+    "V",
     "VIII"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Memoria Confagricoltura",
    "tipo": "Memoria",
    "contesto": "Audizione informale, in videoconferenza, di rappresentanti di Coldiretti, Confagricoltura e CIA-Agricoltori italiani, nell'ambito dell'esame del disegno di legge C. 3083, di conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
@@ -9543,7 +9576,7 @@
    "data": "2026-09-11",
    "ora": "09:58",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.99522.11-09-2026-09-58-03.175.docx",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "atto": "C. 3083",
    "visto": "2026-10-10T14:59:48Z",
    "iniziale": true
@@ -9551,11 +9584,12 @@
   {
    "id": "c-a2c37994f8522c",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "V Bilancio",
    "commissioni": [
+    "V",
     "VIII"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Memoria Unitaria CNI, CNAPPC e CNGeGL",
    "tipo": "Memoria",
    "contesto": "Audizione informale di rappresentanti del Consiglio nazionale geometri e geometri laureati, del Consiglio nazionale architetti, pianificatori, paesaggisti e conservatori e del Consiglio nazionale degli ingegneri, in videoconferenza, nell'ambito dell'esame del disegno di legge C. 3083, di conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
@@ -9563,7 +9597,7 @@
    "data": "2026-09-11",
    "ora": "09:11",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.99554.11-09-2026-09-11-53.730.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "atto": "C. 3083",
    "visto": "2026-10-10T14:59:48Z",
    "iniziale": true
@@ -9611,11 +9645,12 @@
   {
    "id": "c-c3ece1bd057568",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "V Bilancio",
    "commissioni": [
+    "V",
     "VIII"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Documento Conferenza delle regioni",
    "tipo": "Memoria",
    "contesto": "Audizione informale, in videoconferenza, nell'ambito dell'esame del disegno di legge C. 3083, di conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile, di rappresentanti della Conferenza delle regioni e delle province autonome",
@@ -9623,7 +9658,7 @@
    "data": "2026-09-10",
    "ora": "12:47",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.99593.10-09-2026-12-47-45.989.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "atto": "C. 3083",
    "visto": "2026-10-10T14:59:48Z",
    "iniziale": true
@@ -9631,11 +9666,12 @@
   {
    "id": "c-153ec759795254",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "V Bilancio",
    "commissioni": [
+    "V",
     "VIII"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Memoria CGIL",
    "tipo": "Memoria",
    "contesto": "Audizione informale, nell'ambito dell'esame del disegno di legge C. 3083, di conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile, di rappresentanti di CGIL, CISL e UIL, di rappresentanti di UGL, in videoconferenza, di rappresentanti di CISAL e USB e di rappresentanti di Gilda degli insegnanti, in videoconferenza",
@@ -9643,7 +9679,7 @@
    "data": "2026-09-10",
    "ora": "12:07",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.99629.10-09-2026-12-07-49.533.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "atto": "C. 3083",
    "visto": "2026-10-10T14:59:48Z",
    "iniziale": true
@@ -9651,11 +9687,12 @@
   {
    "id": "c-b8987e62caf897",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "V Bilancio",
    "commissioni": [
+    "V",
     "VIII"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "UGL",
    "tipo": "Memoria",
    "contesto": "Audizione informale, nell'ambito dell'esame del disegno di legge C. 3083, di conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile, di rappresentanti di CGIL, CISL e UIL, di rappresentanti di UGL, in videoconferenza, di rappresentanti di CISAL e USB e di rappresentanti di Gilda degli insegnanti, in videoconferenza",
@@ -9663,7 +9700,7 @@
    "data": "2026-09-10",
    "ora": "11:23",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.99629.10-09-2026-11-23-11.865.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "atto": "C. 3083",
    "visto": "2026-10-10T14:59:48Z",
    "iniziale": true
@@ -9671,11 +9708,12 @@
   {
    "id": "c-9c445c72c2429f",
    "fonte": "commissione",
-   "organo": "VIII Ambiente",
+   "organo": "V Bilancio",
    "commissioni": [
+    "V",
     "VIII"
    ],
-   "materia": "Energia e Ambiente",
+   "materia": "Economico",
    "titolo": "Memoria Salutequità",
    "tipo": "Memoria",
    "contesto": "Audizione informale di rappresentanti di Salutequitá, nell'ambito dell'esame del disegno di legge C. 3083, di conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
@@ -9683,7 +9721,7 @@
    "data": "2026-09-10",
    "ora": "10:50",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.99547.10-09-2026-10-50-18.041.pdf",
-   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "atto": "C. 3083",
    "visto": "2026-10-10T14:59:48Z",
    "iniziale": true

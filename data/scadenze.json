@@ -1,5 +1,5 @@
 {
-  "generato": "2026-11-20T11:04:13Z",
+  "generato": "2026-11-20T19:00:33Z",
   "oggi": "2026-11-20",
   "decreti_legge": [
     {
@@ -129,6 +129,29 @@
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26G00227/sg",
       "stato": "in_conversione",
       "giorni_mancanti": 53
+    },
+    {
+      "numero": 167,
+      "anno": 2026,
+      "data_dl": "2026-09-28",
+      "riferimento": "Decreto-legge 28 settembre 2026, n. 167",
+      "titolo": "Misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale «EURO 5",
+      "pubblicazione": "2026-09-28",
+      "numero_gu": "",
+      "vigore": "",
+      "scadenza": "2026-11-27",
+      "categoria": "",
+      "scheda": null,
+      "link": "",
+      "fuori_archivio": true,
+      "stato": "convertito",
+      "conversione": {
+        "legge": "LEGGE 19 novembre 2026, n. 210",
+        "data_gu": "2026-11-20",
+        "numero_gu": "271",
+        "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/sg"
+      },
+      "giorni_mancanti": 7
     },
     {
       "numero": 162,
@@ -457,6 +480,15 @@
       "edizione": "2026-11-16",
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/sg"
+    },
+    {
+      "data": "2026-11-21",
+      "riferimento": "LEGGE 19 novembre 2026, n. 210",
+      "titolo": "Conversione del decreto-legge su circolazione veicoli diesel Euro 5",
+      "categoria": "Energia e Ambiente",
+      "edizione": "2026-11-20",
+      "scheda": 0,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/sg"
     },
     {
       "data": "2026-11-24",

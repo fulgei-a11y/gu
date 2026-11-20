@@ -1,14 +1,192 @@
 {
   "date": "2026-11-20",
   "giorno": "venerdì",
-  "updatedAt": "2026-11-20T11:01:19Z",
+  "updatedAt": "2026-11-20T18:58:20Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "con_schede",
   "numero_gu": "271",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-20&numeroGazzetta=271",
-  "schede": [],
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/20/271/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 20 novembre 2026 è dominata dalla conversione in legge del Decreto-Legge n. 167/2026, che posticipa di un anno le limitazioni alla circolazione per i veicoli diesel Euro 5. Questo atto, di rilevanza per l'ambiente e i trasporti, è accompagnato dalla ripubblicazione del testo coordinato del decreto-legge stesso. Sono inoltre presenti provvedimenti di natura economica, come la riapertura delle sottoscrizioni per i BTP Green e disposizioni della Banca d'Italia sulle SIM.",
+  "modello": "gemini-2.5-flash",
+  "schede": [
+    {
+      "codice_atto": "26G00232",
+      "titolo": "Conversione del decreto-legge su circolazione veicoli diesel Euro 5",
+      "riferimento": "LEGGE 19 novembre 2026, n. 210",
+      "categoria": "Energia e Ambiente",
+      "iter": "In vigore dal 21/11/2026. Converte il decreto-legge 28 settembre 2026, n. 167, senza modificazioni.",
+      "contesto": "La legge converte il decreto-legge n. 167/2026, che introduce misure urgenti per la circolazione dei veicoli diesel Euro 5. Il testo del decreto-legge convertito è ripubblicato nella stessa Gazzetta Ufficiale.",
+      "misure": [
+        "Art. 1, comma 1: Il decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale «EURO 5», è convertito in legge.",
+        "Art. 1, comma 2: La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale."
+      ],
+      "chi_interessato": "Cittadini proprietari di veicoli diesel Euro 5, Regioni Piemonte, Lombardia, Veneto ed Emilia-Romagna, Ministero delle Infrastrutture e dei Trasporti, Ministero dell’Ambiente e della Sicurezza Energetica.",
+      "decorrenza": "21 novembre 2026",
+      "perche_conta": "Questa legge è fondamentale perché ratifica le modifiche introdotte dal decreto-legge n. 167/2026, in particolare il posticipo delle limitazioni alla circolazione per i veicoli diesel Euro 5, fornendo certezza giuridica alle nuove scadenze e alle misure connesse.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/sg",
+      "vigore": "21/11/2026"
+    },
+    {
+      "codice_atto": "26A06181",
+      "titolo": "Misure urgenti per la circolazione dei veicoli diesel Euro 5 (Testo Coordinato)",
+      "riferimento": "DECRETO-LEGGE 28 settembre 2026, n. 167 (Testo coordinato con la legge di conversione 19 novembre 2026, n. 210)",
+      "categoria": "Energia e Ambiente",
+      "iter": "In vigore dal 29/09/2026 (data di entrata in vigore del DL 167/2026). Convertito, senza modificazioni, dalla Legge 19 novembre 2026, n. 210, pubblicata in questa stessa Gazzetta Ufficiale.",
+      "contesto": "Il decreto-legge introduce modifiche alle disposizioni sulle limitazioni alla circolazione stradale per i veicoli diesel Euro 5, in risposta alle sentenze della Corte di Giustizia dell'Unione europea in materia di qualità dell'aria. Il testo qui ripubblicato è quello coordinato con la legge di conversione.",
+      "misure": [
+        "Art. 1, comma 1: Modifica l'articolo 1, comma 2, quarto periodo, del decreto-legge 12 settembre 2023, n. 121, sostituendo le parole «a decorrere dal 1° ottobre 2026» con «a decorrere dal 1° ottobre 2027».",
+        "Art. 1, comma 2 (del DL 121/2023, come modificato): La limitazione strutturale alla circolazione delle autovetture e dei veicoli commerciali diesel Euro 5 è inserita nei piani di qualità dell’aria delle Regioni Piemonte, Lombardia, Veneto ed Emilia-Romagna a decorrere dal 1° ottobre 2027. Le regioni possono comunque introdurre tali limitazioni prima di tale termine.",
+        "Art. 1, comma 2-bis (del DL 121/2023, come modificato): Le regioni possono esentare dalle limitazioni alla circolazione le autovetture e i veicoli commerciali Euro 3 e successivi, monofuel o bifuel, alimentati con carburanti alternativi (individuati dall'art. 2, comma 1, lettera a), del D.Lgs. 16 dicembre 2016, n. 257).",
+        "Art. 1, comma 2-ter (del DL 121/2023, come modificato): Entro sessanta giorni dall'entrata in vigore della presente disposizione, un decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell’ambiente e della sicurezza energetica, individuerà modalità agevolate di accesso per i veicoli di interesse storico e collezionistico alle aree soggette a limitazioni.",
+        "Art. 1, comma 3 (del DL 121/2023, come modificato): L'attuazione del decreto non deve comportare nuovi o maggiori oneri per la finanza pubblica, e le amministrazioni pubbliche vi provvedono con risorse disponibili a legislazione vigente."
+      ],
+      "chi_interessato": "Cittadini proprietari di veicoli diesel Euro 5, in particolare nelle Regioni Piemonte, Lombardia, Veneto ed Emilia-Romagna. Enti territoriali e amministrazioni pubbliche coinvolte nella pianificazione della qualità dell'aria e nella gestione del traffico. Proprietari di veicoli storici e collezionistici.",
+      "decorrenza": "29 settembre 2026 (per il decreto-legge originario); le modifiche decorrono dalla data di entrata in vigore del decreto-legge.",
+      "perche_conta": "Questo decreto-legge posticipa di un anno, dal 1° ottobre 2026 al 1° ottobre 2027, l'obbligo per le regioni di inserire nei piani di qualità dell'aria le limitazioni strutturali alla circolazione dei veicoli diesel Euro 5. Ciò offre un respiro temporale a cittadini e imprese, pur mantenendo l'obiettivo di riduzione delle emissioni e la facoltà per le regioni di agire prima. Introduce inoltre esenzioni per veicoli a carburanti alternativi e prevede agevolazioni per i veicoli storici.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06181/sg"
+    }
+  ],
   "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "altri_atti": [
+    {
+      "codice_atto": "26A06046",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 12 novembre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali («BTP Green») 4,10%, con godimento 15 gennaio 2025 e scadenza 30 aprile 2046, terza e quarta tranche.",
+      "sintesi": "Riapre le operazioni di sottoscrizione per la terza e quarta tranche dei BTP Green con tasso del 4,10%, godimento dal 15 gennaio 2025 e scadenza al 30 aprile 2046.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06046/sg"
+    },
+    {
+      "codice_atto": "26A06047",
+      "categoria": "Economico",
+      "titolo": "BANCA D'ITALIA - PROVVEDIMENTO 10 novembre 2026 Disposizioni sulla procedura di valutazione dell'idoneita' degli esponenti delle SIM.",
+      "sintesi": "Definisce le procedure e i criteri per la valutazione dell'idoneità degli esponenti delle Società di Intermediazione Mobiliare (SIM).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06047/sg"
+    },
+    {
+      "codice_atto": "26A06034",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - COMUNICATO Disciplina delle modalita' operative per la pubblicazione delle posizioni di lavoro ai fini dell'accesso ai benefici contributivi, la trasmissione delle comunicazioni obbligatorie tramite il SIISL e gli obblighi di pubblicazione delle posizioni di lavoro da parte delle Agenzie per il lavoro.",
+      "sintesi": "Stabilisce le modalità operative per la pubblicazione delle offerte di lavoro, la trasmissione delle comunicazioni obbligatorie tramite il SIISL e gli obblighi delle Agenzie per il lavoro, al fine di accedere ai benefici contributivi.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06034/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00232",
+      "titolo": "LEGGE 19 novembre 2026, n. 210 Conversione in legge del decreto-legge 28 settembre 2026, n. 167, recante misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale «EURO 5».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/sg",
+      "tipo": "LEGGE",
+      "vigore": "21/11/2026"
+    },
+    {
+      "codice": "26A05926",
+      "titolo": "DECRETI PRESIDENZIALI - DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 2 luglio 2026 Approvazione della convenzione stipulata il 30 gennaio 2026 tra la Presidenza del Consiglio dei ministri - Dipartimento per l'informazione e l'editoria e Rai Com S.p.a. per l'offerta televisiva e multimediale per l'estero.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A05926/sg"
+    },
+    {
+      "codice": "26A06045",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 12 novembre 2026 Conferma dell'incarico al Consorzio di tutela Roero e Roero Arneis a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'art. 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOCG «Roero».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06045/sg"
+    },
+    {
+      "codice": "26A06046",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 12 novembre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali («BTP Green») 4,10%, con godimento 15 gennaio 2025 e scadenza 30 aprile 2046, terza e quarta tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06046/sg"
+    },
+    {
+      "codice": "26A06047",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' BANCA D'ITALIA - PROVVEDIMENTO 10 novembre 2026 Disposizioni sulla procedura di valutazione dell'idoneita' degli esponenti delle SIM.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06047/sg"
+    },
+    {
+      "codice": "26A06181",
+      "titolo": "TESTI COORDINATI E AGGIORNATI TESTO COORDINATO DEL - DECRETO-LEGGE 28 settembre 2026, n. 167 Ripubblicazione del testo del decreto-legge 28 settembre 2026, n. 167 (in Gazzetta Ufficiale - Serie generale - n. 225 del 28 settembre 2026), convertito, senza modificazioni, dalla legge 19 novembre 2026, n. 210 (in questa stessa Gazzetta Ufficiale alla pag. 1), recante: «Misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale \"EURO 5\"».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06181/sg",
+      "tipo": "DECRETO-LEGGE"
+    },
+    {
+      "codice": "26A05978",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Tadalafil EG»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A05978/sg"
+    },
+    {
+      "codice": "26A05979",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Mucoaricodil»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A05979/sg"
+    },
+    {
+      "codice": "26A05980",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Sitagliptin/Metformina Cloridrato Pharmathen».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A05980/sg"
+    },
+    {
+      "codice": "26A05981",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Sykurzuki»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A05981/sg"
+    },
+    {
+      "codice": "26A06008",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Benerva»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06008/sg"
+    },
+    {
+      "codice": "26A06026",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Periochip»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06026/sg"
+    },
+    {
+      "codice": "26A06027",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Gentamicina Solfato Italfarmaco».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06027/sg"
+    },
+    {
+      "codice": "26A06028",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Erlotinib Tillomed».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06028/sg"
+    },
+    {
+      "codice": "26A06029",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Latafix»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06029/sg"
+    },
+    {
+      "codice": "26A06030",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di macitentan, «Macitentan Bruno Farmaceutici».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06030/sg"
+    },
+    {
+      "codice": "26A06031",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Ditralia»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06031/sg"
+    },
+    {
+      "codice": "26A06167",
+      "titolo": "CORTE SUPREMA DI CASSAZIONE - COMUNICATO Annuncio di una proposta di legge di iniziativa popolare",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06167/sg"
+    },
+    {
+      "codice": "26A06032",
+      "titolo": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO Limitazione delle funzioni del titolare del Consolato onorario in Cleveland (Ohio, Stati Uniti)",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06032/sg"
+    },
+    {
+      "codice": "26A06033",
+      "titolo": "COMUNICATO Limitazione delle funzioni del titolare del Consolato onorario in Dallas (Texas, Stati Uniti)",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06033/sg"
+    },
+    {
+      "codice": "26A06048",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO Pubblicazione della comunicazione alla Commissione europea di approvazione della modifica ordinaria del disciplinare di produzione della denominazione di origine protetta dei vini «Chianti».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06048/sg"
+    },
+    {
+      "codice": "26A06034",
+      "titolo": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - COMUNICATO Disciplina delle modalita' operative per la pubblicazione delle posizioni di lavoro ai fini dell'accesso ai benefici contributivi, la trasmissione delle comunicazioni obbligatorie tramite il SIISL e gli obblighi di pubblicazione delle posizioni di lavoro da parte delle Agenzie per il lavoro.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06034/sg"
+    }
+  ]
 }
