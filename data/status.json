@@ -1,8 +1,14 @@
 {
-  "ultimoControllo": "2026-11-20T23:56:25Z",
+  "ultimoControllo": "2026-11-21T00:28:36Z",
   "ultimoSuccesso": "2026-11-20T23:56:25Z",
-  "ok": true,
-  "problemi": [],
+  "ok": false,
+  "problemi": [
+    "Il passaggio «Novità dal Parlamento» è terminato con: errore.",
+    "Parlamento – II Commissione Giustizia: nessun documento riconosciuto: la struttura della pagina potrebbe essere cambiata",
+    "Parlamento – V Commissione Bilancio: nessun documento riconosciuto: la struttura della pagina potrebbe essere cambiata",
+    "Parlamento – VIII Commissione Ambiente: nessun documento riconosciuto: la struttura della pagina potrebbe essere cambiata",
+    "Parlamento – X Commissione Attività produttive: nessun documento riconosciuto: la struttura della pagina potrebbe essere cambiata"
+  ],
   "avvisi": [],
   "ultimaEdizione": "2026-11-20",
   "elaborate": [
@@ -12,5 +18,5 @@
       "schede": 0
     }
   ],
-  "esecuzione": "https://github.com/fulgei-a11y/gu/actions/runs/44840072269"
+  "esecuzione": "https://github.com/fulgei-a11y/gu/actions/runs/44843435849"
 }
