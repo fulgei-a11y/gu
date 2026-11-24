@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-06",
+  "giorno": "venerdì",
+  "updatedAt": "2026-11-07T08:09:21Z",
+  "version": 2,
+  "stato": "con_schede",
+  "numero_gu": "259",
+  "verificato": true,
+  "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-06&numeroGazzetta=259",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/06/259/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 6 novembre 2026 è dominata da un importante Decreto-Legge che assicura la continuità delle funzioni dell'Autorità Nazionale Anticorruzione (ANAC) in un periodo di transizione. Sono inoltre presenti diversi atti ministeriali e comunicati che toccano materie come l'agricoltura, la salute e l'ambiente, con un focus sulla gestione fitosanitaria e la promozione del settore vitivinicolo.",
+  "modello": "gemini-2.5-flash",
+  "schede": [
+    {
+      "codice_atto": "26G00223",
+      "titolo": "Misure urgenti per assicurare la continuità delle funzioni dell'Autorità nazionale anticorruzione (ANAC)",
+      "riferimento": "DECRETO-LEGGE 6 novembre 2026, n. 200",
+      "categoria": "Economico",
+      "iter": "In vigore dal 07/11/2026. Decreto-legge da convertire in legge.",
+      "contesto": "Il decreto-legge interviene per garantire la continuità operativa dell'Autorità nazionale anticorruzione (ANAC) in un momento di transizione, in attesa della nomina del nuovo presidente e dei componenti.",
+      "misure": [
+        "Art. 1, comma 1: Il presidente e i componenti dell'Autorità nazionale anticorruzione, nominati con decreti del Presidente della Repubblica 11 settembre 2020, continuano a esercitare le proprie funzioni. L'esercizio è limitato agli atti di ordinaria amministrazione e a quelli indifferibili e urgenti. Tale proroga è valida fino alla nomina del nuovo presidente e dei nuovi componenti dell'Autorità medesima, e comunque non oltre quarantacinque giorni dalla data di entrata in vigore del presente decreto."
+      ],
+      "chi_interessato": "L'Autorità nazionale anticorruzione (ANAC), il suo presidente e i componenti, nonché le pubbliche amministrazioni e i soggetti vigilati dall'ANAC.",
+      "decorrenza": "07/11/2026",
+      "perche_conta": "Il decreto è cruciale per evitare un vuoto funzionale nell'ANAC, un'istituzione chiave per la prevenzione della corruzione e la trasparenza nella pubblica amministrazione italiana. Assicura la continuità delle attività essenziali durante il processo di rinnovo dei suoi organi direttivi.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26G00223/sg",
+      "vigore": "07/11/2026"
+    }
+  ],
+  "scartate": [
+    {
+      "codice_atto": "26A05874",
+      "materia": "Istituzionale/parlamentare",
+      "titolo": "Convocazione del Parlamento in seduta comune.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05874/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A05790",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 18 settembre 2026 Disposizioni nazionali di attuazione dell'articolo 58, paragrafo 1, lettera i) del regolamento (UE) 2021/2115 del Parlamento europeo e del Consiglio e successive modificazioni ed integrazioni, per quanto riguarda l'applicazione dell'intervento settoriale vitivinicolo inerente ad azioni volte ad accrescere la reputazione dei vigneti italiani promuovendo il turismo enologico nelle regioni di produzione.",
+      "sintesi": "Il decreto attua disposizioni europee per il settore vitivinicolo, promuovendo il turismo enologico nelle regioni di produzione al fine di accrescere la reputazione dei vigneti italiani.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05790/sg"
+    },
+    {
+      "codice_atto": "26A05788",
+      "categoria": "Energia e Ambiente",
+      "titolo": "ORDINANZA 1 ottobre 2026 Adozione di misure fitosanitarie d'emergenza per la gestione, il contrasto e l'eradicazione di Xylella fastidiosa (Well et al.) in Basilicata. (Ordinanza n. 18).",
+      "sintesi": "L'ordinanza stabilisce misure fitosanitarie d'emergenza per la gestione, il contrasto e l'eradicazione del batterio Xylella fastidiosa nella regione Basilicata.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05788/sg"
+    },
+    {
+      "codice_atto": "26A05768",
+      "categoria": "Economico",
+      "titolo": "DECRETO 28 ottobre 2026 Conferma dell'incarico al Consorzio di tutela Cerasuolo di Vittoria DOCG e Vittoria DOC a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, comma 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOCG «Cerasuolo di Vittoria» ed alla DOC «Vittoria».",
+      "sintesi": "Il decreto conferma l'incarico al Consorzio di tutela Cerasuolo di Vittoria DOCG e Vittoria DOC per le funzioni di promozione, valorizzazione, vigilanza e tutela delle relative denominazioni.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05768/sg"
+    },
+    {
+      "codice_atto": "26A05805",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 7 ottobre 2026 Modifica del decreto 1° dicembre 1980, recante: «Disciplina dei contenitori a pressione di gas con membrature miste di materiale isolante e di materiale metallico, contenenti parti attive di apparecchiature elettriche».",
+      "sintesi": "Il decreto modifica la disciplina dei contenitori a pressione di gas con membrature miste, utilizzati in apparecchiature elettriche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05805/sg"
+    },
+    {
+      "codice_atto": "26A05816",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Passaggio dal demanio al patrimonio dello Stato dell'ex casello idraulico sito in via Borghetto, 31, nel Comune di Villa Bartolomea.",
+      "sintesi": "Il comunicato attesta il passaggio di un ex casello idraulico dal demanio al patrimonio dello Stato nel Comune di Villa Bartolomea.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05816/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00223",
+      "titolo": "DECRETO-LEGGE 6 novembre 2026, n. 200 Misure urgenti per assicurare la continuita' delle funzioni dell'Autorita' nazionale anticorruzione (ANAC).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26G00223/sg",
+      "tipo": "DECRETO-LEGGE",
+      "vigore": "07/11/2026"
+    },
+    {
+      "codice": "26A05874",
+      "titolo": "ATTI DEGLI ORGANI COSTITUZIONALI CAMERA DEI DEPUTATI CONVOCAZIONE Convocazione del Parlamento in seduta comune.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05874/sg"
+    },
+    {
+      "codice": "26A05790",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 18 settembre 2026 Disposizioni nazionali di attuazione dell'articolo 58, paragrafo 1, lettera i) del regolamento (UE) 2021/2115 del Parlamento europeo e del Consiglio e successive modificazioni ed integrazioni, per quanto riguarda l'applicazione dell'intervento settoriale vitivinicolo inerente ad azioni volte ad accrescere la reputazione dei vigneti italiani promuovendo il turismo enologico nelle regioni di produzione.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05790/sg"
+    },
+    {
+      "codice": "26A05788",
+      "titolo": "ORDINANZA 1 ottobre 2026 Adozione di misure fitosanitarie d'emergenza per la gestione, il contrasto e l'eradicazione di Xylella fastidiosa (Well et al.) in Basilicata. (Ordinanza n. 18).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05788/sg"
+    },
+    {
+      "codice": "26A05768",
+      "titolo": "DECRETO 28 ottobre 2026 Conferma dell'incarico al Consorzio di tutela Cerasuolo di Vittoria DOCG e Vittoria DOC a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, comma 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOCG «Cerasuolo di Vittoria» ed alla DOC «Vittoria».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05768/sg"
+    },
+    {
+      "codice": "26A05789",
+      "titolo": "MINISTERO DELLA SALUTE - DECRETO 16 settembre 2026 Modalita' tecniche per l'organizzazione delle attivita' di controllo dei posti di controllo frontalieri.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05789/sg"
+    },
+    {
+      "codice": "26A05805",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 7 ottobre 2026 Modifica del decreto 1° dicembre 1980, recante: «Disciplina dei contenitori a pressione di gas con membrature miste di materiale isolante e di materiale metallico, contenenti parti attive di apparecchiature elettriche».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05805/sg"
+    },
+    {
+      "codice": "26A05626",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di pirfenidone, «Pirfenidone Vivanta».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05626/sg"
+    },
+    {
+      "codice": "26A05627",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di cabazitaxel, «Cabazitaxel Aurobindo».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05627/sg"
+    },
+    {
+      "codice": "26A05628",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di paclitaxel, «Paxfydos».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05628/sg"
+    },
+    {
+      "codice": "26A05629",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di flurbiprofene, «Tantum Verdeact gola».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05629/sg"
+    },
+    {
+      "codice": "26A05776",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di secnidazolo, «Kokran»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05776/sg"
+    },
+    {
+      "codice": "26A05777",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di vortioxetina, «Vortioxetina Zentiva».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05777/sg"
+    },
+    {
+      "codice": "26A05778",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di empagliflozin, «Hynica»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05778/sg"
+    },
+    {
+      "codice": "26A05787",
+      "titolo": "COMUNICATO Comunicato relativo all'avviso di pubblicazione di provvedimenti di classificazione e rimborsabilita', ed atti correlati, di specialita' medicinali sul portale «TrovaNormeFarmaco».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05787/sg"
+    },
+    {
+      "codice": "26A05791",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Docetaxel Ratiopharm Italia».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05791/sg"
+    },
+    {
+      "codice": "26A05792",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Candesartan Mylan Pharma».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05792/sg"
+    },
+    {
+      "codice": "26A05784",
+      "titolo": "CAMERA DI COMMERCIO, INDUSTRIA, ARTIGIANATO E AGRICOLTURA DI BOLOGNA - COMUNICATO Provvedimenti concernenti i marchi di identificazione dei metalli preziosi.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05784/sg"
+    },
+    {
+      "codice": "26A05898",
+      "titolo": "CASSA DEPOSITI E PRESTITI S.P.A. - COMUNICATO Avviso relativo ai buoni fruttiferi postali",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05898/sg"
+    },
+    {
+      "codice": "26A05873",
+      "titolo": "CORTE SUPREMA DI CASSAZIONE - COMUNICATO Annuncio di una proposta di legge di iniziativa popolare",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05873/sg"
+    },
+    {
+      "codice": "26A05816",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Passaggio dal demanio al patrimonio dello Stato dell'ex casello idraulico sito in via Borghetto, 31, nel Comune di Villa Bartolomea.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05816/sg"
+    },
+    {
+      "codice": "26A05769",
+      "titolo": "MINISTERO DELL'INTERNO - COMUNICATO Soppressione della Compagnia di S. Angela Merici, in Mantova",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05769/sg"
+    },
+    {
+      "codice": "26A05770",
+      "titolo": "COMUNICATO Trasferimento della sede della Compagnia di S. Orsola da Catania a San Giovanni La Punta",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05770/sg"
+    },
+    {
+      "codice": "26A05771",
+      "titolo": "COMUNICATO Trasferimento della sede della Casa religiosa «Madre Mazzarello» da Palermo a Catania",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05771/sg"
+    },
+    {
+      "codice": "26A05772",
+      "titolo": "COMUNICATO Trasferimento della sede della Casa religiosa denominata «Istituto Maria Ausiliatrice» delle Figlie di Maria Ausiliatrice, da Palermo a Catania.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05772/sg"
+    },
+    {
+      "codice": "26A05773",
+      "titolo": "COMUNICATO Riconoscimento della personalita' giuridica dell'Istituto superiore di scienze religiose «Ecclesia Mater», in Roma",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05773/sg"
+    },
+    {
+      "codice": "26A05774",
+      "titolo": "COMUNICATO Fusione per incorporazione della Provincia religiosa denominata «Ispettoria Salesiana Adriatica», in Ancona, nella Circoscrizione Salesiana «Sacro Cuore» Italia centrale, in Roma.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05774/sg"
+    },
+    {
+      "codice": "26A05775",
+      "titolo": "COMUNICATO Mutamento della denominazione assunta dalla Parrocchia di S. Michele Arcangelo in Carmignano, in Carmignano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05775/sg"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-14",
+  "giorno": "sabato",
+  "updatedAt": "2026-11-14T16:52:00Z",
+  "version": 2,
+  "stato": "con_schede",
+  "numero_gu": "266",
+  "verificato": true,
+  "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-14&numeroGazzetta=266",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/14/266/sg/pdf",
+  "sintesi": "L'edizione odierna della Gazzetta Ufficiale è dominata da un importante Decreto Legislativo che recepisce una direttiva europea sul miglioramento delle condizioni di lavoro nelle piattaforme digitali, introducendo misure significative per la tutela dei lavoratori e la trasparenza algoritmica. Accanto a questo, sono presenti numerosi atti di natura amministrativa e comunicazioni di diverse autorità, principalmente in ambito agricolo e sanitario, che non rientrano nelle materie di interesse.",
+  "modello": "gemini-2.5-flash",
+  "schede": [
+    {
+      "codice_atto": "26G00224",
+      "titolo": "Miglioramento delle condizioni di lavoro nelle piattaforme digitali",
+      "riferimento": "DECRETO LEGISLATIVO 2 novembre 2026, n. 208",
+      "categoria": "Economico",
+      "iter": "In vigore dal 2 dicembre 2026",
+      "contesto": "Il decreto attua la direttiva (UE) 2024/2831, introducendo un quadro normativo per migliorare le condizioni di lavoro e la protezione dei dati personali delle persone che operano tramite piattaforme digitali, in coerenza con la normativa sull'intelligenza artificiale.",
+      "misure": [
+        "Art. 1: Introduce misure per garantire la corretta determinazione della situazione contrattuale, promuovere trasparenza, equità, supervisione umana, sicurezza e responsabilità nella gestione algoritmica del lavoro mediante piattaforme digitali.",
+        "Art. 2: L'ambito di applicazione include tutte le piattaforme di lavoro digitali che organizzano il lavoro nel territorio nazionale e tutte le persone che svolgono tale lavoro, indipendentemente dalla natura del rapporto contrattuale (subordinati, autonomi, co.co.co.).",
+        "Art. 3: Definisce 'piattaforma di lavoro digitale' come un servizio fornito a distanza che organizza la prestazione di lavoro e comporta l'uso di sistemi di monitoraggio o decisionali automatizzati. Sono escluse piattaforme che non organizzano il lavoro o per servizi accessori.",
+        "Art. 4: Estende le medesime tutele riconosciute dal decreto anche alle persone che svolgono un lavoro mediante piattaforme digitali e che hanno un rapporto contrattuale con un intermediario, applicando le disposizioni in materia di appalto e subappalto.",
+        "Art. 5: Stabilisce una presunzione legale di natura subordinata del rapporto di lavoro tra piattaforma digitale e persona che svolge il lavoro, qualora emergano fatti che indicano poteri di direzione e controllo, anche tramite sistemi automatizzati, salvo prova contraria. La presunzione si applica ai rapporti in corso dal 2 dicembre 2026 e non si applica alle professioni intellettuali con albo, salvo attività diverse dalla professione.",
+        "Art. 6: Vieta alle piattaforme e agli intermediari il trattamento di dati personali relativi a stato emotivo/psicologico, conversazioni private, dati raccolti fuori dal lavoro, previsione dell'esercizio di diritti fondamentali, origine razziale/etnica, opinioni politiche, convinzioni religiose/filosofiche, disabilità, stato di salute, adesione sindacale, vita/orientamento sessuale. Sono vietati anche i trattamenti di dati biometrici per stabilire l'identità confrontandoli con banche dati altrui. Le violazioni sono soggette alle sanzioni previste dal Regolamento (UE) 2016/679 e dal Codice della privacy.",
+        "Art. 7: Impone alle piattaforme di lavoro digitali e agli intermediari l'obbligo di effettuare una valutazione d'impatto sulla protezione dei dati personali, sentite le persone che svolgono la prestazione e i loro rappresentanti, e di fornire tale valutazione ai rappresentanti. Sono previste sanzioni amministrative pecuniarie da euro 100 a euro 750 per ciascun mese di ritardo per il mancato adempimento, e da euro 100 a euro 5.000 per la mancata o inesatta fornitura ai rappresentanti. Gli introiti delle sanzioni sono destinati al finanziamento del Sistema informativo per la lotta al caporalato in agricoltura (SILCA), esteso ad altri settori.",
+        "Art. 8: Prevede l'obbligo per le piattaforme e gli intermediari di informare le persone che svolgono un lavoro mediante piattaforme digitali, i loro rappresentanti e le autorità competenti sull'utilizzo di sistemi di monitoraggio e decisionali automatizzati, specificando categorie di dati monitorati, obiettivi, logica, impatto e misure di controllo umano."
+      ],
+      "chi_interessato": "Piattaforme di lavoro digitali, intermediari, persone che svolgono lavoro tramite piattaforme digitali (subordinati, autonomi, co.co.co.), rappresentanti dei lavoratori, Ispettorato Nazionale del Lavoro, Garante per la protezione dei dati personali, autorità giudiziarie e amministrative.",
+      "decorrenza": "02/12/2026",
+      "perche_conta": "Questo decreto è fondamentale per la regolamentazione del lavoro digitale in Italia, introducendo tutele innovative per i lavoratori delle piattaforme, chiarendo la qualificazione dei rapporti di lavoro e stabilendo principi di trasparenza e responsabilità nell'uso degli algoritmi, con un impatto significativo sul mercato del lavoro e sulla protezione dei dati personali.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26G00224/sg",
+      "vigore": "02/12/2026"
+    }
+  ],
+  "scartate": [
+    {
+      "codice_atto": "26A05937",
+      "materia": "Agricoltura",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 4 novembre 2026 Aggiornamento del registro nazionale delle varieta' e dei cloni di vite.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05937/sg"
+    },
+    {
+      "codice_atto": "26A05935",
+      "materia": "Agricoltura / Salute",
+      "titolo": "MINISTERO DELLA SALUTE - DECRETO 30 luglio 2026 Aggiornamento della definizione di utilizzazioni minori di interesse agricolo ai sensi dell'articolo 3, punto 26, del regolamento (CE) n. 1107/2009.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05935/sg"
+    },
+    {
+      "codice_atto": "26A05936",
+      "materia": "Protezione Civile / Infrastrutture",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO PER L'ATTUAZIONE DEGLI INTERVENTI PUBBLICI NELL'AREA DEI CAMPI FLEGREI - ORDINANZA 2 novembre 2026 Disposizioni attuative per la realizzazione dell'intervento Piano intermodale dell'area Flegrea. Interventi connessi al Piano di allontanamento in caso di emergenza vulcanica - 3° stralcio funzionale - Opere di completamento connesse alla realizzazione della nuova Darsena per traghetti del porto di Pozzuoli - CUP B84C23000810001. (Ordinanza n. 30/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05936/sg"
+    },
+    {
+      "codice_atto": "26A05908",
+      "materia": "Salute",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di anifrolumab, «Saphnelo». (Determina n. 1545/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05908/sg"
+    },
+    {
+      "codice_atto": "26A05909",
+      "materia": "Salute",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di darunavir/cobicistat, «Rezolsta». (Determina n. 1546/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05909/sg"
+    },
+    {
+      "codice_atto": "26A05910",
+      "materia": "Salute",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di berotralstat, «Orladeyo». (Determina n. 1547/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05910/sg"
+    },
+    {
+      "codice_atto": "26A05938",
+      "materia": "Salute",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale omeopatico per uso umano «Oscillococcinum».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05938/sg"
+    },
+    {
+      "codice_atto": "26A05939",
+      "materia": "Salute",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di candesartan, «Candesartan Sandoz».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05939/sg"
+    },
+    {
+      "codice_atto": "26A05940",
+      "materia": "Salute",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di minoxidil, «Trefostil».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05940/sg"
+    },
+    {
+      "codice_atto": "26A05941",
+      "materia": "Salute",
+      "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Verzenios»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05941/sg"
+    },
+    {
+      "codice_atto": "26A06053",
+      "materia": "Giustizia / Diritto Costituzionale",
+      "titolo": "CORTE SUPREMA DI CASSAZIONE - COMUNICATO Annuncio di una proposta di legge di iniziativa popolare",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A06053/sg"
+    }
+  ],
+  "altri_atti": [],
+  "atti": [
+    {
+      "codice": "26G00224",
+      "titolo": "DECRETO LEGISLATIVO 2 novembre 2026, n. 208 Attuazione della direttiva (UE) 2024/2831 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, relativa al miglioramento delle condizioni di lavoro nel lavoro mediante piattaforme digitali.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26G00224/sg",
+      "tipo": "DECRETO LEGISLATIVO",
+      "vigore": "02/12/2026"
+    },
+    {
+      "codice": "26A05937",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 4 novembre 2026 Aggiornamento del registro nazionale delle varieta' e dei cloni di vite.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05937/sg"
+    },
+    {
+      "codice": "26A05935",
+      "titolo": "MINISTERO DELLA SALUTE - DECRETO 30 luglio 2026 Aggiornamento della definizione di utilizzazioni minori di interesse agricolo ai sensi dell'articolo 3, punto 26, del regolamento (CE) n. 1107/2009.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05935/sg"
+    },
+    {
+      "codice": "26A05936",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO PER L'ATTUAZIONE DEGLI INTERVENTI PUBBLICI NELL'AREA DEI CAMPI FLEGREI - ORDINANZA 2 novembre 2026 Disposizioni attuative per la realizzazione dell'intervento Piano intermodale dell'area Flegrea. Interventi connessi al Piano di allontanamento in caso di emergenza vulcanica - 3° stralcio funzionale - Opere di completamento connesse alla realizzazione della nuova Darsena per traghetti del porto di Pozzuoli - CUP B84C23000810001. (Ordinanza n. 30/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05936/sg"
+    },
+    {
+      "codice": "26A05908",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di anifrolumab, «Saphnelo». (Determina n. 1545/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05908/sg"
+    },
+    {
+      "codice": "26A05909",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di darunavir/cobicistat, «Rezolsta». (Determina n. 1546/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05909/sg"
+    },
+    {
+      "codice": "26A05910",
+      "titolo": "DETERMINA 4 novembre 2026 Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di berotralstat, «Orladeyo». (Determina n. 1547/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05910/sg"
+    },
+    {
+      "codice": "26A05938",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale omeopatico per uso umano «Oscillococcinum».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05938/sg"
+    },
+    {
+      "codice": "26A05939",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di candesartan, «Candesartan Sandoz».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05939/sg"
+    },
+    {
+      "codice": "26A05940",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di minoxidil, «Trefostil».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05940/sg"
+    },
+    {
+      "codice": "26A05941",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Verzenios»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05941/sg"
+    },
+    {
+      "codice": "26A06053",
+      "titolo": "CORTE SUPREMA DI CASSAZIONE - COMUNICATO Annuncio di una proposta di legge di iniziativa popolare",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/14/26A06053/sg"
+    }
+  ]
+}

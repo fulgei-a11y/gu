@@ -1,0 +1,3 @@
+# Pubblicazione del sito: le pagine salvate per le prove del programma non vanno online
+exclude:
+  - tests

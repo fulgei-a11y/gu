@@ -1,0 +1,274 @@
+{
+  "date": "2026-11-23",
+  "giorno": "lunedì",
+  "updatedAt": "2026-11-23T20:01:17Z",
+  "version": 2,
+  "stato": "con_schede",
+  "numero_gu": "273",
+  "verificato": true,
+  "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-23&numeroGazzetta=273",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/23/273/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale n. 273 del 23 novembre 2026 presenta due leggi di notevole impatto: una riforma organica per il personale della protezione civile, che introduce nuove tutele e rivede la responsabilità penale, e una delega al Governo per la riforma dell'ordinamento della professione di dottore commercialista e di esperto contabile, con l'obiettivo di modernizzare e semplificare la disciplina. Sono inoltre presenti atti minori di carattere economico e sanitario.",
+  "modello": "gemini-2.5-flash",
+  "schede": [
+    {
+      "codice_atto": "26G00228",
+      "titolo": "Riforma della disciplina del personale di protezione civile e della responsabilità penale",
+      "riferimento": "LEGGE 12 novembre 2026, n. 212",
+      "categoria": "Economico",
+      "iter": "In vigore dall'8 dicembre 2026",
+      "contesto": "La legge interviene sull'ordinamento del personale di protezione civile e sul Codice della protezione civile (D.Lgs. 2 gennaio 2018, n. 1), introducendo nuove disposizioni in materia di contrattazione collettiva, trattamento economico e giuridico, e responsabilità penale.",
+      "misure": [
+        "Art. 1: Istituisce speciali sezioni contrattuali per il personale (dirigenziale e non) delle strutture di protezione civile di regioni, comuni, province, città metropolitane e altri enti, per garantire la specificità dei compiti e delle responsabilità. La contrattazione collettiva disciplina trattamento giuridico (formazione) ed economico (indennità di funzione, missione, pronto intervento, orario di lavoro).",
+        "Art. 2: Per il personale non dirigenziale, riconosce un'indennità di funzione di base, un'indennità di pronto impiego aggiuntiva per funzioni di coordinamento operativo/turnazioni, e un'indennità di missione aggiuntiva per interventi in emergenza. Disciplina e importo sono definiti dalla contrattazione collettiva, anche in deroga al principio dell'omnicomprensività della retribuzione per le indennità aggiuntive.",
+        "Art. 3: Per il personale non dirigenziale, garantisce tutela assicurativa per infortuni e malattie in servizio (anche emergenziali) e tutela legale per procedimenti civili e penali per ragioni di servizio. La formazione continua e l'aggiornamento professionale sono obbligatori. Si applica il D.Lgs. 8 aprile 2003, n. 66 (orario di lavoro), con deroga per esigenze di servizio o di protezione civile, e si garantisce reperibilità e operatività.",
+        "Art. 4: Per il personale dirigenziale, riconosce un trattamento economico integrato da un'indennità commisurata alle funzioni di protezione civile svolte, definita dalla contrattazione collettiva.",
+        "Art. 5: Per il personale dirigenziale, garantisce tutela assicurativa e legale come per il personale non dirigenziale. La formazione continua e l'aggiornamento professionale sono obbligatori. L'incarico dirigenziale è soggetto a rotazione. Si applica il D.Lgs. 8 aprile 2003, n. 66 con deroga, e si garantisce reperibilità e operatività.",
+        "Art. 6: Modifica il Codice della protezione civile (D.Lgs. 2 gennaio 2018, n. 1) introducendo l'Art. 42-bis e l'Art. 42-ter. L'Art. 42-bis prevede l'elaborazione di linee guida (entro 12 mesi) per standard minimi di formazione e raccomandazioni nell'esecuzione delle attività. L'Art. 42-ter stabilisce che, nei casi di reato colposo, autorità, operatori e volontari di protezione civile non sono punibili se hanno rispettato le linee guida o le buone pratiche, se adeguate al caso. Il volontario risponde esclusivamente per colpa grave. Autorità e operatori rispondono esclusivamente per colpa grave solo per reati in misure e interventi urgenti di gestione dell'emergenza. Nell'accertamento della colpa si tiene conto di incertezza scientifica, prevedibilità dell'evento, contesto d'urgenza, ruolo specifico, esigibilità della condotta e limiti di risorse.",
+        "Art. 7: Prevede una relazione biennale alle Camere del Ministro per la protezione civile e le politiche del mare sull'attuazione della legge.",
+        "Art. 8: Contiene una clausola di invarianza finanziaria."
+      ],
+      "chi_interessato": "Personale (dirigenziale e non) delle strutture di protezione civile di regioni, comuni, province, città metropolitane e altri enti; autorità, operatori e volontari di protezione civile; Ministero per la protezione civile e le politiche del mare; Parlamento.",
+      "decorrenza": "08/12/2026",
+      "perche_conta": "La legge è fondamentale per la riorganizzazione e la valorizzazione del personale di protezione civile, introducendo un quadro normativo più specifico per la contrattazione e le tutele. La revisione della responsabilità penale colposa è un elemento cruciale per chi opera in contesti emergenziali, fornendo maggiore chiarezza e protezione legale, pur mantenendo un adeguato livello di responsabilità.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26G00228/sg",
+      "vigore": "08/12/2026"
+    },
+    {
+      "codice_atto": "26G00233",
+      "titolo": "Delega al Governo per la riforma dell'ordinamento della professione di dottore commercialista e di esperto contabile",
+      "riferimento": "LEGGE 19 novembre 2026, n. 213",
+      "categoria": "Economico",
+      "iter": "In vigore dall'8 dicembre 2026",
+      "contesto": "La legge delega il Governo ad adottare un decreto legislativo per riformare l'ordinamento della professione di dottore commercialista e di esperto contabile, con l'obiettivo di modernizzare, semplificare e adeguare la disciplina vigente al diritto europeo e alla giurisprudenza.",
+      "misure": [
+        "Art. 1: Delega il Governo ad adottare, entro dodici mesi, un decreto legislativo per riformare l'ordinamento della professione di dottore commercialista e di esperto contabile, basandosi sui principi e criteri direttivi dell'Art. 2. Il decreto è proposto dal Ministro della Giustizia, sentito il Consiglio nazionale dei dottori commercialisti e degli esperti contabili, e di concerto con i Ministri competenti per materia (università e ricerca, lavoro e politiche sociali). Prevede il parere delle Camere e la possibilità di disposizioni integrative e correttive entro dodici mesi dall'entrata in vigore del decreto legislativo.",
+        "Art. 2: Stabilisce i principi e criteri direttivi per la riforma, tra cui:",
+        "a) Riorganizzazione delle attività professionali, distinguendo quelle riservate da quelle tipiche (tributario, economico-aziendale, finanziario, giuslavoristico, societario, crisi d'impresa).",
+        "b) Disciplina organica per l'esercizio della professione in forma associata o societaria.",
+        "c) Disciplina delle incompatibilità, escludendo quelle automatiche e prevedendo controlli ex post.",
+        "d) Pattuizione libera del compenso, ma proporzionata alla quantità, qualità e caratteristiche delle prestazioni.",
+        "e) Aggiornamento dei parametri per la determinazione dei compensi con decreto del Ministro della Giustizia.",
+        "f) Ridefinizione dell'accesso alle cariche elettive degli ordini, riducendo l'anzianità richiesta e valorizzando l'equilibrio generazionale e la parità di genere.",
+        "g) Revisione delle modalità elettorali con introduzione del voto telematico a distanza.",
+        "h) Revisione delle classi dimensionali degli ordini territoriali e della composizione dei consigli.",
+        "i) Durata del mandato di quattro anni e limite di due mandati consecutivi per gli organi elettivi.",
+        "l) Revisione delle cause di incompatibilità e sostituzione dei componenti degli organi elettivi.",
+        "m) Aggiornamento delle competenze del Consiglio nazionale e degli ordini territoriali.",
+        "n) Revisione delle cause di decadenza dalla carica (es. assunzione di cariche di governo o apicali in enti territoriali di grandi dimensioni).",
+        "o) Revisione, razionalizzazione e semplificazione della disciplina disciplinare.",
+        "p) Disciplina delle ipotesi di cancellazione dall'Albo.",
+        "q) Disciplina organica in materia di specializzazione, evitando la moltiplicazione di sotto-albi.",
+        "r) Revisione della disciplina del tirocinio, con possibilità di svolgimento durante il corso di studi universitari.",
+        "s) Introduzione di possibili forme collettive di assicurazione per la responsabilità civile, con oneri a carico del Consiglio nazionale.",
+        "t) Previsione dei tempi di applicazione della nuova disciplina elettorale.",
+        "Art. 3: Contiene una clausola di invarianza finanziaria."
+      ],
+      "chi_interessato": "Dottori commercialisti e esperti contabili; Ordini professionali; Governo; Ministero della Giustizia; Ministero dell'Università e della Ricerca; Ministero del Lavoro e delle Politiche Sociali.",
+      "decorrenza": "08/12/2026",
+      "perche_conta": "Questa legge delega è di grande rilevanza per l'intera categoria professionale dei dottori commercialisti e degli esperti contabili, poiché avvia un processo di riforma complessiva che inciderà profondamente sull'organizzazione della professione, l'accesso, l'esercizio, le incompatibilità, i compensi e la governance degli ordini, con l'obiettivo di renderla più moderna, efficiente e allineata alle esigenze attuali e future.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26G00233/sg",
+      "vigore": "08/12/2026"
+    }
+  ],
+  "scartate": [
+    {
+      "codice_atto": "26A06056",
+      "materia": "Istruzione",
+      "titolo": "DECRETO 3 novembre 2026 Emanazione dello statuto dell'Università Telematica degli Studi IUL.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06056/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A05927",
+      "categoria": "Economico",
+      "titolo": "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 14 settembre 2026 Nota metodologica relativa agli obiettivi di servizio per i servizi sociali, modalita' di monitoraggio, rendicontazione e riparto delle risorse aggiuntive per i comuni delle regioni a statuto ordinario nell'anno 2026.",
+      "sintesi": "Definisce la metodologia per gli obiettivi di servizio, il monitoraggio, la rendicontazione e il riparto delle risorse aggiuntive destinate ai comuni delle regioni a statuto ordinario per i servizi sociali nel 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A05927/sg"
+    },
+    {
+      "codice_atto": "26A06068",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 12 novembre 2026 Contingente, modalita' di cessione e ricavi di vendita della moneta d'argento da 5 euro celebrativa del famoso stilista Valentino Garavani, in versione reverse proof, millesimo 2026.",
+      "sintesi": "Stabilisce il contingente, le modalità di cessione e i ricavi di vendita per la moneta d'argento da 5 euro celebrativa di Valentino Garavani, millesimo 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06068/sg"
+    },
+    {
+      "codice_atto": "26A06069",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 12 novembre 2026 Contingente, modalita' di cessione e ricavi di vendita della moneta d'oro da 50 euro celebrativa del famoso stilista Valentino Garavani, in versione reverse proof, millesimo 2026.",
+      "sintesi": "Stabilisce il contingente, le modalità di cessione e i ricavi di vendita per la moneta d'oro da 50 euro celebrativa di Valentino Garavani, millesimo 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06069/sg"
+    },
+    {
+      "codice_atto": "26A06083",
+      "categoria": "Energia e Ambiente",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Pubblicazione del decreto 11 novembre 2026, recante l'approvazione dell'aggiornamento delle regole operative per la disciplina delle modalita' per la presentazione e la valutazione delle richieste in accesso diretto e i requisiti e le condizioni per l'erogazione dei prezzi di aggiudicazione.",
+      "sintesi": "Pubblica il decreto che aggiorna le regole operative per la presentazione e valutazione delle richieste in accesso diretto e i requisiti per l'erogazione dei prezzi di aggiudicazione, rilevante per il settore energetico.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06083/sg"
+    },
+    {
+      "codice_atto": "26A06052",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - COMUNICATO Decadenza dell'autorizzazione all'esercizio dell'attivita' fiduciaria della societa' «Fiduciaria San Carlo S.r.l.», in Milano.",
+      "sintesi": "Comunica la decadenza dell'autorizzazione all'esercizio dell'attività fiduciaria per la società 'Fiduciaria San Carlo S.r.l.' di Milano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06052/sg"
+    },
+    {
+      "codice_atto": "26A06081",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - COMUNICATO Fondo a sostegno delle imprese dell'indotto della societa' ILVA in amministrazione straordinaria. Elenco delle domande ammesse alle agevolazioni.",
+      "sintesi": "Pubblica l'elenco delle domande ammesse alle agevolazioni del Fondo a sostegno delle imprese dell'indotto della società ILVA in amministrazione straordinaria.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06081/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00228",
+      "titolo": "LEGGE 12 novembre 2026, n. 212 Disposizioni in materia di protezione civile.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26G00228/sg",
+      "tipo": "LEGGE",
+      "vigore": "08/12/2026"
+    },
+    {
+      "codice": "26G00233",
+      "titolo": "LEGGE 19 novembre 2026, n. 213 Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26G00233/sg",
+      "tipo": "LEGGE",
+      "vigore": "08/12/2026"
+    },
+    {
+      "codice": "26A05927",
+      "titolo": "DECRETI PRESIDENZIALI - DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 14 settembre 2026 Nota metodologica relativa agli obiettivi di servizio per i servizi sociali, modalita' di monitoraggio, rendicontazione e riparto delle risorse aggiuntive per i comuni delle regioni a statuto ordinario nell'anno 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A05927/sg"
+    },
+    {
+      "codice": "26A06071",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 20 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «SGS Italia S.p.a.» ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia e alla determinazione dell'entita' dei residui di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06071/sg"
+    },
+    {
+      "codice": "26A06070",
+      "titolo": "DECRETO 13 novembre 2026 Conferma dell'incarico al Consorzio volontario per la tutela e la valorizzazione dei vini a DOC dell'Isola di Pantelleria a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOC «Pantelleria».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06070/sg"
+    },
+    {
+      "codice": "26A06068",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 12 novembre 2026 Contingente, modalita' di cessione e ricavi di vendita della moneta d'argento da 5 euro celebrativa del famoso stilista Valentino Garavani, in versione reverse proof, millesimo 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06068/sg"
+    },
+    {
+      "codice": "26A06069",
+      "titolo": "DECRETO 12 novembre 2026 Contingente, modalita' di cessione e ricavi di vendita della moneta d'oro da 50 euro celebrativa del famoso stilista Valentino Garavani, in versione reverse proof, millesimo 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06069/sg"
+    },
+    {
+      "codice": "26A06168",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' AGENZIA ITALIANA DEL FARMACO - DETERMINA 17 novembre 2026 Modifica alla determina n. 143090/2018 relativa all'inserimento del medicinale Anakinra (Kineret) nell'elenco istituito, ai sensi della legge n. 648/1996, per il trattamento della pericardite idiopatica ricorrente cortico-dipendente e colchicina-resistente. (Determina n. 1644/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06168/sg"
+    },
+    {
+      "codice": "26A06169",
+      "titolo": "DETERMINA 17 novembre 2026 Modifica alla determina n. 1750/2025 relativa all'inserimento del medicinale Abraxane nell'elenco istituito, ai sensi della legge n. 648/1996, per il trattamento di carcinomi ginecologici e mammari in pazienti che hanno mostrato reazione di ipersensibilita' alla terapia standard a base di taxani (o per le quali la premedicazione corticosteroidea, necessaria per la terapia a base di taxani, sia controindicata), al fine di inserire i farmaci generici a base di nab-paclitaxel. (Determina n. 1645/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06169/sg"
+    },
+    {
+      "codice": "26A06170",
+      "titolo": "DETERMINA 17 novembre 2026 Inserimento del medicinale Sirolimus (Rapamune) nell'elenco istituito, ai sensi della legge n. 648/1996, per il trattamento di pazienti con diagnosi di Sindrome linfoproliferativa autoimmune (ALPS) o di Sindrome ALPS-like, di eta' ≥12 mesi e <40 anni, intolleranti o resistenti ai trattamenti di prima linea (in particolare, corticosteroidi e immunoglobulina umana endovenosa) o corticodipendenti. (Determina n. 1646/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06170/sg"
+    },
+    {
+      "codice": "26A06171",
+      "titolo": "DETERMINA 17 novembre 2026 Inserimento del medicinale Pasireotide (Signifor Lar) nell'elenco istituito, ai sensi della legge n. 648/1996, per il trattamento di pazienti affetti da tumori neuroendocrini di origine polmonare o timica, ben differenziati (carcinoide tipico o atipico, corrispondente a grado 1 o grado 2 sec. classificazione WHO), funzionanti o non funzionanti, metastatici e/o inoperabili, in fase evolutiva, in progressione o non candidabili al trattamento con everolimus. (Determina n. 1647/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06171/sg"
+    },
+    {
+      "codice": "26A06172",
+      "titolo": "DETERMINA 17 novembre 2026 Inserimento del medicinale Immunoglobina endovenosa nell'elenco istituito, ai sensi della legge n. 648/1996, per il trattamento di pazienti affetti da pemfigo volgare moderato-grave non controllato. (Determina n. 1648/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06172/sg"
+    },
+    {
+      "codice": "26A06056",
+      "titolo": "UNIVERSITA' TELEMATICA DEGLI STUDI IUL - DECRETO 3 novembre 2026 Emanazione dello statuto.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06056/sg"
+    },
+    {
+      "codice": "26A06072",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di tafamidis, «Tafamidis Viatris»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06072/sg"
+    },
+    {
+      "codice": "26A06073",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di tafamidis, «Tafamidis EG»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06073/sg"
+    },
+    {
+      "codice": "26A06074",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di tafamidis, «Tafamidis Zentiva».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06074/sg"
+    },
+    {
+      "codice": "26A06075",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di ivermectina, «Scaver».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06075/sg"
+    },
+    {
+      "codice": "26A06076",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di sitagliptin, «Sitagliptin Pharmacare».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06076/sg"
+    },
+    {
+      "codice": "26A06077",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Sugammadex Sandoz».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06077/sg"
+    },
+    {
+      "codice": "26A06078",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Bosutinib EG».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06078/sg"
+    },
+    {
+      "codice": "26A06079",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'importazione parallela del medicinale per uso umano «Zirtec»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06079/sg"
+    },
+    {
+      "codice": "26A06080",
+      "titolo": "COMUNICATO Rettifica dell'estratto della determina AAM/PPA n. 484/2026 del 31 agosto 2026, di modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Amoxicillina e Acido Clavulanico Sandoz».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06080/sg"
+    },
+    {
+      "codice": "26A06084",
+      "titolo": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO Rilascio di exequatur",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06084/sg"
+    },
+    {
+      "codice": "26A06085",
+      "titolo": "COMUNICATO Rilascio di exequatur",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06085/sg"
+    },
+    {
+      "codice": "26A06082",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO Feampa 2021/2027. Decreto di scorrimento della sub graduatoria relativa alla GSA 19 (Mar Ionio), sistema di pesca palangaro, classe di lunghezza 18<=LFT<24, redatta ai sensi dell'articolo 4 del decreto 17 luglio 2024 e approvata con decreto 7 ottobre 2025.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06082/sg"
+    },
+    {
+      "codice": "26A06083",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Pubblicazione del decreto 11 novembre 2026, recante l'approvazione dell'aggiornamento delle regole operative per la disciplina delle modalita' per la presentazione e la valutazione delle richieste in accesso diretto e i requisiti e le condizioni per l'erogazione dei prezzi di aggiudicazione.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06083/sg"
+    },
+    {
+      "codice": "26A06052",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - COMUNICATO Decadenza dell'autorizzazione all'esercizio dell'attivita' fiduciaria della societa' «Fiduciaria San Carlo S.r.l.», in Milano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06052/sg"
+    },
+    {
+      "codice": "26A06081",
+      "titolo": "COMUNICATO Fondo a sostegno delle imprese dell'indotto della societa' ILVA in amministrazione straordinaria. Elenco delle domande ammesse alle agevolazioni.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26A06081/sg"
+    }
+  ]
+}

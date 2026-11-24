@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-21",
+  "giorno": "sabato",
+  "updatedAt": "2026-11-21T17:52:57Z",
+  "version": 2,
+  "stato": "con_schede",
+  "numero_gu": "272",
+  "verificato": true,
+  "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-21&numeroGazzetta=272",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/21/272/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 21 novembre 2026 è dominata dal Decreto Legislativo n. 211/2026, che riforma la disciplina della responsabilità per danno da prodotti difettosi, recependo una direttiva europea e aggiornando il Codice del consumo. Questo atto introduce importanti novità per la tutela dei consumatori e per gli operatori economici, estendendo la responsabilità a nuove tipologie di prodotti come software e file digitali. Sono presenti anche numerosi decreti ministeriali e ordinanze di protezione civile, principalmente in materia agricola e di gestione emergenze.",
+  "modello": "gemini-2.5-flash",
+  "schede": [
+    {
+      "codice_atto": "26G00231",
+      "titolo": "Nuova disciplina della responsabilità per danno da prodotti difettosi",
+      "riferimento": "DECRETO LEGISLATIVO 6 novembre 2026, n. 211",
+      "categoria": "Giustizia",
+      "iter": "In vigore dal 06/12/2026",
+      "contesto": "Attuazione della direttiva (UE) 2024/2853 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, sulla responsabilità per danno da prodotti difettosi, che abroga la direttiva 85/374/CEE del Consiglio. Il decreto modifica il Titolo II della parte IV del Codice del consumo (decreto legislativo 6 settembre 2005, n. 206).",
+      "misure": [
+        "Art. 1: Sostituisce il Titolo II della parte IV del Codice del consumo con la nuova disciplina sulla responsabilità per danno da prodotti difettosi.",
+        "Art. 114 (Responsabilità dell’operatore economico): L'operatore economico è responsabile del danno cagionato alla persona fisica da difetti del prodotto.",
+        "Art. 115 (Definizioni): Estende la definizione di 'prodotto' a beni mobili, elettricità, file per la fabbricazione digitale, materie prime e software (escluso software libero e open source non commerciale). Introduce definizioni specifiche per 'servizio correlato', 'componente', 'controllo del fabbricante', 'dati', 'messa a disposizione sul mercato', 'immissione sul mercato', 'messa in servizio', 'fabbricante', 'rappresentante autorizzato', 'importatore', 'fornitore di servizi di logistica', 'distributore', 'operatore economico', 'piattaforma online', 'segreto commerciale' e 'modifica sostanziale'.",
+        "Art. 116 (Operatori economici responsabili): Individua come responsabili il fabbricante del prodotto, il fabbricante di un componente difettoso (se sotto il suo controllo), l'importatore, il rappresentante autorizzato o il fornitore di servizi di logistica (per prodotti extra-UE). Chi apporta una modifica sostanziale è considerato fabbricante. I distributori e i fornitori di piattaforme online possono essere responsabili se non identificano l'operatore economico.",
+        "Art. 117 (Prodotto difettoso): Un prodotto è considerato difettoso se non offre la sicurezza che un consumatore può legittimamente attendersi o che è prevista dalla normativa. La valutazione tiene conto di presentazione, caratteristiche, uso prevedibile, effetti di apprendimento/nuove funzionalità, interconnessione con altri prodotti, requisiti di sicurezza (inclusa cibersicurezza), richiami e specifiche esigenze degli utenti. Si presume difettoso il prodotto appartenente alla medesima serie di produzione di altro prodotto già accertato come difettoso.",
+        "Art. 118 (Esclusione della responsabilità): L'operatore economico non è responsabile se prova di non aver immesso il prodotto sul mercato, che il difetto non esisteva al momento dell'immissione, che il difetto è dovuto alla conformità a requisiti di legge, o che lo stato delle conoscenze scientifiche non permetteva di scoprire il difetto. La responsabilità non è esclusa se il difetto è dovuto a servizio correlato, software, mancanza di aggiornamenti software o modifica sostanziale, se il prodotto è sotto il controllo del fabbricante.",
+        "Art. 119 (Esibizione degli elementi di prova): Il giudice può ordinare l'esibizione di prove pertinenti su richiesta del danneggiato o del convenuto, nel rispetto della proporzionalità e della tutela dei segreti commerciali.",
+        "Art. 120 (Onere della prova e presunzioni): Il danneggiato deve provare il difetto, il danno e il nesso di causalità. L'operatore economico deve provare le cause di esclusione. Sono previste presunzioni di difettosità (es. omessa esibizione prove, mancato rispetto requisiti di sicurezza, malfunzionamento evidente) e di nesso di causalità (se provato il difetto e la compatibilità del danno). Presunzioni anche in caso di difficoltà eccessive per l'attore.",
+        "Art. 121 (Pluralità di responsabili): Responsabilità solidale con diritto di rivalsa. Possibilità per il fabbricante di un prodotto che integra software di rinunciare al diritto di rivalsa verso il fabbricante del componente software se quest'ultimo era micro o piccola impresa al momento dell'immissione.",
+        "Art. 122 (Colpa del danneggiato e fatto del terzo): Applicazione dell'Art. 1227 c.c. per concorso di colpa. La responsabilità non è ridotta o esclusa per fatto del terzo, salvo rivalsa.",
+        "Art. 123 (Danno risarcibile): Risarcibili danni da morte o lesioni personali, danneggiamento/distruzione di beni (esclusi il prodotto difettoso stesso, prodotti danneggiati da componenti difettosi sotto controllo del fabbricante, beni usati esclusivamente a fini professionali), distruzione/corruzione di dati non professionali (inclusi costi di recupero).",
+        "Art. 124 (Clausole di esonero della responsabilità): Nullità di qualsiasi patto che escluda o limiti la responsabilità.",
+        "Art. 125 (Prescrizione): Tre anni dal giorno in cui il danneggiato ha avuto o avrebbe ragionevolmente dovuto avere conoscenza del danno, del difetto e dell’identità del responsabile.",
+        "Art. 126 (Decadenza): Dieci anni dalla data di immissione sul mercato o messa in servizio del prodotto difettoso (o dalla modifica sostanziale). Estensione a venticinque anni per lesioni personali con lungo periodo di latenza. L'avvio di un procedimento impedisce la decadenza.",
+        "Art. 126-bis (Pubblicazione delle sentenze): Obbligo di pubblicazione delle sentenze e provvedimenti decisori in formato elettronico, nel rispetto della protezione dei dati personali.",
+        "Art. 127 (Responsabilità secondo altre disposizioni di legge): Salva l'applicabilità di altre leggi e regimi speciali di responsabilità. Esclude i danni da incidenti nucleari.",
+        "Art. 2: Apporta ulteriori modificazioni di coordinamento al Codice del consumo."
+      ],
+      "chi_interessato": "Fabbricanti, importatori, distributori, fornitori di servizi di logistica, fornitori di piattaforme online, consumatori, danneggiati da prodotti difettosi, microimprese e piccole imprese produttrici di componenti software.",
+      "decorrenza": "06/12/2026",
+      "perche_conta": "Questo decreto riforma in modo significativo la disciplina della responsabilità per danno da prodotti difettosi, estendendo il campo di applicazione a nuove tipologie di prodotti (es. software, file digitali, elettricità) e definendo in modo più preciso gli operatori economici responsabili. Introduce nuove presunzioni e regole sull'onere della prova, facilitando la tutela dei danneggiati e adeguando la normativa italiana alle evoluzioni tecnologiche e alle direttive europee. Ha un impatto rilevante su tutti gli attori della catena di fornitura e sul diritto dei consumatori.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26G00231/sg",
+      "vigore": "06/12/2026"
+    }
+  ],
+  "scartate": [],
+  "altri_atti": [
+    {
+      "codice_atto": "26A06060",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 11 novembre 2026 Dichiarazione dell'esistenza del carattere di eccezionalita' degli eventi calamitosi verificatisi nei territori della Regione Lombardia il 28 agosto 2026.",
+      "sintesi": "Dichiara l'eccezionalità degli eventi calamitosi in Lombardia del 28 agosto 2026, aprendo la strada a interventi di sostegno per il settore agricolo.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06060/sg"
+    },
+    {
+      "codice_atto": "26A06050",
+      "categoria": "Economico",
+      "titolo": "DECRETO 12 novembre 2026 Conferma dell'incarico al Consorzio di tutela vini DOC Sicilia a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOC «Sicilia».",
+      "sintesi": "Conferma l'incarico al Consorzio di tutela vini DOC Sicilia per la promozione, valorizzazione e vigilanza della DOC 'Sicilia'.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06050/sg"
+    },
+    {
+      "codice_atto": "26A06061",
+      "categoria": "Economico",
+      "titolo": "DECRETO 13 novembre 2026 Conferma dell'incarico al Consorzio tutela denominazione vini Frascati a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alle DOCG «Frascati Superiore» e «Cannellino di Frascati» ed alla DOC «Frascati».",
+      "sintesi": "Conferma l'incarico al Consorzio tutela denominazione vini Frascati per la promozione, valorizzazione e vigilanza delle DOCG 'Frascati Superiore' e 'Cannellino di Frascati' e della DOC 'Frascati'.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06061/sg"
+    },
+    {
+      "codice_atto": "26A06099",
+      "categoria": "Economico",
+      "titolo": "DECRETO 16 novembre 2026 Piano straordinario di controllo nazionale per i prodotti lattiero-caseari con denominazione di origine protetta e indicazione geografica protetta.",
+      "sintesi": "Istituisce un piano straordinario di controllo nazionale per i prodotti lattiero-caseari DOP e IGP, rafforzando la tutela delle denominazioni.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06099/sg"
+    },
+    {
+      "codice_atto": "26A05995",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 23 luglio 2026 Aggiornamento del decreto 28 dicembre 2020, recante le modalita' di attuazione degli incentivi fiscali in «de minimis» all'investimento in start-up innovative e PMI innovative.",
+      "sintesi": "Aggiorna le modalità di attuazione degli incentivi fiscali in 'de minimis' per gli investimenti in start-up e PMI innovative.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A05995/sg"
+    },
+    {
+      "codice_atto": "26A06059",
+      "categoria": "Energia e Ambiente",
+      "titolo": "MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI - DECRETO 5 novembre 2026 Prescrizioni per il trasporto su strada di materiali radioattivi (Classe 7 ADR).",
+      "sintesi": "Stabilisce nuove prescrizioni per il trasporto su strada di materiali radioattivi (Classe 7 ADR), migliorando la sicurezza e la gestione dei rischi.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06059/sg"
+    },
+    {
+      "codice_atto": "26A06037",
+      "categoria": "Economico",
+      "titolo": "ORDINANZA 10 novembre 2026 Giubileo della Chiesa cattolica 2025 - Intervento ID 13 recante «Sistemi di telecomunicazioni di nuova generazione 5G small cell» - Classificazione «Intervento urgente» ai sensi dell'art. 12 del «Regolamento per l'esecuzione ed il ripristino degli scavi stradali per la posa di canalizzazioni e relative opere civili e manufatti destinati alla fornitura di servizi a rete nel suolo, sottosuolo e soprassuolo di Roma Capitale», adottato con deliberazione dell'Assemblea capitolina n. 93 del 21 maggio 2026, limitatamente all'area urbana del Quarticciolo, ricadente nel terri",
+      "sintesi": "Classifica come 'intervento urgente' l'installazione di sistemi 5G small cell nell'area del Quarticciolo a Roma per il Giubileo 2025, facilitando l'implementazione di infrastrutture di telecomunicazione.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06037/sg"
+    },
+    {
+      "codice_atto": "26A06064",
+      "categoria": "Economico",
+      "titolo": "ORDINANZA 9 novembre 2026 Ordinanza di protezione civile per favorire e regolare il subentro della Regione Emilia-Romagna nelle iniziative finalizzate al superamento della situazione di criticita' determinatasi in conseguenza degli eccezionali eventi meteorologici verificatisi nei giorni dal 22 al 27 luglio 2023 nel territorio delle Province di Parma, Reggio Emilia, Modena, Bologna, Ferrara, Ravenna e Forli' Cesena. (Ordinanza n. 1224).",
+      "sintesi": "Regola il subentro della Regione Emilia-Romagna nella gestione delle iniziative per superare la crisi dovuta agli eventi meteorologici del luglio 2023 nelle province colpite.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06064/sg"
+    },
+    {
+      "codice_atto": "26A06065",
+      "categoria": "Economico",
+      "titolo": "6 Ordinanza di protezione civile per favorire e regolare il subentro della Regione Calabria nelle iniziative finalizzate al superamento della situazione di deficit idrico in atto nel territorio della Citta' metropolitana di Reggio Calabria, della Provincia di Crotone e dei Comuni di Calopezzati, di Caloveto, di Cariati, di Corigliano-Rossano, di Cropalati, di Crosia, di Longobucco, di Mandatoriccio, di Paludi, di Pietrapaola, di Scala Coeli, di Acri, di Bisignano, di Luzzi, di Rose, di San Cosmo Albanese, di San Demetrio Corone, di San Giorgio Albanese, di Santa Sofia d'Epiro, di Vaccarizzo Al",
+      "sintesi": "Regola il subentro della Regione Calabria nella gestione delle iniziative per superare la situazione di deficit idrico in atto in diverse aree della Città metropolitana di Reggio Calabria e della Provincia di Crotone.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06065/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00231",
+      "titolo": "DECRETO LEGISLATIVO 6 novembre 2026, n. 211 Attuazione della direttiva (UE) 2024/2853 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, sulla responsabilita' per danno da prodotti difettosi, che abroga la direttiva 85/374/CEE del Consiglio.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26G00231/sg",
+      "tipo": "DECRETO LEGISLATIVO",
+      "vigore": "06/12/2026"
+    },
+    {
+      "codice": "26A06060",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 11 novembre 2026 Dichiarazione dell'esistenza del carattere di eccezionalita' degli eventi calamitosi verificatisi nei territori della Regione Lombardia il 28 agosto 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06060/sg"
+    },
+    {
+      "codice": "26A06050",
+      "titolo": "DECRETO 12 novembre 2026 Conferma dell'incarico al Consorzio di tutela vini DOC Sicilia a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOC «Sicilia».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06050/sg"
+    },
+    {
+      "codice": "26A06061",
+      "titolo": "DECRETO 13 novembre 2026 Conferma dell'incarico al Consorzio tutela denominazione vini Frascati a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alle DOCG «Frascati Superiore» e «Cannellino di Frascati» ed alla DOC «Frascati».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06061/sg"
+    },
+    {
+      "codice": "26A06099",
+      "titolo": "DECRETO 16 novembre 2026 Piano straordinario di controllo nazionale per i prodotti lattiero-caseari con denominazione di origine protetta e indicazione geografica protetta.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06099/sg"
+    },
+    {
+      "codice": "26A06140",
+      "titolo": "MINISTERO DELLA DIFESA - DECRETO 11 novembre 2026 Autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari alle autorita' governative dell'Ucraina.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06140/sg"
+    },
+    {
+      "codice": "26A05995",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 23 luglio 2026 Aggiornamento del decreto 28 dicembre 2020, recante le modalita' di attuazione degli incentivi fiscali in «de minimis» all'investimento in start-up innovative e PMI innovative.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A05995/sg"
+    },
+    {
+      "codice": "26A06059",
+      "titolo": "MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI - DECRETO 5 novembre 2026 Prescrizioni per il trasporto su strada di materiali radioattivi (Classe 7 ADR).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06059/sg"
+    },
+    {
+      "codice": "26A06037",
+      "titolo": "ORDINANZA 10 novembre 2026 Giubileo della Chiesa cattolica 2025 - Intervento ID 13 recante «Sistemi di telecomunicazioni di nuova generazione 5G small cell» - Classificazione «Intervento urgente» ai sensi dell'art. 12 del «Regolamento per l'esecuzione ed il ripristino degli scavi stradali per la posa di canalizzazioni e relative opere civili e manufatti destinati alla fornitura di servizi a rete nel suolo, sottosuolo e soprassuolo di Roma Capitale», adottato con deliberazione dell'Assemblea capitolina n. 93 del 21 maggio 2026, limitatamente all'area urbana del Quarticciolo, ricadente nel terri",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06037/sg"
+    },
+    {
+      "codice": "26A06063",
+      "titolo": "i San Giorgio Canavese, di San Ponso, di Sparone, di Traves, di Usseglio, di Val di Chy, di Valperga, di Valprato Soana, di Vidracco, di Viu' e di Vistrorio, della Citta' metropolitana di Torino, dei Comuni di Antrona Schieranco, di Bannio Anzino, di Calasca Castiglione, di Ceppo Morelli, di Cossogno, di Intragna, di Macugnaga, di Omegna, di Premeno, di San Bernardino Verbano, di Stresa, di Trasquera, di Vanzone con San Carlo, di Varzo, di Villadossola, della Provincia del Verbano-Cusio-Ossola e dei Comuni di Alagna Valsesia, di Alto Sermenza, di Campertogno, di Carcoforo, di Fobello, di Molli",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06063/sg"
+    },
+    {
+      "codice": "26A06064",
+      "titolo": "ORDINANZA 9 novembre 2026 Ordinanza di protezione civile per favorire e regolare il subentro della Regione Emilia-Romagna nelle iniziative finalizzate al superamento della situazione di criticita' determinatasi in conseguenza degli eccezionali eventi meteorologici verificatisi nei giorni dal 22 al 27 luglio 2023 nel territorio delle Province di Parma, Reggio Emilia, Modena, Bologna, Ferrara, Ravenna e Forli' Cesena. (Ordinanza n. 1224).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06064/sg"
+    },
+    {
+      "codice": "26A06065",
+      "titolo": "6 Ordinanza di protezione civile per favorire e regolare il subentro della Regione Calabria nelle iniziative finalizzate al superamento della situazione di deficit idrico in atto nel territorio della Citta' metropolitana di Reggio Calabria, della Provincia di Crotone e dei Comuni di Calopezzati, di Caloveto, di Cariati, di Corigliano-Rossano, di Cropalati, di Crosia, di Longobucco, di Mandatoriccio, di Paludi, di Pietrapaola, di Scala Coeli, di Acri, di Bisignano, di Luzzi, di Rose, di San Cosmo Albanese, di San Demetrio Corone, di San Giorgio Albanese, di Santa Sofia d'Epiro, di Vaccarizzo Al",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06065/sg"
+    },
+    {
+      "codice": "26A05990",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'importazione parallela di taluni medicinali per uso umano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A05990/sg"
+    },
+    {
+      "codice": "26A05991",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Rocuronio Accord».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A05991/sg"
+    },
+    {
+      "codice": "26A05992",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Lansocel»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A05992/sg"
+    },
+    {
+      "codice": "26A05993",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'importazione parallela del medicinale per uso umano «Imodium»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A05993/sg"
+    },
+    {
+      "codice": "26A06036",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'importazione parallela del medicinale per uso umano «Lansox»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06036/sg"
+    },
+    {
+      "codice": "26A06051",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'importazione parallela del medicinale per uso umano «Yaz»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06051/sg"
+    },
+    {
+      "codice": "26A06062",
+      "titolo": "CAMERA DI COMMERCIO, INDUSTRIA, ARTIGIANATO E AGRICOLTURA TOSCANA NORD-OVEST - COMUNICATO Provvedimento concernente i marchi di identificazione dei metalli preziosi",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06062/sg"
+    },
+    {
+      "codice": "26A06182",
+      "titolo": "CORTE SUPREMA DI CASSAZIONE - COMUNICATO Annuncio di una proposta di legge di iniziativa popolare",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06182/sg"
+    },
+    {
+      "codice": "26A06035",
+      "titolo": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO Cerimonia di presentazione di lettere credenziali",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26A06035/sg"
+    }
+  ]
+}

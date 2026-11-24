@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-31",
+  "giorno": "sabato",
+  "updatedAt": "2026-10-31T11:26:19Z",
+  "version": 2,
+  "stato": "nessuna_legge_interesse",
+  "numero_gu": "254",
+  "verificato": true,
+  "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-10-31&numeroGazzetta=254",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/10/31/254/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 31 ottobre 2026 presenta principalmente atti di natura amministrativa. Tra questi, spiccano due decreti di rilevanza economica e finanziaria, uno relativo a misure fiscali speciali per Livigno e l'altro sull'accertamento di capitale nominale di titoli di Stato. Sono inoltre presenti due ordinanze del Commissario straordinario per il nuovo Policlinico Umberto I di Roma, che delineano l'organizzazione e le procedure per la realizzazione del progetto, inclusa l'applicazione di deroghe normative.",
+  "schede": [],
+  "scartate": [],
+  "altri_atti": [
+    {
+      "codice_atto": "26A05686",
+      "categoria": "Economico",
+      "titolo": "Misure del diritto speciale sulla benzina, petrolio, gasolio ed altri generi, istituito nel territorio extradoganale di Livigno.",
+      "sintesi": "Definisce le misure del diritto speciale applicabile a carburanti e altri beni nel territorio extradoganale di Livigno.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05686/sg"
+    },
+    {
+      "codice_atto": "26A05687",
+      "categoria": "Economico",
+      "titolo": "Accertamento dell'ammontare del capitale nominale rimasto in essere a seguito dell'espletamento dell'operazione di riacquisto mediante asta competitiva di titoli di Stato del 5 ottobre 2026.",
+      "sintesi": "Accerta il capitale nominale residuo di titoli di Stato a seguito di un'operazione di riacquisto tramite asta competitiva.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05687/sg"
+    },
+    {
+      "codice_atto": "26A05699",
+      "categoria": "Economico",
+      "titolo": "Costituzione, organizzazione e modalita' di funzionamento della Struttura di supporto al Commissario straordinario del Governo per l'accelerazione e la realizzazione del nuovo Ospedale Policlinico Umberto I di Roma. (Ordinanza n. 1).",
+      "sintesi": "Istituisce e disciplina la struttura di supporto al Commissario straordinario per la realizzazione del nuovo Policlinico Umberto I di Roma.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05699/sg"
+    },
+    {
+      "codice_atto": "26A05711",
+      "categoria": "Economico",
+      "titolo": "Approvazione del Documento di indirizzo alla progettazione (DIP) per la realizzazione del nuovo Ospedale Policlinico Umberto I di Roma: deroghe all'art. 38, commi 1 e 3, del decreto legislativo n. 36/2023 e successive modificazioni ed integrazioni e all'art. 14-bis della legge n. 241/1990 e successive modificazioni ed integrazioni e indizione conferenza di servizi decisoria. (Ordinanza n. 2).",
+      "sintesi": "Approva il Documento di indirizzo alla progettazione (DIP) per il nuovo Policlinico Umberto I, prevedendo deroghe al D.Lgs. 36/2023 e alla L. 241/1990 e l'indizione di una conferenza di servizi decisoria.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05711/sg"
+    },
+    {
+      "codice_atto": "26A05665",
+      "categoria": "Economico",
+      "titolo": "Pubblicazione del decreto 23 luglio 2026, concernente gli incentivi per il lavoro delle persone con disabilita' (inclusione lavorativa) a valere sul Fondo unico per l'inclusione delle persone con disabilita', anno 2026.",
+      "sintesi": "Comunica la pubblicazione del decreto relativo agli incentivi per l'inclusione lavorativa delle persone con disabilità per l'anno 2026, finanziati dal Fondo unico.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05665/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26A05686",
+      "titolo": "DECRETO 20 ottobre 2026 Misure del diritto speciale sulla benzina, petrolio, gasolio ed altri generi, istituito nel territorio extradoganale di Livigno.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05686/sg"
+    },
+    {
+      "codice": "26A05687",
+      "titolo": "DECRETO 22 ottobre 2026 Accertamento dell'ammontare del capitale nominale rimasto in essere a seguito dell'espletamento dell'operazione di riacquisto mediante asta competitiva di titoli di Stato del 5 ottobre 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05687/sg"
+    },
+    {
+      "codice": "26A05699",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO DI GOVERNO PER LA REALIZZAZIONE DEL NUOVO POLICLINICO UMBERTO I - ORDINANZA 12 ottobre 2026 Costituzione, organizzazione e modalita' di funzionamento della Struttura di supporto al Commissario straordinario del Governo per l'accelerazione e la realizzazione del nuovo Ospedale Policlinico Umberto I di Roma. (Ordinanza n. 1).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05699/sg"
+    },
+    {
+      "codice": "26A05711",
+      "titolo": "ORDINANZA 21 ottobre 2026 Approvazione del Documento di indirizzo alla progettazione (DIP) per la realizzazione del nuovo Ospedale Policlinico Umberto I di Roma: deroghe all'art. 38, commi 1 e 3, del decreto legislativo n. 36/2023 e successive modificazioni ed integrazioni e all'art. 14-bis della legge n. 241/1990 e successive modificazioni ed integrazioni e indizione conferenza di servizi decisoria. (Ordinanza n. 2).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05711/sg"
+    },
+    {
+      "codice": "26A05647",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di apixaban, «Apixaban Sun».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05647/sg"
+    },
+    {
+      "codice": "26A05648",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di rosuvastatina ed ezetimibe, «Rovezet».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05648/sg"
+    },
+    {
+      "codice": "26A05649",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di apixaban, «Apixaban Viatris Pharma».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05649/sg"
+    },
+    {
+      "codice": "26A05650",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di eribulina, «Eribulina Glenmark».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05650/sg"
+    },
+    {
+      "codice": "26A05651",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Voriconazolo Sandoz GmbH».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05651/sg"
+    },
+    {
+      "codice": "26A05652",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Salbutamolo Sandoz».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05652/sg"
+    },
+    {
+      "codice": "26A05659",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Bortezomib Mylan».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05659/sg"
+    },
+    {
+      "codice": "26A05660",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Doxorubicina Liposomiale Pegilata Dr. Reddy's».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05660/sg"
+    },
+    {
+      "codice": "26A05688",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di complesso protrombinico umano, «Proplex».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05688/sg"
+    },
+    {
+      "codice": "26A05684",
+      "titolo": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO Rilascio di exequatur",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05684/sg"
+    },
+    {
+      "codice": "26A05685",
+      "titolo": "COMUNICATO Rilascio di exequatur",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05685/sg"
+    },
+    {
+      "codice": "26A05700",
+      "titolo": "COMUNICATO Ricognizione sistematica degli Uffici consolari di prima categoria attualmente esistenti.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05700/sg"
+    },
+    {
+      "codice": "26A05689",
+      "titolo": "MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI - COMUNICATO Comunicato concernente il ruolo dei dirigenti",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05689/sg"
+    },
+    {
+      "codice": "26A05665",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - DIPARTIMENTO PER LE POLITICHE IN FAVORE DELLE PERSONE CON DISABILITA' - COMUNICATO Pubblicazione del decreto 23 luglio 2026, concernente gli incentivi per il lavoro delle persone con disabilita' (inclusione lavorativa) a valere sul Fondo unico per l'inclusione delle persone con disabilita', anno 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05665/sg"
+    },
+    {
+      "codice": "26A05666",
+      "titolo": "REGIONE PIEMONTE - COMUNICATO Dichiarazione di notevole interesse pubblico dei versanti collinari coltivati a vigneto a cornice del borgo di San Martino Alfieri.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/31/26A05666/sg"
+    }
+  ]
+}

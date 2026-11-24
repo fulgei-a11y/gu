@@ -1,0 +1,386 @@
+[
+  {
+    "date": "2026-11-24",
+    "giorno": "martedì",
+    "numero_gu": "274",
+    "stato": "non_disponibile",
+    "schede": 0,
+    "updatedAt": "2026-11-24T11:01:12Z"
+  },
+  {
+    "date": "2026-11-23",
+    "giorno": "lunedì",
+    "numero_gu": "273",
+    "stato": "con_schede",
+    "schede": 2,
+    "updatedAt": "2026-11-23T20:01:17Z"
+  },
+  {
+    "date": "2026-11-21",
+    "giorno": "sabato",
+    "numero_gu": "272",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-11-21T17:52:57Z"
+  },
+  {
+    "date": "2026-11-20",
+    "giorno": "venerdì",
+    "numero_gu": "271",
+    "stato": "con_schede",
+    "schede": 2,
+    "updatedAt": "2026-11-20T18:58:20Z"
+  },
+  {
+    "date": "2026-11-19",
+    "giorno": "giovedì",
+    "numero_gu": "270",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-11-19T18:01:16Z"
+  },
+  {
+    "date": "2026-11-18",
+    "giorno": "mercoledì",
+    "numero_gu": "269",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-11-18T19:01:24Z"
+  },
+  {
+    "date": "2026-11-17",
+    "giorno": "martedì",
+    "numero_gu": "268",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-11-17T19:01:08Z"
+  },
+  {
+    "date": "2026-11-16",
+    "giorno": "lunedì",
+    "numero_gu": "267",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-11-16T19:01:18Z"
+  },
+  {
+    "date": "2026-11-14",
+    "giorno": "sabato",
+    "numero_gu": "266",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-11-14T16:52:00Z"
+  },
+  {
+    "date": "2026-11-13",
+    "giorno": "venerdì",
+    "numero_gu": "265",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-11-13T20:01:21Z"
+  },
+  {
+    "date": "2026-11-12",
+    "giorno": "giovedì",
+    "numero_gu": "264",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-11-12T20:01:13Z"
+  },
+  {
+    "date": "2026-11-11",
+    "giorno": "mercoledì",
+    "numero_gu": "263",
+    "stato": "con_schede",
+    "schede": 2,
+    "updatedAt": "2026-11-12T00:26:24Z"
+  },
+  {
+    "date": "2026-11-10",
+    "giorno": "martedì",
+    "numero_gu": "262",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-11-10T19:01:09Z"
+  },
+  {
+    "date": "2026-11-09",
+    "giorno": "lunedì",
+    "numero_gu": "261",
+    "stato": "con_schede",
+    "schede": 2,
+    "updatedAt": "2026-11-09T21:18:28Z"
+  },
+  {
+    "date": "2026-11-07",
+    "giorno": "sabato",
+    "numero_gu": "260",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-11-07T16:45:09Z"
+  },
+  {
+    "date": "2026-11-06",
+    "giorno": "venerdì",
+    "numero_gu": "259",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-11-07T08:09:21Z"
+  },
+  {
+    "date": "2026-11-05",
+    "giorno": "giovedì",
+    "numero_gu": "258",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-11-05T23:30:55Z"
+  },
+  {
+    "date": "2026-11-04",
+    "giorno": "mercoledì",
+    "numero_gu": "257",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-11-04T23:30:24Z"
+  },
+  {
+    "date": "2026-11-03",
+    "giorno": "martedì",
+    "numero_gu": "256",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-11-03T18:45:51Z"
+  },
+  {
+    "date": "2026-11-02",
+    "giorno": "lunedì",
+    "numero_gu": "255",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-11-02T18:51:38Z"
+  },
+  {
+    "date": "2026-10-31",
+    "giorno": "sabato",
+    "numero_gu": "254",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-10-31T11:26:19Z"
+  },
+  {
+    "date": "2026-10-30",
+    "giorno": "venerdì",
+    "numero_gu": "253",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-30T19:33:27Z"
+  },
+  {
+    "date": "2026-10-29",
+    "giorno": "giovedì",
+    "numero_gu": "252",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-10-29T18:44:41Z"
+  },
+  {
+    "date": "2026-10-28",
+    "giorno": "mercoledì",
+    "numero_gu": "251",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-28T19:33:38Z"
+  },
+  {
+    "date": "2026-10-27",
+    "giorno": "martedì",
+    "numero_gu": "250",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-10-28T11:33:19Z"
+  },
+  {
+    "date": "2026-10-26",
+    "giorno": "lunedì",
+    "numero_gu": "249",
+    "stato": "con_schede",
+    "schede": 3,
+    "updatedAt": "2026-10-26T18:41:52Z"
+  },
+  {
+    "date": "2026-10-24",
+    "giorno": "sabato",
+    "numero_gu": "248",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-24T11:20:04Z"
+  },
+  {
+    "date": "2026-10-23",
+    "giorno": "venerdì",
+    "numero_gu": "247",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-24T11:21:02Z"
+  },
+  {
+    "date": "2026-10-22",
+    "giorno": "giovedì",
+    "numero_gu": "246",
+    "stato": "con_schede",
+    "schede": 2,
+    "updatedAt": "2026-10-22T19:06:28Z"
+  },
+  {
+    "date": "2026-10-21",
+    "giorno": "mercoledì",
+    "numero_gu": "245",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-21T18:32:09Z"
+  },
+  {
+    "date": "2026-10-20",
+    "giorno": "martedì",
+    "numero_gu": "244",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-20T18:33:00Z"
+  },
+  {
+    "date": "2026-10-19",
+    "giorno": "lunedì",
+    "numero_gu": "243",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-19T18:31:48Z"
+  },
+  {
+    "date": "2026-10-17",
+    "giorno": "sabato",
+    "numero_gu": "242",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-10-17T11:19:47Z"
+  },
+  {
+    "date": "2026-10-16",
+    "giorno": "venerdì",
+    "numero_gu": "241",
+    "stato": "con_schede",
+    "schede": 2,
+    "updatedAt": "2026-10-16T18:26:34Z"
+  },
+  {
+    "date": "2026-10-15",
+    "giorno": "giovedì",
+    "numero_gu": "240",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-15T18:28:21Z"
+  },
+  {
+    "date": "2026-10-14",
+    "giorno": "mercoledì",
+    "numero_gu": "239",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-10-14T18:31:04Z"
+  },
+  {
+    "date": "2026-10-13",
+    "giorno": "martedì",
+    "numero_gu": "238",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-13T18:21:45Z"
+  },
+  {
+    "date": "2026-10-12",
+    "giorno": "lunedì",
+    "numero_gu": "237",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-12T18:16:27Z"
+  },
+  {
+    "date": "2026-10-10",
+    "giorno": "sabato",
+    "numero_gu": "236",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-10-10T11:11:46Z"
+  },
+  {
+    "date": "2026-10-09",
+    "giorno": "venerdì",
+    "numero_gu": "235",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-10-09T22:41:48Z"
+  },
+  {
+    "date": "2026-10-08",
+    "giorno": "giovedì",
+    "numero_gu": "234",
+    "stato": "con_schede",
+    "schede": 3,
+    "updatedAt": "2026-10-08T21:25:15Z"
+  },
+  {
+    "date": "2026-10-07",
+    "giorno": "mercoledì",
+    "numero_gu": "233",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-09T11:14:22Z"
+  },
+  {
+    "date": "2026-10-06",
+    "giorno": "martedì",
+    "numero_gu": "232",
+    "stato": "con_schede",
+    "schede": 2,
+    "updatedAt": "2026-10-09T11:15:27Z"
+  },
+  {
+    "date": "2026-10-05",
+    "giorno": "lunedì",
+    "numero_gu": "231",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-08T21:27:22Z"
+  },
+  {
+    "date": "2026-10-03",
+    "giorno": "sabato",
+    "numero_gu": "230",
+    "stato": "nessuna_legge_interesse",
+    "schede": 0,
+    "updatedAt": "2026-10-08T21:39:52Z"
+  },
+  {
+    "date": "2026-10-02",
+    "giorno": "venerdì",
+    "numero_gu": "229",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-09T11:16:55Z"
+  },
+  {
+    "date": "2026-10-01",
+    "giorno": "giovedì",
+    "numero_gu": "228",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-09T18:17:24Z"
+  },
+  {
+    "date": "2026-09-30",
+    "giorno": "mercoledì",
+    "numero_gu": "227",
+    "stato": "con_schede",
+    "schede": 1,
+    "updatedAt": "2026-10-09T18:18:27Z"
+  }
+]

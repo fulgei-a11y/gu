@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-17",
+  "giorno": "martedì",
+  "updatedAt": "2026-11-17T19:01:08Z",
+  "version": 2,
+  "stato": "nessuna_legge_interesse",
+  "numero_gu": "268",
+  "verificato": true,
+  "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-17&numeroGazzetta=268",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/17/268/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 17 novembre 2026 presenta una serie di atti amministrativi e comunicati, con un focus significativo sulla gestione di fondi per la cybersicurezza e stanziamenti per interventi post-calamità naturali. Non sono presenti Leggi, Decreti-Legge o Decreti Legislativi nelle materie di interesse, ma diversi atti minori rilevanti per l'economia e la pubblica amministrazione.",
+  "modello": "gemini-2.5-flash",
+  "schede": [],
+  "scartate": [
+    {
+      "codice_atto": "26A05957",
+      "materia": "Agricoltura",
+      "titolo": "Aggiornamento del registro nazionale delle varieta' delle piante da frutto.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05957/sg"
+    },
+    {
+      "codice_atto": "26A05956",
+      "materia": "Agricoltura",
+      "titolo": "Conferma dell'incarico al Consorzio di tutela dei vini a denominazione di origine controllata Cortona a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOC «Cortona».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05956/sg"
+    },
+    {
+      "codice_atto": "26A06015",
+      "materia": "Istruzione e Ricerca",
+      "titolo": "Ulteriore scorrimento della graduatoria di cui alla Fase 2 dell'allegato B del decreto 6 novembre 2023 - V bando legge n. 338/2000.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A06015/sg"
+    },
+    {
+      "codice_atto": "26A05916",
+      "materia": "Sanità",
+      "titolo": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di ticagrelor, «Ticagrelor ELC»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05916/sg"
+    },
+    {
+      "codice_atto": "26A05917",
+      "materia": "Sanità",
+      "titolo": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di sodio cloruro, «Sodio Cloruro Noridem».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05917/sg"
+    },
+    {
+      "codice_atto": "26A05986",
+      "materia": "Sanità",
+      "titolo": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di rosuvastatina, «Rosuvastatina Special Product's Line».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05986/sg"
+    },
+    {
+      "codice_atto": "26A05987",
+      "materia": "Sanità",
+      "titolo": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di loperamide cloridrato, «Imodium».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05987/sg"
+    },
+    {
+      "codice_atto": "26A05988",
+      "materia": "Sanità",
+      "titolo": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Actigrip»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05988/sg"
+    },
+    {
+      "codice_atto": "26A05989",
+      "materia": "Sanità",
+      "titolo": "Rinnovo dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di mepivacaina cloridrato, «Zetacain».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05989/sg"
+    },
+    {
+      "codice_atto": "26A05972",
+      "materia": "Sicurezza",
+      "titolo": "Classificazione di alcuni prodotti esplosivi",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05972/sg"
+    },
+    {
+      "codice_atto": "26A05958",
+      "materia": "Sanità",
+      "titolo": "Manuale di corretta prassi operativa per la fabbricazione di zuppe e vellutate pronte e confezionate, ai sensi del regolamento (CE) n. 852/2004.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05958/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A06012",
+      "categoria": "Economico",
+      "titolo": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 2026 Nomina del dott. Guglielmo Loy a consigliere del Consiglio nazionale dell'economia e del lavoro, in sostituzione del dott. Paolo Carcassi.",
+      "sintesi": "Nomina del dott. Guglielmo Loy a consigliere del Consiglio nazionale dell'economia e del lavoro (CNEL).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A06012/sg"
+    },
+    {
+      "codice_atto": "26A05971",
+      "categoria": "Economico",
+      "titolo": "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 9 settembre 2026 Ripartizione del Fondo per l'attuazione della Strategia nazionale di cybersicurezza e del Fondo per la gestione della cybersicurezza, su proposta dell'Agenzia per la cybersicurezza nazionale.",
+      "sintesi": "Ripartizione dei fondi destinati all'attuazione e alla gestione della Strategia nazionale di cybersicurezza.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05971/sg"
+    },
+    {
+      "codice_atto": "26A06013",
+      "categoria": "Economico",
+      "titolo": "DELIBERA DEL CONSIGLIO DEI MINISTRI 13 ottobre 2026 Ulteriore stanziamento per la realizzazione degli interventi in conseguenza degli eccezionali eventi meteorologici verificatisi nei giorni dal 16 al 17 novembre 2025 nel territorio della Provincia di Gorizia e di Udine.",
+      "sintesi": "Stanziamento di ulteriori risorse per interventi a seguito di eventi meteorologici eccezionali nelle province di Gorizia e Udine.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A06013/sg"
+    },
+    {
+      "codice_atto": "26A06014",
+      "categoria": "Economico",
+      "titolo": "DELIBERA DEL CONSIGLIO DEI MINISTRI 5 novembre 2026 Ulteriore stanziamento per la realizzazione degli interventi in conseguenza degli eccezionali eventi meteorologici che, a partire dal giorno 28 marzo 2026, hanno colpito il territorio delle Regioni Abruzzo, Basilicata, Molise e Puglia.",
+      "sintesi": "Stanziamento di ulteriori risorse per interventi a seguito di eventi meteorologici eccezionali nelle Regioni Abruzzo, Basilicata, Molise e Puglia.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A06014/sg"
+    },
+    {
+      "codice_atto": "26A05985",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ISTRUZIONE E DEL MERITO - DECRETO 9 ottobre 2026 Assegnazione delle risorse di cui al c.d. Fondo protezione civile e di rettifica degli interventi di adeguamento strutturale e antisismico degli edifici del sistema scolastico, nonche' di costruzione di nuovi immobili sostitutivi degli edifici esistenti, autorizzati con decreto 11 dicembre 2024, n. 254 (Antisismiche 2023-2025).",
+      "sintesi": "Assegnazione di risorse per interventi di adeguamento strutturale e antisismico degli edifici scolastici, inclusa la costruzione di nuovi immobili.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05985/sg"
+    },
+    {
+      "codice_atto": "26A05984",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 10 novembre 2026 Annullamento parziale del decreto 3 agosto 2026, nella parte relativa allo scioglimento della «Agricola Mediterranea '94 societa' cooperativa agricola», in Domusnovas, senza nomina del commissario liquidatore.",
+      "sintesi": "Annullamento parziale di un decreto precedente riguardante lo scioglimento di una società cooperativa agricola.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05984/sg"
+    },
+    {
+      "codice_atto": "26A05953",
+      "categoria": "Economico",
+      "titolo": "ORDINANZA 24 settembre 2026 Interventi in Comune di Sefro. (Ordinanza speciale n. 180).",
+      "sintesi": "Disposizioni per interventi specifici nel Comune di Sefro.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05953/sg"
+    },
+    {
+      "codice_atto": "26A05954",
+      "categoria": "Economico",
+      "titolo": "ORDINANZA 24 settembre 2026 Nuove disposizioni integrative dell'ordinanza speciale n. 9 del 29 maggio 2021 per interventi urgenti nel Comune di San Ginesio. (Ordinanza speciale n. 182).",
+      "sintesi": "Nuove disposizioni integrative per interventi urgenti nel Comune di San Ginesio.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05954/sg"
+    },
+    {
+      "codice_atto": "26A05955",
+      "categoria": "Economico",
+      "titolo": "ORDINANZA 24 settembre 2026 Modifiche e integrazioni all'ordinanza n. 45 del 31 gennaio 2023, ex articolo 11, comma 2, del decreto-legge 16 luglio 2020, n. 76, recante «Interventi di ricostruzione nel Comune di San Severino Marche». (Ordinanza speciale n. 183).",
+      "sintesi": "Modifiche e integrazioni a un'ordinanza precedente relativa agli interventi di ricostruzione nel Comune di San Severino Marche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05955/sg"
+    },
+    {
+      "codice_atto": "26A05997",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA PROTEZIONE CIVILE - DECRETO 29 settembre 2026 Approvazione del secondo programma di interventi per la funzionalita' delle infrastrutture pubbliche, ai sensi dell'articolo 9-ter, commi 2, lettera a), numero 2), e 3 del decreto-legge 11 giugno 2024, n. 76, convertito, con modificazioni, dalla legge 8 agosto 2024, n. 111.",
+      "sintesi": "Approvazione del secondo programma di interventi volti a garantire la funzionalità delle infrastrutture pubbliche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05997/sg"
+    },
+    {
+      "codice_atto": "26A06066",
+      "categoria": "Economico",
+      "titolo": "CASSA DEPOSITI E PRESTITI S.P.A. - COMUNICATO Avviso relativo ai buoni fruttiferi postali",
+      "sintesi": "Comunicato di Cassa Depositi e Prestiti S.p.A. con avviso sui buoni fruttiferi postali.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A06066/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26A06012",
+      "titolo": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 2026 Nomina del dott. Guglielmo Loy a consigliere del Consiglio nazionale dell'economia e del lavoro, in sostituzione del dott. Paolo Carcassi.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A06012/sg"
+    },
+    {
+      "codice": "26A05971",
+      "titolo": "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 9 settembre 2026 Ripartizione del Fondo per l'attuazione della Strategia nazionale di cybersicurezza e del Fondo per la gestione della cybersicurezza, su proposta dell'Agenzia per la cybersicurezza nazionale.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05971/sg"
+    },
+    {
+      "codice": "26A06013",
+      "titolo": "DELIBERA DEL CONSIGLIO DEI MINISTRI 13 ottobre 2026 Ulteriore stanziamento per la realizzazione degli interventi in conseguenza degli eccezionali eventi meteorologici verificatisi nei giorni dal 16 al 17 novembre 2025 nel territorio della Provincia di Gorizia e di Udine.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A06013/sg"
+    },
+    {
+      "codice": "26A06014",
+      "titolo": "DELIBERA DEL CONSIGLIO DEI MINISTRI 5 novembre 2026 Ulteriore stanziamento per la realizzazione degli interventi in conseguenza degli eccezionali eventi meteorologici che, a partire dal giorno 28 marzo 2026, hanno colpito il territorio delle Regioni Abruzzo, Basilicata, Molise e Puglia.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A06014/sg"
+    },
+    {
+      "codice": "26A05957",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 4 novembre 2026 Aggiornamento del registro nazionale delle varieta' delle piante da frutto.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05957/sg"
+    },
+    {
+      "codice": "26A05956",
+      "titolo": "DECRETO 6 novembre 2026 Conferma dell'incarico al Consorzio di tutela dei vini a denominazione di origine controllata Cortona a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOC «Cortona».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05956/sg"
+    },
+    {
+      "codice": "26A05985",
+      "titolo": "MINISTERO DELL'ISTRUZIONE E DEL MERITO - DECRETO 9 ottobre 2026 Assegnazione delle risorse di cui al c.d. Fondo protezione civile e di rettifica degli interventi di adeguamento strutturale e antisismico degli edifici del sistema scolastico, nonche' di costruzione di nuovi immobili sostitutivi degli edifici esistenti, autorizzati con decreto 11 dicembre 2024, n. 254 (Antisismiche 2023-2025).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05985/sg"
+    },
+    {
+      "codice": "26A06015",
+      "titolo": "MINISTERO DELL'UNIVERSITA' E DELLA RICERCA - DECRETO 16 ottobre 2026 Ulteriore scorrimento della graduatoria di cui alla Fase 2 dell'allegato B del decreto 6 novembre 2023 - V bando legge n. 338/2000.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A06015/sg"
+    },
+    {
+      "codice": "26A05984",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 10 novembre 2026 Annullamento parziale del decreto 3 agosto 2026, nella parte relativa allo scioglimento della «Agricola Mediterranea '94 societa' cooperativa agricola», in Domusnovas, senza nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05984/sg"
+    },
+    {
+      "codice": "26A05953",
+      "titolo": "ORDINANZA 24 settembre 2026 Interventi in Comune di Sefro. (Ordinanza speciale n. 180).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05953/sg"
+    },
+    {
+      "codice": "26A05954",
+      "titolo": "ORDINANZA 24 settembre 2026 Nuove disposizioni integrative dell'ordinanza speciale n. 9 del 29 maggio 2021 per interventi urgenti nel Comune di San Ginesio. (Ordinanza speciale n. 182).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05954/sg"
+    },
+    {
+      "codice": "26A05955",
+      "titolo": "ORDINANZA 24 settembre 2026 Modifiche e integrazioni all'ordinanza n. 45 del 31 gennaio 2023, ex articolo 11, comma 2, del decreto-legge 16 luglio 2020, n. 76, recante «Interventi di ricostruzione nel Comune di San Severino Marche». (Ordinanza speciale n. 183).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05955/sg"
+    },
+    {
+      "codice": "26A05997",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA PROTEZIONE CIVILE - DECRETO 29 settembre 2026 Approvazione del secondo programma di interventi per la funzionalita' delle infrastrutture pubbliche, ai sensi dell'articolo 9-ter, commi 2, lettera a), numero 2), e 3 del decreto-legge 11 giugno 2024, n. 76, convertito, con modificazioni, dalla legge 8 agosto 2024, n. 111.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05997/sg"
+    },
+    {
+      "codice": "26A05916",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di ticagrelor, «Ticagrelor ELC»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05916/sg"
+    },
+    {
+      "codice": "26A05917",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di sodio cloruro, «Sodio Cloruro Noridem».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05917/sg"
+    },
+    {
+      "codice": "26A05986",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di rosuvastatina, «Rosuvastatina Special Product's Line».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05986/sg"
+    },
+    {
+      "codice": "26A05987",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di loperamide cloridrato, «Imodium».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05987/sg"
+    },
+    {
+      "codice": "26A05988",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Actigrip»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05988/sg"
+    },
+    {
+      "codice": "26A05989",
+      "titolo": "COMUNICATO Rinnovo dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di mepivacaina cloridrato, «Zetacain».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05989/sg"
+    },
+    {
+      "codice": "26A06066",
+      "titolo": "CASSA DEPOSITI E PRESTITI S.P.A. - COMUNICATO Avviso relativo ai buoni fruttiferi postali",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A06066/sg"
+    },
+    {
+      "codice": "26A05972",
+      "titolo": "MINISTERO DELL'INTERNO - COMUNICATO Classificazione di alcuni prodotti esplosivi",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05972/sg"
+    },
+    {
+      "codice": "26A05958",
+      "titolo": "MINISTERO DELLA SALUTE - COMUNICATO Manuale di corretta prassi operativa per la fabbricazione di zuppe e vellutate pronte e confezionate, ai sensi del regolamento (CE) n. 852/2004.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05958/sg"
+    }
+  ]
+}

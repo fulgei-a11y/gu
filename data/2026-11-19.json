@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-19",
+  "giorno": "giovedì",
+  "updatedAt": "2026-11-19T18:01:16Z",
+  "version": 2,
+  "stato": "nessuna_legge_interesse",
+  "numero_gu": "270",
+  "verificato": true,
+  "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-19&numeroGazzetta=270",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/19/270/sg/pdf",
+  "sintesi": "L'edizione n. 270 del 19 novembre 2026 non contiene leggi, decreti-legge o decreti legislativi, né atti primari da sottoporre a scheda di dettaglio. Si evidenziano provvedimenti amministrativi e comunicati in ambito finanziario, trasparenza amministrativa ed enti locali, oltre a numerose disposizioni di carattere farmaceutico e societario.",
+  "modello": "gemini-3.8-flash",
+  "schede": [],
+  "scartate": [],
+  "altri_atti": [
+    {
+      "codice_atto": "26A06044",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 12 novembre 2026",
+      "sintesi": "Riapertura delle operazioni di sottoscrizione dei BTP 3,00% con scadenza 15 settembre 2029 (nona e decima tranche).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06044/sg"
+    },
+    {
+      "codice_atto": "26A06049",
+      "categoria": "Economico",
+      "titolo": "AUTORITA' NAZIONALE ANTICORRUZIONE - COMUNICATO",
+      "sintesi": "Approvazione della delibera 4 novembre 2026, n. 442, in materia di obblighi di pubblicazione e trasparenza ex art. 14 del D.Lgs. 33/2013 per i titolari di incarichi dirigenziali.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06049/sg"
+    },
+    {
+      "codice_atto": "26A06054",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'INTERNO - COMUNICATO",
+      "sintesi": "Nomina della commissione straordinaria di liquidazione per l'amministrazione del dissesto finanziario del Comune di Mirabella Eclano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06054/sg"
+    },
+    {
+      "codice_atto": "26A06023",
+      "categoria": "Energia e Ambiente",
+      "titolo": "DECRETO 20 ottobre 2026",
+      "sintesi": "Riconoscimento dell'idoneità al Centro di saggio «Staphyt Italia S.r.l.» di Milano a svolgere prove ufficiali di campo su efficacia e residui di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06023/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26A06023",
+      "titolo": "DECRETO 20 ottobre 2026 Riconoscimento dell'idoneita' al Centro di saggio «Staphyt Italia S.r.l.», in Milano, ad effettuare prove ufficiali di campo, finalizzate alla produzione di dati di efficacia e alla determinazione dell'entita' dei residui di prodotti fitosanitari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06023/sg"
+    },
+    {
+      "codice": "26A06044",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 12 novembre 2026 Riapertura delle operazioni di sottoscrizione dei buoni del Tesoro poliennali 3,00%, con godimento 15 giugno 2026 e scadenza 15 settembre 2029, nona e decima tranche.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06044/sg"
+    },
+    {
+      "codice": "26A06022",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 3 novembre 2026 Scioglimento della «Dante Rieti societa' cooperativa», in Roma e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06022/sg"
+    },
+    {
+      "codice": "26A06020",
+      "titolo": "DECRETO 5 novembre 2026 Sostituzione del commissario liquidatore della «Villa Rosa societa' cooperativa sociale - Societa' in liquidazione», in Mesagne, in scioglimento.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06020/sg"
+    },
+    {
+      "codice": "26A06021",
+      "titolo": "DECRETO 5 novembre 2026 Scioglimento della «Runa societa' cooperativa a responsabilita' limitata», in Pistoia e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06021/sg"
+    },
+    {
+      "codice": "26A05973",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di claritromicina, «Klacid».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A05973/sg"
+    },
+    {
+      "codice": "26A05974",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di candesartan cilexetil/amlodipina/atorvastatina, «Trilond».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A05974/sg"
+    },
+    {
+      "codice": "26A05975",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di rosuvastatina, «Rosuvastatina Mylan».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A05975/sg"
+    },
+    {
+      "codice": "26A05976",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di paclitaxel, «Paclitaxel Aurobindo».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A05976/sg"
+    },
+    {
+      "codice": "26A05977",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di itraconazolo, «Triasporin».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A05977/sg"
+    },
+    {
+      "codice": "26A06002",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Macmiror Complex»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06002/sg"
+    },
+    {
+      "codice": "26A06003",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Fenistil»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06003/sg"
+    },
+    {
+      "codice": "26A06004",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Maalox Plus»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06004/sg"
+    },
+    {
+      "codice": "26A06005",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Airtal»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06005/sg"
+    },
+    {
+      "codice": "26A06049",
+      "titolo": "AUTORITA' NAZIONALE ANTICORRUZIONE - COMUNICATO Approvazione della delibera 4 novembre 2026, n. 442, concernente l'applicazione dell'articolo 14 del decreto legislativo 14 marzo 2013, n. 33, ai titolari di incarichi dirigenziali e funzioni equiparate.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06049/sg"
+    },
+    {
+      "codice": "26A06007",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO FEAMPA 2021/2027 - Decreto di scorrimento della sub graduatoria relativa alla GSA 10 (Mar Tirreno centrale/meridionale) sistema di pesca strascico classe di lunghezza 12<=LFT<18.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06007/sg"
+    },
+    {
+      "codice": "26A06054",
+      "titolo": "MINISTERO DELL'INTERNO - COMUNICATO Nomina della commissione straordinaria di liquidazione cui affidare la gestione del dissesto finanziario del Comune di Mirabella Eclano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/19/26A06054/sg"
+    }
+  ]
+}

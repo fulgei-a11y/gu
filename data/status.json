@@ -1,0 +1,16 @@
+{
+  "ultimoControllo": "2026-11-24T11:03:09Z",
+  "ultimoSuccesso": "2026-11-24T11:03:09Z",
+  "ok": true,
+  "problemi": [],
+  "avvisi": [],
+  "ultimaEdizione": "2026-11-23",
+  "elaborate": [
+    {
+      "date": "2026-11-24",
+      "stato": "non_disponibile",
+      "schede": 0
+    }
+  ],
+  "esecuzione": "https://github.com/fulgei-a11y/gu/actions/runs/45380186290"
+}
