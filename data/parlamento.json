@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-24T11:01:14Z",
+ "aggiornato": "2026-11-24T18:01:16Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-24T18:01:16Z",
+   "nuovi": 4
+  },
   {
    "quando": "2026-11-24T11:01:14Z",
    "nuovi": 10
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-20T20:01:13Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-20T19:01:20Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -130,7 +130,7 @@
    "url": "https://temi.camera.it/leg19/dossier.html",
    "ok": true,
    "trovati": 60,
-   "ultimaLettura": "2026-11-24T11:01:14Z"
+   "ultimaLettura": "2026-11-24T18:01:16Z"
   },
   {
    "id": "comm2",
@@ -138,7 +138,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
    "trovati": 894,
-   "ultimaLettura": "2026-11-24T11:01:14Z"
+   "ultimaLettura": "2026-11-24T18:01:16Z"
   },
   {
    "id": "comm5",
@@ -146,7 +146,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
    "trovati": 763,
-   "ultimaLettura": "2026-11-24T11:01:14Z"
+   "ultimaLettura": "2026-11-24T18:01:16Z"
   },
   {
    "id": "comm6",
@@ -154,15 +154,15 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
    "ok": true,
    "trovati": 549,
-   "ultimaLettura": "2026-11-24T11:01:14Z"
+   "ultimaLettura": "2026-11-24T18:01:16Z"
   },
   {
    "id": "comm8",
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1638,
-   "ultimaLettura": "2026-11-24T11:01:14Z"
+   "trovati": 1640,
+   "ultimaLettura": "2026-11-24T18:01:16Z"
   },
   {
    "id": "comm10",
@@ -170,10 +170,74 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
    "trovati": 1718,
-   "ultimaLettura": "2026-11-24T11:01:14Z"
+   "ultimaLettura": "2026-11-24T18:01:16Z"
   }
  ],
  "voci": [
+  {
+   "id": "c-2695ec6e3549fa",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Comune di Pozzuoli",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Josi Gerardo Della Ragione, sindaco di Bacoli, Luigi Manzoni, sindaco di Pozzuoli, Antonio Sabino, sindaco di Quarto, Salvatore Scotto di Santolo, sindaco di Monte di Procida, nell’ambito dell’esame, in sede referente, del disegno di legge C. 3181, di conversione in legge del decreto-legge 11 novembre 2026, n. 205, recante piano straordinario per i Campi Flegrei nonché ulteriori disposizioni urgenti di protezione civile.",
+   "seduta": "Seduta del 24/11/2026",
+   "data": "2026-11-24",
+   "ora": "16:06",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107653.24-11-2026-16-06-03.469.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3181",
+   "visto": "2026-11-24T18:01:16Z"
+  },
+  {
+   "id": "c-af50191243a82e",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Comune di Monte di Procida",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Josi Gerardo Della Ragione, sindaco di Bacoli, Luigi Manzoni, sindaco di Pozzuoli, Antonio Sabino, sindaco di Quarto, Salvatore Scotto di Santolo, sindaco di Monte di Procida, nell’ambito dell’esame, in sede referente, del disegno di legge C. 3181, di conversione in legge del decreto-legge 11 novembre 2026, n. 205, recante piano straordinario per i Campi Flegrei nonché ulteriori disposizioni urgenti di protezione civile.",
+   "seduta": "Seduta del 24/11/2026",
+   "data": "2026-11-24",
+   "ora": "13:43",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107653.24-11-2026-13-43-06.761.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3181",
+   "visto": "2026-11-24T18:01:16Z"
+  },
+  {
+   "id": "d-OCD18-23933",
+   "fonte": "dossier",
+   "organo": "Bilancio dello Stato",
+   "materia": "",
+   "titolo": "DL 170-2026: Misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonché in materia di formazione superiore e ricerca",
+   "tipo": "",
+   "data": "2026-11-24",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23933/dl-170-2026-misure-urgenti-garantire-regolare-avvio-anno-scolastico-2026-2027-l-accompagnamento-misure-del-piano-nazionale-ripresa.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-24T18:01:16Z"
+  },
+  {
+   "id": "d-OCD18-23939",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Elementi per la verifica di sussidiarietà - Proposta di regolamento sulla digitalizzazione della gestione dei casi di rimpatrio, riammissione e reintegrazione",
+   "tipo": "",
+   "data": "2026-11-24",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23939/elementi-verifica-sussidiarieta-proposta-regolamento-sulla-digitalizzazione-della-gestione-casi-rimpatrio-riammissione-e.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-24T18:01:16Z"
+  },
   {
    "id": "c-e8bc77e3f3a38d",
    "fonte": "commissione",
@@ -190,7 +254,7 @@
    "ora": "11:56",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.24-11-2026-11-56-27.350.pdf",
    "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
-   "atto": "C. 3181",
+   "atto": "",
    "visto": "2026-11-24T11:01:14Z"
   },
   {
@@ -209,7 +273,7 @@
    "ora": "11:07",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.24-11-2026-11-07-02.848.pdf",
    "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
-   "atto": "C. 3181",
+   "atto": "",
    "visto": "2026-11-24T11:01:14Z"
   },
   {
@@ -228,7 +292,7 @@
    "ora": "11:06",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.24-11-2026-11-06-28.105.pdf",
    "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
-   "atto": "C. 3181",
+   "atto": "",
    "visto": "2026-11-24T11:01:14Z"
   },
   {
@@ -247,7 +311,7 @@
    "ora": "11:05",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.24-11-2026-11-05-44.747.pdf",
    "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
-   "atto": "C. 3181",
+   "atto": "",
    "visto": "2026-11-24T11:01:14Z"
   },
   {
@@ -266,7 +330,7 @@
    "ora": "11:04",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.24-11-2026-11-04-44.204.pdf",
    "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
-   "atto": "C. 3181",
+   "atto": "",
    "visto": "2026-11-24T11:01:14Z"
   },
   {
@@ -285,7 +349,7 @@
    "ora": "11:03",
    "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.24-11-2026-11-03-19.386.pdf",
    "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
-   "atto": "C. 3181",
+   "atto": "",
    "visto": "2026-11-24T11:01:14Z"
   },
   {
