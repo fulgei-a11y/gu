@@ -1,14 +1,277 @@
 {
   "date": "2026-11-24",
   "giorno": "martedì",
-  "updatedAt": "2026-11-24T18:01:15Z",
+  "updatedAt": "2026-11-24T19:01:17Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "con_schede",
   "numero_gu": "274",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-24&numeroGazzetta=274",
-  "schede": [],
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/24/274/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale n. 274 del 24 novembre 2026 presenta due leggi di rilievo: una riforma organica del settore cinematografico e audiovisivo, che istituisce nuovi organismi e delega il Governo per un riordino complessivo, e una legge per il contrasto all'antisemitismo, che adotta una definizione operativa e delinea una strategia nazionale. Completano l'edizione diversi atti amministrativi in materia economica e finanziaria.",
+  "modello": "gemini-2.5-flash",
+  "schede": [
+    {
+      "codice_atto": "26G00230",
+      "titolo": "Riforma del settore cinema e audiovisivo con istituzione di Forum e Agenzia",
+      "riferimento": "LEGGE 6 novembre 2026, n. 214",
+      "categoria": "Economico",
+      "iter": "In vigore dal 09/12/2026",
+      "contesto": "La legge disciplina il settore del cinema e dell’audiovisivo, riconoscendolo come componente fondamentale del patrimonio culturale e strumento di promozione della cultura italiana, innovazione tecnologica e sviluppo economico della filiera. Mira a garantire stabilità normativa, certezza dei procedimenti, pluralismo culturale, sostenibilità industriale e tutela delle professionalità.",
+      "misure": [
+        "Art. 1: Definisce l'oggetto e le finalità della legge, promuovendo l'utilizzo responsabile dell'intelligenza artificiale nel settore e tutelando autori e titolari dei diritti.",
+        "Art. 2: Istituisce il Forum del cinema e dell’audiovisivo come organo permanente di consultazione, analisi e partecipazione. Il Forum è composto da otto esperti e otto rappresentanti delle associazioni di settore, nominati dal Ministro della cultura. Svolge attività di analisi, formula proposte, esprime pareri su atti normativi e amministrativi, contribuisce alla posizione nazionale in ambito UE e internazionale, organizza consultazioni e monitora l'impatto delle tecnologie digitali e dell'IA. Non sono previsti compensi per i componenti. Il Consiglio superiore del cinema e dell’audiovisivo (L. 220/2016) è abrogato e sostituito dal Forum.",
+        "Art. 3: Istituisce l’Agenzia per il cinema e l’audiovisivo, ente pubblico non economico con autonomia e sotto la vigilanza del Ministero della cultura. All'Agenzia sono trasferite le funzioni di gestione, operative e di attuazione in materia di cinema e audiovisivo, precedentemente attribuite alla Direzione generale cinema e audiovisivo del Ministero della cultura (escluse funzioni di indirizzo politico e vigilanza strategica). L'Agenzia ha compiti di sviluppo del settore, coordinamento di iniziative pubbliche, internazionalizzazione delle imprese, raccolta dati e ricerca (con osservatorio dedicato), promozione della collaborazione tra operatori, formazione professionale, ampliamento della fruizione delle opere, coordinamento delle Film Commission. Gli organi sono il direttore, il consiglio di amministrazione (cinque membri) e il collegio dei revisori dei conti (tre effettivi, due supplenti). La dotazione organica massima è di 197 unità, con copertura tramite trasferimento di personale dal Ministero della cultura (max 84 unità), mobilità e concorsi pubblici. La spesa autorizzata è di 6.861.650 euro per il 2028 e 6.318.974 euro annui dal 2029 per personale e funzionamento, oltre a 294.000 euro annui dal 2028 per gli organi. L'Agenzia entra in funzione dal 1° gennaio 2028.",
+        "Art. 4: Delega il Governo ad adottare, entro ventiquattro mesi, uno o più decreti legislativi per la riforma, il coordinamento e il riordino della disciplina del cinema e dell’audiovisivo. I principi e criteri direttivi includono: favorire la cooperazione nel settore, introdurre una programmazione triennale, potenziare efficienza e trasparenza dei procedimenti, adottare un piano nazionale per la riapertura e rigenerazione delle sale, introdurre la figura del 'responsabile per i contributi e incentivi', favorire la concorrenzialità del mercato, sostenere opere di valore culturale/artistico, opere prime/seconde e giovani autori, introdurre limiti ai contributi selettivi per opere di grande budget, promuovere la filmografia di genere, introdurre un sistema di rilevazione e verifica degli oneri, semplificare la disciplina della nazionalità delle opere e del cineturismo, aggiornare il Registro pubblico delle opere cinematografiche e audiovisive, rafforzare il contrasto alla pirateria."
+      ],
+      "chi_interessato": "Il Ministero della cultura, l'Agenzia per il cinema e l'audiovisivo, le Film Commission, le imprese e i professionisti del settore cinematografico e audiovisivo (produttori, distributori, esercenti, autori, lavoratori dello spettacolo, piattaforme audiovisive, settore videoludico), le università e le istituzioni di alta formazione artistica, musicale e coreutica, il Ministero dell'economia e delle finanze, la Corte dei conti, la Conferenza unificata e la Conferenza Stato-Regioni.",
+      "decorrenza": "09/12/2026",
+      "perche_conta": "Questa legge rappresenta una riforma strutturale del settore cinematografico e audiovisivo italiano, riorganizzando la governance attraverso l'istituzione di un Forum consultivo e di un'Agenzia esecutiva. La delega al Governo per un riordino normativo mira a creare un quadro stabile e prevedibile per gli operatori, con un impatto significativo sulla pianificazione industriale, finanziaria e creativa, nonché sulla competitività e l'innovazione del settore. L'attenzione all'intelligenza artificiale e alla tutela dei diritti d'autore è particolarmente rilevante nel contesto tecnologico attuale.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26G00230/sg",
+      "vigore": "09/12/2026"
+    },
+    {
+      "codice_atto": "26G00235",
+      "titolo": "Disposizioni per il contrasto all'antisemitismo e adozione della definizione operativa",
+      "riferimento": "LEGGE 23 novembre 2026, n. 215",
+      "categoria": "Giustizia",
+      "iter": "In vigore dal 09/12/2026",
+      "contesto": "La legge mira a contrastare ogni forma di antisemitismo in Italia, in attuazione dell'articolo 3 della Costituzione e della risoluzione del Parlamento europeo sulla lotta contro l'antisemitismo. Adotta una definizione operativa di antisemitismo e stabilisce una strategia nazionale per la prevenzione e il contrasto.",
+      "misure": [
+        "Art. 1: La Repubblica italiana ripudia ogni forma di antisemitismo e ne contrasta la diffusione, fermo restando il rispetto delle libertà costituzionali. Adotta la definizione operativa di antisemitismo formulata dall’International Holocaust Remembrance Alliance (IHRA) il 26 maggio 2016, inclusi i relativi indicatori. L'antisemitismo è inteso come una determinata percezione degli Ebrei che può essere espressa come odio nei loro confronti, con manifestazioni verbali o fisiche dirette verso persone ebree e non ebree, i loro beni, le istituzioni della comunità e i luoghi di culto ebraici. Le istituzioni collaborano per prevenire e contrastare atti di antisemitismo che minacciano la convivenza civile, la stabilità sociale e la sicurezza pubblica.",
+        "Art. 2: La Strategia nazionale per la lotta contro l’antisemitismo è adottata dal Consiglio dei ministri su proposta del Coordinatore di cui all'articolo 4, su base triennale. Le finalità sono: prevenire e contrastare ogni forma di antisemitismo, promuovere la conoscenza e il rispetto della storia e cultura ebraiche, rafforzare la coesione sociale e assicurare misure di sicurezza alle comunità ebraiche.",
+        "Art. 3: La Strategia si sviluppa su linee d'azione che includono: utilizzo della banca dati del Ministero dell'Interno (L. 121/1981) per il monitoraggio degli episodi di antisemitismo; misure per contrastare la diffusione del linguaggio d'odio antisemita online (sentita AGCOM); promozione di azioni formative per docenti e attività didattiche per studenti sul fenomeno dell'antisemitismo e la diaspora ebraica (anche in occasione del Giorno della Memoria); promozione di attività di ricerca e seminari universitari per prevenire intolleranze, con adozione di misure di prevenzione e monitoraggio da parte delle università; iniziative di formazione e aggiornamento per Forze armate, Forze dell'ordine, personale prefettizio e magistratura; campagne informative sui canali del servizio pubblico radiotelevisivo e multimediale; momenti di formazione e conoscenza sul fenomeno dell'antisemitismo in ambito associativo e sportivo.",
+        "Art. 4: Il Coordinatore nazionale per la lotta contro l’antisemitismo, istituito presso la Presidenza del Consiglio dei ministri, è nominato con decreto del Presidente del Consiglio dei ministri e cura la predisposizione e l'aggiornamento della Strategia nazionale. Presiede un Gruppo tecnico di lavoro composto da rappresentanti di vari Ministeri, Autorità delegate e istituzioni ebraiche/culturali.",
+        "Art. 5: Clausola di invarianza finanziaria: gli adempimenti previsti dalla legge sono svolti con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri per la finanza pubblica."
+      ],
+      "chi_interessato": "Le istituzioni della Repubblica, in particolare la Presidenza del Consiglio dei ministri, il Ministero dell'Interno, il Ministero della Giustizia, il Ministero dell'Istruzione e del Merito, il Ministero dell'Università e della Ricerca, il Ministero della Cultura, le Forze armate e dell'ordine, la magistratura, le università, le istituzioni scolastiche, l'Autorità per le garanzie nelle comunicazioni, il servizio pubblico radiotelevisivo, le associazioni sportive e culturali, le comunità ebraiche italiane e i cittadini in generale.",
+      "decorrenza": "09/12/2026",
+      "perche_conta": "Questa legge è fondamentale per fornire un quadro normativo e strategico chiaro per il contrasto all'antisemitismo in Italia. L'adozione di una definizione operativa riconosciuta a livello internazionale e l'istituzione di un Coordinatore nazionale con un Gruppo tecnico di lavoro rafforzano l'impegno dello Stato nella prevenzione e repressione di fenomeni di odio e discriminazione, con un impatto significativo sulla coesione sociale e la sicurezza pubblica. Le linee d'azione che coinvolgono scuola, università, forze dell'ordine e media mirano a una diffusione capillare della consapevolezza e del contrasto a tali fenomeni.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26G00235/sg",
+      "vigore": "09/12/2026"
+    }
+  ],
   "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "altri_atti": [
+    {
+      "codice_atto": "26A06088",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 16 ottobre 2026 Indicazione delle caratteristiche tecniche, delle diciture, delle modalita' per la fabbricazione, l'uso, la distribuzione e il controllo, nonche' il costo del contrassegno DOP per i prodotti agroalimentari.",
+      "sintesi": "Il decreto definisce le specifiche tecniche, le modalità di fabbricazione, uso, distribuzione e controllo, e il costo del contrassegno DOP per i prodotti agroalimentari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06088/sg"
+    },
+    {
+      "codice_atto": "26A06057",
+      "categoria": "Economico",
+      "titolo": "DECRETO 6 novembre 2026 Approvazione di una modifica ordinaria al disciplinare di produzione della denominazione di origine protetta dei vini «Colli Berici».",
+      "sintesi": "Il decreto approva una modifica ordinaria al disciplinare di produzione della DOP dei vini 'Colli Berici'.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06057/sg"
+    },
+    {
+      "codice_atto": "26A06086",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 30 ottobre 2026 Cofinanziamento nazionale del progetto «Pilot Line Wide Band Gap» ai sensi della legge 16 aprile 1987, n. 183. (Decreto n. 17/2026).",
+      "sintesi": "Il decreto stabilisce il cofinanziamento nazionale per il progetto 'Pilot Line Wide Band Gap'.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06086/sg"
+    },
+    {
+      "codice_atto": "26A06087",
+      "categoria": "Economico",
+      "titolo": "DECRETO 30 ottobre 2026 Rideterminazione del cofinanziamento nazionale pubblico a carico del Fondo di rotazione di cui alla legge 16 aprile 1987, n. 183, per il Programma regionale Sicilia del Fondo europeo di sviluppo regionale (FESR), annualita' 2022, 2023, 2024 e 2025. (Decreto n. 16/2026).",
+      "sintesi": "Il decreto ridetermina il cofinanziamento nazionale pubblico per il Programma regionale Sicilia del FESR per le annualità 2022-2025.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06087/sg"
+    },
+    {
+      "codice_atto": "26A06133",
+      "categoria": "Economico",
+      "titolo": "DECRETO 13 novembre 2026 Perequazione delle pensioni con decorrenza dal 1° gennaio 2027.",
+      "sintesi": "Il decreto stabilisce la perequazione delle pensioni con decorrenza dal 1° gennaio 2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06133/sg"
+    },
+    {
+      "codice_atto": "26A06134",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO ALLA RICOSTRUZIONE NEI TERRITORI DEI COMUNI DI CHIETI E DI BUCCHIANICO - ORDINANZA 30 ottobre 2026 Disciplina della delocalizzazione temporanea delle attivita' economiche danneggiate dagli eventi calamitosi, adozione dello schema di protocollo d'intesa con gli ordini ed i collegi provinciali e regionali della Regione Abruzzo delle aree tecnica e scientifica per la determinazione dei compensi professionali e ulteriori disposizioni urgenti. (Ordinanza n. 4/2026).",
+      "sintesi": "L'ordinanza disciplina la delocalizzazione temporanea delle attività economiche danneggiate da eventi calamitosi e adotta uno schema di protocollo d'intesa per la determinazione dei compensi professionali nella ricostruzione.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06134/sg"
+    },
+    {
+      "codice_atto": "26A06009",
+      "categoria": "Economico",
+      "titolo": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 Piano nazionale per le politiche urbane 2021-2027 (articolo 7 del decreto-legge n. 66 del 2026; delibera CIPESS n. 13 del 2025; articolo 1, comma 54, della legge n. 178 del 2020). (Delibera n. 41/2026).",
+      "sintesi": "La delibera approva il Piano nazionale per le politiche urbane per il periodo 2021-2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06009/sg"
+    },
+    {
+      "codice_atto": "26A06098",
+      "categoria": "Economico",
+      "titolo": "AUTORITA' NAZIONALE ANTICORRUZIONE - COMUNICATO Revisione del regolamento sull'esercizio della funzione di vigilanza e sanzionatoria in materia di violazione dell'articolo 53, comma 16-ter, del decreto legislativo n. 165/2001.",
+      "sintesi": "Il comunicato annuncia la revisione del regolamento ANAC sulla vigilanza e sanzioni per violazioni relative agli incarichi dei dipendenti pubblici.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06098/sg"
+    },
+    {
+      "codice_atto": "26A06116",
+      "categoria": "Economico",
+      "titolo": "ISTITUTO NAZIONALE DI STATISTICA - COMUNICATO Indici dei prezzi al consumo per le famiglie di operai e impiegati, relativi al mese di ottobre 2026, che si pubblicano ai sensi dell'articolo 81 della legge 27 luglio 1978, n. 392 (Disciplina delle locazioni di immobili urbani), ed ai sensi dell'articolo 54 della legge del 27 dicembre 1997, n. 449 (Misure per la stabilizzazione della finanza pubblica).",
+      "sintesi": "Il comunicato ISTAT pubblica gli indici dei prezzi al consumo per le famiglie di operai e impiegati relativi a ottobre 2026, rilevanti per l'aggiornamento di locazioni e finanza pubblica.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06116/sg"
+    },
+    {
+      "codice_atto": "26A06173",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'INTERNO - COMUNICATO Criteri e modalita' di riparto e utilizzo del fondo per la legalita' e per la tutela degli amministratori locali vittime di atti intimidatori, per l'anno 2026.",
+      "sintesi": "Il comunicato definisce i criteri e le modalità di riparto e utilizzo del fondo per la legalità e la tutela degli amministratori locali vittime di atti intimidatori per l'anno 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06173/sg"
+    },
+    {
+      "codice_atto": "26A06115",
+      "categoria": "Energia e Ambiente",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Avviso di avvenuta pubblicazione del decreto 11 novembre 2026, recante: «Attuazione dell'articolo 25, comma 6-bis, del decreto legislativo 8 novembre 2021, n. 199, per la definizione delle prescrizioni per la posa in opera degli impianti di produzione di calore da risorsa geotermica, comprese le opere per la realizzazione del geoscambio a circuito aperto».",
+      "sintesi": "Il comunicato avvisa della pubblicazione del decreto che definisce le prescrizioni per la posa in opera degli impianti di produzione di calore da risorsa geotermica, inclusi gli impianti a geoscambio a circuito aperto.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06115/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00230",
+      "titolo": "LEGGE 6 novembre 2026, n. 214 Disposizioni in materia di cinema.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26G00230/sg",
+      "tipo": "LEGGE",
+      "vigore": "09/12/2026"
+    },
+    {
+      "codice": "26G00235",
+      "titolo": "LEGGE 23 novembre 2026, n. 215 Disposizioni per il contrasto all'antisemitismo e per l'adozione della definizione operativa di antisemitismo.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26G00235/sg",
+      "tipo": "LEGGE",
+      "vigore": "09/12/2026"
+    },
+    {
+      "codice": "26A06088",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 16 ottobre 2026 Indicazione delle caratteristiche tecniche, delle diciture, delle modalita' per la fabbricazione, l'uso, la distribuzione e il controllo, nonche' il costo del contrassegno DOP per i prodotti agroalimentari.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06088/sg"
+    },
+    {
+      "codice": "26A06057",
+      "titolo": "DECRETO 6 novembre 2026 Approvazione di una modifica ordinaria al disciplinare di produzione della denominazione di origine protetta dei vini «Colli Berici».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06057/sg"
+    },
+    {
+      "codice": "26A06086",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 30 ottobre 2026 Cofinanziamento nazionale del progetto «Pilot Line Wide Band Gap» ai sensi della legge 16 aprile 1987, n. 183. (Decreto n. 17/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06086/sg"
+    },
+    {
+      "codice": "26A06087",
+      "titolo": "DECRETO 30 ottobre 2026 Rideterminazione del cofinanziamento nazionale pubblico a carico del Fondo di rotazione di cui alla legge 16 aprile 1987, n. 183, per il Programma regionale Sicilia del Fondo europeo di sviluppo regionale (FESR), annualita' 2022, 2023, 2024 e 2025. (Decreto n. 16/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06087/sg"
+    },
+    {
+      "codice": "26A06133",
+      "titolo": "DECRETO 13 novembre 2026 Perequazione delle pensioni con decorrenza dal 1° gennaio 2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06133/sg"
+    },
+    {
+      "codice": "26A06134",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO ALLA RICOSTRUZIONE NEI TERRITORI DEI COMUNI DI CHIETI E DI BUCCHIANICO - ORDINANZA 30 ottobre 2026 Disciplina della delocalizzazione temporanea delle attivita' economiche danneggiate dagli eventi calamitosi, adozione dello schema di protocollo d'intesa con gli ordini ed i collegi provinciali e regionali della Regione Abruzzo delle aree tecnica e scientifica per la determinazione dei compensi professionali e ulteriori disposizioni urgenti. (Ordinanza n. 4/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06134/sg"
+    },
+    {
+      "codice": "26A06009",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 Piano nazionale per le politiche urbane 2021-2027 (articolo 7 del decreto-legge n. 66 del 2026; delibera CIPESS n. 13 del 2025; articolo 1, comma 54, della legge n. 178 del 2020). (Delibera n. 41/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06009/sg"
+    },
+    {
+      "codice": "26A06089",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di mometasone furoato e olopatadina cloridrato, «Rineffix».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06089/sg"
+    },
+    {
+      "codice": "26A06090",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di dobutamina cloridrato, «Miozac».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06090/sg"
+    },
+    {
+      "codice": "26A06091",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di paroxetina, «Paroxetina Teva».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06091/sg"
+    },
+    {
+      "codice": "26A06092",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di landiololo cloridrato, «Landiobloc».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06092/sg"
+    },
+    {
+      "codice": "26A06093",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di procarbazina, «Natulan».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06093/sg"
+    },
+    {
+      "codice": "26A06094",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di apixaban, «Apixaban Doc».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06094/sg"
+    },
+    {
+      "codice": "26A06095",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di levofloxacina, «Tavanic».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06095/sg"
+    },
+    {
+      "codice": "26A06096",
+      "titolo": "COMUNICATO Proroga dell'implementazione degli stampati del medicinale per uso umano, a base di everolimus, «Everolimus Tam»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06096/sg"
+    },
+    {
+      "codice": "26A06098",
+      "titolo": "AUTORITA' NAZIONALE ANTICORRUZIONE - COMUNICATO Revisione del regolamento sull'esercizio della funzione di vigilanza e sanzionatoria in materia di violazione dell'articolo 53, comma 16-ter, del decreto legislativo n. 165/2001.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06098/sg"
+    },
+    {
+      "codice": "26A06116",
+      "titolo": "ISTITUTO NAZIONALE DI STATISTICA - COMUNICATO Indici dei prezzi al consumo per le famiglie di operai e impiegati, relativi al mese di ottobre 2026, che si pubblicano ai sensi dell'articolo 81 della legge 27 luglio 1978, n. 392 (Disciplina delle locazioni di immobili urbani), ed ai sensi dell'articolo 54 della legge del 27 dicembre 1997, n. 449 (Misure per la stabilizzazione della finanza pubblica).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06116/sg"
+    },
+    {
+      "codice": "26A06173",
+      "titolo": "MINISTERO DELL'INTERNO - COMUNICATO Criteri e modalita' di riparto e utilizzo del fondo per la legalita' e per la tutela degli amministratori locali vittime di atti intimidatori, per l'anno 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06173/sg"
+    },
+    {
+      "codice": "26A06097",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO FEAMPA 2021/2027 - Scorrimento della sub graduatoria relativa alla GSA 10 (Mar Tirreno centrale/meridionale) sistema di pesca strascico classe di lunghezza 18<=LFT<24.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06097/sg"
+    },
+    {
+      "codice": "26A06115",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Avviso di avvenuta pubblicazione del decreto 11 novembre 2026, recante: «Attuazione dell'articolo 25, comma 6-bis, del decreto legislativo 8 novembre 2021, n. 199, per la definizione delle prescrizioni per la posa in opera degli impianti di produzione di calore da risorsa geotermica, comprese le opere per la realizzazione del geoscambio a circuito aperto».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06115/sg"
+    },
+    {
+      "codice": "26A06117",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 2 novembre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06117/sg"
+    },
+    {
+      "codice": "26A06118",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 3 novembre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06118/sg"
+    },
+    {
+      "codice": "26A06119",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 4 novembre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06119/sg"
+    },
+    {
+      "codice": "26A06120",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 5 novembre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06120/sg"
+    },
+    {
+      "codice": "26A06121",
+      "titolo": "COMUNICATO Cambi di riferimento rilevati a titolo indicativo del giorno 6 novembre 2026",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26A06121/sg"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generato": "2026-11-24T18:03:27Z",
+  "generato": "2026-11-24T19:03:59Z",
   "oggi": "2026-11-24",
   "decreti_legge": [
     {
@@ -507,6 +507,24 @@
       "edizione": "2026-11-23",
       "scheda": 1,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/23/26G00233/sg"
+    },
+    {
+      "data": "2026-12-09",
+      "riferimento": "LEGGE 6 novembre 2026, n. 214",
+      "titolo": "Riforma del settore cinema e audiovisivo con istituzione di Forum e Agenzia",
+      "categoria": "Economico",
+      "edizione": "2026-11-24",
+      "scheda": 0,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26G00230/sg"
+    },
+    {
+      "data": "2026-12-09",
+      "riferimento": "LEGGE 23 novembre 2026, n. 215",
+      "titolo": "Disposizioni per il contrasto all'antisemitismo e adozione della definizione operativa",
+      "categoria": "Giustizia",
+      "edizione": "2026-11-24",
+      "scheda": 1,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/24/26G00235/sg"
     }
   ]
 }
