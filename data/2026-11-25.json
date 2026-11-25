@@ -1,14 +1,208 @@
 {
   "date": "2026-11-25",
   "giorno": "mercoledì",
-  "updatedAt": "2026-11-25T18:01:19Z",
+  "updatedAt": "2026-11-25T19:01:17Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "con_schede",
   "numero_gu": "275",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-25&numeroGazzetta=275",
-  "schede": [],
-  "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/25/275/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale n. 275 del 25 novembre 2026 è dominata dalla pubblicazione del Decreto Legislativo n. 216, che introduce una riforma organica dell'ordinamento forense, con impatti significativi sulla professione di avvocato. Accanto a questo importante atto in materia di giustizia, sono presenti diversi decreti ministeriali e accordi che toccano aspetti economici, finanziari e amministrativi, oltre a comunicati di interesse per il settore farmaceutico e agricolo.",
+  "modello": "gemini-2.5-flash",
+  "schede": [
+    {
+      "codice_atto": "26G00237",
+      "titolo": "Riforma dell'ordinamento forense",
+      "riferimento": "DECRETO LEGISLATIVO 25 novembre 2026, n. 216",
+      "categoria": "Giustizia",
+      "iter": "In vigore dal 26/11/2026",
+      "contesto": "Attuazione della legge 28 luglio 2026, n. 137, recante delega al Governo per la riforma dell'ordinamento forense.",
+      "misure": [
+        "Art. 1: Afferma la libertà e indipendenza della professione di avvocato, il suo ruolo nel giusto processo e nella difesa dei diritti, e la tutela dell'esercizio professionale in condizioni di pari opportunità e non discriminazione.",
+        "Art. 2: Disciplina la professione di avvocato, regolamentando l'organizzazione e l'esercizio per assicurare l'idoneità professionale e la tutela degli interessi, promuovendo l'ingresso alla professione con criteri di valorizzazione del merito.",
+        "Art. 3: Definisce l'avvocato come libero professionista che garantisce l'effettività della tutela dei diritti, svolge funzioni senza limitazioni, ha diritto a un compenso equo e ha l'obbligo di prestare difesa d'ufficio e patrocinio per i non abbienti.",
+        "Art. 4: Stabilisce che l'iscrizione all'albo circondariale è condizione per l'esercizio della professione, con requisiti di laurea e superamento dell'esame di Stato (o iscrizione pre-decreto). Elenca le attività esclusive dell'avvocato (assistenza, rappresentanza e difesa in giudizio, procedure arbitrali, negoziazione assistita, mediazione obbligatoria) e quelle di consulenza legale e assistenza stragiudiziale connesse all'attività giurisdizionale. Prevede eccezioni per magistrati e professori universitari.",
+        "Art. 5: Introduce il giuramento dell'avvocato dinanzi al consiglio dell'ordine.",
+        "Art. 6: Disciplina il tirocinio professionale, che include formazione teorica e pratica presso uno studio e frequenza obbligatoria di corsi di formazione per almeno dodici mesi. I praticanti sono soggetti alle stesse regole deontologiche.",
+        "Art. 7: Afferma l'inviolabilità del segreto professionale, estendendolo a dipendenti, collaboratori e praticanti, con specifiche deroghe (difesa, prevenzione delitti gravi, controversie avvocato-cliente, procedure disciplinari).",
+        "Art. 8: Stabilisce che l'avvocato e il praticante si uniformano al codice deontologico forense, emanato e aggiornato dal Consiglio nazionale forense ogni tre anni, che deve essere pubblicato in Gazzetta Ufficiale e contenere l'indicazione delle sanzioni.",
+        "Art. 9: Impone l'obbligo per avvocati, associazioni o società di stipulare polizza assicurativa per la responsabilità civile professionale, con condizioni e massimali minimi stabiliti dal Ministro della giustizia ogni cinque anni.",
+        "Art. 10: Consente la pubblicità informativa sull'attività professionale, purché trasparente, veritiera, corretta, non comparativa, ingannevole o denigratoria, e limitata alla natura e ai contenuti dell'obbligazione professionale.",
+        "Art. 11: Regola il compenso professionale, che deve essere pattuito per iscritto, adeguato e può essere gratuito. Ammette diverse forme di pattuizione (a tempo, forfetaria, a percentuale sul valore dell'affare o sul beneficio), ma vieta patti che prevedano una quota del bene oggetto della prestazione o della ragione litigiosa. Prevede l'obbligo di comunicare al cliente la prevedibile misura del costo. I parametri per il calcolo sono adottati con decreto ministeriale ogni due anni.",
+        "Art. 12: Riconosce la libertà dell'avvocato di accettare o rifiutare incarichi e di recedere dal mandato. L'incarico è personale, con responsabilità illimitata e solidale in caso di associazione/società. Permette la sostituzione con delega verbale.",
+        "Art. 13: Consente l'esercizio della professione in forma individuale ovvero attraverso la partecipazione ad associazioni, società tra avvocati o reti professionali, salvaguardando l'autonomia e l'indipendenza dell'avvocato.",
+        "Art. 14: Disciplina l'associazione professionale forense, richiedendo almeno due avvocati iscritti all'albo e una maggioranza di avvocati tra gli associati."
+      ],
+      "chi_interessato": "Avvocati, praticanti avvocati, associazioni e società professionali forensi, Consigli dell'Ordine, Consiglio Nazionale Forense, cittadini e imprese che necessitano di assistenza legale.",
+      "decorrenza": "26/11/2026",
+      "perche_conta": "Il decreto legislativo riforma in modo organico l'ordinamento della professione forense, definendo principi fondamentali, requisiti di accesso, modalità di esercizio, regole deontologiche, segreto professionale, obblighi assicurativi e criteri per la determinazione dei compensi. Introduce nuove disposizioni per il tirocinio e le forme associative, con un impatto significativo sulla pratica quotidiana degli avvocati e sulla tutela dei diritti dei cittadini.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26G00237/sg",
+      "vigore": "26/11/2026"
+    }
+  ],
+  "scartate": [
+    {
+      "codice_atto": "26A06243",
+      "materia": "Organi costituzionali",
+      "titolo": "Nomina di un componente della Commissione di garanzia degli statuti e per la trasparenza e il controllo dei rendiconti dei partiti politici.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06243/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A06123",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 16 novembre 2026 Approvazione dello statuto e conferma del riconoscimento al Consorzio del Prosciutto di San Daniele a svolgere le funzioni di cui al decreto 3 giugno 2026, n. 264637.",
+      "sintesi": "Approvazione dello statuto e conferma del riconoscimento al Consorzio del Prosciutto di San Daniele per lo svolgimento delle funzioni previste.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06123/sg"
+    },
+    {
+      "codice_atto": "26A06122",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 12 novembre 2026 Trasmissione, da parte degli enti locali, delle spese per servizi ausiliari all'istruzione offerti per le scuole - Modifica al decreto 10 agosto 2020.",
+      "sintesi": "Modifica le modalità di trasmissione da parte degli enti locali delle spese per servizi ausiliari all'istruzione offerti per le scuole.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06122/sg"
+    },
+    {
+      "codice_atto": "26A06124",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - DECRETO 26 ottobre 2026 Adeguamento delle tariffe emanate per l'applicazione dell'articolo 13 della legge 12 agosto 1962, n. 1338, sulla base di coefficienti attuariali aggiornati.",
+      "sintesi": "Adeguamento delle tariffe relative all'applicazione dell'articolo 13 della legge n. 1338/1962, basato su coefficienti attuariali aggiornati.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06124/sg"
+    },
+    {
+      "codice_atto": "26A06125",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - CONFERENZA PERMANENTE PER I RAPPORTI TRA LO STATO, LE REGIONI E LE PROVINCE AUTONOME DI TRENTO E BOLZANO ACCORDO 22 ottobre 2026 Accordo ai sensi dell'articolo 4 del decreto legislativo 28 agosto 1997, n. 281, di modifica dell'Accordo rep. atti n. 65/CSR del 17 aprile 2019, relativo ai criteri di formazione degli ispettori dei centri di controllo privati autorizzati all'effettuazione della revisione dei veicoli a motore e dei loro rimorchi, di cui all'articolo 13 del decreto 19 maggio 2017, n. 214, del Ministro delle infrastrutture e dei trasporti. (Rep.",
+      "sintesi": "Modifica l'Accordo sui criteri di formazione degli ispettori dei centri di controllo privati per la revisione dei veicoli a motore e dei loro rimorchi.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06125/sg"
+    },
+    {
+      "codice_atto": "26A06160",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA PROTEZIONE CIVILE - ORDINANZA 9 novembre 2026 Ordinanza di protezione civile per favorire e regolare il subentro della Regione Siciliana nelle iniziative finalizzate al superamento della situazione di criticita' determinatasi in conseguenza dei gravi incendi e dell'eccezionale ondata di calore che a partire dal 23 luglio 2023 hanno interessato il territorio delle Province di Catania, di Messina, di Palermo e di Trapani. (Ordinanza n. 1222).",
+      "sintesi": "Ordinanza per regolare il subentro della Regione Siciliana nelle iniziative di superamento delle criticità causate da incendi e ondate di calore del 2023 nelle province di Catania, Messina, Palermo e Trapani.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06160/sg"
+    },
+    {
+      "codice_atto": "26A06157",
+      "categoria": "Energia e Ambiente",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Approvazione delle regole operative di cui al decreto 5 giugno 2026, n. 183, recante un meccanismo di sostegno alla produzione di idrogeno di origine rinnovabile.",
+      "sintesi": "Approvazione delle regole operative per il meccanismo di sostegno alla produzione di idrogeno di origine rinnovabile.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06157/sg"
+    },
+    {
+      "codice_atto": "26A06128",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - COMUNICATO Comunicato relativo al decreto 11 novembre 2026 - Termini e modalita' di presentazione delle domande di accesso alle agevolazioni dei «Mini contratti di sviluppo» per le imprese della filiera automotive.",
+      "sintesi": "Comunicato sui termini e le modalità di presentazione delle domande per accedere alle agevolazioni dei 'Mini contratti di sviluppo' per le imprese del settore automotive.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06128/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00237",
+      "titolo": "DECRETO LEGISLATIVO 25 novembre 2026, n. 216 Riforma dell'ordinamento forense in attuazione della legge 28 luglio 2026, n. 137, recante delega al Governo per la riforma dell'ordinamento forense.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26G00237/sg",
+      "tipo": "DECRETO LEGISLATIVO",
+      "vigore": "26/11/2026"
+    },
+    {
+      "codice": "26A06243",
+      "titolo": "ATTI DEGLI ORGANI COSTITUZIONALI SENATO DELLA REPUBBLICA E CAMERA DEI DEPUTATI - DETERMINA 24 novembre 2026 Nomina di un componente della Commissione di garanzia degli statuti e per la trasparenza e il controllo dei rendiconti dei partiti politici.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06243/sg"
+    },
+    {
+      "codice": "26A06123",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 16 novembre 2026 Approvazione dello statuto e conferma del riconoscimento al Consorzio del Prosciutto di San Daniele a svolgere le funzioni di cui al decreto 3 giugno 2026, n. 264637.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06123/sg"
+    },
+    {
+      "codice": "26A06122",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 12 novembre 2026 Trasmissione, da parte degli enti locali, delle spese per servizi ausiliari all'istruzione offerti per le scuole - Modifica al decreto 10 agosto 2020.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06122/sg"
+    },
+    {
+      "codice": "26A06124",
+      "titolo": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - DECRETO 26 ottobre 2026 Adeguamento delle tariffe emanate per l'applicazione dell'articolo 13 della legge 12 agosto 1962, n. 1338, sulla base di coefficienti attuariali aggiornati.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06124/sg"
+    },
+    {
+      "codice": "26A06125",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - CONFERENZA PERMANENTE PER I RAPPORTI TRA LO STATO, LE REGIONI E LE PROVINCE AUTONOME DI TRENTO E BOLZANO ACCORDO 22 ottobre 2026 Accordo ai sensi dell'articolo 4 del decreto legislativo 28 agosto 1997, n. 281, di modifica dell'Accordo rep. atti n. 65/CSR del 17 aprile 2019, relativo ai criteri di formazione degli ispettori dei centri di controllo privati autorizzati all'effettuazione della revisione dei veicoli a motore e dei loro rimorchi, di cui all'articolo 13 del decreto 19 maggio 2017, n. 214, del Ministro delle infrastrutture e dei trasporti. (Rep.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06125/sg"
+    },
+    {
+      "codice": "26A06160",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA PROTEZIONE CIVILE - ORDINANZA 9 novembre 2026 Ordinanza di protezione civile per favorire e regolare il subentro della Regione Siciliana nelle iniziative finalizzate al superamento della situazione di criticita' determinatasi in conseguenza dei gravi incendi e dell'eccezionale ondata di calore che a partire dal 23 luglio 2023 hanno interessato il territorio delle Province di Catania, di Messina, di Palermo e di Trapani. (Ordinanza n. 1222).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06160/sg"
+    },
+    {
+      "codice": "26A06100",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di limeciclina, «Tetralysal».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06100/sg"
+    },
+    {
+      "codice": "26A06101",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di atorvastatina, «Nelediaden».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06101/sg"
+    },
+    {
+      "codice": "26A06102",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Dostinex»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06102/sg"
+    },
+    {
+      "codice": "26A06103",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Zofran»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06103/sg"
+    },
+    {
+      "codice": "26A06104",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Efexor».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06104/sg"
+    },
+    {
+      "codice": "26A06105",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Nurofencaps».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06105/sg"
+    },
+    {
+      "codice": "26A06106",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Minoxidil Biorga».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06106/sg"
+    },
+    {
+      "codice": "26A06107",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Cialis».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06107/sg"
+    },
+    {
+      "codice": "26A06126",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di brivaracetam, «Brivaracetam Desitin».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06126/sg"
+    },
+    {
+      "codice": "26A06127",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di potassio cloruro, «Potassio Cloruro Noridem».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06127/sg"
+    },
+    {
+      "codice": "26A06156",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO FEAMPA 2021/2027 - Scorrimento della sub graduatoria relativa alla GSA 16 sistema di pesca strascico classe di lunghezza 18<=LFT<24.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06156/sg"
+    },
+    {
+      "codice": "26A06157",
+      "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO Approvazione delle regole operative di cui al decreto 5 giugno 2026, n. 183, recante un meccanismo di sostegno alla produzione di idrogeno di origine rinnovabile.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06157/sg"
+    },
+    {
+      "codice": "26A06128",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - COMUNICATO Comunicato relativo al decreto 11 novembre 2026 - Termini e modalita' di presentazione delle domande di accesso alle agevolazioni dei «Mini contratti di sviluppo» per le imprese della filiera automotive.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06128/sg"
+    }
+  ]
 }
