@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-25T02:58:18Z",
+ "aggiornato": "2026-11-25T03:24:51Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-25T03:24:51Z",
+   "nuovi": 0
+  },
   {
    "quando": "2026-11-25T02:58:18Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-21T17:53:31Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-21T11:01:12Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -130,7 +130,7 @@
    "url": "https://temi.camera.it/leg19/dossier.html",
    "ok": true,
    "trovati": 60,
-   "ultimaLettura": "2026-11-25T02:58:18Z"
+   "ultimaLettura": "2026-11-25T03:24:51Z"
   },
   {
    "id": "comm2",
@@ -138,7 +138,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
    "trovati": 894,
-   "ultimaLettura": "2026-11-25T02:58:18Z"
+   "ultimaLettura": "2026-11-25T03:24:51Z"
   },
   {
    "id": "comm5",
@@ -146,7 +146,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
    "trovati": 763,
-   "ultimaLettura": "2026-11-25T02:58:18Z"
+   "ultimaLettura": "2026-11-25T03:24:51Z"
   },
   {
    "id": "comm6",
@@ -154,7 +154,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
    "ok": true,
    "trovati": 549,
-   "ultimaLettura": "2026-11-25T02:58:18Z"
+   "ultimaLettura": "2026-11-25T03:24:51Z"
   },
   {
    "id": "comm8",
@@ -162,7 +162,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
    "trovati": 1640,
-   "ultimaLettura": "2026-11-25T02:58:18Z"
+   "ultimaLettura": "2026-11-25T03:24:51Z"
   },
   {
    "id": "comm10",
@@ -170,7 +170,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
    "trovati": 1718,
-   "ultimaLettura": "2026-11-25T02:58:18Z"
+   "ultimaLettura": "2026-11-25T03:24:51Z"
   }
  ],
  "voci": [
