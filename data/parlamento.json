@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-25T11:01:14Z",
+ "aggiornato": "2026-11-25T18:01:20Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-25T18:01:20Z",
+   "nuovi": 6
+  },
   {
    "quando": "2026-11-25T11:01:14Z",
    "nuovi": 2
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-21T19:01:14Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-21T18:01:16Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -130,7 +130,7 @@
    "url": "https://temi.camera.it/leg19/dossier.html",
    "ok": true,
    "trovati": 60,
-   "ultimaLettura": "2026-11-25T11:01:14Z"
+   "ultimaLettura": "2026-11-25T18:01:20Z"
   },
   {
    "id": "comm2",
@@ -138,7 +138,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
    "trovati": 894,
-   "ultimaLettura": "2026-11-25T11:01:14Z"
+   "ultimaLettura": "2026-11-25T18:01:20Z"
   },
   {
    "id": "comm5",
@@ -146,7 +146,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
    "trovati": 763,
-   "ultimaLettura": "2026-11-25T11:01:14Z"
+   "ultimaLettura": "2026-11-25T18:01:20Z"
   },
   {
    "id": "comm6",
@@ -154,15 +154,15 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
    "ok": true,
    "trovati": 549,
-   "ultimaLettura": "2026-11-25T11:01:14Z"
+   "ultimaLettura": "2026-11-25T18:01:20Z"
   },
   {
    "id": "comm8",
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1640,
-   "ultimaLettura": "2026-11-25T11:01:14Z"
+   "trovati": 1645,
+   "ultimaLettura": "2026-11-25T18:01:20Z"
   },
   {
    "id": "comm10",
@@ -170,10 +170,118 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
    "trovati": 1719,
-   "ultimaLettura": "2026-11-25T11:01:14Z"
+   "ultimaLettura": "2026-11-25T18:01:20Z"
   }
  ],
  "voci": [
+  {
+   "id": "c-1b92520a309865",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Ance",
+   "tipo": "Memoria",
+   "contesto": "Audizioni informali, nell’ambito dell’esame, in sede referente, del disegno di legge C. 3181, di conversione in legge del decreto-legge 11 novembre 2026, n. 205, recante piano straordinario per i Campi Flegrei nonché ulteriori disposizioni urgenti di protezione civile, di rappresentanti di: - Associazione nazionale costruttori edili (ANCE) - Dipartimento della protezione civile - Istituto nazionale di geofisica e vulcanologia (INGV) – Osservatorio vesuviano - Provveditorato interregionale per le opere pubbliche per le regioni Campania e Molise",
+   "seduta": "Seduta del 25/11/2026",
+   "data": "2026-11-25",
+   "ora": "14:24",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107806.25-11-2026-14-24-32.275.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3181",
+   "visto": "2026-11-25T18:01:20Z"
+  },
+  {
+   "id": "c-c16f91c1a22749",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Alina Di Gennaro",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Laura Lieto, vicesindaco e assessore all'urbanistica del comune di Napoli, in videoconferenza, di rappresentanti della Soprintendenza archeologia belle arti e paesaggio per l'area metropolitana di Napoli, in videoconferenza, di Valeria Rodriguez e Alina Di Gennaro, esperte in materia di edilizia e urbanistica, di rappresentanti del Comitato emergenza Campi Flegrei, in videoconferenza, di rappresentanti del Comitato «Campi Flegrei uniti nella lotta», di rappresentanti del Centro studi per l'ingegneria idrogeologica, vulcanica e sismica dell'Università Federico II, di rapp",
+   "seduta": "Seduta del 24/11/2026",
+   "data": "2026-11-25",
+   "ora": "13:41",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.25-11-2026-13-41-23.395.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3181",
+   "visto": "2026-11-25T18:01:20Z"
+  },
+  {
+   "id": "c-1767aa77e59f61",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Rete Campi Flegrei uniti nella lotta (integrazione)",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Laura Lieto, vicesindaco e assessore all'urbanistica del comune di Napoli, in videoconferenza, di rappresentanti della Soprintendenza archeologia belle arti e paesaggio per l'area metropolitana di Napoli, in videoconferenza, di Valeria Rodriguez e Alina Di Gennaro, esperte in materia di edilizia e urbanistica, di rappresentanti del Comitato emergenza Campi Flegrei, in videoconferenza, di rappresentanti del Comitato «Campi Flegrei uniti nella lotta», di rappresentanti del Centro studi per l'ingegneria idrogeologica, vulcanica e sismica dell'Università Federico II, di rapp",
+   "seduta": "Seduta del 24/11/2026",
+   "data": "2026-11-25",
+   "ora": "12:54",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.25-11-2026-12-54-23.100.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3181",
+   "visto": "2026-11-25T18:01:20Z"
+  },
+  {
+   "id": "c-a488903d9e56c8",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Federalberghi Campi Flegrei",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Laura Lieto, vicesindaco e assessore all'urbanistica del comune di Napoli, in videoconferenza, di rappresentanti della Soprintendenza archeologia belle arti e paesaggio per l'area metropolitana di Napoli, in videoconferenza, di Valeria Rodriguez e Alina Di Gennaro, esperte in materia di edilizia e urbanistica, di rappresentanti del Comitato emergenza Campi Flegrei, in videoconferenza, di rappresentanti del Comitato «Campi Flegrei uniti nella lotta», di rappresentanti del Centro studi per l'ingegneria idrogeologica, vulcanica e sismica dell'Università Federico II, di rapp",
+   "seduta": "Seduta del 24/11/2026",
+   "data": "2026-11-25",
+   "ora": "12:43",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.25-11-2026-12-43-45.090.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3181",
+   "visto": "2026-11-25T18:01:20Z"
+  },
+  {
+   "id": "c-062a165dc13b3b",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Valeria Rodriguez",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Laura Lieto, vicesindaco e assessore all'urbanistica del comune di Napoli, in videoconferenza, di rappresentanti della Soprintendenza archeologia belle arti e paesaggio per l'area metropolitana di Napoli, in videoconferenza, di Valeria Rodriguez e Alina Di Gennaro, esperte in materia di edilizia e urbanistica, di rappresentanti del Comitato emergenza Campi Flegrei, in videoconferenza, di rappresentanti del Comitato «Campi Flegrei uniti nella lotta», di rappresentanti del Centro studi per l'ingegneria idrogeologica, vulcanica e sismica dell'Università Federico II, di rapp",
+   "seduta": "Seduta del 24/11/2026",
+   "data": "2026-11-25",
+   "ora": "12:22",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.25-11-2026-12-22-28.658.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3181",
+   "visto": "2026-11-25T18:01:20Z"
+  },
+  {
+   "id": "d-OCD18-23917",
+   "fonte": "dossier",
+   "organo": "Studi - Ambiente",
+   "materia": "Energia e Ambiente",
+   "titolo": "Rapporto annuale \"Infrastrutture strategiche e prioritarie 2026\" - Stato di attuazione al 31 agosto 2026",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-25",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23917/rapporto-annuale-infrastrutture-strategiche-e-prioritarie-2026-stato-attuazione-al-31-agosto-2026.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-25T18:01:20Z"
+  },
   {
    "id": "c-846d2d60963752",
    "fonte": "commissione",
