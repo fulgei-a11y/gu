@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-26T11:01:20Z",
+ "aggiornato": "2026-11-26T18:01:25Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-26T18:01:25Z",
+   "nuovi": 4
+  },
   {
    "quando": "2026-11-26T11:01:20Z",
    "nuovi": 1
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-22T19:01:15Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-22T18:15:19Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -130,7 +130,7 @@
    "url": "https://temi.camera.it/leg19/dossier.html",
    "ok": true,
    "trovati": 60,
-   "ultimaLettura": "2026-11-26T11:01:20Z"
+   "ultimaLettura": "2026-11-26T18:01:25Z"
   },
   {
    "id": "comm2",
@@ -138,7 +138,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
    "trovati": 894,
-   "ultimaLettura": "2026-11-26T11:01:20Z"
+   "ultimaLettura": "2026-11-26T18:01:25Z"
   },
   {
    "id": "comm5",
@@ -146,7 +146,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
    "trovati": 763,
-   "ultimaLettura": "2026-11-26T11:01:20Z"
+   "ultimaLettura": "2026-11-26T18:01:25Z"
   },
   {
    "id": "comm6",
@@ -154,15 +154,15 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
    "ok": true,
    "trovati": 549,
-   "ultimaLettura": "2026-11-26T11:01:20Z"
+   "ultimaLettura": "2026-11-26T18:01:25Z"
   },
   {
    "id": "comm8",
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1646,
-   "ultimaLettura": "2026-11-26T11:01:20Z"
+   "trovati": 1647,
+   "ultimaLettura": "2026-11-26T18:01:25Z"
   },
   {
    "id": "comm10",
@@ -170,10 +170,68 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
    "trovati": 1719,
-   "ultimaLettura": "2026-11-26T11:01:20Z"
+   "ultimaLettura": "2026-11-26T18:01:25Z"
   }
  ],
  "voci": [
+  {
+   "id": "c-78340d88b6a704",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Eucentre",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Laura Lieto, vicesindaco e assessore all'urbanistica del comune di Napoli, in videoconferenza, di rappresentanti della Soprintendenza archeologia belle arti e paesaggio per l'area metropolitana di Napoli, in videoconferenza, di Valeria Rodriguez e Alina Di Gennaro, esperte in materia di edilizia e urbanistica, di rappresentanti del Comitato emergenza Campi Flegrei, in videoconferenza, di rappresentanti del Comitato «Campi Flegrei uniti nella lotta», di rappresentanti del Centro studi per l'ingegneria idrogeologica, vulcanica e sismica dell'Università Federico II, di rapp",
+   "seduta": "Seduta del 24/11/2026",
+   "data": "2026-11-26",
+   "ora": "16:58",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.26-11-2026-16-58-26.314.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3181",
+   "visto": "2026-11-26T18:01:25Z"
+  },
+  {
+   "id": "d-OCD18-23466",
+   "fonte": "dossier",
+   "organo": "Studi - Affari sociali",
+   "materia": "",
+   "titolo": "Legge quadro per la salute e la sicurezza nelle piscine",
+   "tipo": "Elementi per l'esame in Assemblea",
+   "data": "2026-11-26",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23466/legge-quadro-salute-e-sicurezza-nelle-piscine.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-26T18:01:25Z"
+  },
+  {
+   "id": "d-OCD18-23943",
+   "fonte": "dossier",
+   "organo": "Studi - Agricoltura",
+   "materia": "",
+   "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+   "tipo": "Elementi per l'esame in Assemblea",
+   "data": "2026-11-26",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23943/modifiche-alla-legge-11-febbraio-1992-n-157-recante-norme-protezione-della-fauna-selvatica-omeoterma-e-prelievo-venatorio.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-26T18:01:25Z"
+  },
+  {
+   "id": "d-OCD18-23949",
+   "fonte": "dossier",
+   "organo": "Studi - Attività produttive",
+   "materia": "Economico",
+   "titolo": "Misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
+   "tipo": "Elementi per l'esame in Assemblea",
+   "data": "2026-11-25",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23949/misure-urgenti-sostegno-lavoratori-ex-ilva-e-indotto-e-rilancio-industriale-del-territorio.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-26T18:01:25Z"
+  },
   {
    "id": "c-6fd09f572fba2b",
    "fonte": "commissione",
@@ -610,7 +668,7 @@
    "titolo": "Legge quadro per la salute e la sicurezza nelle piscine",
    "tipo": "Elementi per la valutazione degli aspetti di legittimità costituzionale",
    "data": "2026-11-23",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23887/legge-quadro-salute-e-sicurezza-nelle-piscine.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23887/legge-quadro-salute-e-sicurezza-nelle-piscine-1.html",
    "atto": "",
    "senato": false,
    "visto": "2026-11-23T18:01:16Z"
@@ -958,7 +1016,7 @@
    "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
    "tipo": "Elementi per la valutazione degli aspetti di legittimità costituzionale",
    "data": "2026-11-16",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23847/modifiche-alla-legge-11-febbraio-1992-n-157-recante-norme-protezione-della-fauna-selvatica-omeoterma-e-prelievo-venatorio.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23847/modifiche-alla-legge-11-febbraio-1992-n-157-recante-norme-protezione-della-fauna-selvatica-omeoterma-e-prelievo-venatorio-1.html",
    "atto": "",
    "senato": false,
    "visto": "2026-11-16T18:01:17Z"
