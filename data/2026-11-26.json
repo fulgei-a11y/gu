@@ -1,14 +1,176 @@
 {
   "date": "2026-11-26",
   "giorno": "giovedì",
-  "updatedAt": "2026-11-26T18:01:24Z",
+  "updatedAt": "2026-11-26T19:01:09Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "nessuna_legge_interesse",
   "numero_gu": "276",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-26&numeroGazzetta=276",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/26/276/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 26 novembre 2026 presenta un focus significativo su atti di natura economica e amministrativa. Si segnalano provvedimenti del Ministero dell'Economia e delle Finanze e del CIPE relativi a riscossione crediti e assegnazione di risorse, oltre a un importante Accordo della Conferenza Unificata per la semplificazione delle comunicazioni di inizio attività nel turismo e nel commercio. Un Decreto del Presidente della Repubblica è stato scartato in quanto non rientrante nelle materie di interesse.",
+  "modello": "gemini-2.5-flash",
   "schede": [],
-  "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "scartate": [
+    {
+      "codice_atto": "26G00229",
+      "materia": "Rapporti Stato-Chiesa / Protezione Civile",
+      "titolo": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 2026, n. 217 Esecuzione dell'Intesa tra la Presidenza del Consiglio dei ministri e la Presidenza della Conferenza Episcopale Italiana, firmata il 25 marzo 2026, per la nomina di un assistente spirituale generale a favore della componente volontaria cattolica della protezione civile.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26G00229/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A06142",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 28 ottobre 2026 Modifica del decreto 23 dicembre 2013 recante «Disposizioni nazionali concernenti l'attuazione del regolamento di esecuzione (UE) n. 299/2013 della Commissione del 26 marzo 2013, recante modifica del regolamento (CEE) n. 2568/91, relativo alle caratteristiche degli oli d'oliva e degli oli di sansa d'oliva nonche' ai metodi ad essi attinenti».",
+      "sintesi": "Modifica le disposizioni nazionali per l'attuazione del regolamento UE sulle caratteristiche e i metodi di analisi degli oli d'oliva e di sansa d'oliva.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06142/sg"
+    },
+    {
+      "codice_atto": "26A06163",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 13 novembre 2026 Autorizzazione alla riscossione coattiva mediante ruolo, ai sensi dell'articolo 17, comma 3-bis, del decreto legislativo n. 46 del 1999, dei crediti vantati da Lazio Innova S.p.a., derivanti dal recupero di agevolazioni finanziarie a seguito di revoca.",
+      "sintesi": "Autorizza Lazio Innova S.p.a. alla riscossione coattiva tramite ruolo di crediti derivanti da agevolazioni finanziarie revocate.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06163/sg"
+    },
+    {
+      "codice_atto": "26A06141",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLA SALUTE - DECRETO 18 novembre 2026 Determinazione delle quantita' di sostanze stupefacenti e psicotrope che possono essere fabbricate e messe in vendita, in Italia e all'estero, nel corso dell'anno 2027.",
+      "sintesi": "Stabilisce le quantità massime di sostanze stupefacenti e psicotrope producibili e commercializzabili in Italia e all'estero per il 2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06141/sg"
+    },
+    {
+      "codice_atto": "26A06161",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI CONFERENZA UNIFICATA ACCORDO 1 ottobre 2026 Accordo, ai sensi dell'articolo 9, comma 2, lettera c), del decreto legislativo 28 agosto 1997, n. 281, tra il Governo, le regioni e gli enti locali, concernente l'adozione del nuovo modulo standardizzato «Comunicazione di inizio attivita' per locazione breve/turistica» - settore turismo, nonche' l'aggiornamento del modulo «Comunicazione per l'esercizio di attivita' di commercio all'ingrosso» - settore commercio e artigianato. (Repertorio atti n. 122/CU).",
+      "sintesi": "Adotta un nuovo modulo standardizzato per la comunicazione di inizio attività per locazioni brevi/turistiche e aggiorna quello per il commercio all'ingrosso.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06161/sg"
+    },
+    {
+      "codice_atto": "26A06180",
+      "categoria": "Economico",
+      "titolo": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 FSC 2014-2020. Assegnazione di risorse per il completamento dell'investimento relativo al complesso denominato «La Balzana» situato nel Comune di Santa Maria la Fossa, in Provincia di Caserta (articolo 28, comma 4, lettera a), del decreto-legge 19 febbraio 2026, n. 19, convertito con modificazioni dalla legge 20 aprile 2026, n. 50). (Delibera n. 35/2026).",
+      "sintesi": "Assegna risorse dal FSC 2014-2020 per il completamento dell'investimento relativo al complesso 'La Balzana' a Santa Maria la Fossa (CE).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06180/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00229",
+      "titolo": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 2026, n. 217 Esecuzione dell'Intesa tra la Presidenza del Consiglio dei ministri e la Presidenza della Conferenza Episcopale Italiana, firmata il 25 marzo 2026, per la nomina di un assistente spirituale generale a favore della componente volontaria cattolica della protezione civile.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26G00229/sg"
+    },
+    {
+      "codice": "26A06142",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 28 ottobre 2026 Modifica del decreto 23 dicembre 2013 recante «Disposizioni nazionali concernenti l'attuazione del regolamento di esecuzione (UE) n. 299/2013 della Commissione del 26 marzo 2013, recante modifica del regolamento (CEE) n. 2568/91, relativo alle caratteristiche degli oli d'oliva e degli oli di sansa d'oliva nonche' ai metodi ad essi attinenti».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06142/sg"
+    },
+    {
+      "codice": "26A06163",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 13 novembre 2026 Autorizzazione alla riscossione coattiva mediante ruolo, ai sensi dell'articolo 17, comma 3-bis, del decreto legislativo n. 46 del 1999, dei crediti vantati da Lazio Innova S.p.a., derivanti dal recupero di agevolazioni finanziarie a seguito di revoca.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06163/sg"
+    },
+    {
+      "codice": "26A06141",
+      "titolo": "MINISTERO DELLA SALUTE - DECRETO 18 novembre 2026 Determinazione delle quantita' di sostanze stupefacenti e psicotrope che possono essere fabbricate e messe in vendita, in Italia e all'estero, nel corso dell'anno 2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06141/sg"
+    },
+    {
+      "codice": "26A06161",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI CONFERENZA UNIFICATA ACCORDO 1 ottobre 2026 Accordo, ai sensi dell'articolo 9, comma 2, lettera c), del decreto legislativo 28 agosto 1997, n. 281, tra il Governo, le regioni e gli enti locali, concernente l'adozione del nuovo modulo standardizzato «Comunicazione di inizio attivita' per locazione breve/turistica» - settore turismo, nonche' l'aggiornamento del modulo «Comunicazione per l'esercizio di attivita' di commercio all'ingrosso» - settore commercio e artigianato. (Repertorio atti n. 122/CU).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06161/sg"
+    },
+    {
+      "codice": "26A06180",
+      "titolo": "DECRETI E DELIBERE DI ALTRE AUTORITA' COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026 FSC 2014-2020. Assegnazione di risorse per il completamento dell'investimento relativo al complesso denominato «La Balzana» situato nel Comune di Santa Maria la Fossa, in Provincia di Caserta (articolo 28, comma 4, lettera a), del decreto-legge 19 febbraio 2026, n. 19, convertito con modificazioni dalla legge 20 aprile 2026, n. 50). (Delibera n. 35/2026).",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06180/sg"
+    },
+    {
+      "codice": "26A06108",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Adempas»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06108/sg"
+    },
+    {
+      "codice": "26A06109",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Verzenios»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06109/sg"
+    },
+    {
+      "codice": "26A06129",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Vagifem»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06129/sg"
+    },
+    {
+      "codice": "26A06130",
+      "titolo": "COMUNICATO Autorizzazione all'importazione parallela del medicinale per uso umano «Nurofen Febbre e Dolore»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06130/sg"
+    },
+    {
+      "codice": "26A06131",
+      "titolo": "COMUNICATO Decadenza, per mancato rinnovo, dell'autorizzazione all'immissione in commercio dei medicinali di importazione parallela «Bisolvon» e «Nootropil».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06131/sg"
+    },
+    {
+      "codice": "26A06132",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Levofolene»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06132/sg"
+    },
+    {
+      "codice": "26A06158",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di levetiracetam, «Larofec»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06158/sg"
+    },
+    {
+      "codice": "26A06159",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di telmisartan, «Telmisartan Amarox».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06159/sg"
+    },
+    {
+      "codice": "26A06150",
+      "titolo": "AUTORITA' DI BACINO DISTRETTUALE DELLE ALPI ORIENTALI - COMUNICATO Aggiornamento del piano di gestione del rischio di alluvioni nel Comune di Trissino",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06150/sg"
+    },
+    {
+      "codice": "26A06162",
+      "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO Domanda di registrazione della indicazione geografica protetta «Aglio rosso di Nubia». Pubblicazione del disciplinare di produzione.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06162/sg"
+    },
+    {
+      "codice": "26A06143",
+      "titolo": "MINISTERO DELL'INTERNO - COMUNICATO Riconoscimento della personalita' giuridica della Parrocchia Santi Gioacchino e Anna, in Cuneo",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06143/sg"
+    },
+    {
+      "codice": "26A06144",
+      "titolo": "COMUNICATO Fusione per incorporazione di sei Parrocchie dell'Arcidiocesi di Modena-Nonantola nella Parrocchia della Beata Vergine Assunta, in Serramazzoni, frazione Rocca Santa Maria.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06144/sg"
+    },
+    {
+      "codice": "26A06145",
+      "titolo": "COMUNICATO Soppressione della Parrocchia del SS. Nome di Maria, in Caorle, frazione Marango",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06145/sg"
+    },
+    {
+      "codice": "26A06146",
+      "titolo": "COMUNICATO Riconoscimento della personalita' giuridica dell'Associazione pubblica di fedeli «I ricostruttori nella Preghiera al Borgo», in Cantagallo.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06146/sg"
+    },
+    {
+      "codice": "26A06147",
+      "titolo": "COMUNICATO Trasferimento della sede della Casa di Procura «Societa' San Giovanni» da Chieti a Roma",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06147/sg"
+    },
+    {
+      "codice": "26A06148",
+      "titolo": "COMUNICATO Mutamento della denominazione assunta dall'ente Parrocchia di S. Paolo Apostolo in Torrette, in Fano",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06148/sg"
+    },
+    {
+      "codice": "26A06149",
+      "titolo": "COMUNICATO Soppressione dell'Associazione clericale «Congregazione degli Operai Evangelici Franzoniani», in Genova",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/26/26A06149/sg"
+    }
+  ]
 }
