@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-26T02:41:02Z",
+ "aggiornato": "2026-11-26T11:01:20Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-26T11:01:20Z",
+   "nuovi": 1
+  },
   {
    "quando": "2026-11-26T02:41:02Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-22T18:15:19Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-22T18:01:14Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -130,7 +130,7 @@
    "url": "https://temi.camera.it/leg19/dossier.html",
    "ok": true,
    "trovati": 60,
-   "ultimaLettura": "2026-11-26T02:41:02Z"
+   "ultimaLettura": "2026-11-26T11:01:20Z"
   },
   {
    "id": "comm2",
@@ -138,7 +138,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
    "trovati": 894,
-   "ultimaLettura": "2026-11-26T02:41:02Z"
+   "ultimaLettura": "2026-11-26T11:01:20Z"
   },
   {
    "id": "comm5",
@@ -146,7 +146,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
    "trovati": 763,
-   "ultimaLettura": "2026-11-26T02:41:02Z"
+   "ultimaLettura": "2026-11-26T11:01:20Z"
   },
   {
    "id": "comm6",
@@ -154,15 +154,15 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
    "ok": true,
    "trovati": 549,
-   "ultimaLettura": "2026-11-26T02:41:02Z"
+   "ultimaLettura": "2026-11-26T11:01:20Z"
   },
   {
    "id": "comm8",
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1645,
-   "ultimaLettura": "2026-11-26T02:41:02Z"
+   "trovati": 1646,
+   "ultimaLettura": "2026-11-26T11:01:20Z"
   },
   {
    "id": "comm10",
@@ -170,10 +170,29 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
    "trovati": 1719,
-   "ultimaLettura": "2026-11-26T02:41:02Z"
+   "ultimaLettura": "2026-11-26T11:01:20Z"
   }
  ],
  "voci": [
+  {
+   "id": "c-6fd09f572fba2b",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "ReLUIS - pubblicazione",
+   "tipo": "Contributo scritto",
+   "contesto": "Audizione informale di Laura Lieto, vicesindaco e assessore all'urbanistica del comune di Napoli, in videoconferenza, di rappresentanti della Soprintendenza archeologia belle arti e paesaggio per l'area metropolitana di Napoli, in videoconferenza, di Valeria Rodriguez e Alina Di Gennaro, esperte in materia di edilizia e urbanistica, di rappresentanti del Comitato emergenza Campi Flegrei, in videoconferenza, di rappresentanti del Comitato «Campi Flegrei uniti nella lotta», di rappresentanti del Centro studi per l'ingegneria idrogeologica, vulcanica e sismica dell'Università Federico II, di rapp",
+   "seduta": "Seduta del 24/11/2026",
+   "data": "2026-11-26",
+   "ora": "09:17",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Contributo%20Scritto.PUBBLICO.ideGes.107619.26-11-2026-09-17-55.164.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3181",
+   "visto": "2026-11-26T11:01:20Z"
+  },
   {
    "id": "c-1b92520a309865",
    "fonte": "commissione",
@@ -184,7 +203,7 @@
    "materia": "Energia e Ambiente",
    "titolo": "Ance",
    "tipo": "Memoria",
-   "contesto": "Audizioni informali, nell’ambito dell’esame, in sede referente, del disegno di legge C. 3181, di conversione in legge del decreto-legge 11 novembre 2026, n. 205, recante piano straordinario per i Campi Flegrei nonché ulteriori disposizioni urgenti di protezione civile, di rappresentanti di: - Associazione nazionale costruttori edili (ANCE) - Dipartimento della protezione civile - Istituto nazionale di geofisica e vulcanologia (INGV) – Osservatorio vesuviano - Provveditorato interregionale per le opere pubbliche per le regioni Campania e Molise",
+   "contesto": "Audizione informale di rappresentanti dell'Associazione nazionale costruttori edili (ANCE), in videoconferenza, del Dipartimento della Protezione civile, in videoconferenza, dell'Istituto nazionale di geofisica e vulcanologia (INGV) - Osservatorio vesuviano, in videoconferenza, e del Provveditorato interregionale per le opere pubbliche per le regioni Campania e Molise, in videoconferenza, nell'ambito dell'esame, in sede referente, del disegno di legge C. 3181, di conversione in legge del decreto-legge 11 novembre 2026, n. 205, recante piano straordinario per i Campi Flegrei nonché ulteriori di",
    "seduta": "Seduta del 25/11/2026",
    "data": "2026-11-25",
    "ora": "14:24",
