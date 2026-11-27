@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-27T11:01:15Z",
+ "aggiornato": "2026-11-27T18:01:12Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-27T18:01:12Z",
+   "nuovi": 6
+  },
   {
    "quando": "2026-11-27T11:01:15Z",
    "nuovi": 3
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-23T20:02:02Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-23T19:01:17Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -130,7 +130,7 @@
    "url": "https://temi.camera.it/leg19/dossier.html",
    "ok": true,
    "trovati": 60,
-   "ultimaLettura": "2026-11-27T11:01:15Z"
+   "ultimaLettura": "2026-11-27T18:01:12Z"
   },
   {
    "id": "comm2",
@@ -138,15 +138,15 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
    "trovati": 894,
-   "ultimaLettura": "2026-11-27T11:01:15Z"
+   "ultimaLettura": "2026-11-27T18:01:12Z"
   },
   {
    "id": "comm5",
    "nome": "V Commissione Bilancio",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
-   "trovati": 763,
-   "ultimaLettura": "2026-11-27T11:01:15Z"
+   "trovati": 764,
+   "ultimaLettura": "2026-11-27T18:01:12Z"
   },
   {
    "id": "comm6",
@@ -154,15 +154,15 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
    "ok": true,
    "trovati": 549,
-   "ultimaLettura": "2026-11-27T11:01:15Z"
+   "ultimaLettura": "2026-11-27T18:01:12Z"
   },
   {
    "id": "comm8",
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
-   "trovati": 1647,
-   "ultimaLettura": "2026-11-27T11:01:15Z"
+   "trovati": 1650,
+   "ultimaLettura": "2026-11-27T18:01:12Z"
   },
   {
    "id": "comm10",
@@ -170,10 +170,112 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
    "trovati": 1719,
-   "ultimaLettura": "2026-11-27T11:01:15Z"
+   "ultimaLettura": "2026-11-27T18:01:12Z"
   }
  ],
  "voci": [
+  {
+   "id": "c-e293dc6758edef",
+   "fonte": "commissione",
+   "organo": "V Bilancio",
+   "commissioni": [
+    "V"
+   ],
+   "materia": "Economico",
+   "titolo": "Memoria Confagricoltura",
+   "tipo": "Memoria",
+   "contesto": "Attività conoscitiva preliminare all'esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029, ai sensi dell'articolo 119, comma 3, del Regolamento della Camera e dell'articolo 48 del Regolamento del Senato: Audizione di Roberto Caponi, direttore generale di Confagricoltura, Simone Cergnul, responsabile dell'ufficio relazioni istituzionali di CIA-Agricoltori italiani, Gianfranco Calabria, vice capo dell'area legislativa di Coldiretti, e Manfredi Pacifici, coordinatore dell'area legislativa di COPAGRI",
+   "seduta": "Seduta del 10/11/2026",
+   "data": "2026-11-27",
+   "ora": "16:45",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM05/Audizioni/leg19.com05.Audizioni.Memoria.PUBBLICO.ideGes.106076.27-11-2026-16-45-21.373.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
+   "atto": "",
+   "visto": "2026-11-27T18:01:12Z"
+  },
+  {
+   "id": "c-d786f7fede2b97",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "RPT",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Laura Lieto, vicesindaco e assessore all'urbanistica del comune di Napoli, in videoconferenza, di rappresentanti della Soprintendenza archeologia belle arti e paesaggio per l'area metropolitana di Napoli, in videoconferenza, di Valeria Rodriguez e Alina Di Gennaro, esperte in materia di edilizia e urbanistica, di rappresentanti del Comitato emergenza Campi Flegrei, in videoconferenza, di rappresentanti del Comitato «Campi Flegrei uniti nella lotta», di rappresentanti del Centro studi per l'ingegneria idrogeologica, vulcanica e sismica dell'Università Federico II, di rapp",
+   "seduta": "Seduta del 24/11/2026",
+   "data": "2026-11-27",
+   "ora": "16:20",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.27-11-2026-16-20-27.116.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3181",
+   "visto": "2026-11-27T18:01:12Z"
+  },
+  {
+   "id": "c-8a05f7198d8f59",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Soprintendenza archeologica belle arti e paesaggio Napoli - relazione",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Laura Lieto, vicesindaco e assessore all'urbanistica del comune di Napoli, in videoconferenza, di rappresentanti della Soprintendenza archeologia belle arti e paesaggio per l'area metropolitana di Napoli, in videoconferenza, di Valeria Rodriguez e Alina Di Gennaro, esperte in materia di edilizia e urbanistica, di rappresentanti del Comitato emergenza Campi Flegrei, in videoconferenza, di rappresentanti del Comitato «Campi Flegrei uniti nella lotta», di rappresentanti del Centro studi per l'ingegneria idrogeologica, vulcanica e sismica dell'Università Federico II, di rapp",
+   "seduta": "Seduta del 24/11/2026",
+   "data": "2026-11-27",
+   "ora": "12:27",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.27-11-2026-12-27-10.626.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3181",
+   "visto": "2026-11-27T18:01:12Z"
+  },
+  {
+   "id": "c-6067a8f3bb33af",
+   "fonte": "commissione",
+   "organo": "VIII Ambiente",
+   "commissioni": [
+    "VIII"
+   ],
+   "materia": "Energia e Ambiente",
+   "titolo": "Soprintendenza archeologica belle arti e paesaggio Napoli - allegato a relazione",
+   "tipo": "Memoria",
+   "contesto": "Audizione informale di Laura Lieto, vicesindaco e assessore all'urbanistica del comune di Napoli, in videoconferenza, di rappresentanti della Soprintendenza archeologia belle arti e paesaggio per l'area metropolitana di Napoli, in videoconferenza, di Valeria Rodriguez e Alina Di Gennaro, esperte in materia di edilizia e urbanistica, di rappresentanti del Comitato emergenza Campi Flegrei, in videoconferenza, di rappresentanti del Comitato «Campi Flegrei uniti nella lotta», di rappresentanti del Centro studi per l'ingegneria idrogeologica, vulcanica e sismica dell'Università Federico II, di rapp",
+   "seduta": "Seduta del 24/11/2026",
+   "data": "2026-11-27",
+   "ora": "12:27",
+   "link": "https://documenti.camera.it/leg19/documentiAcquisiti/COM08/Audizioni/leg19.com08.Audizioni.Memoria.PUBBLICO.ideGes.107619.27-11-2026-12-27-10.707.pdf",
+   "pagina": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
+   "atto": "C. 3181",
+   "visto": "2026-11-27T18:01:12Z"
+  },
+  {
+   "id": "d-OCD18-23965",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Conferenza interparlamentare sulla pace e la stabilità: il progetto comune dell'Europa - Dublino, 29-30 novembre 2026",
+   "tipo": "",
+   "data": "2026-11-27",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23965/conferenza-interparlamentare-sulla-pace-e-stabilita-progetto-comune-europa-dublino-29-30-novembre-2026.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-27T18:01:12Z"
+  },
+  {
+   "id": "d-OCD18-23942",
+   "fonte": "dossier",
+   "organo": "Studi - Affari esteri",
+   "materia": "",
+   "titolo": "Cessione, a titolo gratuito, di materiali per il completamento della capacità VBL PUMA (n. 15 mitragliatrici MG 42/59 con relativi supporti e n. 7 radio SRT-178/V) delle forze armate gibutiane",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-27",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23942/cessione-titolo-gratuito-materiali-completamento-della-capacita-vbl-puma-n-15-mitragliatrici-mg-42-59-relativi-supporti-e-n-7.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-27T18:01:12Z"
+  },
   {
    "id": "d-OCD18-23956",
    "fonte": "dossier",
