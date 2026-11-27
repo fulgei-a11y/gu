@@ -1,23 +1,7 @@
 {
-  "generato": "2026-11-27T19:46:20Z",
+  "generato": "2026-11-27T20:10:17Z",
   "oggi": "2026-11-27",
   "decreti_legge": [
-    {
-      "numero": 170,
-      "anno": 2026,
-      "data_dl": "2026-09-30",
-      "riferimento": "Decreto-legge 30 settembre 2026, n. 170",
-      "titolo": "Misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione…",
-      "pubblicazione": "2026-09-30",
-      "numero_gu": "227",
-      "vigore": "",
-      "scadenza": "2026-11-29",
-      "categoria": "",
-      "scheda": null,
-      "link": "https://www.gazzettaufficiale.it/eli/id/2026/09/30/26G00190/sg",
-      "stato": "in_conversione",
-      "giorni_mancanti": 2
-    },
     {
       "numero": 177,
       "anno": 2026,
@@ -129,6 +113,51 @@
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26G00227/sg",
       "stato": "in_conversione",
       "giorni_mancanti": 46
+    },
+    {
+      "numero": 170,
+      "anno": 2026,
+      "data_dl": "2026-09-30",
+      "riferimento": "Decreto-legge 30 settembre 2026, n. 170",
+      "titolo": "Misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione…",
+      "pubblicazione": "2026-09-30",
+      "numero_gu": "227",
+      "vigore": "",
+      "scadenza": "2026-11-29",
+      "categoria": "",
+      "scheda": null,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/09/30/26G00190/sg",
+      "stato": "convertito",
+      "conversione": {
+        "legge": "LEGGE 27 novembre 2026, n. 219",
+        "data_gu": "2026-11-27",
+        "numero_gu": "277",
+        "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26G00242/sg"
+      },
+      "giorni_mancanti": 2
+    },
+    {
+      "numero": 168,
+      "anno": 2026,
+      "data_dl": "2026-09-29",
+      "riferimento": "Decreto-legge 29 settembre 2026, n. 168",
+      "titolo": "Misure urgenti in materia di giustizia, di funzionalita' del Ministero dell'interno e di impianti di interesse strategico nazionale",
+      "pubblicazione": "2026-09-29",
+      "numero_gu": "",
+      "vigore": "",
+      "scadenza": "2026-11-28",
+      "categoria": "",
+      "scheda": null,
+      "link": "",
+      "fuori_archivio": true,
+      "stato": "convertito",
+      "conversione": {
+        "legge": "LEGGE 27 novembre 2026, n. 218",
+        "data_gu": "2026-11-27",
+        "numero_gu": "277",
+        "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26G00239/sg"
+      },
+      "giorni_mancanti": 1
     },
     {
       "numero": 167,
@@ -471,6 +500,24 @@
       "edizione": "2026-11-12",
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/12/26G00221/sg"
+    },
+    {
+      "data": "2026-11-28",
+      "riferimento": "LEGGE 27 novembre 2026, n. 218",
+      "titolo": "Misure urgenti in materia di giustizia, funzionalità del Ministero dell'interno e impianti di interesse strategico nazionale",
+      "categoria": "Giustizia",
+      "edizione": "2026-11-27",
+      "scheda": 0,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26G00239/sg"
+    },
+    {
+      "data": "2026-11-28",
+      "riferimento": "LEGGE 27 novembre 2026, n. 219",
+      "titolo": "Misure urgenti per l'anno scolastico 2026/2027, PNRR istruzione, integrazione studenti stranieri e formazione superiore",
+      "categoria": "Economico",
+      "edizione": "2026-11-27",
+      "scheda": 1,
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26G00242/sg"
     },
     {
       "data": "2026-12-02",

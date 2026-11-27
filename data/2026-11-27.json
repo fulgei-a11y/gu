@@ -1,14 +1,222 @@
 {
   "date": "2026-11-27",
   "giorno": "venerdì",
-  "updatedAt": "2026-11-27T19:44:32Z",
+  "updatedAt": "2026-11-27T20:01:16Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "con_schede",
   "numero_gu": "277",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-27&numeroGazzetta=277",
-  "schede": [],
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/27/277/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 27 novembre 2026 è dominata dalla pubblicazione di due importanti leggi di conversione di decreti-legge. La prima introduce misure urgenti in materia di giustizia, funzionalità del Ministero dell'Interno e impianti strategici, con significative modifiche al codice della crisi d'impresa e all'ordinamento giudiziario. La seconda legge di conversione si concentra su interventi per il regolare avvio dell'anno scolastico, il PNRR nel settore dell'istruzione e la formazione superiore, con particolare attenzione al sostegno didattico per gli alunni con disabilità e all'incentivo alla lettura.",
+  "modello": "gemini-2.5-flash",
+  "schede": [
+    {
+      "codice_atto": "26G00239",
+      "titolo": "Misure urgenti in materia di giustizia, funzionalità del Ministero dell'interno e impianti di interesse strategico nazionale",
+      "riferimento": "LEGGE 27 novembre 2026, n. 218",
+      "categoria": "Giustizia",
+      "iter": "In vigore dal 28/11/2026. Conversione in legge, con modificazioni, del decreto-legge 29 settembre 2026, n. 168.",
+      "contesto": "La legge converte, con modificazioni, il decreto-legge n. 168 del 2026, intervenendo su diverse aree cruciali, dalla gestione del personale giudiziario alle procedure concorsuali, dalla crisi d'impresa alla sicurezza dei palazzi di giustizia, fino alle politiche migratorie e di protezione internazionale.",
+      "misure": [
+        "Art. 1: Proroga dei contratti a tempo determinato per 1.350 unità di personale addetto all'ufficio per il processo, dal 1° ottobre 2026 al 31 gennaio 2027, con uno stanziamento di 16.771.754 euro per il 2026 e 5.686.513 euro per il 2027.",
+        "Art. 2 (nuovo comma 01): Introduzione, durante il tirocinio dei magistrati, di formazione sulle tecniche di mediazione dei conflitti e attività formativa negli istituti penitenziari per la conoscenza delle modalità di esecuzione della pena.",
+        "Art. 2 (modifica comma 1): Previsione di un percorso formativo per i magistrati idonei del concorso 22 ottobre 2025, che include la partecipazione all'attività giurisdizionale nel secondo grado di merito.",
+        "Art. 2-bis: Fissazione di un termine di 30 giorni dalla comunicazione del decreto di pagamento per l'opposizione al decreto di pagamento di spese di giustizia (modifica all'Art. 15, comma 2, D.Lgs. 150/2011).",
+        "Art. 2-ter: Modifiche all'ordinamento giudiziario e al D.Lgs. 160/2006 relative ai tramutamenti successivi e ai conferimenti di incarichi direttivi o semidirettivi dei magistrati ordinari, specificando i limiti temporali e le condizioni per un ulteriore incarico.",
+        "Art. 2-quater: Assegnazione di un contributo straordinario di 6 milioni di euro per il 2027 al comune di Locri per interventi urgenti di messa in sicurezza del palazzo di giustizia, con previsione di revoca in caso di mancata sottoscrizione dei contratti entro il 30 aprile 2027.",
+        "Art. 2-quinquies: Modifiche al Codice della crisi d'impresa e dell'insolvenza (D.Lgs. 14/2019), tra cui: possibilità per il debitore di escludere dalla liquidazione l'unica autovettura necessaria per esigenze di lavoro, cura o istruzione (fino a 3.000 euro sempre esclusa, oltre valutata); modifica dei criteri per la determinazione del reddito disponibile per l'esdebitazione; possibilità di presentare la domanda di esdebitazione anche senza l'assistenza di un difensore; interpretazione autentica che il pagamento dei crediti privilegiati può essere differito fino a due anni.",
+        "Art. 3: Interventi sui poteri del procuratore nazionale antimafia e antiterrorismo, estendendo le funzioni di coordinamento anche per le finalità di confisca e prevedendo la possibilità di richiederla per specifici delitti. Modifiche per l'applicazione temporanea di magistrati alle procure distrettuali e direzioni distrettuali antimafia.",
+        "Art. 4: Modifiche in materia di protezione internazionale e status di rifugiato, introducendo l'esclusione del fermo per lo straniero irregolare che si presenta spontaneamente per richiedere protezione internazionale e apportando modifiche procedurali al D.Lgs. 25/2008 e D.Lgs. 142/2015.",
+        "Art. 4-bis: Estensione delle disposizioni sui ricongiungimenti familiari anche ai titolari di permessi di soggiorno specifici (Art. 27, comma 1, lettere a), c), i), 27-ter, 27-quater, 27-quinquies e 27-sexies del D.Lgs. 286/1998).",
+        "Art. 4-ter: Misure per il rafforzamento della capacità amministrativa del Ministero dell'interno per l'attuazione del Patto UE su migrazione e asilo, con assunzione di 100 unità di personale nel biennio 2026-2027 e valorizzazione dell'esperienza lavorativa nel settore."
+      ],
+      "chi_interessato": "Magistrati ordinari, personale dell'ufficio per il processo, comuni (in particolare Locri), debitori e creditori nell'ambito delle procedure concorsuali, procuratori nazionali antimafia e antiterrorismo, stranieri richiedenti protezione internazionale o ricongiungimento familiare, Ministero dell'interno.",
+      "decorrenza": "28 novembre 2026",
+      "perche_conta": "La legge è di grande rilevanza per il sistema giudiziario italiano, introducendo riforme procedurali e organizzative significative, estendendo la proroga del personale dell'ufficio per il processo e fornendo strumenti per la gestione della crisi d'impresa. Ha inoltre un impatto diretto sulle politiche migratorie e sulla sicurezza dei beni pubblici.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26G00239/sg",
+      "vigore": "28/11/2026"
+    },
+    {
+      "codice_atto": "26G00242",
+      "titolo": "Misure urgenti per l'anno scolastico 2026/2027, PNRR istruzione, integrazione studenti stranieri e formazione superiore",
+      "riferimento": "LEGGE 27 novembre 2026, n. 219",
+      "categoria": "Economico",
+      "iter": "In vigore dal 28/11/2026. Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170.",
+      "contesto": "La legge converte, con modificazioni, il decreto-legge n. 170 del 2026, focalizzandosi su interventi per garantire il regolare avvio dell'anno scolastico 2026/2027, l'attuazione delle misure PNRR nel settore dell'istruzione, la promozione dell'integrazione degli studenti stranieri e la formazione superiore e ricerca.",
+      "misure": [
+        "Art. 1: Modifiche al D.Lgs. 66/2017 e alla Legge 104/1992 per il sostegno didattico agli alunni con disabilità. Il PEI (Piano Educativo Individualizzato) deve definire con motivazione le modalità e il numero di ore di sostegno. Per i nuovi iscritti o nuove certificazioni, il PEI è redatto in via provvisoria entro giugno e definitiva entro il 15 ottobre. Per gli alunni già inseriti, è redatto in via definitiva entro giugno e aggiornabile entro il 15 ottobre. Nel passaggio tra anni e gradi di istruzione, è prioritario il mantenimento del numero di ore di sostegno e assistenza, salvo aggiornamenti motivati. Il PEI può essere approvato dal Gruppo di Lavoro Operativo per l'Inclusione (GLO) anche in assenza di una componente, se regolarmente convocata e se la mancata partecipazione impedisce il rispetto dei termini. Le riunioni del GLO possono svolgersi a distanza per garantire la partecipazione di tutte le componenti, inclusa la famiglia.",
+        "Art. 2: Incremento di 60 milioni di euro per il 2026 e 40 milioni di euro per il 2027 del fondo per le attività di orientamento, inclusione e contrasto alla dispersione scolastica. Istituzione di un fondo di 1 milione di euro per ciascuno degli anni 2026 e 2027 per attività di sensibilizzazione all'utilizzo consapevole delle tecnologie digitali.",
+        "Art. 2-bis: Le scuole possono promuovere iniziative per rafforzare la conoscenza della Costituzione e del ruolo della Corte costituzionale, a decorrere dall'anno scolastico 2026/2027.",
+        "Art. 4-bis: Incremento di 45 milioni di euro per il 2026 del fondo per incentivare la formazione e la lettura, destinato alle biblioteche anche per l'acquisto di pubblicazioni seriali.",
+        "Art. 4-ter: Obbligo per gli editori di rendere disponibile una versione digitale stampabile dei libri di testo scolastici e universitari a un prezzo inferiore di almeno il 50% rispetto alla versione cartacea, con licenza d'uso che comprende la realizzazione di un'unica copia cartacea per uso personale (fino al 15% dell'opera). I libri non conformi non possono essere oggetto di nuova adozione. Le disposizioni si applicano ai libri posti in commercio o di nuova adozione dall'anno scolastico o accademico successivo all'entrata in vigore della legge.",
+        "Art. 7 (nuovi commi 13-bis e seguenti): Proroga al 30 giugno 2027 del termine per l'offerta formativa per la specializzazione sul sostegno. A decorrere dall'anno accademico 2027/2028, la specializzazione per il sostegno si consegue con percorsi universitari di almeno 30 CFU per coloro che hanno svolto almeno tre anni di servizio su posto di sostegno negli otto anni precedenti e possiedono il titolo di studio idoneo. Le attività formative teoriche possono essere erogate in modalità telematica sincrona. Un decreto interministeriale definirà l'ordinamento didattico e le modalità di svolgimento."
+      ],
+      "chi_interessato": "Alunni con disabilità e le loro famiglie, docenti, dirigenti scolastici, personale ATA, studenti, università, editori di libri di testo, biblioteche, Ministero dell'Istruzione e del Merito, Ministero dell'Università e della Ricerca.",
+      "decorrenza": "28 novembre 2026",
+      "perche_conta": "La legge è fondamentale per il sistema scolastico e universitario, introducendo importanti novità sul sostegno didattico, l'orientamento, la digitalizzazione dei libri di testo e la formazione dei docenti specializzati. Ha un impatto significativo sull'inclusione scolastica e sull'accesso ai materiali didattici.",
+      "fonte_testo": "testo integrale",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26G00242/sg",
+      "vigore": "28/11/2026"
+    }
+  ],
   "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "altri_atti": [
+    {
+      "codice_atto": "26A06183",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO PER LE PARI OPPORTUNITA' - DECRETO 16 novembre 2026 Ripartizione tra le regioni, per l'anno 2026, delle risorse del Fondo per le politiche relative ai diritti e alle pari opportunita' e del Fondo contro le discriminazioni e la violenza di genere.",
+      "sintesi": "Il decreto stabilisce la ripartizione tra le regioni delle risorse finanziarie per il 2026 destinate alle politiche per i diritti e le pari opportunità, nonché al contrasto delle discriminazioni e della violenza di genere.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06183/sg"
+    },
+    {
+      "codice_atto": "26A06291",
+      "categoria": "Giustizia",
+      "titolo": "TESTO COORDINATO DEL - DECRETO-LEGGE Testo del decreto-legge 29 settembre 2026, n. 168 (in Gazzetta Ufficiale - Serie generale - n. 226 del 29 settembre 2026), coordinato con la legge di conversione 27 novembre 2026, n. 218 (in questa stessa Gazzetta Ufficiale alla pagina 1), recante: «Misure urgenti in materia di giustizia, di funzionalita' del Ministero dell'interno e di impianti di interesse strategico nazionale.».",
+      "sintesi": "Pubblicazione del testo coordinato del decreto-legge 29 settembre 2026, n. 168, con le modifiche apportate dalla legge di conversione 27 novembre 2026, n. 218, riguardante misure urgenti in materia di giustizia, funzionalità del Ministero dell'interno e impianti strategici.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06291/sg"
+    },
+    {
+      "codice_atto": "26A06314",
+      "categoria": "Economico",
+      "titolo": "TESTO COORDINATO DEL - DECRETO-LEGGE Testo del decreto-legge 30 settembre 2026, n. 170 (in Gazzetta Ufficiale - Serie generale - n. 227 del 30 settembre 2026), coordinato con la legge di conversione 27 novembre 2026, n. 219 (in questa stessa Gazzetta Ufficiale alla pagina 4), recante: «Misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonch",
+      "sintesi": "Pubblicazione del testo coordinato del decreto-legge 30 settembre 2026, n. 170, con le modifiche apportate dalla legge di conversione 27 novembre 2026, n. 219, relativo a misure urgenti per l'anno scolastico 2026/2027, il PNRR istruzione, l'integrazione degli studenti stranieri e la formazione superiore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06314/sg"
+    },
+    {
+      "codice_atto": "26A06265",
+      "categoria": "Economico",
+      "titolo": "CASSA DEPOSITI E PRESTITI S.P.A. - COMUNICATO Avviso relativo agli indici concernenti buoni fruttiferi postali",
+      "sintesi": "Comunicato di Cassa Depositi e Prestiti S.p.A. che avvisa sugli indici relativi ai buoni fruttiferi postali.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06265/sg"
+    },
+    {
+      "codice_atto": "26A06214",
+      "categoria": "Giustizia",
+      "titolo": "MINISTERO DELLA GIUSTIZIA - COMUNICATO Elenco dei notai dispensandi per limiti di eta' - primo quadrimestre 2027",
+      "sintesi": "Comunicato del Ministero della Giustizia con l'elenco dei notai che saranno dispensati per limiti di età nel primo quadrimestre del 2027.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06214/sg"
+    },
+    {
+      "codice_atto": "26A06178",
+      "categoria": "Economico",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - DIPARTIMENTO PER LA TRASFORMAZIONE DIGITALE - COMUNICATO Aggiornamento degli allegati 1, 3, 4 e 5 al decreto 23 febbraio 2026, recante «Disciplina delle modalita' di funzionamento della Piattaforma di gestione deleghe».",
+      "sintesi": "Comunicato che annuncia l'aggiornamento di specifici allegati al decreto che disciplina le modalità di funzionamento della Piattaforma di gestione deleghe, rilevante per la pubblica amministrazione e la digitalizzazione.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06178/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26G00239",
+      "titolo": "LEGGE 27 novembre 2026, n. 218 Conversione in legge, con modificazioni, del decreto-legge 29 settembre 2026, n. 168, recante misure urgenti in materia di giustizia, di funzionalita' del Ministero dell'interno e di impianti di interesse strategico nazionale.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26G00239/sg",
+      "tipo": "LEGGE",
+      "vigore": "28/11/2026"
+    },
+    {
+      "codice": "26G00242",
+      "titolo": "LEGGE 27 novembre 2026, n. 219 Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonche' in materia di formazione superiore e ricerca.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26G00242/sg",
+      "tipo": "LEGGE",
+      "vigore": "28/11/2026"
+    },
+    {
+      "codice": "26A06177",
+      "titolo": "DECRETI, DELIBERE E ORDINANZE MINISTERIALI MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 10 novembre 2026 Aggiornamento del registro nazionale delle varieta' di specie agrarie ed ortive.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06177/sg"
+    },
+    {
+      "codice": "26A06058",
+      "titolo": "DECRETO 12 novembre 2026 Approvazione di modifica ordinaria al disciplinare di produzione della denominazione di origine protetta - menzione tradizionale specifica italiana: denominazione di origine controllata - D.O.C. - dei vini «Prosecco».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06058/sg"
+    },
+    {
+      "codice": "26A06135",
+      "titolo": "DECRETO 16 novembre 2026 Riconoscimento del Consorzio di tutela, valorizzazione e promozione della Fragola della Basilicata I.G.P. e attribuzione dell'incarico di svolgere le funzioni di cui all'articolo 53, comma 15, della legge 24 aprile 1998, n. 128, come modificato dall'articolo 14 della legge 21 dicembre 1999, n. 526, di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi della IGP «Fragola della Basilicata».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06135/sg"
+    },
+    {
+      "codice": "26A06183",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO PER LE PARI OPPORTUNITA' - DECRETO 16 novembre 2026 Ripartizione tra le regioni, per l'anno 2026, delle risorse del Fondo per le politiche relative ai diritti e alle pari opportunita' e del Fondo contro le discriminazioni e la violenza di genere.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06183/sg"
+    },
+    {
+      "codice": "26A06291",
+      "titolo": "TESTI COORDINATI E AGGIORNATI TESTO COORDINATO DEL - DECRETO-LEGGE Testo del decreto-legge 29 settembre 2026, n. 168 (in Gazzetta Ufficiale - Serie generale - n. 226 del 29 settembre 2026), coordinato con la legge di conversione 27 novembre 2026, n. 218 (in questa stessa Gazzetta Ufficiale alla pagina 1), recante: «Misure urgenti in materia di giustizia, di funzionalita' del Ministero dell'interno e di impianti di interesse strategico nazionale.».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06291/sg",
+      "tipo": "DECRETO-LEGGE"
+    },
+    {
+      "codice": "26A06314",
+      "titolo": "TESTO COORDINATO DEL - DECRETO-LEGGE Testo del decreto-legge 30 settembre 2026, n. 170 (in Gazzetta Ufficiale - Serie generale - n. 227 del 30 settembre 2026), coordinato con la legge di conversione 27 novembre 2026, n. 219 (in questa stessa Gazzetta Ufficiale alla pagina 4), recante: «Misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza del Ministero dell'istruzione e del merito, per la promozione dell'integrazione degli studenti stranieri nell'ambito scolastico, nonch",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06314/sg",
+      "tipo": "DECRETO-LEGGE"
+    },
+    {
+      "codice": "26A06110",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di desmopressina, «Minirin/DDAVP».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06110/sg"
+    },
+    {
+      "codice": "26A06111",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di rosuvastatina, «Koleklin».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06111/sg"
+    },
+    {
+      "codice": "26A06112",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di bivalirudina, «Bivalirudina Hikma».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06112/sg"
+    },
+    {
+      "codice": "26A06113",
+      "titolo": "COMUNICATO Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di ketoprofene sale di lisina, «Okidol».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06113/sg"
+    },
+    {
+      "codice": "26A06114",
+      "titolo": "COMUNICATO Rettifica della determina IP n. 500 del 4 agosto 2026, concernente l'autorizzazione all'importazione parallela del medicinale per uso umano «Xalatan».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06114/sg"
+    },
+    {
+      "codice": "26A06136",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di perindopril arginina, indapamide, amlodipina, bisoprololo fumarato, «Quadrixam».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06136/sg"
+    },
+    {
+      "codice": "26A06137",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di acido acetilsalicilico, «Runaplax».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06137/sg"
+    },
+    {
+      "codice": "26A06138",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Treprostinil Dr. Reddy's».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06138/sg"
+    },
+    {
+      "codice": "26A06139",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Lisinopril Grindeks».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06139/sg"
+    },
+    {
+      "codice": "26A06265",
+      "titolo": "CASSA DEPOSITI E PRESTITI S.P.A. - COMUNICATO Avviso relativo agli indici concernenti buoni fruttiferi postali",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06265/sg"
+    },
+    {
+      "codice": "26A05996",
+      "titolo": "COMMISSIONE DI GARANZIA DEGLI STATUTI E PER LA TRASPARENZA E IL CONTROLLO DEI RENDICONTI DEI PARTITI POLITICI - COMUNICATO Statuto dell'associazione politica «Futuro Nazionale con Roberto Vannacci»",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A05996/sg"
+    },
+    {
+      "codice": "26A06214",
+      "titolo": "MINISTERO DELLA GIUSTIZIA - COMUNICATO Elenco dei notai dispensandi per limiti di eta' - primo quadrimestre 2027",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06214/sg"
+    },
+    {
+      "codice": "26A06178",
+      "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - DIPARTIMENTO PER LA TRASFORMAZIONE DIGITALE - COMUNICATO Aggiornamento degli allegati 1, 3, 4 e 5 al decreto 23 febbraio 2026, recante «Disciplina delle modalita' di funzionamento della Piattaforma di gestione deleghe».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/27/26A06178/sg"
+    }
+  ]
 }
