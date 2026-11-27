@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-27T02:41:30Z",
+ "aggiornato": "2026-11-27T11:01:15Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-27T11:01:15Z",
+   "nuovi": 3
+  },
   {
    "quando": "2026-11-27T02:41:30Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-23T19:01:17Z",
    "nuovi": 0
-  },
-  {
-   "quando": "2026-11-23T18:01:16Z",
-   "nuovi": 5
   }
  ],
  "fonti": [
@@ -130,7 +130,7 @@
    "url": "https://temi.camera.it/leg19/dossier.html",
    "ok": true,
    "trovati": 60,
-   "ultimaLettura": "2026-11-27T02:41:30Z"
+   "ultimaLettura": "2026-11-27T11:01:15Z"
   },
   {
    "id": "comm2",
@@ -138,7 +138,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
    "ok": true,
    "trovati": 894,
-   "ultimaLettura": "2026-11-27T02:41:30Z"
+   "ultimaLettura": "2026-11-27T11:01:15Z"
   },
   {
    "id": "comm5",
@@ -146,7 +146,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
    "trovati": 763,
-   "ultimaLettura": "2026-11-27T02:41:30Z"
+   "ultimaLettura": "2026-11-27T11:01:15Z"
   },
   {
    "id": "comm6",
@@ -154,7 +154,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
    "ok": true,
    "trovati": 549,
-   "ultimaLettura": "2026-11-27T02:41:30Z"
+   "ultimaLettura": "2026-11-27T11:01:15Z"
   },
   {
    "id": "comm8",
@@ -162,7 +162,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
    "ok": true,
    "trovati": 1647,
-   "ultimaLettura": "2026-11-27T02:41:30Z"
+   "ultimaLettura": "2026-11-27T11:01:15Z"
   },
   {
    "id": "comm10",
@@ -170,10 +170,49 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
    "ok": true,
    "trovati": 1719,
-   "ultimaLettura": "2026-11-27T02:41:30Z"
+   "ultimaLettura": "2026-11-27T11:01:15Z"
   }
  ],
  "voci": [
+  {
+   "id": "d-OCD18-23956",
+   "fonte": "dossier",
+   "organo": "Studi - Attività produttive",
+   "materia": "Economico",
+   "titolo": "Misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-27",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23956/misure-urgenti-sostegno-lavoratori-ex-ilva-e-indotto-e-rilancio-industriale-del-territorio.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-27T11:01:15Z"
+  },
+  {
+   "id": "d-OCD18-23883",
+   "fonte": "dossier",
+   "organo": "Studi - Istituzioni",
+   "materia": "",
+   "titolo": "La legge elettorale della Spagna",
+   "tipo": "Schede di lettura",
+   "data": "2026-11-27",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23883/la-legge-elettorale-della-spagna.html",
+   "atto": "",
+   "senato": false,
+   "visto": "2026-11-27T11:01:15Z"
+  },
+  {
+   "id": "d-OCD18-23957",
+   "fonte": "dossier",
+   "organo": "Rapporti con l'Unione europea",
+   "materia": "",
+   "titolo": "Riunione interparlamentare promossa dalla Commissione per i trasporti e il turismo (TRAN) del PE sul tema \"Attuazione dei Piani Sociali per il Clima negli Stati membri per combattere la povertà nei trasporti\" - Bruxelles, 1° dicembre 2026",
+   "tipo": "",
+   "data": "2026-11-26",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23957/riunione-interparlamentare-promossa-dalla-commissione-i-trasporti-e-turismo-tran-del-pe-sul-tema-attuazione-piani-sociali-clima.html",
+   "atto": "",
+   "senato": true,
+   "visto": "2026-11-27T11:01:15Z"
+  },
   {
    "id": "c-78340d88b6a704",
    "fonte": "commissione",
@@ -227,7 +266,7 @@
    "titolo": "Misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
    "tipo": "Elementi per l'esame in Assemblea",
    "data": "2026-11-25",
-   "link": "https://temi.camera.it/leg19/dossier/OCD18-23949/misure-urgenti-sostegno-lavoratori-ex-ilva-e-indotto-e-rilancio-industriale-del-territorio.html",
+   "link": "https://temi.camera.it/leg19/dossier/OCD18-23949/misure-urgenti-sostegno-lavoratori-ex-ilva-e-indotto-e-rilancio-industriale-del-territorio-1.html",
    "atto": "",
    "senato": true,
    "visto": "2026-11-26T18:01:25Z"
