@@ -1,6 +1,6 @@
 {
-  "generato": "2026-11-26T20:03:10Z",
-  "oggi": "2026-11-26",
+  "generato": "2026-11-27T01:35:14Z",
+  "oggi": "2026-11-27",
   "decreti_legge": [
     {
       "numero": 170,
@@ -16,7 +16,7 @@
       "scheda": null,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/09/30/26G00190/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 3
+      "giorni_mancanti": 2
     },
     {
       "numero": 177,
@@ -32,7 +32,7 @@
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/08/26G00199/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 11
+      "giorni_mancanti": 10
     },
     {
       "numero": 185,
@@ -48,7 +48,7 @@
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/16/26G00208/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 19
+      "giorni_mancanti": 18
     },
     {
       "numero": 190,
@@ -64,7 +64,7 @@
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 25
+      "giorni_mancanti": 24
     },
     {
       "numero": 193,
@@ -80,7 +80,7 @@
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/23/26G00216/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 26
+      "giorni_mancanti": 25
     },
     {
       "numero": 200,
@@ -96,7 +96,7 @@
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/06/26G00223/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 40
+      "giorni_mancanti": 39
     },
     {
       "numero": 205,
@@ -112,7 +112,7 @@
       "scheda": 1,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26G00225/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 45
+      "giorni_mancanti": 44
     },
     {
       "numero": 207,
@@ -128,7 +128,7 @@
       "scheda": 0,
       "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/13/26G00227/sg",
       "stato": "in_conversione",
-      "giorni_mancanti": 47
+      "giorni_mancanti": 46
     },
     {
       "numero": 167,
@@ -151,7 +151,7 @@
         "numero_gu": "271",
         "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/sg"
       },
-      "giorni_mancanti": 1
+      "giorni_mancanti": 0
     },
     {
       "numero": 162,
@@ -174,7 +174,7 @@
         "numero_gu": "267",
         "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/sg"
       },
-      "giorni_mancanti": -10
+      "giorni_mancanti": -11
     },
     {
       "numero": 157,
@@ -197,7 +197,7 @@
         "numero_gu": "261",
         "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/09/26G00222/sg"
       },
-      "giorni_mancanti": -17
+      "giorni_mancanti": -18
     },
     {
       "numero": 154,
@@ -220,7 +220,7 @@
         "numero_gu": "249",
         "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26G00212/sg"
       },
-      "giorni_mancanti": -30
+      "giorni_mancanti": -31
     },
     {
       "numero": 153,
@@ -263,7 +263,7 @@
         "numero_gu": "232",
         "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/06/26G00193/sg"
       },
-      "giorni_mancanti": -51
+      "giorni_mancanti": -52
     },
     {
       "numero": 144,
@@ -286,7 +286,7 @@
         "numero_gu": "232",
         "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/06/26G00194/sg"
       },
-      "giorni_mancanti": -51
+      "giorni_mancanti": -52
     },
     {
       "numero": 139,
@@ -310,15 +310,6 @@
     }
   ],
   "entrate_in_vigore": [
-    {
-      "data": "2026-10-27",
-      "riferimento": "LEGGE 23 ottobre 2026, n. 196",
-      "titolo": "Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di imprese in stato di insolvenza",
-      "categoria": "Economico",
-      "edizione": "2026-10-26",
-      "scheda": 1,
-      "link": "https://www.gazzettaufficiale.it/eli/id/2026/10/26/26G00212/sg"
-    },
     {
       "data": "2026-10-30",
       "riferimento": "DECRETO LEGISLATIVO 25 settembre 2026, n. 184",
