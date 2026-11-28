@@ -1,12 +1,10 @@
 {
-  "ultimoControllo": "2026-11-28T01:20:25Z",
-  "ultimoSuccesso": "2026-11-28T01:20:25Z",
+  "ultimoControllo": "2026-11-28T01:56:25Z",
+  "ultimoSuccesso": "2026-11-28T01:56:25Z",
   "ok": true,
   "problemi": [],
   "avvisi": [
     "Parlamento – II Commissione Giustizia: nessun documento riconosciuto: pagina vuota o incompleta (se dura a lungo, la struttura della pagina potrebbe essere cambiata)",
-    "Parlamento – V Commissione Bilancio: nessun documento riconosciuto: pagina vuota o incompleta (se dura a lungo, la struttura della pagina potrebbe essere cambiata)",
-    "Parlamento – VI Commissione Finanze: nessun documento riconosciuto: pagina vuota o incompleta (se dura a lungo, la struttura della pagina potrebbe essere cambiata)",
     "Parlamento – VIII Commissione Ambiente: nessun documento riconosciuto: pagina vuota o incompleta (se dura a lungo, la struttura della pagina potrebbe essere cambiata)",
     "Parlamento – X Commissione Attività produttive: nessun documento riconosciuto: pagina vuota o incompleta (se dura a lungo, la struttura della pagina potrebbe essere cambiata)"
   ],
@@ -18,5 +16,5 @@
       "schede": 0
     }
   ],
-  "esecuzione": "https://github.com/fulgei-a11y/gu/actions/runs/46091889563"
+  "esecuzione": "https://github.com/fulgei-a11y/gu/actions/runs/46095011117"
 }
