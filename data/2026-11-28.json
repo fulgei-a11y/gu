@@ -1,14 +1,215 @@
 {
   "date": "2026-11-28",
   "giorno": "sabato",
-  "updatedAt": "2026-11-28T02:31:19Z",
+  "updatedAt": "2026-11-28T11:01:12Z",
   "version": 2,
-  "stato": "non_disponibile",
+  "stato": "nessuna_legge_interesse",
   "numero_gu": "278",
+  "verificato": true,
   "link_gu": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-11-28&numeroGazzetta=278",
+  "pdf_gu": "https://www.gazzettaufficiale.it/eli/gu/2026/11/28/278/sg/pdf",
+  "sintesi": "L'edizione della Gazzetta Ufficiale del 28 novembre 2026 non presenta Leggi, Decreti-Legge o Decreti Legislativi. Si concentra principalmente su atti di natura economica, tra cui l'assegnazione di fondi per investimenti, la dichiarazione di eccezionalità per eventi calamitosi e diverse liquidazioni coatte amministrative di società cooperative. Sono presenti anche comunicati relativi ai marchi di identificazione dei metalli preziosi.",
+  "modello": "gemini-2.5-flash",
   "schede": [],
-  "scartate": [],
-  "altri_atti": [],
-  "atti": [],
-  "note": "L'edizione risulta pubblicata ma il suo indice non è ancora consultabile: verrà ricontrollata automaticamente."
+  "scartate": [
+    {
+      "codice_atto": "26A06164",
+      "materia": "Sanità/Farmaceutico",
+      "titolo": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di paliperidone, «Paliperidone Viatris».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06164/sg"
+    },
+    {
+      "codice_atto": "26A06165",
+      "materia": "Sanità/Farmaceutico",
+      "titolo": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di esomeprazolo, «Esomeprazolo Aurobindo Italia».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06165/sg"
+    },
+    {
+      "codice_atto": "26A06166",
+      "materia": "Sanità/Farmaceutico",
+      "titolo": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di teduglutide, «Teduglutide Cipla».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06166/sg"
+    },
+    {
+      "codice_atto": "26A06174",
+      "materia": "Sanità/Farmaceutico",
+      "titolo": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di fidaxomicina, «Fidaxomicina Sun».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06174/sg"
+    },
+    {
+      "codice_atto": "26A06175",
+      "materia": "Sanità/Farmaceutico",
+      "titolo": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Risperidone Grindeks».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06175/sg"
+    },
+    {
+      "codice_atto": "26A06176",
+      "materia": "Sanità/Farmaceutico",
+      "titolo": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Amlodipina Pensa».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06176/sg"
+    },
+    {
+      "codice_atto": "26A06194",
+      "materia": "Sanità/Farmaceutico",
+      "titolo": "Revoca, su rinuncia, dell'autorizzazione all'importazione parallela di taluni medicinali per uso umano",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06194/sg"
+    },
+    {
+      "codice_atto": "26A06195",
+      "materia": "Sanità/Farmaceutico",
+      "titolo": "Revoca, su rinuncia, dell'autorizzazione all'importazione parallela di taluni medicinali per uso umano",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06195/sg"
+    },
+    {
+      "codice_atto": "26A06329",
+      "materia": "Procedura legislativa",
+      "titolo": "Annuncio di una proposta di legge di iniziativa popolare",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06329/sg"
+    }
+  ],
+  "altri_atti": [
+    {
+      "codice_atto": "26A06184",
+      "categoria": "Economico",
+      "titolo": "DECRETO 3 novembre 2026 Criteri di priorita' per l'assegnazione del contributo compensativo a valere sul Fondo di solidarieta' nazionale della pesca e dell'acquacoltura.",
+      "sintesi": "Stabilisce i criteri di priorità per l'assegnazione dei contributi compensativi erogati dal Fondo di solidarietà nazionale destinato ai settori della pesca e dell'acquacoltura.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06184/sg"
+    },
+    {
+      "codice_atto": "26A06198",
+      "categoria": "Economico",
+      "titolo": "DECRETO 19 novembre 2026 Dichiarazione dell'esistenza del carattere di eccezionalita' degli eventi calamitosi verificatisi nei territori della Regione Lombardia nei mesi di luglio e agosto 2026.",
+      "sintesi": "Dichiara il carattere di eccezionalità degli eventi calamitosi che hanno colpito la Regione Lombardia nei mesi di luglio e agosto 2026, presupposto per l'attivazione di misure di sostegno.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06198/sg"
+    },
+    {
+      "codice_atto": "26A06179",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 2 novembre 2026 Assegnazione del fondo a favore delle amministrazioni centrali dello Stato, per assicurare il finanziamento degli investimenti e lo sviluppo infrastrutturale del Paese, agli interventi del Ministero delle imprese e del made in Italy.",
+      "sintesi": "Assegna fondi alle amministrazioni centrali dello Stato, in particolare al Ministero delle Imprese e del Made in Italy, per finanziare investimenti e promuovere lo sviluppo infrastrutturale nazionale.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06179/sg"
+    },
+    {
+      "codice_atto": "26A06191",
+      "categoria": "Economico",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 17 novembre 2026 Liquidazione coatta amministrativa della «Per Mano societa' cooperativa sociale», in Cuneo e nomina del commissario liquidatore.",
+      "sintesi": "Dispone la liquidazione coatta amministrativa della società cooperativa sociale «Per Mano» con sede a Cuneo e nomina il relativo commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06191/sg"
+    },
+    {
+      "codice_atto": "26A06192",
+      "categoria": "Economico",
+      "titolo": "DECRETO 17 novembre 2026 Liquidazione coatta amministrativa della «Primo Vere - Societa' cooperativa», in Pescara e nomina del commissario liquidatore.",
+      "sintesi": "Dispone la liquidazione coatta amministrativa della società cooperativa «Primo Vere» con sede a Pescara e nomina il relativo commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06192/sg"
+    },
+    {
+      "codice_atto": "26A06193",
+      "categoria": "Economico",
+      "titolo": "DECRETO 17 novembre 2026 Liquidazione coatta amministrativa della «Societa' cooperativa consortile agricola - La Nuova Aurora», in Potenza e nomina del commissario liquidatore.",
+      "sintesi": "Dispone la liquidazione coatta amministrativa della società cooperativa consortile agricola «La Nuova Aurora» con sede a Potenza e nomina il relativo commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06193/sg"
+    },
+    {
+      "codice_atto": "26A06197",
+      "categoria": "Economico",
+      "titolo": "CAMERA DI COMMERCIO, INDUSTRIA, ARTIGIANATO, TURISMO E AGRICOLTURA DI BOLZANO - COMUNICATO Provvedimento concernente i marchi di identificazione dei metalli preziosi",
+      "sintesi": "Riguarda un provvedimento sui marchi di identificazione dei metalli preziosi, con impatto sul settore orafo e commerciale nella provincia di Bolzano.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06197/sg"
+    },
+    {
+      "codice_atto": "26A06196",
+      "categoria": "Economico",
+      "titolo": "CAMERA DI COMMERCIO, INDUSTRIA, ARTIGIANATO E AGRICOLTURA DI TORINO - COMUNICATO Provvedimento concernente i marchi di identificazione dei metalli preziosi",
+      "sintesi": "Riguarda un provvedimento sui marchi di identificazione dei metalli preziosi, con impatto sul settore orafo e commerciale nella provincia di Torino.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06196/sg"
+    }
+  ],
+  "atti": [
+    {
+      "codice": "26A06184",
+      "titolo": "DECRETO 3 novembre 2026 Criteri di priorita' per l'assegnazione del contributo compensativo a valere sul Fondo di solidarieta' nazionale della pesca e dell'acquacoltura.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06184/sg"
+    },
+    {
+      "codice": "26A06198",
+      "titolo": "DECRETO 19 novembre 2026 Dichiarazione dell'esistenza del carattere di eccezionalita' degli eventi calamitosi verificatisi nei territori della Regione Lombardia nei mesi di luglio e agosto 2026.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06198/sg"
+    },
+    {
+      "codice": "26A06179",
+      "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 2 novembre 2026 Assegnazione del fondo a favore delle amministrazioni centrali dello Stato, per assicurare il finanziamento degli investimenti e lo sviluppo infrastrutturale del Paese, agli interventi del Ministero delle imprese e del made in Italy.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06179/sg"
+    },
+    {
+      "codice": "26A06191",
+      "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 17 novembre 2026 Liquidazione coatta amministrativa della «Per Mano societa' cooperativa sociale», in Cuneo e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06191/sg"
+    },
+    {
+      "codice": "26A06192",
+      "titolo": "DECRETO 17 novembre 2026 Liquidazione coatta amministrativa della «Primo Vere - Societa' cooperativa», in Pescara e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06192/sg"
+    },
+    {
+      "codice": "26A06193",
+      "titolo": "DECRETO 17 novembre 2026 Liquidazione coatta amministrativa della «Societa' cooperativa consortile agricola - La Nuova Aurora», in Potenza e nomina del commissario liquidatore.",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06193/sg"
+    },
+    {
+      "codice": "26A06164",
+      "titolo": "ESTRATTI, SUNTI E COMUNICATI AGENZIA ITALIANA DEL FARMACO - COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di paliperidone, «Paliperidone Viatris».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06164/sg"
+    },
+    {
+      "codice": "26A06165",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di esomeprazolo, «Esomeprazolo Aurobindo Italia».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06165/sg"
+    },
+    {
+      "codice": "26A06166",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di teduglutide, «Teduglutide Cipla».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06166/sg"
+    },
+    {
+      "codice": "26A06174",
+      "titolo": "COMUNICATO Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di fidaxomicina, «Fidaxomicina Sun».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06174/sg"
+    },
+    {
+      "codice": "26A06175",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Risperidone Grindeks».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06175/sg"
+    },
+    {
+      "codice": "26A06176",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Amlodipina Pensa».",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06176/sg"
+    },
+    {
+      "codice": "26A06194",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'importazione parallela di taluni medicinali per uso umano",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06194/sg"
+    },
+    {
+      "codice": "26A06195",
+      "titolo": "COMUNICATO Revoca, su rinuncia, dell'autorizzazione all'importazione parallela di taluni medicinali per uso umano",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06195/sg"
+    },
+    {
+      "codice": "26A06197",
+      "titolo": "CAMERA DI COMMERCIO, INDUSTRIA, ARTIGIANATO, TURISMO E AGRICOLTURA DI BOLZANO - COMUNICATO Provvedimento concernente i marchi di identificazione dei metalli preziosi",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06197/sg"
+    },
+    {
+      "codice": "26A06196",
+      "titolo": "CAMERA DI COMMERCIO, INDUSTRIA, ARTIGIANATO E AGRICOLTURA DI TORINO - COMUNICATO Provvedimento concernente i marchi di identificazione dei metalli preziosi",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06196/sg"
+    },
+    {
+      "codice": "26A06329",
+      "titolo": "CORTE SUPREMA DI CASSAZIONE - COMUNICATO Annuncio di una proposta di legge di iniziativa popolare",
+      "link": "https://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06329/sg"
+    }
+  ]
 }

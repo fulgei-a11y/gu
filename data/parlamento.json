@@ -1,7 +1,11 @@
 {
- "aggiornato": "2026-11-28T01:49:36Z",
+ "aggiornato": "2026-11-28T11:01:57Z",
  "iniziato": "2026-10-10T14:59:48Z",
  "controlli": [
+  {
+   "quando": "2026-11-28T11:01:57Z",
+   "nuovi": 0
+  },
   {
    "quando": "2026-11-28T01:49:36Z",
    "nuovi": 0
@@ -117,10 +121,6 @@
   {
    "quando": "2026-11-24T11:01:14Z",
    "nuovi": 10
-  },
-  {
-   "quando": "2026-11-24T04:39:24Z",
-   "nuovi": 0
   }
  ],
  "fonti": [
@@ -130,15 +130,15 @@
    "url": "https://temi.camera.it/leg19/dossier.html",
    "ok": true,
    "trovati": 60,
-   "ultimaLettura": "2026-11-28T01:49:36Z"
+   "ultimaLettura": "2026-11-28T11:01:57Z"
   },
   {
    "id": "comm2",
    "nome": "II Commissione Giustizia",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3502&id_tipografico=02",
-   "ok": false,
-   "errore": "nessun documento riconosciuto: pagina vuota o incompleta (se dura a lungo, la struttura della pagina potrebbe essere cambiata)",
-   "ultimaLettura": "2026-11-27T19:44:33Z"
+   "ok": true,
+   "trovati": 894,
+   "ultimaLettura": "2026-11-28T11:01:57Z"
   },
   {
    "id": "comm5",
@@ -146,7 +146,7 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3505&id_tipografico=05",
    "ok": true,
    "trovati": 764,
-   "ultimaLettura": "2026-11-28T01:49:36Z"
+   "ultimaLettura": "2026-11-28T11:01:57Z"
   },
   {
    "id": "comm6",
@@ -154,23 +154,23 @@
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3506&id_tipografico=06",
    "ok": true,
    "trovati": 549,
-   "ultimaLettura": "2026-11-28T01:49:36Z"
+   "ultimaLettura": "2026-11-28T11:01:57Z"
   },
   {
    "id": "comm8",
    "nome": "VIII Commissione Ambiente",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3508&id_tipografico=08",
-   "ok": false,
-   "errore": "nessun documento riconosciuto: pagina vuota o incompleta (se dura a lungo, la struttura della pagina potrebbe essere cambiata)",
-   "ultimaLettura": "2026-11-27T19:44:33Z"
+   "ok": true,
+   "trovati": 1650,
+   "ultimaLettura": "2026-11-28T11:01:57Z"
   },
   {
    "id": "comm10",
    "nome": "X Commissione Attività produttive",
    "url": "https://www.camera.it/leg19/1347?shadow_organo_parlamentare=3510&id_tipografico=10",
-   "ok": false,
-   "errore": "nessun documento riconosciuto: pagina vuota o incompleta (se dura a lungo, la struttura della pagina potrebbe essere cambiata)",
-   "ultimaLettura": "2026-11-27T19:44:33Z"
+   "ok": true,
+   "trovati": 1719,
+   "ultimaLettura": "2026-11-28T11:01:57Z"
   }
  ],
  "voci": [
@@ -9884,7 +9884,8 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V"
+    "V",
+    "VIII"
    ],
    "materia": "Economico",
    "titolo": "Contributo scritto UIL scuola",
@@ -9924,7 +9925,8 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V"
+    "V",
+    "VIII"
    ],
    "materia": "Economico",
    "titolo": "Conferenza unificata",
@@ -10104,7 +10106,8 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V"
+    "V",
+    "VIII"
    ],
    "materia": "Economico",
    "titolo": "Contributo scritto FLEPAR",
@@ -10184,7 +10187,8 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V"
+    "V",
+    "VIII"
    ],
    "materia": "Economico",
    "titolo": "Contributo scritto Rete professioni tecniche",
@@ -10204,7 +10208,8 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V"
+    "V",
+    "VIII"
    ],
    "materia": "Economico",
    "titolo": "Autorità nazionale anticorruzione (ANAC)",
@@ -10224,7 +10229,8 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V"
+    "V",
+    "VIII"
    ],
    "materia": "Economico",
    "titolo": "Proposte emendative UNCEM",
@@ -10244,7 +10250,8 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V"
+    "V",
+    "VIII"
    ],
    "materia": "Economico",
    "titolo": "Memoria Confagricoltura",
@@ -10264,7 +10271,8 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V"
+    "V",
+    "VIII"
    ],
    "materia": "Economico",
    "titolo": "Memoria Unitaria CNI, CNAPPC e CNGeGL",
@@ -10324,7 +10332,8 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V"
+    "V",
+    "VIII"
    ],
    "materia": "Economico",
    "titolo": "Documento Conferenza delle regioni",
@@ -10344,7 +10353,8 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V"
+    "V",
+    "VIII"
    ],
    "materia": "Economico",
    "titolo": "Memoria CGIL",
@@ -10364,7 +10374,8 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V"
+    "V",
+    "VIII"
    ],
    "materia": "Economico",
    "titolo": "UGL",
@@ -10384,7 +10395,8 @@
    "fonte": "commissione",
    "organo": "V Bilancio",
    "commissioni": [
-    "V"
+    "V",
+    "VIII"
    ],
    "materia": "Economico",
    "titolo": "Memoria Salutequità",

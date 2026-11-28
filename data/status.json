@@ -1,18 +1,16 @@
 {
-  "ultimoControllo": "2026-11-28T02:39:33Z",
-  "ultimoSuccesso": "2026-11-28T01:56:25Z",
-  "ok": false,
-  "problemi": [
-    "Il passaggio «Novità dal Parlamento» è terminato con: errore."
-  ],
+  "ultimoControllo": "2026-11-28T11:03:39Z",
+  "ultimoSuccesso": "2026-11-28T11:03:39Z",
+  "ok": true,
+  "problemi": [],
   "avvisi": [],
-  "ultimaEdizione": "2026-11-27",
+  "ultimaEdizione": "2026-11-28",
   "elaborate": [
     {
       "date": "2026-11-28",
-      "stato": "non_disponibile",
+      "stato": "nessuna_legge_interesse",
       "schede": 0
     }
   ],
-  "esecuzione": "https://github.com/fulgei-a11y/gu/actions/runs/46098445958"
+  "esecuzione": "https://github.com/fulgei-a11y/gu/actions/runs/46137834274"
 }
